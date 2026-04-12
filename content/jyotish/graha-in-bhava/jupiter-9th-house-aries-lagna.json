@@ -503,7 +503,7 @@
         "sub": "The Vedic hymn to the Deva Guru, the foundational practice for Jupiter-strengthened natives",
         "verse": "Devanam cha rishinam cha gurum kanchana sannibham<br>Buddhibhutam trilokesham tam namami Brihaspatim<br>Pitambara prasannatma sarvasaubhagyadayakam<br>Prasannavadanam dhyayet sarvavighnopashantaye",
         "translation": "I bow to Brihaspati, the guru of gods and sages, golden in colour, the very embodiment of intellect, lord of the three worlds. Yellow-clad, serene of soul, giver of all auspiciousness, of pleasant countenance,meditate upon him for the removal of all obstacles.",
-        "url": "https://stotra.vastucart.in/deity"
+        "url": "https://stotra.vastucart.in/stotra/guru-stotram"
       }
     },
     { "type": "divider", "gem": "rose" },
@@ -518,7 +518,8 @@
           { "label": "Lagna calculator", "sub": "Confirm your Mesh Lagna", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
           { "label": "Marriage matching (Guna Milan)", "sub": "Compatibility check", "url": "https://www.vastucart.in/tools/marriage-matching", "icon": "muhurta", "icon_variant": "rose" },
           { "label": "Today for Aries natives", "sub": "Today's prediction for Aries natives", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Brihaspati & Guru stotras", "sub": "Sanskrit, IAST and English with audio", "url": "https://stotra.vastucart.in/deity", "icon": "stotra", "icon_variant": "teal" },
+          { "label": "Guru Stotram", "sub": "Classical stotra to Brihaspati", "url": "https://stotra.vastucart.in/stotra/guru-stotram", "icon": "stotra", "icon_variant": "teal" },
+          { "label": "Guru Graha Kavacham", "sub": "Graha kavacham for Jupiter strength", "url": "https://stotra.vastucart.in/stotra/guru-graha-kavacham", "icon": "stotra", "icon_variant": "saff" },
           { "label": "Panch Mukhi rudraksha source", "sub": "Panch Mukhi and Egyarah Mukhi", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
           { "label": "Brihaspati yantra and navagraha", "sub": "Brihaspati yantra, navagraha", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
           { "label": "1-on-1 Jyotish reading", "sub": "1-on-1 chart review with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
@@ -533,7 +534,7 @@
         "buttons": [
           { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
           { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Brihaspati stotras", "url": "https://stotra.vastucart.in/deity", "variant": "outline" }
+          { "label": "Guru Stotram & Kavacham", "url": "https://stotra.vastucart.in/stotra/guru-stotram", "variant": "outline" }
         ]
       }
     },

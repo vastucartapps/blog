@@ -503,7 +503,7 @@
         "sub": "Forty verses by Tulsidas, the daily practice for Mars strengthening",
         "verse": "Shri Guru charan saroj raj, nij man mukur sudhari<br>Baranau Raghubar bimal jasu, jo dayaku phal chari<br>Buddhi-hin tanu janike, sumirau Pavan-kumar<br>Bal budhi vidya dehu mohi, harahu kalesh bikar",
         "translation": "Cleansing the mirror of my heart with the dust from the lotus feet of my Guru, I sing the unblemished glory of Lord Rama, the giver of the four fruits of life. Knowing my body to be without intelligence, I remember the son of Pavan. Grant me strength, intelligence, and knowledge, and remove all my afflictions and impurities.",
-        "url": "https://stotra.vastucart.in/deity"
+        "url": "https://stotra.vastucart.in/stotra/mangal-stotram"
       }
     },
     { "type": "divider", "gem": "rose" },
@@ -518,7 +518,8 @@
           { "label": "Lagna (Ascendant) calculator", "sub": "Confirm your Mesh Lagna with Lahiri ayanamsa", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
           { "label": "Marriage matching (Guna Milan)", "sub": "Critical check for Manglik dosha", "url": "https://www.vastucart.in/tools/marriage-matching", "icon": "muhurta", "icon_variant": "rose" },
           { "label": "Mesh Rashi daily horoscope", "sub": "Today's prediction for Aries natives", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Hanuman & Mars stotras", "sub": "Sanskrit, IAST and English with audio", "url": "https://stotra.vastucart.in/deity", "icon": "stotra", "icon_variant": "teal" },
+          { "label": "Mangal Stotram", "sub": "Classical stotra to Lord Mars", "url": "https://stotra.vastucart.in/stotra/mangal-stotram", "icon": "stotra", "icon_variant": "teal" },
+          { "label": "Mangal Dosh Nivaran Stotram", "sub": "Cancellation stotra for Manglik dosha", "url": "https://stotra.vastucart.in/stotra/mangal-dosh-nivaran-stotram", "icon": "stotra", "icon_variant": "saff" },
           { "label": "Rudraksha malas at the store", "sub": "Authentic prayer beads and rosaries", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
           { "label": "Yantras for prosperity & protection", "sub": "Mangal yantra, navagraha", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
           { "label": "Personal Jyotish consultation", "sub": "1-on-1 chart review with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
@@ -533,7 +534,7 @@
         "buttons": [
           { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
           { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Hanuman Chalisa & Mars stotras", "url": "https://stotra.vastucart.in/deity", "variant": "outline" }
+          { "label": "Mangal Stotram & Kavacham", "url": "https://stotra.vastucart.in/stotra/mangal-stotram", "variant": "outline" }
         ]
       }
     },

@@ -929,7 +929,7 @@
           {
             "label": "Surya Stotras (60 stotras)",
             "sub": "Aditya Hridayam, Kavacham, Stotram, Dwadash Aditya",
-            "url": "https://stotra.vastucart.in/deity/surya",
+            "url": "https://stotra.vastucart.in/stotra/aditya-kavacham",
             "icon": "stotra",
             "icon_variant": "teal"
           },
@@ -972,7 +972,7 @@
         "buttons": [
           { "label": "Get your free Kundali report", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
           { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Surya Stotras collection", "url": "https://stotra.vastucart.in/deity/surya", "variant": "outline" }
+          { "label": "Aditya Hridayam & Kavacham", "url": "https://stotra.vastucart.in/stotra/aditya-hridayam", "variant": "outline" }
         ]
       }
     },

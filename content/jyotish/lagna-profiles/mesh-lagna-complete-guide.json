@@ -882,7 +882,7 @@
         "sub": "Forty verses by Tulsidas, the daily practice for Mangal strengthening",
         "verse": "Shri Guru charan saroj raj, nij man mukur sudhari<br>Baranau Raghubar bimal jasu, jo dayaku phal chari<br>Buddhi-hin tanu janike, sumirau Pavan-kumar<br>Bal budhi vidya dehu mohi, harahu kalesh bikar",
         "translation": "Cleansing the mirror of my heart with the dust from the lotus feet of my Guru, I sing the unblemished glory of Lord Rama, the giver of the four fruits of life. Knowing my body to be without intelligence, I remember the son of Pavan. Grant me strength, intelligence, and knowledge, and remove all my afflictions and impurities.",
-        "url": "https://stotra.vastucart.in/deity/surya"
+        "url": "https://stotra.vastucart.in/stotra/mangal-stotram"
       }
     },
     { "type": "divider", "gem": "rose" },
@@ -922,9 +922,9 @@
             "icon_variant": "saff"
           },
           {
-            "label": "Stotras by deity",
-            "sub": "Hanuman, Mars, Surya stotra collections",
-            "url": "https://stotra.vastucart.in/deity",
+            "label": "Mangal Stotram",
+            "sub": "Lagna lord stotra for Mesh natives",
+            "url": "https://stotra.vastucart.in/stotra/mangal-stotram",
             "icon": "stotra",
             "icon_variant": "teal"
           },
@@ -960,7 +960,7 @@
         "buttons": [
           { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
           { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Hanuman Chalisa & Mars stotras", "url": "https://stotra.vastucart.in/deity", "variant": "outline" }
+          { "label": "Mangal Stotram & Kavacham", "url": "https://stotra.vastucart.in/stotra/mangal-stotram", "variant": "outline" }
         ]
       }
     },
