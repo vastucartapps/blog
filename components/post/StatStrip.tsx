@@ -24,13 +24,15 @@ export function StatStrip({ cells, category }: Props) {
         marginTop: "2.5rem",
         marginBottom: "2.5rem",
         display: "grid",
-        gridTemplateColumns: "repeat(auto-fit, minmax(160px, 1fr))",
+        gridTemplateColumns: "repeat(auto-fit, minmax(140px, 1fr))",
         overflow: "hidden",
         borderRadius: 16,
         border: "1px solid var(--border)",
         background: "#ffffff",
         boxShadow: "0 18px 50px -28px rgba(1,63,71,0.25)",
+        maxWidth: "100%",
       }}
+      className="stat-strip-grid"
     >
       {cells.map((c, i) => {
         const good = c.tone === "good";
@@ -40,11 +42,13 @@ export function StatStrip({ cells, category }: Props) {
             key={`${c.label}-${i}`}
             variants={fadeInUp}
             style={{
-              padding: "1.75rem 1.25rem",
+              padding: "1.5rem 0.75rem",
               textAlign: "center",
               borderRight: isLast ? "none" : "1px solid var(--border)",
+              borderBottom: "1px solid var(--border)",
               background: "#ffffff",
               position: "relative",
+              minWidth: 0,
             }}
             className="stat-cell"
           >

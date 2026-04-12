@@ -70,14 +70,19 @@ export function DashaTable({ eyebrow, heading, introHtml, rows }: Props) {
       ) : null}
 
       <div
+        className="table-wrap"
         style={{
-          overflow: "hidden",
+          overflowX: "auto",
+          overflowY: "hidden",
           borderRadius: 18,
           border: "1px solid var(--border)",
           background: "#ffffff",
           boxShadow: "0 22px 60px -32px rgba(1,63,71,0.30)",
+          maxWidth: "100%",
+          WebkitOverflowScrolling: "touch",
         }}
       >
+       <div style={{ minWidth: 640 }}>
         {/* Header row */}
         <div
           style={{
@@ -189,6 +194,7 @@ export function DashaTable({ eyebrow, heading, introHtml, rows }: Props) {
             </div>
           );
         })}
+        </div>
       </div>
     </motion.section>
   );

@@ -27,6 +27,48 @@ interface Cell {
   content: { x: number; y: number };
 }
 
+// ─────────────────────────────────────────────────────────────────
+// North Indian kundali geometry (320×320 viewBox)
+//
+// Outer square: (10,10)–(310,310). Two diagonals + inner diamond
+// connecting the four side-midpoints (160,10)(310,160)(160,310)(10,160).
+//
+// The 12 houses are NOT the 4 big quadrants. They are:
+//   - 4 KENDRA houses (1, 4, 7, 10) — the small rhombuses of the inner
+//     diamond, each split by where the outer diagonals cross it
+//   - 8 CORNER houses (2, 3, 5, 6, 8, 9, 11, 12) — the small corner
+//     triangles outside the inner diamond, two per outer corner
+//
+// Diagonal-inner-diamond intersection points (computed by solving
+// y=x and x+y=320 against the inner diamond edges):
+//   NE quadrant: (235, 85)
+//   SE quadrant: (235, 235)
+//   SW quadrant: (85, 235)
+//   NW quadrant: (85, 85)
+//
+// Each highlight polygon below covers EXACTLY one house cell. The
+// previous version covered the entire half-quadrant of the outer
+// square — visually overlapping 3 houses. Fixed.
+const HOUSE_POLYGONS: Record<number, string> = {
+  // Kendra rhombuses (inner diamond quadrants)
+  1:  "160,10 235,85 160,160 85,85",
+  4:  "10,160 85,85 160,160 85,235",
+  7:  "160,310 85,235 160,160 235,235",
+  10: "310,160 235,235 160,160 235,85",
+  // Top-right corner triangles (outside inner diamond)
+  11: "310,10 310,160 235,85",
+  12: "310,10 160,10 235,85",
+  // Top-left corner triangles
+  2:  "10,10 160,10 85,85",
+  3:  "10,10 10,160 85,85",
+  // Bottom-left corner triangles
+  5:  "10,160 10,310 85,235",
+  6:  "10,310 160,310 85,235",
+  // Bottom-right corner triangles
+  8:  "160,310 310,310 235,235",
+  9:  "310,310 310,160 235,235",
+};
+
 // Coordinates tuned for a 320×320 viewBox.
 const HOUSES: Cell[] = [
   // Top row centre = 1st (Lagna)
@@ -107,15 +149,15 @@ export function KundaliVisual({
         whileInView="visible"
         viewport={inViewConfig}
         variants={fadeInUp}
-        className="diamond-bg relative overflow-hidden"
+        className="diamond-bg relative overflow-hidden kundali-visual-grid"
         style={{
           display: "grid",
-          gridTemplateColumns: "minmax(0, 360px) minmax(0, 1fr)",
           alignItems: "center",
-          gap: 36,
-          padding: "2.5rem",
+          gap: 28,
+          padding: "1.75rem",
           borderRadius: 22,
           boxShadow: "0 28px 72px -32px rgba(1,63,71,0.40)",
+          maxWidth: "100%",
         }}
       >
         <span
@@ -158,29 +200,13 @@ export function KundaliVisual({
             <line x1="160" y1="310" x2="10" y2="160" stroke="rgba(232,132,10,0.55)" strokeWidth="1.6" />
             <line x1="10" y1="160" x2="160" y2="10" stroke="rgba(232,132,10,0.55)" strokeWidth="1.6" />
 
-            {/* Highlight the active house with a soft saffron fill */}
-            {house === 1 ? (
+            {/* Highlight ONLY the active house cell (not the whole quadrant) */}
+            {HOUSE_POLYGONS[house] ? (
               <polygon
-                points="10,10 310,10 160,160"
+                points={HOUSE_POLYGONS[house]}
                 fill="rgba(232,132,10,0.22)"
-              />
-            ) : null}
-            {house === 7 ? (
-              <polygon
-                points="10,310 310,310 160,160"
-                fill="rgba(232,132,10,0.22)"
-              />
-            ) : null}
-            {house === 4 ? (
-              <polygon
-                points="10,10 10,310 160,160"
-                fill="rgba(232,132,10,0.22)"
-              />
-            ) : null}
-            {house === 10 ? (
-              <polygon
-                points="310,10 310,310 160,160"
-                fill="rgba(232,132,10,0.22)"
+                stroke="rgba(232,132,10,0.55)"
+                strokeWidth="1.4"
               />
             ) : null}
 

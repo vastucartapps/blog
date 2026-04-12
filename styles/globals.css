@@ -93,12 +93,61 @@
 /* ── BASE */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { font-size: 16px; -webkit-font-smoothing: antialiased; }
+html, body { overflow-x: hidden; max-width: 100vw; }
 body {
   font-family: var(--font-body);
   background: var(--cream);
   color: var(--on-light-1);
   line-height: 1.7;
 }
+
+/* Force every direct child of <body> to respect viewport width */
+body > * { max-width: 100vw; }
+
+/* Long words / URLs in prose must wrap, never overflow */
+p, li, td, span { overflow-wrap: anywhere; word-break: break-word; }
+
+/* Tables on mobile: wrap in scrollable container, don't break the page */
+.table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; max-width: 100%; }
+
+/* Responsive grid helpers used by stat-strips, info-grids etc */
+.responsive-stat-grid {
+  display: grid;
+  gap: 12px;
+}
+@media (max-width: 639px) {
+  .responsive-stat-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (min-width: 640px) {
+  .responsive-stat-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; }
+}
+
+/* Kundali visual: stack vertically below 768px so the chart and
+   legend each get full width on mobile. Above 768px show side by side. */
+.kundali-visual-grid { grid-template-columns: minmax(0, 1fr); }
+@media (min-width: 768px) {
+  .kundali-visual-grid {
+    grid-template-columns: minmax(0, 360px) minmax(0, 1fr);
+    padding: 2.5rem !important;
+  }
+}
+
+/* Stat strip: reduce padding on mobile so 4 cells can fit */
+.stat-strip-grid .stat-cell { padding: 1.25rem 0.6rem; }
+@media (min-width: 640px) {
+  .stat-strip-grid .stat-cell { padding: 1.5rem 1rem; }
+}
+@media (min-width: 1024px) {
+  .stat-strip-grid .stat-cell { padding: 1.75rem 1.25rem; }
+}
+
+/* Info-grid + effects-grid + related-posts cards already use auto-fit
+   minmax which collapses to 1 column at narrow widths; just ensure
+   their containers don't enforce excessive padding */
+.post-card { max-width: 100%; }
+
+/* Article images respect viewport */
+article img, main img { max-width: 100%; height: auto; }
 
 /* ── TYPOGRAPHY */
 h1, h2, h3, h4 { font-family: var(--font-display); font-weight: 500; line-height: 1.25; color: var(--on-light-1); letter-spacing: -0.01em; }

@@ -220,13 +220,14 @@ export function LagnaPillarHero({
           style={{
             marginTop: 30,
             display: "grid",
-            gridTemplateColumns: `repeat(${stats.length}, minmax(0, 1fr))`,
+            gridTemplateColumns: "repeat(auto-fit, minmax(120px, 1fr))",
             gap: 16,
-            padding: "1.25rem 1.5rem",
+            padding: "1.25rem 1rem",
             borderRadius: 18,
             background: "rgba(255,255,255,0.06)",
             border: "1px solid rgba(255,255,255,0.10)",
             backdropFilter: "blur(8px)",
+            maxWidth: "100%",
           }}
         >
           {stats.map((cell, i) => (
