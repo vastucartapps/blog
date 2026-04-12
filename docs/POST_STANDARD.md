@@ -172,11 +172,54 @@ that author's profile page.
 | 22 | Table + Dataset         | for the dasha table or any tabular data                             |
 
 `lib/schema-builder.ts` exposes `buildPostSchema(post)` which
-returns the 22-entity object. The post page route emits each entity
-as a separate `<script type="application/ld+json">` tag.
+returns the entity array. **`buildPostSchema()` is the SINGLE
+SOURCE OF TRUTH for all JSON-LD on a post page.** Posts MUST NOT
+contain a `post.schema` field that gets rendered separately —
+that pattern caused duplicate FAQPage and array-top-level errors
+in Google Rich Results Test on the first deployed post (Sun in
+1st house, Mesh Lagna).
+
+### Schema rendering rules (locked, hard-enforced)
+
+1. **Each entity gets its own `<script type="application/ld+json">`
+   tag.** Never `JSON.stringify(arrayOfEntities)` — Google rejects
+   that with "Invalid top level element 'array'".
+2. **No HTML microdata for schema.** Components must NOT use
+   `itemScope`, `itemType`, `itemProp` — those are picked up by
+   Google as parallel entities and produce duplicates with the
+   JSON-LD output. JSON-LD is the only schema delivery mechanism.
+3. **Every Product entity MUST have an `offers` block** with
+   `priceCurrency`, `availability`, `price` (use `"0"` if pricing
+   is consultation-driven). Without `offers`, Google flags the
+   Product as invalid and excludes it from rich results.
+4. **No duplicate `@id` values across the entity array.** The
+   validator's `schema_22` check hard-fails if any `@id` appears
+   more than once. Use `${pageId}#product-${slug}`-style unique
+   IDs for every Product, ImageObject, etc.
+5. **At most one FAQPage per post.** The validator hard-fails on
+   multiple FAQPage entities.
 
 The Organization shares a single `@id` across all 10 subdomains:
 `https://vastucart.in/#org`. Cross-subdomain entity authority.
+
+### Validator enforcement (`scripts/validate-post.ts`)
+
+The `schema_22` check now runs `buildPostSchema(post)` and asserts
+on the OUTPUT, not on a `post.schema` JSON field:
+
+- All required `@type` values present (Article, WebPage, WebSite,
+  Organization, BreadcrumbList, FAQPage, Person, ProfilePage,
+  DefinedTermSet, DefinedTerm, Product, Service,
+  SpeakableSpecification, ImageObject, VideoObject, ItemList,
+  Dataset).
+- No duplicate `@id` (hard-fail).
+- Every Product has `offers` (hard-fail).
+- Exactly 1 FAQPage (hard-fail on more).
+
+If the post needs entity types that the schema-builder doesn't
+synthesize from content blocks (e.g., a HowTo for a planet-in-house
+post that has no puja-vidhi block), add the corresponding content
+block — never write a parallel `post.schema` field.
 
 ## 8. Internal linking quotas (enforced by lint)
 

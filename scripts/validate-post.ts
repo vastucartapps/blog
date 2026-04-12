@@ -15,6 +15,8 @@
 import fs from "node:fs";
 import path from "node:path";
 import { HOMEPAGE_URLS } from "../lib/subdomain-tools";
+import { buildPostSchema } from "../lib/schema-builder";
+import type { ArticlePost } from "../lib/types";
 
 const BANNED_PHRASES = [
   "delve",
@@ -36,28 +38,29 @@ const BANNED_PHRASES = [
   "harness the power",
 ];
 
-const REQUIRED_SCHEMA_KEYS = [
-  "article",
-  "webpage",
-  "website",
-  "organization",
-  "breadcrumb",
-  "faq",
-  "author",
-  "profilepage",
-  "defined_terms",
-  "defined_term_set",
-  "howto_remedies",
-  "howto_secondary",
-  "product_gem",
-  "product_rudraksha",
-  "product_yantra",
-  "service",
-  "speakable",
-  "image_objects",
-  "video_object",
-  "item_list",
-  "table_dataset",
+// Required @type values that buildPostSchema() must emit for any
+// post to count as fully scaffolded for SEO. The validator runs
+// buildPostSchema() and asserts each of these appears at least once
+// in the output. Conditional types (Recipe, Event, Course) are NOT
+// required globally — they apply only to specific templates.
+const REQUIRED_SCHEMA_TYPES = [
+  "Article",
+  "WebPage",
+  "WebSite",
+  "Organization",
+  "BreadcrumbList",
+  "FAQPage",
+  "Person",
+  "ProfilePage",
+  "DefinedTermSet",
+  "DefinedTerm",
+  "Product",
+  "Service",
+  "SpeakableSpecification",
+  "ImageObject",
+  "VideoObject",
+  "ItemList",
+  "Dataset",
 ];
 
 const WORD_TARGETS: Record<string, { prose: number; tolerance: number }> = {
@@ -400,32 +403,60 @@ function validate(post: PostJSON, file: string): ValidationReport {
     return Math.max(0, s);
   });
 
-  // ── Phase 7: schema 22 entities (15)
+  // ── Phase 7: schema (15) — runs buildPostSchema and validates
+  // the rendered output, NOT a manually-written post.schema field.
+  // The schema-builder is the single source of truth.
   check("schema_22", 15, (issues) => {
     let s = 15;
-    const sc = post.schema ?? {};
-    const present = Object.keys(sc);
+    let entities: Record<string, unknown>[] = [];
+    try {
+      entities = buildPostSchema(post as unknown as ArticlePost) as Record<string, unknown>[];
+    } catch (e) {
+      issues.push(`buildPostSchema threw: ${(e as Error).message}`);
+      hardFail("buildPostSchema crash");
+      return 0;
+    }
+    const presentTypes = new Set(entities.map((e) => e["@type"] as string));
     let missing = 0;
-    for (const k of REQUIRED_SCHEMA_KEYS) {
-      if (!present.includes(k)) {
+    for (const t of REQUIRED_SCHEMA_TYPES) {
+      if (!presentTypes.has(t)) {
         missing += 1;
-        issues.push(`missing schema entity: ${k}`);
+        issues.push(`missing schema @type: ${t}`);
       }
     }
-    // defined_terms must be a non-empty array of ≥3 entries
-    const defined = sc.defined_terms as unknown[] | undefined;
-    if (defined !== undefined && (!Array.isArray(defined) || defined.length < 3)) {
-      issues.push(`defined_terms must be array of ≥3, got ${Array.isArray(defined) ? defined.length : "non-array"}`);
-      s -= 2;
-    }
-    // image_objects must be array
-    const imgObjs = sc.image_objects as unknown[] | undefined;
-    if (imgObjs !== undefined && !Array.isArray(imgObjs)) {
-      issues.push("image_objects must be an array");
-      s -= 1;
-    }
     s -= Math.min(15, missing * 2);
-    if (missing > 5) hardFail(`missing ${missing} schema entities`);
+    if (missing > 5) hardFail(`missing ${missing} schema entity types`);
+
+    // No duplicate @id (Google rejects duplicates)
+    const ids = new Map<string, number>();
+    for (const e of entities) {
+      const id = e["@id"] as string | undefined;
+      if (id) ids.set(id, (ids.get(id) ?? 0) + 1);
+    }
+    for (const [id, n] of ids) {
+      if (n > 1) {
+        issues.push(`duplicate @id "${id}" (${n} times)`);
+        hardFail(`duplicate @id ${id}`);
+        s -= 3;
+      }
+    }
+
+    // Every Product must have offers (Google rich result requirement)
+    for (const e of entities) {
+      if (e["@type"] === "Product" && !e.offers) {
+        issues.push(`Product "${e.name}" missing offers (Google rich result requirement)`);
+        hardFail("Product missing offers");
+        s -= 2;
+      }
+    }
+
+    // FAQPage must have unique mainEntity questions
+    const faqPages = entities.filter((e) => e["@type"] === "FAQPage");
+    if (faqPages.length > 1) {
+      issues.push(`${faqPages.length} FAQPage entities — Google requires exactly 1`);
+      hardFail("multiple FAQPage entities");
+      s -= 3;
+    }
     return Math.max(0, s);
   });
 

@@ -48,19 +48,12 @@ export function FAQSection({ eyebrow, heading, items }: Props) {
         </h2>
       ) : null}
 
-      <div
-        style={{ display: "flex", flexDirection: "column", gap: 12 }}
-        itemScope
-        itemType="https://schema.org/FAQPage"
-      >
+      <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
         {items.map((item, i) => {
           const isOpen = open === i;
           return (
             <div
               key={`${item.q}-${i}`}
-              itemScope
-              itemProp="mainEntity"
-              itemType="https://schema.org/Question"
               style={{
                 overflow: "hidden",
                 borderRadius: 16,
@@ -97,7 +90,6 @@ export function FAQSection({ eyebrow, heading, items }: Props) {
                 aria-expanded={isOpen}
               >
                 <span
-                  itemProp="name"
                   style={{
                     fontFamily: "var(--font-display)",
                     fontSize: 17,
@@ -142,12 +134,8 @@ export function FAQSection({ eyebrow, heading, items }: Props) {
                     exit={{ height: 0, opacity: 0 }}
                     transition={{ duration: 0.25, ease: [0.22, 1, 0.36, 1] }}
                     style={{ overflow: "hidden" }}
-                    itemScope
-                    itemProp="acceptedAnswer"
-                    itemType="https://schema.org/Answer"
                   >
                     <p
-                      itemProp="text"
                       style={{
                         margin: 0,
                         padding: "1.25rem 1.5rem 1.4rem 1.5rem",

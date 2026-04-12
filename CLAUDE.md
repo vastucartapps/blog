@@ -122,6 +122,33 @@ Hard-coded set in `lib/subdomain-tools.ts` `HOMEPAGE_URLS`. To
 discover deep URLs, fetch the live sitemap of the target subdomain
 or check `memory/project_subdomain_url_map.md`. Never invent paths.
 
+## SCHEMA LAW — single source of truth, no duplicates
+
+`lib/schema-builder.ts` `buildPostSchema(post)` is the ONLY source
+for JSON-LD on a post page. The post page route emits each entity
+as its own `<script type="application/ld+json">` tag.
+
+Hard rules (validator-enforced):
+
+1. NEVER add a `post.schema` field that gets rendered separately —
+   that pattern produced duplicate FAQPage + "Invalid top level
+   element 'array'" errors in Google Rich Results Test.
+2. NEVER use HTML microdata (`itemScope`, `itemType`, `itemProp`)
+   in any component — Google parses it as a parallel entity and
+   creates duplicates with the JSON-LD.
+3. Every `Product` MUST have `offers` with `priceCurrency`,
+   `availability`, `price` (use `"0"` for consultation-driven
+   pricing) — without it Google rejects the Product entity.
+4. No duplicate `@id` across the entity array — validator hard-fail.
+5. Exactly one `FAQPage` per post — validator hard-fail on more.
+6. Each `<script type="application/ld+json">` contains exactly ONE
+   object — never `JSON.stringify(array)`.
+
+When a post needs an entity type the schema-builder doesn't
+synthesize, ADD a content block that the schema-builder reads
+(e.g., add a `puja-vidhi` or `wearing-ritual` block to get HowTo,
+not a hand-written `howto_remedies` schema field).
+
 ## THIN CONTENT LAW
 
 Programmatic ≠ thin. Every post — including the 1296 planet-in-house

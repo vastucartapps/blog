@@ -7,6 +7,7 @@ import { BlockRenderer } from "@/components/post/BlockRenderer";
 import { getCategory, getSubcategory } from "@/lib/categories";
 import { getPostBySlug, getPublishedPosts } from "@/lib/content";
 import { absoluteUrl } from "@/lib/utils";
+import { buildPostSchema } from "@/lib/schema-builder";
 
 interface Params {
   category: string;
@@ -74,7 +75,19 @@ export default async function PostPage({
     { label: post.title },
   ];
 
-  const schemas = Object.values(post.schema).filter(Boolean);
+  // Source of truth for JSON-LD: buildPostSchema() emits all 22+
+  // entities as a flat array of objects. Each one becomes its own
+  // <script type="application/ld+json"> tag — Google's spec says
+  // every script must have exactly one @type at the top level
+  // (no arrays, no duplicates).
+  const schemas = buildPostSchema(post);
+  const seenIds = new Set<string>();
+  const dedupedSchemas = schemas.filter((s) => {
+    const id = (s["@id"] ?? `${s["@type"]}:${s.name ?? ""}`) as string;
+    if (seenIds.has(id)) return false;
+    seenIds.add(id);
+    return true;
+  });
 
   return (
     <>
@@ -95,10 +108,13 @@ export default async function PostPage({
         </main>
       </article>
       <Footer />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(schemas) }}
-      />
+      {dedupedSchemas.map((entity, i) => (
+        <script
+          key={`ld-${i}`}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(entity) }}
+        />
+      ))}
     </>
   );
 }
