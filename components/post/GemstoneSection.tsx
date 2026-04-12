@@ -162,7 +162,7 @@ export function GemstoneSection({
             ? "radial-gradient(circle at 50% 60%, rgba(232,132,10,0.18) 0%, rgba(232,132,10,0) 65%), linear-gradient(160deg, #fff8e7 0%, #faf0d6 100%)"
             : "radial-gradient(circle at 50% 60%, rgba(51,138,149,0.16) 0%, rgba(51,138,149,0) 65%), linear-gradient(160deg, #f2faf6 0%, #e0f0ec 100%)";
           const imageSrc = card.image_slug
-            ? `/gemstones/${card.image_slug}.png`
+            ? `/gemstones/${card.image_slug}.webp`
             : null;
           return (
             <motion.div

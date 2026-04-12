@@ -1,0 +1,42 @@
+name: Deploy to Coolify
+
+# Auto-deploy on every push to main. The job calls the Coolify API
+# with a bearer token stored as a GitHub secret. Coolify then queues
+# a fresh build of the application and rolls it out.
+#
+# Required secrets (set via `gh secret set`):
+#   COOLIFY_URL       — base URL of the Coolify instance, no trailing slash
+#   COOLIFY_TOKEN     — API token with deploy permission
+#   COOLIFY_APP_UUID  — uuid of the blog application
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    name: Trigger Coolify deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger deployment
+        env:
+          COOLIFY_URL: ${{ secrets.COOLIFY_URL }}
+          COOLIFY_TOKEN: ${{ secrets.COOLIFY_TOKEN }}
+          COOLIFY_APP_UUID: ${{ secrets.COOLIFY_APP_UUID }}
+        run: |
+          set -euo pipefail
+          echo "Triggering Coolify deploy for ${COOLIFY_APP_UUID}"
+          response=$(curl -fsS \
+            -H "Authorization: Bearer ${COOLIFY_TOKEN}" \
+            "${COOLIFY_URL}/api/v1/deploy?uuid=${COOLIFY_APP_UUID}&force=false")
+          echo "Response: ${response}"
+          if ! echo "${response}" | grep -q deployment_uuid; then
+            echo "ERROR: no deployment_uuid in response" >&2
+            exit 1
+          fi
+          echo "Deploy queued successfully."

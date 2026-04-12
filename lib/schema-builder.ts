@@ -583,7 +583,7 @@ function collectProducts(post: ArticlePost): ProductCollected[] {
             name: card.name,
             description: card.sub ?? "",
             category: "Gemstone",
-            image: card.image_slug ? `/gemstones/${card.image_slug}.png` : undefined,
+            image: card.image_slug ? `/gemstones/${card.image_slug}.webp` : undefined,
             shop_url: card.shop_url,
           });
         }
