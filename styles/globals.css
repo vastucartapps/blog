@@ -149,6 +149,86 @@ p, li, td, span { overflow-wrap: anywhere; word-break: break-word; }
 /* Article images respect viewport */
 article img, main img { max-width: 100%; height: auto; }
 
+/* ── DASHA TABLE responsive layout
+   Desktop (≥640px): 4-column grid header + rows
+   Mobile (<640px): each row becomes a card with inline labels
+*/
+.dasha-card {
+  border-radius: 18px;
+  border: 1px solid var(--border);
+  background: #ffffff;
+  box-shadow: 0 22px 60px -32px rgba(1, 63, 71, 0.30);
+  overflow: hidden;
+  max-width: 100%;
+}
+
+/* Header — desktop only */
+.dasha-header {
+  display: none;
+}
+@media (min-width: 640px) {
+  .dasha-header {
+    display: grid;
+    grid-template-columns: 1.2fr 0.8fr 2.4fr 1.4fr;
+    gap: 16px;
+    padding: 16px 22px;
+    background: var(--cream-2);
+    border-bottom: 1px solid var(--border);
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--on-light-3);
+  }
+}
+
+/* Row — mobile = stacked cell card, desktop = grid row */
+.dasha-row {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+  padding: 18px 18px;
+  background: #ffffff;
+  align-items: start;
+  font-size: 13.5px;
+}
+.dasha-row[data-highlight="true"] {
+  background: var(--saffron-pale);
+}
+@media (min-width: 640px) {
+  .dasha-row {
+    grid-template-columns: 1.2fr 0.8fr 2.4fr 1.4fr;
+    gap: 16px;
+    padding: 18px 22px;
+    align-items: center;
+  }
+}
+
+/* Cell — on mobile: label + value stacked. On desktop: just the value (label hidden). */
+.dasha-cell {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 0;
+}
+.dasha-label {
+  display: block;
+  font-size: 9px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--on-light-4);
+}
+@media (min-width: 640px) {
+  .dasha-label {
+    display: none;
+  }
+}
+.dasha-value {
+  font-size: 13.5px;
+  line-height: 1.55;
+}
+
 /* ── TYPOGRAPHY */
 h1, h2, h3, h4 { font-family: var(--font-display); font-weight: 500; line-height: 1.25; color: var(--on-light-1); letter-spacing: -0.01em; }
 h1 { font-size: 2.25rem; font-weight: 600; }
