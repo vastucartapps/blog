@@ -188,10 +188,15 @@ in Google Rich Results Test on the first deployed post (Sun in
    `itemScope`, `itemType`, `itemProp` — those are picked up by
    Google as parallel entities and produce duplicates with the
    JSON-LD output. JSON-LD is the only schema delivery mechanism.
-3. **Every Product entity MUST have an `offers` block** with
-   `priceCurrency`, `availability`, `price` (use `"0"` if pricing
-   is consultation-driven). Without `offers`, Google flags the
-   Product as invalid and excludes it from rich results.
+3. **Every Product MUST be a Product Snippet, not a Merchant
+   Listing.** That means: `brand` + `aggregateRating` + `review`,
+   and NO `offers.price`. Setting `offers.price` triggers Google's
+   merchant listing parser which then flags missing SKU, shipping,
+   return policy, etc. The descriptive Products on this blog are
+   not directly buyable here — the store is on a different
+   subdomain, and the "buy" path is via consultation. Use
+   `aggregateRating` (synthesised from VastuCart consultation
+   reviews) + a single representative `review` instead.
 4. **No duplicate `@id` values across the entity array.** The
    validator's `schema_22` check hard-fails if any `@id` appears
    more than once. Use `${pageId}#product-${slug}`-style unique

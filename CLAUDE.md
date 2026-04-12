@@ -136,9 +136,14 @@ Hard rules (validator-enforced):
 2. NEVER use HTML microdata (`itemScope`, `itemType`, `itemProp`)
    in any component — Google parses it as a parallel entity and
    creates duplicates with the JSON-LD.
-3. Every `Product` MUST have `offers` with `priceCurrency`,
-   `availability`, `price` (use `"0"` for consultation-driven
-   pricing) — without it Google rejects the Product entity.
+3. Every `Product` MUST have `aggregateRating` + `review` and a
+   `brand`. NEVER include `offers.price` — that triggers Google's
+   merchant listing parser which then complains about missing SKU,
+   shipping, return policy, etc. We pick the **Product Snippet**
+   rich result path (descriptive product, not buyable from this
+   domain). The visible "Buy / Consult" button still routes to
+   `store.vastucart.in/consultations` — that's the customer path,
+   not the schema path.
 4. No duplicate `@id` across the entity array — validator hard-fail.
 5. Exactly one `FAQPage` per post — validator hard-fail on more.
 6. Each `<script type="application/ld+json">` contains exactly ONE

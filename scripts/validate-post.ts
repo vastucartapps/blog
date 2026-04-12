@@ -441,12 +441,40 @@ function validate(post: PostJSON, file: string): ValidationReport {
       }
     }
 
-    // Every Product must have offers (Google rich result requirement)
+    // Every Product must qualify as a Product Snippet rich result.
+    // We pick the snippet path (not the merchant listing path) which
+    // requires brand + (aggregateRating | review). Setting `offers`
+    // with `price` triggers Google's merchant listing parser which
+    // demands SKU/shipping/return policy and produces non-critical
+    // warnings — so we hard-fail any Product that has offers.price.
     for (const e of entities) {
-      if (e["@type"] === "Product" && !e.offers) {
-        issues.push(`Product "${e.name}" missing offers (Google rich result requirement)`);
-        hardFail("Product missing offers");
+      if (e["@type"] !== "Product") continue;
+      const name = e.name as string;
+      if (!e.aggregateRating && !e.review) {
+        issues.push(`Product "${name}" missing aggregateRating + review (Product Snippet requirement)`);
+        hardFail("Product missing aggregateRating");
         s -= 2;
+      }
+      if (e.offers) {
+        const offers = e.offers as Record<string, unknown>;
+        if (offers.price !== undefined) {
+          issues.push(`Product "${name}" has offers.price — triggers merchant listing parser which complains about missing shipping/sku. Use aggregateRating instead.`);
+          hardFail("Product offers.price set, use snippet not merchant listing");
+          s -= 2;
+        }
+      }
+      if (!e.brand) {
+        issues.push(`Product "${name}" missing brand`);
+        s -= 1;
+      }
+    }
+
+    // ImageObject must have creator + name to silence Google warnings
+    for (const e of entities) {
+      if (e["@type"] !== "ImageObject") continue;
+      if (!e.creator) {
+        issues.push(`ImageObject ${e["@id"]} missing creator (Google warning)`);
+        s -= 1;
       }
     }
 
