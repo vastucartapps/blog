@@ -23,7 +23,7 @@ jobs:
     name: Trigger Coolify deploy
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger deployment
+      - name: Trigger deployment with retry
         env:
           COOLIFY_URL: ${{ secrets.COOLIFY_URL }}
           COOLIFY_TOKEN: ${{ secrets.COOLIFY_TOKEN }}
@@ -31,12 +31,33 @@ jobs:
         run: |
           set -euo pipefail
           echo "Triggering Coolify deploy for ${COOLIFY_APP_UUID}"
-          response=$(curl -fsS \
-            -H "Authorization: Bearer ${COOLIFY_TOKEN}" \
-            "${COOLIFY_URL}/api/v1/deploy?uuid=${COOLIFY_APP_UUID}&force=false")
-          echo "Response: ${response}"
-          if ! echo "${response}" | grep -q deployment_uuid; then
-            echo "ERROR: no deployment_uuid in response" >&2
-            exit 1
-          fi
-          echo "Deploy queued successfully."
+
+          # Retry up to 5 times with exponential backoff. Coolify
+          # occasionally has 30-60 second connectivity blips and we
+          # don't want a single transient failure to drop a deploy.
+          attempt=1
+          max_attempts=5
+          while [ $attempt -le $max_attempts ]; do
+            echo "Attempt ${attempt}/${max_attempts}..."
+            if response=$(curl -fsS --max-time 30 --connect-timeout 15 \
+                -H "Authorization: Bearer ${COOLIFY_TOKEN}" \
+                "${COOLIFY_URL}/api/v1/deploy?uuid=${COOLIFY_APP_UUID}&force=false" 2>&1); then
+              echo "Response: ${response}"
+              if echo "${response}" | grep -q deployment_uuid; then
+                echo "✓ Deploy queued successfully on attempt ${attempt}"
+                exit 0
+              fi
+              echo "Response did not contain deployment_uuid, retrying..."
+            else
+              echo "curl failed on attempt ${attempt}: ${response}"
+            fi
+            attempt=$((attempt + 1))
+            if [ $attempt -le $max_attempts ]; then
+              sleep_time=$((attempt * 10))
+              echo "Waiting ${sleep_time}s before next attempt..."
+              sleep ${sleep_time}
+            fi
+          done
+
+          echo "ERROR: All ${max_attempts} attempts failed. Coolify is unreachable." >&2
+          exit 1
