@@ -207,6 +207,18 @@ in Google Rich Results Test on the first deployed post (Sun in
 The Organization shares a single `@id` across all 10 subdomains:
 `https://vastucart.in/#org`. Cross-subdomain entity authority.
 
+### Locked canonical template
+
+The verified-clean output of `buildPostSchema()` for every
+entity type is captured in `docs/SCHEMA_TEMPLATE.md`. That dump
+was validated by Google Rich Results Test on the live URL with
+**zero errors and zero non-critical warnings**. Use it as the
+canonical reference. Regenerate with:
+
+```bash
+npx tsx scripts/dump-schema.ts content/.../slug.json
+```
+
 ### Validator enforcement (`scripts/validate-post.ts`)
 
 The `schema_22` check now runs `buildPostSchema(post)` and asserts

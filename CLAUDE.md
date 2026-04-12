@@ -154,6 +154,13 @@ synthesize, ADD a content block that the schema-builder reads
 (e.g., add a `puja-vidhi` or `wearing-ritual` block to get HowTo,
 not a hand-written `howto_remedies` schema field).
 
+**Locked schema template**: `docs/SCHEMA_TEMPLATE.md` is the
+canonical reference. It contains the verified-clean output of
+`buildPostSchema()` for every entity type — zero errors and zero
+non-critical warnings on Google Rich Results Test. Diff any
+broken post against this template to find the bug. Regenerate
+with `npx tsx scripts/dump-schema.ts <post.json>`.
+
 ## THIN CONTENT LAW
 
 Programmatic ≠ thin. Every post — including the 1296 planet-in-house
