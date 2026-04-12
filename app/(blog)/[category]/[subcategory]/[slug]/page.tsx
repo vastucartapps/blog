@@ -3,11 +3,13 @@ import { notFound } from "next/navigation";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { PostHero } from "@/components/post/PostHero";
+import { LagnaPillarHero } from "@/components/post/LagnaPillarHero";
 import { BlockRenderer } from "@/components/post/BlockRenderer";
 import { getCategory, getSubcategory } from "@/lib/categories";
 import { getPostBySlug, getPublishedPosts } from "@/lib/content";
 import { absoluteUrl } from "@/lib/utils";
 import { buildPostSchema } from "@/lib/schema-builder";
+import { LAGNA_LABELS, type LagnaSlug } from "@/lib/internal-links";
 
 interface Params {
   category: string;
@@ -89,22 +91,58 @@ export default async function PostPage({
     return true;
   });
 
+  // Lagna profile posts get the pillar hero (a topical hub for the
+  // 100+ cluster posts under that lagna). Every other template uses
+  // the regular PostHero.
+  const isLagnaPillar = post.template === "lagna-profile";
+  // Normalise lagna_id since posts may use "mesha" while LAGNA_LABELS keys use "mesh"
+  const rawLagnaId = (post.lagna_id ?? "").toLowerCase();
+  const normalisedLagnaId = (rawLagnaId === "mesha" ? "mesh" : rawLagnaId) as LagnaSlug;
+  const lagnaLabels = LAGNA_LABELS[normalisedLagnaId] ?? null;
+
+  // For the pillar hero we strip the content's first stat-strip
+  // because the hero already shows it in the ribbon. Avoids
+  // visual duplication.
+  const renderableContent = isLagnaPillar
+    ? post.content.filter((b, i) => !(i === 0 && b.type === "stat-strip"))
+    : post.content;
+
+  // Pull stats for the pillar ribbon. Prefer the post's stat-strip
+  // cells; fall back to a sensible default derived from lagna.
+  const firstStatStrip = post.content.find((b) => b.type === "stat-strip") as
+    | { cells: { label: string; value: string; sub?: string }[] }
+    | undefined;
+  const pillarStats = firstStatStrip?.cells ?? [];
+
   return (
     <>
       <Header />
       <article>
-        <PostHero
-          breadcrumb={breadcrumb}
-          badgeLabel={post.hero.badge_label}
-          titleHtml={post.hero.title_html}
-          description={post.hero.description}
-          meta={post.hero.meta}
-          tags={post.hero.tags}
-          authorId={post.author_id}
-          category={post.category}
-        />
+        {isLagnaPillar && lagnaLabels ? (
+          <LagnaPillarHero
+            breadcrumb={breadcrumb}
+            lagnaId={normalisedLagnaId}
+            badgeLabel={post.hero.badge_label}
+            title={post.title}
+            sanskritName={`${lagnaLabels.sanskrit} Lagna`}
+            englishName={`${lagnaLabels.english} Ascendant`}
+            description={post.hero.description}
+            stats={pillarStats}
+          />
+        ) : (
+          <PostHero
+            breadcrumb={breadcrumb}
+            badgeLabel={post.hero.badge_label}
+            titleHtml={post.hero.title_html}
+            description={post.hero.description}
+            meta={post.hero.meta}
+            tags={post.hero.tags}
+            authorId={post.author_id}
+            category={post.category}
+          />
+        )}
         <main className="wrap-article" style={{ paddingBottom: "5rem" }}>
-          <BlockRenderer blocks={post.content} category={post.category} />
+          <BlockRenderer blocks={renderableContent} category={post.category} />
         </main>
       </article>
       <Footer />
