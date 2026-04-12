@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@300;400;500;600&family=Lora:ital,wght@0,400;1,400&display=swap');
+@import "tailwindcss";
+
+@theme inline {
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body:    'Inter', system-ui, sans-serif;
+  --font-verse:   'Lora', Georgia, serif;
+
+  /* Brand colour tokens bridged for Tailwind utilities */
+  --color-dark:          var(--dark);
+  --color-dark-2:        var(--dark-2);
+  --color-dark-3:        var(--dark-3);
+  --color-teal:          var(--teal);
+  --color-teal-light:    var(--teal-light);
+  --color-teal-pale:     var(--teal-pale);
+  --color-cream:         var(--cream);
+  --color-cream-2:       var(--cream-2);
+  --color-cream-3:       var(--cream-3);
+  --color-saffron:       var(--saffron);
+  --color-saffron-light: var(--saffron-light);
+  --color-saffron-pale:  var(--saffron-pale);
+  --color-saffron-mid:   var(--saffron-mid);
+  --color-rose:          var(--rose);
+  --color-rose-light:    var(--rose-light);
+  --color-rose-pale:     var(--rose-pale);
+  --color-rose-mid:      var(--rose-mid);
+  --color-gold:          var(--gold);
+  --color-gold-light:    var(--gold-light);
+  --color-gold-pale:     var(--gold-pale);
+  --color-border-soft:   var(--border);
+  --color-border-mid:    var(--border-mid);
+
+  /* Text tokens for Tailwind utilities */
+  --color-ink:        var(--on-light-1);
+  --color-ink-body:   var(--on-light-2);
+  --color-ink-muted:  var(--on-light-3);
+  --color-ink-faint:  var(--on-light-4);
+  --color-on-dark:       var(--on-dark-1);
+  --color-on-dark-body:  var(--on-dark-2);
+  --color-on-dark-muted: var(--on-dark-3);
+  --color-on-dark-faint: var(--on-dark-4);
+}
+
+:root {
+  /* ── Brand palette */
+  --dark:           #013F47;
+  --dark-2:         #012d33;
+  --dark-3:         #01242a;
+  --teal:           #338a95;
+  --teal-light:     #4aa5b2;
+  --teal-pale:      #e4f4f6;
+  --cream:          #faf6ef;
+  --cream-2:        #f3ede2;
+  --cream-3:        #ede5d6;
+  --saffron:        #e8840a;
+  --saffron-light:  #f5a623;
+  --saffron-pale:   #fff3e0;
+  --saffron-mid:    #fde8c0;
+  --rose:           #b76e79;
+  --rose-light:     #d4a0a8;
+  --rose-pale:      #fdf0f1;
+  --rose-mid:       #f5d5d9;
+  --gold:           #c9a84c;
+  --gold-light:     #e2c97e;
+  --gold-pale:      #fdf6e3;
+  --border:         #d4e8eb;
+  --border-mid:     #c2dce0;
+
+  /* ── Text on DARK backgrounds only */
+  --on-dark-1: #ffffff;
+  --on-dark-2: rgba(255, 255, 255, 0.75);
+  --on-dark-3: rgba(255, 255, 255, 0.50);
+  --on-dark-4: rgba(255, 255, 255, 0.35);
+
+  /* ── Text on LIGHT backgrounds only */
+  --on-light-1: #012d33;
+  --on-light-2: #2d5a63;
+  --on-light-3: #4a7c87;
+  --on-light-4: #6b9aa3;
+
+  /* ── Legacy aliases — do not remove, components use these */
+  --text-primary:  #012d33;
+  --text-mid:      #2d5a63;
+  --text-muted:    #4a7c87;
+
+  /* ── Radius */
+  --radius-sm: 10px;
+  --radius:    14px;
+  --radius-lg: 18px;
+  --radius-xl: 24px;
+}
+
+/* ── BASE */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { font-size: 16px; -webkit-font-smoothing: antialiased; }
+body {
+  font-family: var(--font-body);
+  background: var(--cream);
+  color: var(--on-light-1);
+  line-height: 1.7;
+}
+
+/* ── TYPOGRAPHY */
+h1, h2, h3, h4 { font-family: var(--font-display); font-weight: 500; line-height: 1.25; color: var(--on-light-1); letter-spacing: -0.01em; }
+h1 { font-size: 2.25rem; font-weight: 600; }
+h2 { font-size: 1.625rem; }
+h3 { font-size: 1.1875rem; font-weight: 400; }
+p  { font-size: 0.96875rem; line-height: 1.88; color: var(--on-light-2); }
+em { font-style: italic; }
+strong { font-weight: 600; }
+
+/* ── DIAMOND PATTERN — use class="diamond-bg" on any dark section */
+.diamond-bg {
+  background-color: var(--dark);
+  background-image:
+    linear-gradient(45deg, rgba(255,255,255,.022) 25%, transparent 25%),
+    linear-gradient(-45deg, rgba(255,255,255,.022) 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, rgba(255,255,255,.022) 75%),
+    linear-gradient(-45deg, transparent 75%, rgba(255,255,255,.022) 75%);
+  background-size: 26px 26px;
+  background-position: 0 0, 0 13px, 13px -13px, -13px 0;
+}
+.diamond-bg h1, .diamond-bg h2, .diamond-bg h3, .diamond-bg h4 { color: var(--on-dark-1); }
+.diamond-bg p { color: var(--on-dark-2); }
+
+.diamond-bg-soft {
+  background-color: transparent;
+  background-image:
+    linear-gradient(45deg, rgba(255,255,255,.018) 25%, transparent 25%),
+    linear-gradient(-45deg, rgba(255,255,255,.018) 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, rgba(255,255,255,.018) 75%),
+    linear-gradient(-45deg, transparent 75%, rgba(255,255,255,.018) 75%);
+  background-size: 20px 20px;
+  background-position: 0 0, 0 10px, 10px -10px, -10px 0;
+}
+
+/* ── LAYOUT WRAPPERS — guaranteed-correct centering, no Tailwind arbitrary values. */
+.wrap-page    { max-width: 1200px; margin: 0 auto; padding: 0 1.25rem; }
+.wrap-wide    { max-width: 1120px; margin: 0 auto; padding: 0 1.25rem; }
+.wrap-article { max-width: 860px;  margin: 0 auto; padding: 0 1.25rem; }
+.wrap-hero    { max-width: 860px;  margin: 0 auto; padding: 3rem 1.25rem 2.5rem; }
+.wrap-hero-lg { max-width: 1120px; margin: 0 auto; padding: 4rem 1.25rem 3rem; }
+
+@media (min-width: 640px) {
+  .wrap-page    { padding: 0 1.5rem; }
+  .wrap-wide    { padding: 0 1.5rem; }
+  .wrap-article { padding: 0 2rem; }
+  .wrap-hero    { padding: 3.5rem 2rem 3rem; }
+  .wrap-hero-lg { padding: 5rem 2rem 4rem; }
+}
+@media (min-width: 1024px) {
+  .wrap-page    { padding: 0 2rem; }
+  .wrap-wide    { padding: 0 2.5rem; }
+  .wrap-article { padding: 0 2.5rem; }
+  .wrap-hero    { padding: 4rem 2.5rem 3.5rem; }
+  .wrap-hero-lg { padding: 6rem 2.5rem 5rem; }
+}
+
+/* Fluid display typography for hero, scales without Tailwind arbitrary values. */
+.hero-display { font-size: clamp(28px, 5.2vw, 58px); line-height: 1.08; letter-spacing: -0.01em; }
+.hero-display-sm { font-size: clamp(26px, 4.2vw, 42px); line-height: 1.18; letter-spacing: -0.01em; }
+.hero-body { font-size: clamp(14px, 1.1vw, 16px); line-height: 1.78; font-weight: 300; }
+.section-h { font-size: clamp(22px, 2.6vw, 30px); line-height: 1.25; letter-spacing: -0.01em; font-weight: 500; }
+
+/* Edge-to-edge sections vs wrapped content. */
+.bleed-dark { background-color: var(--dark); width: 100%; }
+
+/* Card hover micro-interactions */
+.cat-card:hover, .post-card:hover, .featured-card:hover, .gem-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--teal-light) !important;
+  box-shadow: 0 28px 70px -22px rgba(1,63,71,0.32) !important;
+}
+.stat-cell:hover { background: var(--teal-pale); }
+.tool-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--teal) !important;
+  background: var(--teal-pale) !important;
+  box-shadow: 0 20px 44px -22px rgba(1,63,71,0.28) !important;
+}
+.sub-chip:hover {
+  border-color: var(--teal) !important;
+  color: var(--teal) !important;
+}
+.yantra-card { transition: border-color .2s, box-shadow .2s; }
+.yantra-card:hover {
+  border-color: var(--teal-light) !important;
+  box-shadow: 0 30px 80px -32px rgba(1,63,71,0.40) !important;
+}
+.hero-tag-link:hover {
+  background: rgba(232,132,10,0.20) !important;
+  color: var(--saffron-light) !important;
+  border-color: rgba(232,132,10,0.40) !important;
+}
+.hero-meta-link:hover { color: var(--saffron-light) !important; }
+.hero-meta-link:hover strong { color: var(--saffron-light) !important; }
+.stotra-cta:hover {
+  transform: translateY(-1px);
+  background: linear-gradient(180deg, #d4760a 0%, #b35e07 100%) !important;
+  box-shadow: 0 22px 48px -16px rgba(196,106,8,0.70), inset 0 1px 0 rgba(255,255,255,0.25) !important;
+}
+
+/* Button hover micro-interactions */
+.btn { will-change: transform, box-shadow; }
+.btn:active { transform: translateY(0); }
+
+.btn--primary:hover {
+  transform: translateY(-2px);
+  background: linear-gradient(180deg, #f5a623 0%, #e8840a 100%) !important;
+  box-shadow:
+    0 18px 42px -12px rgba(232,132,10,0.65),
+    inset 0 1px 0 rgba(255,255,255,0.40) !important;
+}
+.btn--teal:hover {
+  transform: translateY(-2px);
+  background: linear-gradient(180deg, #4aa5b2 0%, #338a95 100%) !important;
+  box-shadow:
+    0 18px 42px -12px rgba(51,138,149,0.65),
+    inset 0 1px 0 rgba(255,255,255,0.30) !important;
+}
+.btn--outline-dark:hover {
+  background: rgba(255,255,255,0.12) !important;
+  border-color: var(--saffron-light) !important;
+  color: var(--saffron-light) !important;
+  transform: translateY(-1px);
+}
+.btn--outline-light:hover {
+  background: var(--cream-2) !important;
+  border-color: var(--teal) !important;
+  color: var(--teal) !important;
+}
+.btn--ghost-sm-saff:hover, .btn--ghost-sm-teal:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.08);
+}
+
+/* ── PROSE BLOCK — for rendered article sections */
+.prose-block { font-size: 0.96875rem; line-height: 1.88; color: var(--on-light-2); }
+.prose-block p { margin-bottom: 1.2rem; }
+.prose-block p:last-child { margin-bottom: 0; }
+.prose-block em { font-style: italic; color: var(--on-light-1); }
+
+/* ── LORA VERSE — for stotra, pull quotes */
+.verse { font-family: var(--font-verse); font-style: italic; }
+
+/* ── FOCUS RING */
+:focus-visible { outline: 2px solid var(--saffron); outline-offset: 2px; border-radius: 4px; }
+
+/* ── REDUCED MOTION */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
+
+/* ── SCROLLBAR */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--cream-2); }
+::-webkit-scrollbar-thumb { background: var(--border-mid); border-radius: 3px; }

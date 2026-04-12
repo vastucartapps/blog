@@ -30,8 +30,13 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
-.env*
+# env files — never commit secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# (.env.example is intentionally tracked as a template)
 
 # vercel
 .vercel
@@ -39,3 +44,44 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# ─────────────────────────────────────────────────────────────────
+# Local-only working files (NEVER push)
+# ─────────────────────────────────────────────────────────────────
+
+# Generation progress + logs
+/scripts/progress.json
+/logs/
+
+# Panchang + generative image cache
+/.cache/
+
+# Claude Code internal
+/.claude/
+
+# Local screenshots from QA passes
+/screenshots/
+
+# Reference template — local only design references
+/reference/
+
+# ─────────────────────────────────────────────────────────────────
+# Public assets — selective: brand assets, icons, real post images
+# all GO to remote so the production build can render them.
+# Reference HTML, design templates, and Brand Stones reference
+# images stay local-only.
+# ─────────────────────────────────────────────────────────────────
+/public/Brand Stones/
+/public/Presence links.txt
+/public/reference/
+/public/vastucart_blog_enterprise_v2.html
+/public/vastucart_blog_enterprise_v2.html:Zone.Identifier
+/public/category_variation_system.html
+/public/category_variation_system.html:Zone.Identifier
+/public/astroengine-api-reference.md
+/public/zodiac icons/
+# legacy duplicate of nakshatras/, the canonical dir without the s
+/public/nakshatra/
+
+# WSL Zone.Identifier sidecar files (Windows interop artifacts)
+*:Zone.Identifier

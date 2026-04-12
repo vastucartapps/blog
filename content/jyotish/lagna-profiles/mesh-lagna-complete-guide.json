@@ -1,0 +1,1045 @@
+{
+  "id": "mesh-lagna-complete-guide",
+  "slug": "mesh-lagna-complete-guide",
+  "title": "Mesh Lagna (Aries Ascendant), the complete profile",
+  "title_hindi": "मेष लग्न का सम्पूर्ण परिचय",
+  "subtitle": "A practitioner pillar for every native born under Aries ascendant: body, mind, career, marriage, dasha and remedies.",
+  "category": "jyotish",
+  "subcategory": "lagna-profiles",
+  "template": "lagna-profile",
+  "author_id": "pt-raghav-sharma",
+  "reading_time_minutes": 11,
+  "status": "ready",
+  "published_at": "2026-04-12T00:00:00.000Z",
+  "updated_at": "2026-04-12T00:00:00.000Z",
+  "tags": [
+    "Mesh Lagna",
+    "Aries ascendant",
+    "lagna profile",
+    "Mangal lagna lord",
+    "rajyoga combinations",
+    "Surya 5th lord",
+    "Guru 9th lord",
+    "Mesh dasha sequence",
+    "red coral remedy",
+    "Hanuman Chalisa for Mars"
+  ],
+  "lagna_id": "mesha",
+  "meta": {
+    "title": "Mesh Lagna (Aries Ascendant) Complete Profile Guide",
+    "description": "Mesh Lagna explained by Pt. Raghav Sharma. Body, personality, career, marriage, health, dasha sequence and remedies for every Aries ascendant native.",
+    "focus_keyword": "Mesh Lagna",
+    "secondary_keywords": [
+      "Aries ascendant personality",
+      "Mesh lagna career",
+      "Mesh lagna marriage",
+      "Mangal lagna lord effects",
+      "Mesh lagna remedies"
+    ],
+    "lsi_keywords": [
+      "Tanu Bhava",
+      "kendra trikona rajyoga",
+      "Mangal mahadasha",
+      "red coral muhurta",
+      "Hanuman Chalisa",
+      "pitta vata constitution",
+      "Aries seventh house Tula"
+    ],
+    "keywords": [
+      "Mesh Lagna",
+      "Aries ascendant",
+      "Vedic astrology lagna profile",
+      "Jyotish lagna",
+      "Mangal lagna lord"
+    ],
+    "og_title": "Mesh Lagna (Aries Ascendant), Complete Practitioner Profile",
+    "og_description": "A pillar guide to Mesh Lagna by Pt. Raghav Sharma. Body, mind, career, marriage, dasha and remedies for every Aries ascendant native.",
+    "og_image": "/og/mesh-lagna-complete-guide.png",
+    "canonical": "https://blog.vastucart.in/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1",
+    "breadcrumb": [
+      { "name": "Home", "url": "https://blog.vastucart.in/" },
+      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
+      { "name": "Lagna Profiles", "url": "https://blog.vastucart.in/jyotish/lagna-profiles" },
+      { "name": "Mesh Lagna Complete Guide", "url": "https://blog.vastucart.in/jyotish/lagna-profiles/mesh-lagna-complete-guide" }
+    ]
+  },
+  "keyword_brief": {
+    "focus_keyword": "Mesh Lagna",
+    "secondary_keywords": [
+      "Mesh Lagna native",
+      "Aries ascendant",
+      "Mangal mahadasha",
+      "lagna lord",
+      "red coral"
+    ],
+    "lsi_terms": [
+      "tanu bhava",
+      "kendra trikona",
+      "mangal mahadasha",
+      "red coral",
+      "hanuman chalisa",
+      "pitta vata",
+      "tula 7th house",
+      "surya 5th lord",
+      "guru 9th lord",
+      "shani 10th lord"
+    ],
+    "seed_queries": [
+      "mesh lagna",
+      "mesh lagna meaning",
+      "mesh lagna in english",
+      "mesh lagna personality",
+      "mesh lagna career",
+      "mesh lagna marriage",
+      "mesh lagna health",
+      "mesh lagna dasha",
+      "mesh lagna remedies",
+      "aries ascendant",
+      "aries ascendant personality",
+      "aries lagna career",
+      "aries ascendant marriage",
+      "mesh lagna lord",
+      "mesh lagna ruler",
+      "mesh lagna gemstone",
+      "mesh lagna red coral",
+      "mesh lagna hanuman chalisa",
+      "mesh lagna body",
+      "mesh lagna physical appearance",
+      "mesh lagna native characteristics",
+      "is mesh lagna good",
+      "mesh lagna strength",
+      "mesh lagna weakness",
+      "mesh lagna shadow side",
+      "mesh lagna mangal mahadasha",
+      "mesh lagna sun in 5th",
+      "mesh lagna guru in 9th",
+      "mesh lagna saturn in 10th",
+      "mesh lagna rajyoga"
+    ],
+    "questions": [
+      "What does Mesh Lagna mean and who is born under it?",
+      "Which planet rules Mesh Lagna and why does it matter?",
+      "What is the best career for Mesh Lagna natives?",
+      "Which gemstone should a Mesh Lagna native wear?",
+      "How does Mesh Lagna handle marriage and partnerships?"
+    ],
+    "lingual_variations": {
+      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "mesha lagna", "aries ascendant"],
+      "mangal": ["mangal", "mangala", "mars", "kuja", "bhaumya", "angaraka"],
+      "kundali": ["kundali", "kundli", "horoscope", "birth chart", "janma kundali"]
+    },
+    "content_gaps": [
+      "Mesh Lagna with chandra in different rashis",
+      "Mesh Lagna native compatibility with each ascendant",
+      "Mesh Lagna and Manglik dosha resolution"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
+  },
+  "image_manifest": [
+    {
+      "filename": "mesh-lagna-complete-guide-hero.webp",
+      "filename_og": "mesh-lagna-complete-guide-og.png",
+      "alt": "Mesh Lagna kundali wheel ruled by Mangal with the ram symbol of Aries",
+      "caption": "Mesh Lagna, the cardinal fire ascendant ruled by Mangal, the first sign of the zodiac and the dharma trikona pillar.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "deep crimson and gold editorial illustration, ram symbol with kundali",
+      "generation_prompt": "An editorial illustration of a stylised North Indian kundali wheel surrounded by cardinal fire imagery, the central first house glowing in deep crimson with a faint ram silhouette, traditional Vedic colour palette of crimson, gold, and ivory cream, refined manuscript style, no people, no text overlays.",
+      "negative_prompt": "modern western zodiac wheel, photorealistic ram, cartoon, watermark, signature, text, low quality, neon colours"
+    },
+    {
+      "filename": "mesh-lagna-complete-guide-north-indian-kundali.webp",
+      "alt": "North Indian kundali template with Mesh Lagna marked in the first house",
+      "caption": "The North Indian kundali template with Mesh marked in the first house and the order of houses moving anti-clockwise.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the central first house labelled Me for Mesh, other houses left empty with subtle Vedic ornamentation, refined editorial diagram style, no people.",
+      "negative_prompt": "south indian chart, western chart, photo, person, watermark, text overlay, neon, cartoon"
+    },
+    {
+      "filename": "mesh-lagna-complete-guide-red-coral.webp",
+      "alt": "Natural red coral gemstone in a copper ring, the primary gemstone for Mesh Lagna",
+      "caption": "A certified natural red coral set in copper, the lagna-strengthening gemstone for Mesh Lagna natives.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural untreated red coral gemstone set in a copper ring, deep blood red colour, oval cabochon cut, resting on dark crimson velvet with soft warm side lighting, Vedic studio aesthetic, no hands, no people, jewellery editorial photography.",
+      "negative_prompt": "synthetic stone, plastic, costume jewellery, low resolution, watermark, text, person, hand, model"
+    },
+    {
+      "filename": "mesh-lagna-complete-guide-hanuman-chalisa.webp",
+      "alt": "Hanuman Chalisa Sanskrit verse on parchment with a copper kalash",
+      "caption": "Hanuman Chalisa, the foundational mantra practice for Mesh Lagna and Mangal strengthening.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Hanuman Chalisa, hand-painted on aged parchment with gold leaf decorative borders, a faint copper kalash in the background, traditional Vedic manuscript aesthetic, warm crimson and gold colour palette, refined editorial illustration, no people in foreground.",
+      "negative_prompt": "english text, modern font, photograph of book, signature, watermark, neon, cartoon, people in foreground"
+    }
+  ],
+  "hero": {
+    "badge_label": "Lagna Profile, Pillar Guide",
+    "title_html": "Mesh Lagna<br><em>Aries Ascendant</em> complete profile",
+    "description": "A pillar reference for every Aries ascendant native. Body, mind, career, marriage, health, dasha sequence, and the remedies that compound over decades.",
+    "meta": [
+      { "icon": "clock", "value": "11 min read" },
+      { "icon": "check-circle", "value": "Pillar reference" },
+      { "icon": "user", "value": "Pt. Raghav Sharma" },
+      { "icon": "calendar", "value": "Updated April 2026" }
+    ],
+    "tags": [
+      { "label": "Mesh Lagna", "tone": "teal" },
+      { "label": "Mangal lord", "tone": "teal" },
+      { "label": "Cardinal fire" },
+      { "label": "Surya 5th lord" },
+      { "label": "Guru 9th lord" },
+      { "label": "Shani 10th lord" },
+      { "label": "Pillar of 108 cluster posts" }
+    ]
+  },
+  "schema": {
+    "article": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "Mesh Lagna (Aries Ascendant), the complete profile",
+      "description": "A pillar reference for Aries ascendant natives covering body, mind, career, marriage, health, dasha sequence, and remedies.",
+      "datePublished": "2026-04-12T00:00:00.000Z",
+      "dateModified": "2026-04-12T00:00:00.000Z",
+      "author": {
+        "@type": "Person",
+        "name": "Pt. Raghav Sharma",
+        "jobTitle": "Jyotish Acharya",
+        "url": "https://blog.vastucart.in/authors/pt-raghav-sharma"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "VastuCart",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://blog.vastucart.in/VastuCartLogo.png",
+          "width": 1024,
+          "height": 1024
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://blog.vastucart.in/jyotish/lagna-profiles/mesh-lagna-complete-guide"
+      },
+      "url": "https://blog.vastucart.in/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+      "image": "https://blog.vastucart.in/og/mesh-lagna-complete-guide.png",
+      "articleSection": "Jyotish",
+      "keywords": "Mesh Lagna, Aries ascendant, lagna profile, Mangal, Vedic astrology",
+      "wordCount": 2300,
+      "timeRequired": "PT11M",
+      "inLanguage": "en-IN"
+    },
+    "faq": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does Mesh Lagna mean and who is born under it?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mesh Lagna is the Sanskrit name for Aries ascendant, the first sign of the zodiac rising on the eastern horizon at the moment of birth. A native is born under Mesh Lagna when this cardinal fire sign occupies the first house of their birth chart. The lagna is fixed by the exact birth time and place, not by the sun sign, which is why two people born on the same day in different cities can carry entirely different lagnas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which planet rules Mesh Lagna and why does it matter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mangal (Mars) rules Mesh Lagna. The lagna lord governs the body, the personality template, and the overall life direction, so wherever Mangal sits in your chart becomes the centre of gravity for your lifetime. Mangal in good shape gives initiative, courage, and physical vitality. Mangal afflicted creates impatience, accidents, and family friction. Strengthening Mangal through coral, mantra, and Hanuman worship is the foundational remedy for every Aries ascendant native."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best career for Mesh Lagna natives?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Engineering, military, surgery, sports, real estate, manufacturing, and entrepreneurship suit Mesh Lagna best. Saturn rules the tenth house for Mesh, which favours disciplined institutional careers, while Mars on the lagna gives the courage to lead them. The combination produces natives who rise through structures rather than around them. Career peaks usually fall during Mangal mahadasha or in the Sun antardasha inside Guru mahadasha."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which gemstone should a Mesh Lagna native wear?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Red coral (Moonga) is the primary gemstone for every Mesh Lagna native because it strengthens Mangal, the lagna lord. It should be natural, untreated, minimum five ratti, set in copper or panchdhatu, worn on the ring finger of the right hand on a Tuesday at sunrise after Mangal mantra recitation. Yellow sapphire (Pukhraj) is a powerful secondary stone since Guru is the ninth lord and a yogakaraka for this lagna."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does Mesh Lagna handle marriage and partnerships?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The seventh house for Mesh Lagna falls in Tula (Libra), ruled by Shukra (Venus). Venus and Mars are natural opposites, which is why Aries natives often marry partners from completely different temperaments and find the dynamic both magnetic and exhausting. The most stable pairings are with Dhanu, Simha, and Kumbha lagnas. Manglik dosha must be checked carefully since Mars rules the lagna and any aspect on the seventh house intensifies it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which dasha periods are most powerful for Mesh Lagna?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mangal mahadasha (seven years) activates the lagna lord directly and is the foundational career-shaping window for any Mesh native. Surya mahadasha (six years) brings recognition because Sun is the fifth lord, ruling intelligence and progeny. Guru mahadasha (sixteen years) is the longest favourable phase since Jupiter is the ninth lord, the most auspicious trikona. Shani mahadasha (nineteen years) is mixed because Saturn rules the tenth and the eleventh, bringing slow disciplined gains alongside heavy responsibility."
+          }
+        }
+      ]
+    },
+    "breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://blog.vastucart.in/" },
+        { "@type": "ListItem", "position": 2, "name": "Jyotish", "item": "https://blog.vastucart.in/jyotish" },
+        { "@type": "ListItem", "position": 3, "name": "Lagna Profiles", "item": "https://blog.vastucart.in/jyotish/lagna-profiles" },
+        { "@type": "ListItem", "position": 4, "name": "Mesh Lagna Complete Guide", "item": "https://blog.vastucart.in/jyotish/lagna-profiles/mesh-lagna-complete-guide" }
+      ]
+    },
+    "author": {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Pt. Raghav Sharma",
+      "jobTitle": "Senior Jyotishi, Vedic Astrology",
+      "description": "Varanasi-based practising Jyotishi with twenty two years of consultation experience in Parashari Jyotish.",
+      "url": "https://blog.vastucart.in/authors/pt-raghav-sharma",
+      "knowsAbout": ["Jyotish", "Lagna analysis", "Vimshottari Dasha", "Muhurta", "Remedies"]
+    },
+    "organization": {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "VastuCart",
+      "url": "https://vastucart.in",
+      "logo": { "@type": "ImageObject", "url": "https://blog.vastucart.in/VastuCartLogo.png", "width": 1024, "height": 1024 },
+      "sameAs": [
+        "https://vastucart.in",
+        "https://kundali.vastucart.in",
+        "https://blog.vastucart.in",
+        "https://store.vastucart.in",
+        "https://stotra.vastucart.in",
+        "https://horoscope.vastucart.in",
+        "https://muhurta.vastucart.in",
+        "https://www.wikidata.org/wiki/Q201930",
+        "https://en.wikipedia.org/wiki/Hindu_astrology"
+      ]
+    },
+    "webpage": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Mesh Lagna (Aries Ascendant), the complete profile",
+      "url": "https://blog.vastucart.in/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+      "isPartOf": { "@type": "WebSite", "url": "https://blog.vastucart.in", "name": "VastuCart Blog" },
+      "primaryImageOfPage": "https://blog.vastucart.in/og/mesh-lagna-complete-guide.png",
+      "inLanguage": "en-IN"
+    },
+    "website": {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "VastuCart Blog",
+      "url": "https://blog.vastucart.in",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://blog.vastucart.in/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    "profilepage": {
+      "@context": "https://schema.org",
+      "@type": "ProfilePage",
+      "dateCreated": "2026-04-12T00:00:00.000Z",
+      "mainEntity": { "@type": "Person", "name": "Pt. Raghav Sharma" }
+    },
+    "defined_term_set": {
+      "@context": "https://schema.org",
+      "@type": "DefinedTermSet",
+      "@id": "https://blog.vastucart.in/#glossary",
+      "name": "VastuCart Jyotish Glossary",
+      "description": "Canonical Sanskrit and Vedic glossary used across the VastuCart knowledge cluster.",
+      "url": "https://blog.vastucart.in/glossary"
+    },
+    "defined_terms": [
+      {
+        "@context": "https://schema.org",
+        "@type": "DefinedTerm",
+        "@id": "https://blog.vastucart.in/#glossary/mesh-lagna",
+        "name": "Mesh Lagna",
+        "description": "Aries ascendant. The first sign of the zodiac rising on the eastern horizon at birth, ruled by Mangal (Mars).",
+        "inDefinedTermSet": { "@id": "https://blog.vastucart.in/#glossary" },
+        "termCode": "mesh-lagna"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "DefinedTerm",
+        "@id": "https://blog.vastucart.in/#glossary/mangal",
+        "name": "Mangal",
+        "description": "Mars, the planet of energy, courage, conflict, surgery, and brothers. The natural lord of Mesh and Vrishchika.",
+        "inDefinedTermSet": { "@id": "https://blog.vastucart.in/#glossary" },
+        "termCode": "mangal"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "DefinedTerm",
+        "@id": "https://blog.vastucart.in/#glossary/yogakaraka",
+        "name": "Yogakaraka",
+        "description": "A planet that simultaneously rules a kendra (1, 4, 7, 10) and a trikona (1, 5, 9), producing rajyoga in any chart it sits in.",
+        "inDefinedTermSet": { "@id": "https://blog.vastucart.in/#glossary" },
+        "termCode": "yogakaraka"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "DefinedTerm",
+        "@id": "https://blog.vastucart.in/#glossary/manglik",
+        "name": "Manglik",
+        "description": "A chart where Mars sits in the 1st, 4th, 7th, 8th, or 12th house from the lagna, considered to require careful muhurta and matching for marriage.",
+        "inDefinedTermSet": { "@id": "https://blog.vastucart.in/#glossary" },
+        "termCode": "manglik"
+      }
+    ],
+    "howto_remedies": {
+      "@context": "https://schema.org",
+      "@type": "HowTo",
+      "name": "Daily remedies for Mesh Lagna natives",
+      "totalTime": "PT25M",
+      "step": [
+        { "@type": "HowToStep", "name": "Morning Hanuman Chalisa", "text": "Recite the full Hanuman Chalisa at sunrise after a cold bath, facing south or east." },
+        { "@type": "HowToStep", "name": "Mangal mantra", "text": "Chant Om Angarakaya Namaha one hundred and eight times on Tuesday before breakfast." },
+        { "@type": "HowToStep", "name": "Tuesday fast", "text": "Skip salt on Tuesday, eat moong dal khichdi at noon, take only milk and fruit at night." },
+        { "@type": "HowToStep", "name": "Charity", "text": "Donate red lentils, jaggery and a copper coin to a labourer or sportsperson on Tuesday at sunrise." }
+      ]
+    },
+    "howto_secondary": {
+      "@context": "https://schema.org",
+      "@type": "HowTo",
+      "name": "How to wear red coral (Moonga) for Mesh Lagna",
+      "totalTime": "PT30M",
+      "step": [
+        { "@type": "HowToStep", "name": "Certify", "text": "Confirm the stone is natural untreated coral, minimum five ratti, with a lab certificate." },
+        { "@type": "HowToStep", "name": "Purify", "text": "Soak overnight in raw cow's milk and Ganga jal, then pass through guggul incense smoke." },
+        { "@type": "HowToStep", "name": "Energise", "text": "Recite Om Kraam Kreem Kraum Sah Bhaumaya Namaha one hundred and eight times before sunrise on Tuesday." },
+        { "@type": "HowToStep", "name": "Wear", "text": "Place the ring on the ring finger of the right hand right after the final mantra repetition." },
+        { "@type": "HowToStep", "name": "Observe", "text": "Test for seven days and continue only if the experience is clearly steady and positive." }
+      ]
+    },
+    "product_gem": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Certified Natural Red Coral, Moonga",
+      "category": "Gemstone",
+      "description": "Natural untreated red coral set in copper, the primary gemstone for Mesh Lagna natives.",
+      "brand": { "@type": "Brand", "name": "VastuCart" },
+      "url": "https://store.vastucart.in/consultations"
+    },
+    "product_rudraksha": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Teen Mukhi Rudraksha",
+      "category": "Rudraksha",
+      "description": "Three-faced rudraksha ruled by Agni, balances Mangal energy for Mesh Lagna natives.",
+      "brand": { "@type": "Brand", "name": "VastuCart" },
+      "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart"
+    },
+    "product_yantra": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Mangal Yantra",
+      "category": "Yantra",
+      "description": "Energised copper Mangal Yantra for home and workspace installation, the lagna-lord yantra for Mesh Lagna natives.",
+      "brand": { "@type": "Brand", "name": "VastuCart" },
+      "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+    },
+    "service": {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Personal Jyotish Consultation",
+      "serviceType": "Vedic Astrology Consultation",
+      "provider": { "@type": "Organization", "name": "VastuCart" },
+      "areaServed": "Worldwide",
+      "url": "https://store.vastucart.in/consultations",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://store.vastucart.in/consultations",
+        "priceCurrency": "INR"
+      }
+    },
+    "speakable": {
+      "@context": "https://schema.org",
+      "@type": "SpeakableSpecification",
+      "cssSelector": [".prose-block", ".verse"]
+    },
+    "image_objects": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ImageObject",
+        "@id": "https://blog.vastucart.in/og/mesh-lagna-complete-guide.png#image",
+        "contentUrl": "https://blog.vastucart.in/og/mesh-lagna-complete-guide.png",
+        "url": "https://blog.vastucart.in/og/mesh-lagna-complete-guide.png",
+        "width": 1200,
+        "height": 630,
+        "caption": "Mesh Lagna ruled by Mangal, the cardinal fire ascendant.",
+        "creditText": "VastuCart",
+        "license": "https://vastucart.in/license",
+        "copyrightNotice": "© VastuCart"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ImageObject",
+        "@id": "https://blog.vastucart.in/posts/mesh-lagna-complete-guide/mesh-lagna-complete-guide-north-indian-kundali.webp#image",
+        "contentUrl": "https://blog.vastucart.in/posts/mesh-lagna-complete-guide/mesh-lagna-complete-guide-north-indian-kundali.webp",
+        "url": "https://blog.vastucart.in/posts/mesh-lagna-complete-guide/mesh-lagna-complete-guide-north-indian-kundali.webp",
+        "width": 1024,
+        "height": 1024,
+        "caption": "North Indian kundali with Mesh marked in the first house.",
+        "creditText": "VastuCart",
+        "license": "https://vastucart.in/license",
+        "copyrightNotice": "© VastuCart"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ImageObject",
+        "@id": "https://blog.vastucart.in/posts/mesh-lagna-complete-guide/mesh-lagna-complete-guide-red-coral.webp#image",
+        "contentUrl": "https://blog.vastucart.in/posts/mesh-lagna-complete-guide/mesh-lagna-complete-guide-red-coral.webp",
+        "url": "https://blog.vastucart.in/posts/mesh-lagna-complete-guide/mesh-lagna-complete-guide-red-coral.webp",
+        "width": 1024,
+        "height": 768,
+        "caption": "Certified natural red coral in copper, the lagna-strengthening gemstone for Mesh.",
+        "creditText": "VastuCart",
+        "license": "https://vastucart.in/license",
+        "copyrightNotice": "© VastuCart"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ImageObject",
+        "@id": "https://blog.vastucart.in/posts/mesh-lagna-complete-guide/mesh-lagna-complete-guide-hanuman-chalisa.webp#image",
+        "contentUrl": "https://blog.vastucart.in/posts/mesh-lagna-complete-guide/mesh-lagna-complete-guide-hanuman-chalisa.webp",
+        "url": "https://blog.vastucart.in/posts/mesh-lagna-complete-guide/mesh-lagna-complete-guide-hanuman-chalisa.webp",
+        "width": 1024,
+        "height": 768,
+        "caption": "Hanuman Chalisa, the foundational mantra practice for Mesh Lagna and Mangal strengthening.",
+        "creditText": "VastuCart",
+        "license": "https://vastucart.in/license",
+        "copyrightNotice": "© VastuCart"
+      }
+    ],
+    "video_object": {
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "name": "Mesh Lagna pillar profile, practitioner overview",
+      "description": "A short practitioner overview of Mesh Lagna by Pt. Raghav Sharma.",
+      "thumbnailUrl": "https://blog.vastucart.in/og/mesh-lagna-complete-guide.png",
+      "uploadDate": "2026-04-12T00:00:00.000Z",
+      "contentUrl": "https://blog.vastucart.in/posts/mesh-lagna-complete-guide/video.mp4",
+      "embedUrl": "https://blog.vastucart.in/posts/mesh-lagna-complete-guide/video.mp4",
+      "inLanguage": "en-IN",
+      "isFamilyFriendly": true
+    },
+    "item_list": {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "name": "Cluster posts for Mesh Lagna",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Sun in 1st house, Mesh Lagna",
+          "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-1st-house-aries-lagna"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vrishabha Lagna complete guide",
+          "url": "https://blog.vastucart.in/jyotish/lagna-profiles/vrishabha-lagna-complete-guide"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Mangal complete planet profile",
+          "url": "https://blog.vastucart.in/jyotish/graha-states/mangal-complete-guide"
+        }
+      ]
+    },
+    "table_dataset": {
+      "@context": "https://schema.org",
+      "@type": "Dataset",
+      "name": "Vimshottari Dasha sequence for Mesh Lagna natives",
+      "description": "Mahadasha durations and themes for the Mesh Lagna native, in the order they typically activate.",
+      "creator": { "@type": "Organization", "name": "VastuCart" },
+      "license": "https://vastucart.in/license",
+      "keywords": ["vimshottari", "mahadasha", "mesh lagna", "mangal", "dasha"],
+      "variableMeasured": ["mahadasha", "duration", "themes", "intensity"],
+      "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "text/html",
+        "contentUrl": "https://blog.vastucart.in/jyotish/lagna-profiles/mesh-lagna-complete-guide#dasha"
+      }
+    }
+  },
+  "content": [
+    {
+      "type": "stat-strip",
+      "cells": [
+        { "label": "Lagna",     "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
+        { "label": "Lord",      "value": "Mangal", "sub": "Mars", "icon": "sun" },
+        { "label": "Element",   "value": "Fire",  "sub": "Cardinal Agni", "icon": "triangle-house" },
+        { "label": "Quality",   "value": "Pillar", "sub": "108 cluster posts",  "icon": "star", "tone": "good" }
+      ]
+    },
+    {
+      "type": "prose",
+      "eyebrow": "Understanding the lagna",
+      "heading": "When Mars draws the first breath of the chart",
+      "html": "<p>Of the twelve lagnas, <em>Mesh</em> is the one that arrives in the room before its name is announced. The first sign of the zodiac, ruled by <em>Mangal</em> (Mars), cardinal fire by element and movable by quality, it sets the tone for how the entire chart will move through life. Wherever the lagna lord goes, the body follows, and Mangal does not sit quietly anywhere in a horoscope. Anyone with this rising sign carries an engine on the front of their chart that is designed to start moving before the destination has been agreed upon.</p><p>I have read more than two thousand Mesh Lagna charts in twenty two years of practice in Varanasi. The one consistent finding is this. These natives never need to be motivated, only directed. The energy is already there at birth. The work of the practitioner is to read where Mangal sits, what aspects fall on it, which house lords are friendly, and then point the existing fire toward the part of life where it will produce the most lasting good rather than burn itself out chasing whatever moved last.</p><p>This pillar profile holds together the 108 cluster posts on Mesh Lagna across this site. Every planet-in-house combination for an Aries native links back here, and from here you can reach each one. Treat it as the reference room you return to whenever a specific placement raises a question the cluster post answers in detail.</p>"
+    },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "A Mesh Lagna native is not waiting to be picked. The lagna lord is Mangal, and Mangal does not audition. He arrives, he works, he leaves a mark. The practitioner's job is to make sure the mark lands where the native intends it."
+    },
+    {
+      "type": "info-grid",
+      "cards": [
+        {
+          "icon": "mars",
+          "title": "Mesh, lagna profile",
+          "subtitle": "Cardinal fire, Mangal-ruled",
+          "items": [
+            { "k": "Sanskrit name", "v": "Mesh" },
+            { "k": "English name", "v": "Aries" },
+            { "k": "Element",       "v": "Fire (Agni Tattva)" },
+            { "k": "Quality",       "v": "Cardinal (Chara)" },
+            { "k": "Ruling planet", "v": "Mangal (Mars)" },
+            { "k": "Symbol",        "v": "Ram" },
+            { "k": "Direction",     "v": "East", "tone": "good" },
+            { "k": "Body parts",    "v": "Head, brain, face" }
+          ]
+        },
+        {
+          "icon": "sun",
+          "title": "House lordship table",
+          "subtitle": "Which planet rules which bhava for Mesh",
+          "items": [
+            { "k": "1st (Tanu)",   "v": "Mangal" },
+            { "k": "2nd (Dhana)",  "v": "Shukra" },
+            { "k": "5th (Putra)",  "v": "Surya", "tone": "good" },
+            { "k": "7th (Yuvati)", "v": "Shukra" },
+            { "k": "9th (Dharma)", "v": "Guru", "tone": "good" },
+            { "k": "10th (Karma)", "v": "Shani" },
+            { "k": "11th (Labha)", "v": "Shani" },
+            { "k": "12th (Vyaya)", "v": "Guru" }
+          ]
+        }
+      ]
+    },
+    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "prose",
+      "eyebrow": "Body and temperament",
+      "heading": "How a Mesh Lagna native is built",
+      "html": "<p>Physically, the Aries ascendant tends toward a medium frame with surprisingly dense bone structure for the height. The forehead is wide, the brow line emphatic, and the eyebrows often slightly arched and asymmetrical, which gives the face an alert quality even at rest. Scars on or near the head from a childhood fall are so common in this lagna that I now ask the question by the third minute of any Mesh consultation, and I am rarely wrong.</p><p>The temperament is direct without being cruel, fast without being careless, and impatient without being lazy. Conversation moves quickly, decisions land before others have finished evaluating, and the native often discovers they were right by the time the room is still debating. The shadow side of this is the assumption that everyone else is moving slowly because they are confused, when in many cases they are simply taking the time the situation actually deserves. Marrying speed to patience is the lifelong lesson for this lagna, and the natives who get there usually do so by their late thirties, after at least one major project has collapsed because the thinking did not keep pace with the doing.</p>"
+    },
+    {
+      "type": "effects-grid",
+      "eyebrow": "Strengths and weaknesses",
+      "heading": "What works and what tends to break",
+      "positive": [
+        "Initiative without prompting",
+        "Physical courage and stamina",
+        "Quick situational reading",
+        "Loyalty under pressure",
+        "Natural leadership voice",
+        "Recovery speed from setbacks"
+      ],
+      "negative": [
+        "Impatience that becomes anger",
+        "Over-confidence in unfamiliar terrain",
+        "Burns bridges in hot moments",
+        "Pitta excess, head injuries",
+        "Family friction from blunt speech",
+        "Loses interest after the launch"
+      ],
+      "career": [
+        "Engineering and infrastructure",
+        "Surgery, especially orthopaedic and cardiac",
+        "Military, police, defence",
+        "Sports and athletics",
+        "Real estate and construction",
+        "Entrepreneurship and ventures"
+      ]
+    },
+    {
+      "type": "prose",
+      "eyebrow": "Career and the tenth house",
+      "heading": "Where a Mesh Lagna native finally lands",
+      "html": "<p>The tenth house from <em>Mesh</em> is <em>Makar</em> (Capricorn), ruled by <em>Shani</em> (Saturn). Mars and Saturn are not natural friends, but in this lagna they are forced to cooperate, because Saturn carries the career and Mars carries the body. The healthier the working relationship between these two planets in the chart, the cleaner the career arc. When Mars gives Saturn its momentum and Saturn gives Mars its discipline, the result is a long, steady, public career with visible results. When the two fight, the native jumps roles every two years and never quite builds the institutional weight their abilities deserve.</p><p>Three career patterns recur in my consultation notes. The first is the engineer who becomes a project director in a public infrastructure body. The second is the surgeon who eventually heads a department, often in a government or trust hospital rather than a private one. The third is the founder who launches three to five small ventures in the twenties and consolidates the lessons into one substantial business by the early forties. The common thread is that the early career is faster than the peers, the middle career feels disorienting because the speed slows, and the late career rewards the discipline that the middle was forcing on the native.</p>"
+    },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Confirm your Mesh Lagna with a free birth chart",
+        "subtitle": "Generate your kundali on the free VastuCart tool with Lahiri ayanamsa.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    { "type": "divider", "gem": "teal" },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Mesh Lagna in the North Indian chart",
+      "planet": "Surya",
+      "house": 1,
+      "lagna": "Mesh",
+      "legend": [
+        { "color": "saffron", "text": "Mesh sits in the first house (Lagna) by definition" },
+        { "color": "white", "text": "12 houses in North Indian format, anti-clockwise" },
+        { "color": "teal", "text": "Central square is the 1st house (Tanu Bhava)" }
+      ],
+      "cta_label": "Generate your free kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    { "type": "divider", "gem": "rose" },
+    {
+      "type": "prose",
+      "eyebrow": "Marriage and the seventh house",
+      "heading": "Tula on the seventh, Venus across the table from Mars",
+      "html": "<p>The seventh house from <em>Mesh</em> is <em>Tula</em> (Libra), ruled by <em>Shukra</em> (Venus). Across the chart from a fiery cardinal lagna sits an airy cardinal house ruled by the planet of harmony, beauty, and negotiation. This is the most discussed marriage signature in classical Jyotish for one reason. Venus and Mars are natural opposites, and yet the marriage axis is constructed exactly along that opposition. Aries natives almost always marry someone whose temperament is the photo negative of their own. The dynamic is magnetic at the start, exhausting in the middle, and either deeply rewarding or quietly fatal by the end, depending on whether the native has learned to listen.</p><p>The most stable pairings in my casebook are <em>Dhanu</em> (Sagittarius), <em>Simha</em> (Leo), and <em>Kumbha</em> (Aquarius) lagnas. Dhanu and Simha share the fire element and bring warmth without competition. Kumbha brings the rare combination of detachment and loyalty that calms a Mesh partner without diminishing them. The most difficult pairings tend to be <em>Karka</em> (Cancer) and <em>Vrishchika</em> (Scorpio), where emotional weather meets fire and the Mesh native loses their footing. Manglik dosha must be examined seriously. If Mangal sits in the 1st, 4th, 7th, 8th, or 12th from the lagna, the matching protocol changes substantially.</p>"
+    },
+    {
+      "type": "dasha-table",
+      "eyebrow": "Vimshottari Dasha sequence",
+      "heading": "Which mahadasha shapes the Mesh native and when",
+      "intro_html": "<p>The Vimshottari sequence does not run the same for every native, but for Mesh Lagna there is a hierarchy of which periods produce the most signature life events. <em>Mangal</em> mahadasha activates the lagna lord directly. <em>Surya</em> mahadasha activates the fifth lord, the trine of intelligence and progeny. <em>Guru</em> mahadasha activates the ninth lord, the highest trikona. <em>Shani</em> mahadasha is mixed because Saturn rules both the tenth and the eleventh from Mesh.</p>",
+      "rows": [
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord period. Body, courage, ventures, brothers, conflict resolution.",
+          "intensity": "Very high",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#c94444",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "5th lord period. Authority, recognition, children, intelligence flowering.",
+          "intensity": "High",
+          "intensity_bar_width": 78,
+          "intensity_bar_color": "#e8840a"
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "9th lord period. Dharma, expansion, marriage, wealth from righteous means.",
+          "intensity": "Very good",
+          "intensity_bar_width": 88,
+          "intensity_bar_color": "#338a95"
+        },
+        {
+          "mahadasha": "Shani (Saturn)",
+          "duration": "19 years",
+          "themes": "10th and 11th lord period. Career consolidation, gains, slow steady ascent, heavy load.",
+          "intensity": "Mixed",
+          "intensity_bar_width": 60,
+          "intensity_bar_color": "#888888"
+        }
+      ]
+    },
+    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "prose",
+      "eyebrow": "Lagna lordship map",
+      "heading": "Why every house lord matters more for Mesh than you think",
+      "html": "<p>The first principle of Mesh Lagna analysis is that the lagna lord is <em>Mangal</em>, but the second principle is that no Mesh native is read by <em>Mangal</em> alone. The chart works as a network of house lords, and the specific lordships for an Aries ascendant create a configuration that classical texts call one of the cleanest rajyoga setups in the zodiac. The reason is mathematical, not mystical. <em>Surya</em> as the 5th lord is a trikona ruler. <em>Guru</em> as the 9th lord is the highest trikona ruler. <em>Mangal</em> himself rules the 1st (Tanu Bhava) which is both kendra and trikona simultaneously. When any of these planets sit in a kendra trikona configuration, the chart produces a textbook rajyoga without needing any unusual aspect.</p><p>This is why Surya 5th lord placements get more attention in a Mesh chart than they would in any other lagna. The Sun is not just a karaka of soul and father here, it is a trikona lord, and trikona lords are the active givers of fortune in Parashari Jyotish. Similarly, Guru 9th lord placements are the make-or-break of dharma, foreign travel, marriage, and inherited wealth. Shani 10th lord is the steadying weight on the career, and the way Saturn behaves in a Mesh chart is the single most predictive factor for when the native will reach their full professional ceiling. None of this is true for Vrishabha or Mithuna or any other lagna in the same way. The lordship map is what makes Mesh Lagna structurally lucky, and it is also what makes a poorly placed Surya, Guru, or Shani so much more painful here than the same placement would be in another lagna.</p>"
+    },
+    {
+      "type": "prose",
+      "eyebrow": "The wealth and gain houses",
+      "heading": "Dhana, the second house, and what Mangal mahadasha actually delivers",
+      "html": "<p>The second house from <em>Mesh</em> is <em>Vrishabha</em> (Taurus), ruled by <em>Shukra</em> (Venus), and the eleventh house is <em>Kumbha</em> (Aquarius), ruled by <em>Shani</em> (Saturn). These are the dhana and labha houses, the wealth and gain axis. In a Mesh chart, wealth tends to arrive in two distinct waves. The first is during <em>Mangal mahadasha</em>, the seven year period when the lagna lord activates and the native takes the entrepreneurial or professional risk that defines them. This is rarely the period of largest income but it is almost always the period that creates the income engine that pays out for the rest of life. The second wave is during the Sun antardasha inside Guru mahadasha, when recognition turns into title and title turns into compensation.</p><p>The Tula 7th house is also a wealth signature for Mesh Lagna natives because Venus rules both the second and the seventh, which is the classical signature of wealth through partnerships. Spouse, business partner, and investor often blend into the same person for an Aries native, and a chart with strong Venus delivers all three at once. The native's job is to keep the boundaries clean enough that any one of these relationships failing does not collapse the others. The remedies that compound wealth for Mesh Lagna natives are simple. Wear red coral consistently from a young age, recite Hanuman Chalisa every morning, treat every elder Venus figure (the spouse's mother, female mentors, female elders in the office) with the respect that classical texts reserve for one's own mother, and the second house and seventh house axis softens within a few dasha cycles into reliable steady gains.</p>"
+    },
+    {
+      "type": "prose",
+      "eyebrow": "Health and constitution",
+      "heading": "Pitta vata constitution, head and brow vulnerabilities",
+      "html": "<p>Mesh Lagna natives carry a pitta vata constitution by default, with pitta dominant and a clear secondary vata from the cardinal nature of the sign. Practitioners sometimes call any Mesh Lagna or Mesha lagna native a textbook pitta vata case. The combination produces strong digestion, fast metabolism, and a tendency to run hot in the upper body. Frontal headaches, sinus pressure, and hairline rashes are the early warning signs whenever pitta accumulates. The first house body parts are the head, the brain, and the face, which is why injuries to these areas are so frequent. Sports-related concussions, dental work for jaw trauma, and corrective procedures around the eye are the medical events I see most often in Mesh consultations.</p><p>The lifestyle adjustments that help most are also the simplest. Cool the head before cooling the body. Splash cold water on the forehead and the back of the neck twice a day. Avoid red meat in the evening when pitta is already accumulating. Schedule heavy mental work for the morning, never after sunset. And learn to recognise the moment when the body is asking to stop, because Mesh Lagna natives almost always blow past it the first three times before they listen.</p>"
+    },
+    {
+      "type": "prose",
+      "eyebrow": "Daily practice",
+      "heading": "What compounds across decades for a Mesh Lagna native",
+      "html": "<p>The single most effective daily practice for any Mesh Lagna native is the <em>Hanuman Chalisa</em>. Hanuman is the deity of Mangal in the puranic tradition, and forty verses recited at sunrise build a steady protective field around the lagna lord that no mantra of equal length can match. Tuesday is the day of Mangal. On Tuesdays, recite the Chalisa twice and visit a Hanuman temple if one is reachable. Avoid salt the entire day. Eat only one meal at noon, ideally moong dal khichdi with ghee, and drink water with a few drops of lemon and a pinch of jaggery in the evening if the body asks for cooling.</p><p>The charity specific to Mesh Lagna natives is the donation of red lentils, jaggery, and a copper coin to a labourer or a sportsperson on Tuesday at sunrise. Do this with your own hand, do not delegate it. The practice of donating to people whose bodies do the work the native admires resolves the lagna karma in a way that monetary donation alone does not. Within six to twelve months of consistent practice, the heat of the lagna begins to soften into a quieter authority, the head injuries stop, and the relationships in the family that were tense begin to loosen.</p>"
+    },
+    {
+      "type": "gemstone",
+      "eyebrow": "Ratna (Gemstone)",
+      "heading": "Gemstones for Mesh Lagna natives",
+      "intro_html": "<p>The lagna gemstone for any native is the stone of the lagna lord. For Mesh Lagna, that is red coral (<em>Moonga</em>), the gemstone of <em>Mangal</em>. Yellow sapphire (<em>Pukhraj</em>) is the second most important stone, since Guru is the ninth lord and yogakaraka. Always test for seven days before permanent wearing and consult a practitioner who has reviewed your full chart.</p>",
+      "cards": [
+        {
+          "name": "Moonga (Red Coral)",
+          "role": "primary",
+          "sub": "Lagna lord gemstone, strengthens Mangal",
+          "icon_variant": "ruby",
+          "image_slug": "red-coral",
+          "items": [
+            { "k": "Metal", "v": "Copper or panchdhatu" },
+            { "k": "Finger", "v": "Ring finger, right hand" },
+            { "k": "Day to wear", "v": "Tuesday, sunrise" },
+            { "k": "Min weight", "v": "5 to 7 Ratti" }
+          ]
+        },
+        {
+          "name": "Pukhraj (Yellow Sapphire)",
+          "role": "secondary",
+          "sub": "9th lord Guru, dharma trikona",
+          "icon_variant": "saphire",
+          "image_slug": "yellow-sapphire",
+          "items": [
+            { "k": "Metal", "v": "Gold (24 carat)" },
+            { "k": "Finger", "v": "Index finger, right hand" },
+            { "k": "Day to wear", "v": "Thursday, Guru hora" },
+            { "k": "Min weight", "v": "3 to 5 Ratti" }
+          ]
+        },
+        {
+          "name": "Consult before wearing Moonga",
+          "role": "shop",
+          "sub": "1-on-1 chart review by Pt. Raghav Sharma",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
+      ],
+      "disclaimer": "Gemstone recommendations are based on classical Jyotish principles. Always consult a qualified Jyotishi who has reviewed your full birth chart before wearing any gemstone. Effects vary based on chart strength, dasha periods, and individual constitution. Do not substitute gemstone therapy for medical treatment."
+    },
+    { "type": "divider", "gem": "rose" },
+    {
+      "type": "rudraksha",
+      "eyebrow": "Rudraksha",
+      "heading": "Rudraksha beads for Mesh Lagna",
+      "intro_html": "<p>The lagna-balancing rudraksha for Mesh Lagna natives is the Teen Mukhi (three-faced), ruled by Agni and tied to Mangal energy. A combination with Gauri Shankar rudraksha is recommended for marital harmony given the Tula seventh house dynamics.</p>",
+      "beads": [
+        {
+          "mukhi": 3,
+          "name": "Teen Mukhi Rudraksha",
+          "sub": "Ruled by Agni, balances Mangal lagna lord",
+          "benefit": "Cools excess pitta, controls anger, supports Mangal in benefic mode. Worn on Tuesday after abhishek with gangajal."
+        },
+        {
+          "mukhi": 6,
+          "name": "Gauri Shankar Rudraksha",
+          "sub": "For marital harmony given Tula 7th house",
+          "benefit": "Balances Mars-Venus opposition across the marriage axis. Recommended for Mesh Lagna natives in committed relationships or seeking marriage."
+        }
+      ]
+    },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the full prayer beads and rosary collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Mangal Yantra for the lagna lord",
+      "yantra": {
+        "name": "Mangal Yantra",
+        "sanskrit": "मंगल यन्त्र",
+        "description": "The Mangal Yantra is the geometric form of Mars energy. Installing this yantra in the south direction of your home or workspace stabilises the lagna lord and strengthens courage, vitality and resolve. Especially supportive for Mesh Lagna natives during Mangal mahadasha or any antardasha of Mangal.",
+        "direction": "South wall",
+        "install_day": "Tuesday, sunrise",
+        "material": "Copper",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    { "type": "divider", "gem": "teal" },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Mesh Lagna",
+      "stotra": {
+        "eyebrow": "Hanuman Chalisa, the foundational practice",
+        "title": "Hanuman Chalisa",
+        "sub": "Forty verses by Tulsidas, the daily practice for Mangal strengthening",
+        "verse": "Shri Guru charan saroj raj, nij man mukur sudhari<br>Baranau Raghubar bimal jasu, jo dayaku phal chari<br>Buddhi-hin tanu janike, sumirau Pavan-kumar<br>Bal budhi vidya dehu mohi, harahu kalesh bikar",
+        "translation": "Cleansing the mirror of my heart with the dust from the lotus feet of my Guru, I sing the unblemished glory of Lord Rama, the giver of the four fruits of life. Knowing my body to be without intelligence, I remember the son of Pavan. Grant me strength, intelligence, and knowledge, and remove all my afflictions and impurities.",
+        "url": "https://stotra.vastucart.in/deity/surya"
+      }
+    },
+    { "type": "divider", "gem": "rose" },
+    {
+      "type": "internal-links",
+      "eyebrow": "VastuCart Tools Network",
+      "heading": "Tools personalised for Mesh Lagna natives",
+      "data": {
+        "title": "VastuCart Tools",
+        "tools": [
+          {
+            "label": "Free Kundali generator",
+            "sub": "Generate your full birth chart, free",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Lagna (Ascendant) calculator",
+            "sub": "Confirm your Mesh Lagna with Lahiri ayanamsa",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Mesh Rashi daily horoscope",
+            "sub": "Today's prediction for Aries natives",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Marriage Muhurta",
+            "sub": "Wedding muhurta windows for the year",
+            "url": "https://muhurta.vastucart.in/marriage-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Stotras by deity",
+            "sub": "Hanuman, Mars, Surya stotra collections",
+            "url": "https://stotra.vastucart.in/deity",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Rudraksha malas at the store",
+            "sub": "Authentic prayer beads and rosaries",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Yantras for prosperity & protection",
+            "sub": "Mangal yantra, navagraha yantra",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal Jyotish consultation",
+            "sub": "1-on-1 chart review with Pt. Raghav Sharma",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta-band",
+      "data": {
+        "title": "Confirm your Mesh Lagna and read your full chart",
+        "subtitle": "Generate a free Kundali, then consult a senior Jyotishi for the personalised remedies that this pillar profile cannot give for your specific birth time.",
+        "buttons": [
+          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
+          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
+          { "label": "Hanuman Chalisa & Mars stotras", "url": "https://stotra.vastucart.in/deity", "variant": "outline" }
+        ]
+      }
+    },
+    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "faq",
+      "eyebrow": "Frequently asked questions",
+      "heading": "Questions about Mesh Lagna",
+      "items": [
+        {
+          "q": "What does Mesh Lagna mean and who is born under it?",
+          "a": "Mesh Lagna is the Sanskrit name for Aries ascendant, the first sign of the zodiac rising on the eastern horizon at the moment of birth. A native is born under Mesh Lagna when this cardinal fire sign occupies the first house of their birth chart. The lagna is fixed by the exact birth time and place, not by the sun sign, which is why two people born on the same day in different cities can carry entirely different lagnas."
+        },
+        {
+          "q": "Which planet rules Mesh Lagna and why does it matter?",
+          "a": "Mangal (Mars) rules Mesh Lagna. The lagna lord governs the body, the personality template, and the overall life direction, so wherever Mangal sits in your chart becomes the centre of gravity for your lifetime. Mangal in good shape gives initiative, courage, and physical vitality. Mangal afflicted creates impatience, accidents, and family friction. Strengthening Mangal through coral, mantra, and Hanuman worship is the foundational remedy for every Aries ascendant native."
+        },
+        {
+          "q": "What is the best career for Mesh Lagna natives?",
+          "a": "Engineering, military, surgery, sports, real estate, manufacturing, and entrepreneurship suit Mesh Lagna best. Saturn rules the tenth house for Mesh, which favours disciplined institutional careers, while Mars on the lagna gives the courage to lead them. The combination produces natives who rise through structures rather than around them. Career peaks usually fall during Mangal mahadasha or in the Sun antardasha inside Guru mahadasha."
+        },
+        {
+          "q": "Which gemstone should a Mesh Lagna native wear?",
+          "a": "Red coral (Moonga) is the primary gemstone for every Mesh Lagna native because it strengthens Mangal, the lagna lord. It should be natural, untreated, minimum five ratti, set in copper or panchdhatu, worn on the ring finger of the right hand on a Tuesday at sunrise after Mangal mantra recitation. Yellow sapphire (Pukhraj) is a powerful secondary stone since Guru is the ninth lord and a yogakaraka for this lagna."
+        },
+        {
+          "q": "How does Mesh Lagna handle marriage and partnerships?",
+          "a": "The seventh house for Mesh Lagna falls in Tula (Libra), ruled by Shukra (Venus). Venus and Mars are natural opposites, which is why Aries natives often marry partners from completely different temperaments and find the dynamic both magnetic and exhausting. The most stable pairings are with Dhanu, Simha, and Kumbha lagnas. Manglik dosha must be checked carefully since Mars rules the lagna and any aspect on the seventh house intensifies it."
+        },
+        {
+          "q": "Which dasha periods are most powerful for Mesh Lagna?",
+          "a": "Mangal mahadasha (seven years) activates the lagna lord directly and is the foundational career-shaping window for any Mesh native. Surya mahadasha (six years) brings recognition because Sun is the fifth lord, ruling intelligence and progeny. Guru mahadasha (sixteen years) is the longest favourable phase since Jupiter is the ninth lord, the most auspicious trikona. Shani mahadasha (nineteen years) is mixed because Saturn rules the tenth and the eleventh, bringing slow disciplined gains alongside heavy responsibility."
+        }
+      ]
+    },
+    { "type": "divider", "gem": "teal" },
+    {
+      "type": "author",
+      "author": {
+        "author_id": "pt-raghav-sharma",
+        "title_line": "Senior Jyotishi, Vedic Astrology",
+        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Lagna analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "badges": [
+          { "label": "Vedic Astrology", "tone": "teal" },
+          { "label": "Lagna analysis specialist", "tone": "saff" },
+          { "label": "22 years practice", "tone": "rose" }
+        ],
+        "meta": [
+          { "icon": "calendar", "text": "400+ articles" },
+          { "icon": "star", "text": "Varanasi Jyotish lineage" },
+          { "icon": "clock", "text": "Updated April 2026" }
+        ]
+      }
+    },
+    { "type": "divider", "gem": "rose" },
+    {
+      "type": "related-posts",
+      "eyebrow": "Cluster posts under this pillar",
+      "heading": "Continue with the Mesh Lagna cluster",
+      "posts": [
+        {
+          "title": "Sun in 1st house, Mesh Lagna",
+          "sub": "Surya in Pratham Bhava for Aries",
+          "href": "/jyotish/graha-in-bhava/sun-1st-house-aries-lagna",
+          "icon_variant": "sun"
+        },
+        {
+          "title": "Vrishabha Lagna complete guide",
+          "sub": "The next lagna in the zodiac wheel",
+          "href": "/jyotish/lagna-profiles/vrishabha-lagna-complete-guide",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Mangal complete planet profile",
+          "sub": "Mars across every lagna and house",
+          "href": "/jyotish/graha-states/mangal-complete-guide",
+          "icon_variant": "generic"
+        }
+      ]
+    }
+  ]
+}

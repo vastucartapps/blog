@@ -1,0 +1,151 @@
+// VastuCart Blog — Prisma schema
+// All fields align with lib/types.ts ArticlePost contract.
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Post {
+  id                 String      @id @default(cuid())
+  slug               String      @unique
+  title              String
+  title_hindi        String?
+  subtitle           String
+  category           String
+  subcategory        String
+  template           String
+
+  // content
+  content_json       Json
+  content_html       String      @db.Text
+
+  // SEO
+  meta_title         String
+  meta_description   String
+  focus_keyword      String
+  secondary_keywords String[]
+  lsi_keywords       String[]
+  tags               String[]
+
+  // Schema
+  schema_json        Json
+
+  // Taxonomy links
+  planet_id          String?
+  sign_id            String?
+  house_number       Int?
+  lagna_id           String?
+  nakshatra_id       String?
+
+  // Author
+  author_id          String
+  author             Author      @relation(fields: [author_id], references: [id])
+
+  // Status and scheduling
+  status             PostStatus  @default(DRAFT)
+  scheduled_at       DateTime?
+  published_at       DateTime?
+  created_at         DateTime    @default(now())
+  updated_at         DateTime    @updatedAt
+
+  // Analytics
+  view_count         Int         @default(0)
+  reading_time_min   Int         @default(8)
+
+  // SEO signals
+  internal_links     Json?
+  related_post_ids   String[]
+
+  @@index([category, subcategory])
+  @@index([status, scheduled_at])
+  @@index([planet_id, house_number, lagna_id])
+  @@index([published_at])
+}
+
+model Author {
+  id                String    @id
+  name              String
+  title             String
+  initials          String
+  avatar_url        String?
+  avatar_gradient   String
+  bio               String    @db.Text
+  specialization    String[]
+  categories        String[]
+  experience_years  Int
+  location          String
+  lineage           String?
+  article_count     Int       @default(0)
+  schema_same_as    String[]
+  posts             Post[]
+  created_at        DateTime  @default(now())
+}
+
+model Category {
+  id            String    @id
+  slug          String    @unique
+  label         String
+  label_hindi   String
+  description   String
+  icon_name     String
+  color_var     String
+  author_id     String
+  sort_order    Int
+  subcategories Json
+  post_count    Int       @default(0)
+}
+
+model GenerationJob {
+  id             String     @id @default(cuid())
+  template       String
+  params         Json
+  status         JobStatus  @default(PENDING)
+  attempts       Int        @default(0)
+  result_post_id String?
+  error          String?
+  created_at     DateTime   @default(now())
+  processed_at   DateTime?
+
+  @@index([status, created_at])
+}
+
+model ScheduleLog {
+  id              String    @id @default(cuid())
+  run_at          DateTime  @default(now())
+  posts_published Int
+  post_ids        String[]
+  status          String
+  error           String?
+}
+
+model SearchIndex {
+  id            String   @id
+  slug          String   @unique
+  title         String
+  content_plain String   @db.Text
+  tags          String[]
+  category      String
+  published_at  DateTime
+}
+
+enum PostStatus {
+  DRAFT
+  GENERATING
+  GENERATED
+  REVIEWING
+  SCHEDULED
+  PUBLISHED
+  FAILED
+}
+
+enum JobStatus {
+  PENDING
+  PROCESSING
+  DONE
+  FAILED
+}

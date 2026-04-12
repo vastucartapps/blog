@@ -1,0 +1,97 @@
+import type { Metadata } from "next";
+import { notFound } from "next/navigation";
+import { Header } from "@/components/layout/Header";
+import { Footer } from "@/components/layout/Footer";
+import { CategoryHero } from "@/components/listing/CategoryHero";
+import { SubcategoryChips } from "@/components/listing/SubcategoryChips";
+import { PostGrid } from "@/components/listing/PostGrid";
+import { CATEGORIES, getCategory, getSubcategory } from "@/lib/categories";
+import { getPostsBySubcategory } from "@/lib/content";
+import { absoluteUrl, SITE_URL } from "@/lib/utils";
+import type { IconName } from "@/components/ui/Icon";
+
+interface Params { category: string; subcategory: string; }
+
+export function generateStaticParams() {
+  return CATEGORIES.flatMap((c) =>
+    c.subcategories.map((s) => ({ category: c.slug, subcategory: s.slug }))
+  );
+}
+
+export async function generateMetadata({ params }: { params: Promise<Params> }): Promise<Metadata> {
+  const { category, subcategory } = await params;
+  const cat = getCategory(category);
+  const sub = getSubcategory(category, subcategory);
+  if (!cat || !sub) return {};
+  const url = absoluteUrl(`/${cat.slug}/${sub.slug}`);
+  return {
+    title: `${sub.label}, ${cat.label} Articles`,
+    description: sub.description,
+    alternates: { canonical: url },
+    openGraph: { title: sub.label, description: sub.description, url, type: "website" },
+  };
+}
+
+export default async function SubcategoryPage({ params }: { params: Promise<Params> }) {
+  const { category, subcategory } = await params;
+  const cat = getCategory(category);
+  const sub = getSubcategory(category, subcategory);
+  if (!cat || !sub) notFound();
+  const posts = getPostsBySubcategory(cat.slug, sub.slug);
+  const breadcrumb = [
+    { label: "Home", href: "/" },
+    { label: cat.label, href: `/${cat.slug}` },
+    { label: sub.label, href: `/${cat.slug}/${sub.slug}` },
+  ];
+
+  const collection = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: `${sub.label}, ${cat.label}`,
+    description: sub.description,
+    url: `${SITE_URL}/${cat.slug}/${sub.slug}`,
+  };
+  const crumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: breadcrumb.map((b, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: b.label,
+      item: `${SITE_URL}${b.href}`,
+    })),
+  };
+
+  return (
+    <>
+      <Header />
+      <main>
+        <CategoryHero
+          breadcrumb={breadcrumb}
+          eyebrow={cat.label}
+          label={sub.label}
+          labelHindi={sub.label_hindi}
+          description={sub.description}
+          icon={cat.icon_name as IconName}
+          postCount={posts.length}
+          category={cat.id}
+        />
+        <div className="wrap-wide" style={{ paddingTop: "3.5rem", paddingBottom: "4rem" }}>
+          <div style={{ marginBottom: "2.5rem" }}>
+            <SubcategoryChips
+              categorySlug={cat.slug}
+              subs={cat.subcategories}
+              active={sub.slug}
+            />
+          </div>
+          <PostGrid posts={posts} categoryLabel={cat.label} />
+        </div>
+      </main>
+      <Footer />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify([collection, crumb]) }}
+      />
+    </>
+  );
+}
