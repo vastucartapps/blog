@@ -150,12 +150,9 @@ function audit(post: PostJSON): { score: number; issues: string[] } {
     }
   }
 
-  // Schema entity count
-  const schemaCount = Object.keys(post.schema ?? {}).length;
-  if (schemaCount < 18) {
-    issues.push(`schema entity count ${schemaCount}, want 22`);
-    score -= 5;
-  }
+  // Schema entity check moved to validate-post.ts which uses
+  // buildPostSchema() (the single source of truth). post.schema is
+  // legacy and may be empty — that's fine.
 
   return { score: Math.max(0, score), issues };
 }
