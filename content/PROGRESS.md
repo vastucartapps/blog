@@ -9,7 +9,7 @@ of what any other doc claims.
 | Group | Done | Target | % |
 |---|---|---|---|
 | Lagna pillars | 1 | 12 | 8% |
-| Mesh cluster (graha-in-bhava) | 19 | 108 | 18% |
+| Mesh cluster (graha-in-bhava) | 20 | 108 | 19% |
 | Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
@@ -48,7 +48,7 @@ The matrix below is the gate.
 | 1st  | ✓  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 2nd  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
 | 3rd  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  |
-| 4th  | ✗  | ✓  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
+| 4th  | ✗  | ✓  | ✓  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
 | 5th  | ✓  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
 | 6th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 7th  | ✓  | ✓  | ✓  | ✗  | ✗  | ✓  | ✓  | ✗  | ✗  |
@@ -89,6 +89,14 @@ The matrix below is the gate.
 
 **Phase 4 COMPLETE — 6/6 high-signal non-dignity placements published.**
 
+### Phase 5 batch (in progress — Mars column completion)
+- [x] Mars in 4th house `mars-4th-house-aries-lagna` ← debilitated Karka, lagna lord neecha
+- [ ] Mars in 3rd house `mars-3rd-house-aries-lagna` ← Upachaya, Vikrama Sthana
+- [ ] Mars in 11th house `mars-11th-house-aries-lagna` ← gains house Upachaya
+- [ ] Mars in 6th house `mars-6th-house-aries-lagna` ← enemies house Upachaya
+- [ ] Mars in 9th house `mars-9th-house-aries-lagna` ← Dhanu friend sign, dharma
+- [ ] Mars in 5th house `mars-5th-house-aries-lagna` ← Simha friend sign, creativity
+
 ---
 
 ## Vrishabha Lagna cluster matrix (target: 1 pillar + 108)
@@ -117,6 +125,7 @@ before the previous one is at 109/109)
 | `rahu-10th-house-aries-lagna` | planet-in-house | 2280 | 100/100 | ✓ all gates | 2026-04-13 |
 | `jupiter-5th-house-aries-lagna` | planet-in-house | 2320 | 100/100 | ✓ all gates | 2026-04-13 |
 | `moon-7th-house-aries-lagna` | planet-in-house | 2150 | 100/100 | ✓ all gates | 2026-04-13 |
+| `mars-4th-house-aries-lagna` | planet-in-house | 2150 | 100/100 | ✓ all gates | 2026-04-13 |
 
 ---
 
