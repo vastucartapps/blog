@@ -9,7 +9,7 @@ of what any other doc claims.
 | Group | Done | Target | % |
 |---|---|---|---|
 | Lagna pillars | 1 | 12 | 8% |
-| Mesh cluster (graha-in-bhava) | 31 | 108 | 29% |
+| Mesh cluster (graha-in-bhava) | 32 | 108 | 30% |
 | Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
@@ -46,7 +46,7 @@ The matrix below is the gate.
 | House | Surya | Chandra | Mangal | Budha | Guru | Shukra | Shani | Rahu | Ketu |
 |---|---|---|---|---|---|---|---|---|---|
 | 1st  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
-| 2nd  | ✗  | ✗  | ✓  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
+| 2nd  | ✗  | ✗  | ✓  | ✗  | ✓  | ✓  | ✗  | ✗  | ✗  |
 | 3rd  | ✗  | ✗  | ✓  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 4th  | ✗  | ✓  | ✓  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
 | 5th  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
@@ -106,7 +106,7 @@ The matrix below is the gate.
 - [x] Jupiter in 7th house `jupiter-7th-house-aries-lagna` ← 9L kendra, best-spouse placement
 - [x] Jupiter in 10th house `jupiter-10th-house-aries-lagna` ← debilitated Makara, dharma-karma yoga
 - [x] Jupiter in 11th house `jupiter-11th-house-aries-lagna` ← Labha Bhava ethical wealth
-- [ ] Jupiter in 2nd house `jupiter-2nd-house-aries-lagna`
+- [x] Jupiter in 2nd house `jupiter-2nd-house-aries-lagna` ← Dhana Bhava honey-tongued speech
 - [ ] Jupiter in 3rd house `jupiter-3rd-house-aries-lagna`
 - [ ] Jupiter in 6th house `jupiter-6th-house-aries-lagna`
 - [ ] Jupiter in 7th house `jupiter-7th-house-aries-lagna`
@@ -156,6 +156,7 @@ before the previous one is at 109/109)
 | `jupiter-7th-house-aries-lagna` | planet-in-house | 2150 | 100/100 | ✓ all gates | 2026-04-13 |
 | `jupiter-10th-house-aries-lagna` | planet-in-house | 2200 | 100/100 | ✓ all gates | 2026-04-13 |
 | `jupiter-11th-house-aries-lagna` | planet-in-house | 2150 | 100/100 | ✓ all gates | 2026-04-13 |
+| `jupiter-2nd-house-aries-lagna` | planet-in-house | 2150 | 100/100 | ✓ all gates | 2026-04-13 |
 
 ---
 
