@@ -9,7 +9,7 @@ of what any other doc claims.
 | Group | Done | Target | % |
 |---|---|---|---|
 | Lagna pillars | 1 | 12 | 8% |
-| Mesh cluster (graha-in-bhava) | 22 | 108 | 20% |
+| Mesh cluster (graha-in-bhava) | 23 | 108 | 21% |
 | Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
@@ -50,7 +50,7 @@ The matrix below is the gate.
 | 3rd  | ✗  | ✗  | ✓  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 4th  | ✗  | ✓  | ✓  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
 | 5th  | ✓  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
-| 6th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 6th  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 7th  | ✓  | ✓  | ✓  | ✗  | ✗  | ✓  | ✓  | ✗  | ✗  |
 | 8th  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 9th  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
@@ -93,7 +93,7 @@ The matrix below is the gate.
 - [x] Mars in 4th house `mars-4th-house-aries-lagna` ← debilitated Karka, lagna lord neecha
 - [x] Mars in 3rd house `mars-3rd-house-aries-lagna` ← Upachaya Parakrama, karaka-in-karaka
 - [x] Mars in 11th house `mars-11th-house-aries-lagna` ← Labha Bhava wealth + vipareet yoga
-- [ ] Mars in 6th house `mars-6th-house-aries-lagna` ← enemies house Upachaya
+- [x] Mars in 6th house `mars-6th-house-aries-lagna` ← Ripu Bhava enemy destroyer + 8L-in-6H Vipareet Yoga
 - [ ] Mars in 9th house `mars-9th-house-aries-lagna` ← Dhanu friend sign, dharma
 - [ ] Mars in 5th house `mars-5th-house-aries-lagna` ← Simha friend sign, creativity
 
@@ -128,6 +128,7 @@ before the previous one is at 109/109)
 | `mars-4th-house-aries-lagna` | planet-in-house | 2150 | 100/100 | ✓ all gates | 2026-04-13 |
 | `mars-3rd-house-aries-lagna` | planet-in-house | 2000 | 100/100 | ✓ all gates | 2026-04-13 |
 | `mars-11th-house-aries-lagna` | planet-in-house | 2050 | 100/100 | ✓ all gates | 2026-04-13 |
+| `mars-6th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-13 |
 
 ---
 
