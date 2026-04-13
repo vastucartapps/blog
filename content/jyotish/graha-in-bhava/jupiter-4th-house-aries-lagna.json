@@ -190,8 +190,8 @@
       "heading": "Gemstones for Hamsa Yoga Mesh Lagna",
       "intro_html": "<p>The primary stone for Hamsa Yoga is natural yellow sapphire (Pukhraj). Yellow topaz is the secondary option.</p>",
       "cards": [
-        { "name": "Pukhraj (Yellow Sapphire)", "role": "primary", "sub": "Hamsa Yoga gemstone", "icon_variant": "saphire", "image_slug": "yellow-sapphire-4th", "items": [ { "k": "Metal", "v": "Gold (24 carat preferred)" }, { "k": "Finger", "v": "Index finger, right hand" }, { "k": "Day to wear", "v": "Thursday, sunrise" }, { "k": "Min weight", "v": "4 to 6 Ratti" } ] },
-        { "name": "Yellow Topaz (alt)", "role": "secondary", "sub": "Affordable Jupiter-aligned stone", "icon_variant": "saphire", "image_slug": "yellow-topaz-hamsa", "items": [ { "k": "Metal", "v": "Gold" }, { "k": "Finger", "v": "Index finger" }, { "k": "Day to wear", "v": "Thursday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
+        { "name": "Pukhraj (Yellow Sapphire)", "role": "primary", "sub": "Hamsa Yoga gemstone", "icon_variant": "saphire", "image_slug": "yellow-sapphire", "items": [ { "k": "Metal", "v": "Gold (24 carat preferred)" }, { "k": "Finger", "v": "Index finger, right hand" }, { "k": "Day to wear", "v": "Thursday, sunrise" }, { "k": "Min weight", "v": "4 to 6 Ratti" } ] },
+        { "name": "Yellow Topaz (alt)", "role": "secondary", "sub": "Affordable Jupiter-aligned stone", "icon_variant": "saphire", "image_slug": "yellow-sapphire", "items": [ { "k": "Metal", "v": "Gold" }, { "k": "Finger", "v": "Index finger" }, { "k": "Day to wear", "v": "Thursday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
         { "name": "Hamsa yoga consultation", "role": "shop", "sub": "1-on-1 with Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
       ],
       "disclaimer": "Always consult a qualified Jyotishi before permanent wearing."

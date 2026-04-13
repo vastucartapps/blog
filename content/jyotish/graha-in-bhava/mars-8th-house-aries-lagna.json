@@ -172,7 +172,7 @@
       "heading": "Gemstones for Mars in 8th house Mesh Lagna",
       "intro_html": "<p>The primary stone is red coral (Moonga). Hessonite (Gomed) is a cautious secondary option for Rahu-Mars combinations.</p>",
       "cards": [
-        { "name": "Moonga (Red Coral)", "role": "primary", "sub": "Mangal swakshetra gemstone", "icon_variant": "ruby", "image_slug": "red-coral-8th", "items": [ { "k": "Metal", "v": "Copper or panchdhatu" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Tuesday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
+        { "name": "Moonga (Red Coral)", "role": "primary", "sub": "Mangal swakshetra gemstone", "icon_variant": "ruby", "image_slug": "red-coral", "items": [ { "k": "Metal", "v": "Copper or panchdhatu" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Tuesday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
         { "name": "Hessonite (alt)", "role": "secondary", "sub": "For Rahu-Mars combinations", "icon_variant": "saphire", "image_slug": "hessonite", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Middle finger" }, { "k": "Day to wear", "v": "Saturday, sunrise" }, { "k": "Min weight", "v": "7 to 9 Ratti" } ] },
         { "name": "Consult before wearing", "role": "shop", "sub": "1-on-1 chart review", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
       ],

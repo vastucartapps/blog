@@ -427,7 +427,7 @@
           "role": "secondary",
           "sub": "Affordable Saturn-aligned stone",
           "icon_variant": "saphire",
-          "image_slug": "amethyst",
+          "image_slug": "blue-sapphire",
           "items": [
             { "k": "Metal", "v": "Silver" },
             { "k": "Finger", "v": "Middle finger" },
@@ -503,7 +503,7 @@
         "sub": "The hymn King Dasaratha sang to Saturn, the foundational practice for Saturn-strengthened natives",
         "verse": "Namah krishnaya nilaya shitikanthanibhaya cha<br>Namah kalagnirupaya kritantaya cha vai namah<br>Namo nirmamsadehaya dirghashmashruajataya cha<br>Namo vishalanetraya shushkodaraya vai namah",
         "translation": "Salutations to the dark one, the blue-throated one, the one resembling the fire of time. Salutations to the lean-bodied one, the long-bearded one, the wide-eyed one with a hollow stomach.",
-        "url": "https://stotra.vastucart.in/stotra/shani-stotram"
+        "url": "https://stotra.vastucart.in/stotra/shani-stotra"
       }
     },
     { "type": "divider", "gem": "rose" },
@@ -518,7 +518,7 @@
           { "label": "Lagna calculator", "sub": "Confirm your Mesh Lagna", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
           { "label": "Marriage Muhurta", "sub": "Auspicious wedding dates", "url": "https://muhurta.vastucart.in/marriage-muhurta", "icon": "muhurta", "icon_variant": "saff" },
           { "label": "Aries daily forecast", "sub": "Today's prediction for Aries natives", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Shani Stotram", "sub": "Classical stotra to Shani Dev", "url": "https://stotra.vastucart.in/stotra/shani-stotram", "icon": "stotra", "icon_variant": "teal" },
+          { "label": "Shani Stotram", "sub": "Classical stotra to Shani Dev", "url": "https://stotra.vastucart.in/stotra/shani-stotra", "icon": "stotra", "icon_variant": "teal" },
           { "label": "Shani Kavacham", "sub": "Protective armour stotra", "url": "https://stotra.vastucart.in/stotra/shani-kavacham", "icon": "stotra", "icon_variant": "saff" },
           { "label": "Saat Mukhi rudraksha source", "sub": "Saat Mukhi and Chaudha Mukhi", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
           { "label": "Shani yantra and navagraha", "sub": "Shani yantra, navagraha", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
@@ -534,7 +534,7 @@
         "buttons": [
           { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
           { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Shani Stotram & Chalisa", "url": "https://stotra.vastucart.in/stotra/shani-stotram", "variant": "outline" }
+          { "label": "Shani Stotram & Chalisa", "url": "https://stotra.vastucart.in/stotra/shani-stotra", "variant": "outline" }
         ]
       }
     },

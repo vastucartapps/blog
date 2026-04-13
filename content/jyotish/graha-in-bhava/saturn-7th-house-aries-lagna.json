@@ -184,8 +184,8 @@
       "heading": "Gemstones for Sasa Yoga Mesh Lagna",
       "intro_html": "<p>The primary stone for Sasa Yoga is natural blue sapphire (Neelam). Amethyst is the safer secondary option for natives who cannot pass the Neelam test.</p>",
       "cards": [
-        { "name": "Neelam (Blue Sapphire)", "role": "primary", "sub": "Sasa Yoga gemstone, most reactive", "icon_variant": "saphire", "image_slug": "blue-sapphire-7th", "items": [ { "k": "Metal", "v": "Panchdhatu or silver" }, { "k": "Finger", "v": "Middle finger, right hand" }, { "k": "Day to wear", "v": "Saturday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Amethyst (alt)", "role": "secondary", "sub": "Gentle Saturn-aligned stone", "icon_variant": "saphire", "image_slug": "amethyst-sasa", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Middle finger" }, { "k": "Day to wear", "v": "Saturday, sunrise" }, { "k": "Min weight", "v": "7 to 10 Ratti" } ] },
+        { "name": "Neelam (Blue Sapphire)", "role": "primary", "sub": "Sasa Yoga gemstone, most reactive", "icon_variant": "saphire", "image_slug": "blue-sapphire", "items": [ { "k": "Metal", "v": "Panchdhatu or silver" }, { "k": "Finger", "v": "Middle finger, right hand" }, { "k": "Day to wear", "v": "Saturday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
+        { "name": "Amethyst (alt)", "role": "secondary", "sub": "Gentle Saturn-aligned stone", "icon_variant": "saphire", "image_slug": "blue-sapphire", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Middle finger" }, { "k": "Day to wear", "v": "Saturday, sunrise" }, { "k": "Min weight", "v": "7 to 10 Ratti" } ] },
         { "name": "Sasa yoga consultation", "role": "shop", "sub": "1-on-1 with Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
       ],
       "disclaimer": "Blue sapphire is the most reactive gemstone in Jyotish. Seven-day test under practitioner supervision is mandatory before permanent wearing."
@@ -205,7 +205,7 @@
     { "type": "divider", "gem": "saffron" },
     { "type": "yantra", "eyebrow": "Yantra", "heading": "Shani Yantra for Sasa activation", "yantra": { "name": "Shani Yantra", "sanskrit": "शनि यन्त्र", "description": "Install the Shani Yantra on the west wall of your office or professional workspace. For Sasa Yoga natives this yantra is particularly effective when energised during Shani antardasha windows.", "direction": "West wall", "install_day": "Saturday, sunrise", "material": "Iron or copper", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
     { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Shani", "stotra": { "eyebrow": "Shani Stotram", "title": "Shani Stotram", "sub": "Classical hymn for Sasa Yoga activation", "verse": "Namah krishnaya nilaya shitikanthanibhaya cha<br>Namah kalagnirupaya kritantaya cha vai namah<br>Namo nirmamsadehaya dirghashmashruajataya cha<br>Namo vishalanetraya shushkodaraya vai namah", "translation": "Salutations to the dark one, the blue-throated one, the one resembling the fire of time. Salutations to the lean-bodied one, the long-bearded one, the wide-eyed one with a hollow stomach.", "url": "https://stotra.vastucart.in/stotra/shani-stotram" } },
+    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Shani", "stotra": { "eyebrow": "Shani Stotram", "title": "Shani Stotram", "sub": "Classical hymn for Sasa Yoga activation", "verse": "Namah krishnaya nilaya shitikanthanibhaya cha<br>Namah kalagnirupaya kritantaya cha vai namah<br>Namo nirmamsadehaya dirghashmashruajataya cha<br>Namo vishalanetraya shushkodaraya vai namah", "translation": "Salutations to the dark one, the blue-throated one, the one resembling the fire of time. Salutations to the lean-bodied one, the long-bearded one, the wide-eyed one with a hollow stomach.", "url": "https://stotra.vastucart.in/stotra/shani-stotra" } },
     { "type": "divider", "gem": "rose" },
     {
       "type": "internal-links",
@@ -219,7 +219,7 @@
           { "label": "Marriage matching for late marriage", "sub": "Guna milan for Sasa natives", "url": "https://www.vastucart.in/tools/marriage-matching", "icon": "muhurta", "icon_variant": "rose" },
           { "label": "Marriage Muhurta dates", "sub": "Wedding timing for the year", "url": "https://muhurta.vastucart.in/marriage-muhurta", "icon": "muhurta", "icon_variant": "saff" },
           { "label": "Aries today", "sub": "Daily Mesh outlook", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Shani Stotram", "sub": "Classical Saturn stotra", "url": "https://stotra.vastucart.in/stotra/shani-stotram", "icon": "stotra", "icon_variant": "teal" },
+          { "label": "Shani Stotram", "sub": "Classical Saturn stotra", "url": "https://stotra.vastucart.in/stotra/shani-stotra", "icon": "stotra", "icon_variant": "teal" },
           { "label": "Saat Mukhi rudraksha source", "sub": "Saturn rudraksha", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
           { "label": "Sasa yoga reading", "sub": "1-on-1 with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
         ]
@@ -233,7 +233,7 @@
         "buttons": [
           { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
           { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Shani Stotram", "url": "https://stotra.vastucart.in/stotra/shani-stotram", "variant": "outline" }
+          { "label": "Shani Stotram", "url": "https://stotra.vastucart.in/stotra/shani-stotra", "variant": "outline" }
         ]
       }
     },

@@ -172,8 +172,8 @@
       "heading": "Gemstones for Venus in 7th house Mesh Lagna",
       "intro_html": "<p>The primary stone for Malavya yoga is natural diamond (Heera). Natural opal is the gentler secondary option.</p>",
       "cards": [
-        { "name": "Heera (Diamond)", "role": "primary", "sub": "Shukra swakshetra Malavya yoga gemstone", "icon_variant": "saphire", "image_slug": "diamond-7th", "items": [ { "k": "Metal", "v": "Platinum or white gold" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Friday, sunrise" }, { "k": "Min weight", "v": "0.5 to 1 carat" } ] },
-        { "name": "Natural Opal (alt)", "role": "secondary", "sub": "Affordable Venus-aligned stone", "icon_variant": "saphire", "image_slug": "opal-7th", "items": [ { "k": "Metal", "v": "Silver or gold" }, { "k": "Finger", "v": "Ring finger" }, { "k": "Day to wear", "v": "Friday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
+        { "name": "Heera (Diamond)", "role": "primary", "sub": "Shukra swakshetra Malavya yoga gemstone", "icon_variant": "saphire", "image_slug": "diamond", "items": [ { "k": "Metal", "v": "Platinum or white gold" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Friday, sunrise" }, { "k": "Min weight", "v": "0.5 to 1 carat" } ] },
+        { "name": "Natural Opal (alt)", "role": "secondary", "sub": "Affordable Venus-aligned stone", "icon_variant": "saphire", "image_slug": "opal", "items": [ { "k": "Metal", "v": "Silver or gold" }, { "k": "Finger", "v": "Ring finger" }, { "k": "Day to wear", "v": "Friday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
         { "name": "Consult before wearing", "role": "shop", "sub": "Malavya yoga chart review", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
       ],
       "disclaimer": "Diamond is reactive. Always test and consult a practitioner before permanent wearing."

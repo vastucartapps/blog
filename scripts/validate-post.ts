@@ -17,6 +17,11 @@ import path from "node:path";
 import { HOMEPAGE_URLS } from "../lib/subdomain-tools";
 import { buildPostSchema } from "../lib/schema-builder";
 import type { ArticlePost } from "../lib/types";
+import {
+  urlExistsInCache,
+  isCachedHost,
+  VALID_GEMSTONE_SLUGS,
+} from "../lib/sitemap-cache";
 
 const BANNED_PHRASES = [
   "delve",
@@ -558,6 +563,56 @@ function validate(post: PostJSON, file: string): ValidationReport {
     if (cta_dumps > 0) {
       hardFail(`${cta_dumps} homepage URL(s) in CTA/stotra/yantra/gemstone blocks`);
       s -= 5;
+    }
+
+    // Sitemap cache verification — sweep every external URL in
+    // the post content and hard-fail any URL to a cached host
+    // that is NOT in the cache (meaning fabricated or 404).
+    const allExternalUrls: { url: string; where: string }[] = [];
+    function collectUrls(value: unknown, where: string) {
+      if (typeof value === "string" && /^https?:\/\//.test(value)) {
+        allExternalUrls.push({ url: value, where });
+      } else if (Array.isArray(value)) {
+        value.forEach((v, i) => collectUrls(v, `${where}[${i}]`));
+      } else if (value && typeof value === "object") {
+        for (const [k, v] of Object.entries(value)) {
+          collectUrls(v, `${where}.${k}`);
+        }
+      }
+    }
+    for (let i = 0; i < blocks.length; i++) {
+      collectUrls(blocks[i], `content[${i}]`);
+    }
+    let missing404 = 0;
+    const seen404 = new Set<string>();
+    for (const { url } of allExternalUrls) {
+      if (!isCachedHost(url)) continue;
+      if (!urlExistsInCache(url)) {
+        if (!seen404.has(url)) {
+          seen404.add(url);
+          missing404 += 1;
+          issues.push(`NOT IN SITEMAP CACHE: ${url}`);
+        }
+      }
+    }
+    if (missing404 > 0) {
+      hardFail(`${missing404} URL(s) not in sitemap cache (fabricated or 404)`);
+      s -= 5;
+    }
+
+    // Gemstone image_slug validation — every image_slug in every
+    // gemstone block must correspond to a real file in public/gemstones/.
+    for (const b of blocks) {
+      const block = b as { type: string; cards?: { name?: string; image_slug?: string }[] };
+      if (block.type === "gemstone" && block.cards) {
+        for (const card of block.cards) {
+          if (card.image_slug && !VALID_GEMSTONE_SLUGS.has(card.image_slug)) {
+            issues.push(`INVALID gemstone image_slug "${card.image_slug}" on card "${card.name}" (file doesn't exist in public/gemstones/)`);
+            hardFail(`invalid gemstone image_slug: ${card.image_slug}`);
+            s -= 3;
+          }
+        }
+      }
     }
     const rel = blocks.find(
       (b) => (b as { type: string }).type === "related-posts"

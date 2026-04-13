@@ -614,7 +614,10 @@ function collectProducts(post: ArticlePost): ProductCollected[] {
       for (const card of b.cards) {
         if (card.role !== "shop") {
           out.push({
-            id: `gemstone-${card.image_slug ?? card.name.toLowerCase().replace(/\s+/g, "-")}`,
+            // Use the card NAME (slugified) for the @id so that two cards
+            // sharing the same image_slug (e.g. primary + budget alternative
+            // pointing at the same photo) still get unique IDs.
+            id: `gemstone-${card.name.toLowerCase().replace(/[^\w]+/g, "-").replace(/^-|-$/g, "")}`,
             name: card.name,
             description: card.sub ?? "",
             category: "Gemstone",

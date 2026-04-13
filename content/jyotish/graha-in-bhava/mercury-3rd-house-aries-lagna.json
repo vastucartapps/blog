@@ -433,7 +433,7 @@
           "role": "secondary",
           "sub": "Affordable Mercury-aligned stone",
           "icon_variant": "saphire",
-          "image_slug": "green-tourmaline",
+          "image_slug": "emerald",
           "items": [
             { "k": "Metal", "v": "Gold or silver" },
             { "k": "Finger", "v": "Little finger" },

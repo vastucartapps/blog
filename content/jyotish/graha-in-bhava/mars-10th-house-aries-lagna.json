@@ -190,8 +190,8 @@
       "heading": "Gemstones for Ruchaka Yoga Mesh Lagna",
       "intro_html": "<p>The primary stone is red coral (Moonga). The wearing protocol is stricter for Ruchaka natives because the exalted Mars amplifies everything.</p>",
       "cards": [
-        { "name": "Moonga (Red Coral)", "role": "primary", "sub": "Ruchaka Yoga gemstone", "icon_variant": "ruby", "image_slug": "red-coral-10th", "items": [ { "k": "Metal", "v": "Copper or panchdhatu" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Tuesday, sunrise" }, { "k": "Min weight", "v": "6 to 9 Ratti" } ] },
-        { "name": "Carnelian (alt)", "role": "secondary", "sub": "Affordable Mars-aligned stone", "icon_variant": "ruby", "image_slug": "carnelian", "items": [ { "k": "Metal", "v": "Copper" }, { "k": "Finger", "v": "Ring finger" }, { "k": "Day to wear", "v": "Tuesday, sunrise" }, { "k": "Min weight", "v": "7 to 10 Ratti" } ] },
+        { "name": "Moonga (Red Coral)", "role": "primary", "sub": "Ruchaka Yoga gemstone", "icon_variant": "ruby", "image_slug": "red-coral", "items": [ { "k": "Metal", "v": "Copper or panchdhatu" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Tuesday, sunrise" }, { "k": "Min weight", "v": "6 to 9 Ratti" } ] },
+        { "name": "Carnelian (alt)", "role": "secondary", "sub": "Affordable Mars-aligned stone", "icon_variant": "ruby", "image_slug": "red-coral", "items": [ { "k": "Metal", "v": "Copper" }, { "k": "Finger", "v": "Ring finger" }, { "k": "Day to wear", "v": "Tuesday, sunrise" }, { "k": "Min weight", "v": "7 to 10 Ratti" } ] },
         { "name": "Ruchaka yoga consultation", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
       ],
       "disclaimer": "Ruchaka yoga amplifies Mars significantly. Always consult before wearing."

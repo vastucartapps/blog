@@ -226,7 +226,7 @@
       "intro_html": "<p>The primary stone for Surya in own sign is ruby (Manik). Red garnet is a milder secondary option for budget-conscious natives.</p>",
       "cards": [
         { "name": "Manik (Ruby)", "role": "primary", "sub": "Surya swakshetra gemstone", "icon_variant": "ruby", "image_slug": "ruby", "items": [ { "k": "Metal", "v": "Gold (24 carat)" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Sunday, sunrise" }, { "k": "Min weight", "v": "3 to 5 Ratti" } ] },
-        { "name": "Red Garnet (alt)", "role": "secondary", "sub": "Affordable Sun-aligned stone", "icon_variant": "ruby", "image_slug": "red-garnet", "items": [ { "k": "Metal", "v": "Gold or copper" }, { "k": "Finger", "v": "Ring finger" }, { "k": "Day to wear", "v": "Sunday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
+        { "name": "Red Garnet (alt)", "role": "secondary", "sub": "Affordable Sun-aligned stone", "icon_variant": "ruby", "image_slug": "red-coral", "items": [ { "k": "Metal", "v": "Gold or copper" }, { "k": "Finger", "v": "Ring finger" }, { "k": "Day to wear", "v": "Sunday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
         { "name": "Consult before wearing Manik", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
       ],
       "disclaimer": "Always consult a qualified Jyotishi who has reviewed your full birth chart before wearing any gemstone."

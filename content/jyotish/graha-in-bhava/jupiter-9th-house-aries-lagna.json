@@ -427,7 +427,7 @@
           "role": "secondary",
           "sub": "Affordable Jupiter-aligned stone",
           "icon_variant": "saphire",
-          "image_slug": "yellow-topaz",
+          "image_slug": "yellow-sapphire",
           "items": [
             { "k": "Metal", "v": "Gold or panchdhatu" },
             { "k": "Finger", "v": "Index finger" },
