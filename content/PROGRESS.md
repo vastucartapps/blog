@@ -9,7 +9,7 @@ of what any other doc claims.
 | Group | Done | Target | % |
 |---|---|---|---|
 | Lagna pillars | 1 | 12 | 8% |
-| Mesh cluster (graha-in-bhava) | 14 | 108 | 13% |
+| Mesh cluster (graha-in-bhava) | 15 | 108 | 14% |
 | Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
@@ -54,11 +54,11 @@ The matrix below is the gate.
 | 7th  | ✓  | ✗  | ✗  | ✗  | ✗  | ✓  | ✓  | ✗  | ✗  |
 | 8th  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 9th  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
-| 10th | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  |
+| 10th | ✗  | ✓  | ✓  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  |
 | 11th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 12th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 
-**Mesh cluster total: 14/108 graha-in-bhava + 1/1 pillar = 15/109 published. All 9 swakshetra + 3 Pancha Mahapurusha exaltation + 1 debilitation study (Sun in Tula) done for Mesh Lagna.**
+**Mesh cluster total: 15/108 graha-in-bhava + 1/1 pillar = 16/109 published. All 9 swakshetra + 3 Pancha Mahapurusha exaltation + Phase 4 high-signal placements in progress.**
 
 ### Phase 1 batch (DONE — all gates green)
 - [x] Sun in 1st house, Mesh Lagna `sun-1st-house-aries-lagna`
@@ -81,7 +81,7 @@ The matrix below is the gate.
 
 ### Phase 4 batch (in progress — high-signal non-dignity placements)
 - [x] Sun in 7th house `sun-7th-house-aries-lagna` ← debilitated + marana karaka + neecha bhanga
-- [ ] Moon in 10th house `moon-10th-house-aries-lagna` ← career karaka
+- [x] Moon in 10th house `moon-10th-house-aries-lagna` ← career karaka in Makara
 - [ ] Mars in 7th house `mars-7th-house-aries-lagna` ← Manglik central case
 - [ ] Rahu in 10th house `rahu-10th-house-aries-lagna` ← rise-and-fall career
 - [ ] Jupiter in 5th house `jupiter-5th-house-aries-lagna` ← trine-to-trine blessing
@@ -110,6 +110,7 @@ before the previous one is at 109/109)
 | `jupiter-9th-house-aries-lagna` | planet-in-house | 2120 | 100/100 | ✓ all gates | 2026-04-12 |
 | `mesh-lagna-complete-guide` | lagna-profile | 2180 | 100/100 | ✓ all gates | 2026-04-12 |
 | `sun-7th-house-aries-lagna` | planet-in-house | 2150 | 100/100 | ✓ all gates | 2026-04-13 |
+| `moon-10th-house-aries-lagna` | planet-in-house | 2180 | 100/100 | ✓ all gates | 2026-04-13 |
 
 ---
 
