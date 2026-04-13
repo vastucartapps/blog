@@ -9,7 +9,7 @@ of what any other doc claims.
 | Group | Done | Target | % |
 |---|---|---|---|
 | Lagna pillars | 1 | 12 | 8% |
-| Mesh cluster (graha-in-bhava) | 30 | 108 | 28% |
+| Mesh cluster (graha-in-bhava) | 31 | 108 | 29% |
 | Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
@@ -55,7 +55,7 @@ The matrix below is the gate.
 | 8th  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 9th  | ✗  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
 | 10th | ✗  | ✓  | ✓  | ✗  | ✓  | ✗  | ✓  | ✓  | ✗  |
-| 11th | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 11th | ✗  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
 | 12th | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 
 **Mesh cluster total: 15/108 graha-in-bhava + 1/1 pillar = 16/109 published. All 9 swakshetra + 3 Pancha Mahapurusha exaltation + Phase 4 high-signal placements in progress.**
@@ -105,6 +105,7 @@ The matrix below is the gate.
 - [x] Jupiter in 1st house `jupiter-1st-house-aries-lagna` ← digbala, Dharmadhipati raja yoga
 - [x] Jupiter in 7th house `jupiter-7th-house-aries-lagna` ← 9L kendra, best-spouse placement
 - [x] Jupiter in 10th house `jupiter-10th-house-aries-lagna` ← debilitated Makara, dharma-karma yoga
+- [x] Jupiter in 11th house `jupiter-11th-house-aries-lagna` ← Labha Bhava ethical wealth
 - [ ] Jupiter in 2nd house `jupiter-2nd-house-aries-lagna`
 - [ ] Jupiter in 3rd house `jupiter-3rd-house-aries-lagna`
 - [ ] Jupiter in 6th house `jupiter-6th-house-aries-lagna`
@@ -154,6 +155,7 @@ before the previous one is at 109/109)
 | `jupiter-1st-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-13 |
 | `jupiter-7th-house-aries-lagna` | planet-in-house | 2150 | 100/100 | ✓ all gates | 2026-04-13 |
 | `jupiter-10th-house-aries-lagna` | planet-in-house | 2200 | 100/100 | ✓ all gates | 2026-04-13 |
+| `jupiter-11th-house-aries-lagna` | planet-in-house | 2150 | 100/100 | ✓ all gates | 2026-04-13 |
 
 ---
 
