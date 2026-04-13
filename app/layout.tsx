@@ -1,4 +1,6 @@
 import type { Metadata, Viewport } from "next";
+import { GoogleAnalytics } from "@/components/analytics/google-analytics";
+import { isGAEnabled } from "@/lib/gtag";
 import "@/styles/globals.css";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://blog.vastucart.in";
@@ -109,6 +111,7 @@ export default function RootLayout({
   return (
     <html lang="en-IN" suppressHydrationWarning>
       <body>{children}</body>
+      {isGAEnabled ? <GoogleAnalytics /> : null}
     </html>
   );
 }
