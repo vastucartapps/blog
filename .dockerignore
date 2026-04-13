@@ -1,0 +1,58 @@
+# Keep the Docker build context tiny. Everything in here is excluded
+# from the image build — nothing below here gets sent to the Docker
+# daemon or considered for layer invalidation. Critical for fast
+# iterative builds on Coolify.
+
+# Node
+node_modules
+npm-debug.log
+.npm
+
+# Next.js build output and caches
+.next
+out
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# IDE / editor
+.vscode
+.idea
+*.swp
+.DS_Store
+
+# Env (injected by Coolify at runtime)
+.env
+.env.local
+.env.*.local
+
+# Local caches and generated artifacts
+.cache
+.turbo
+.eslintcache
+*.log
+
+# Test + CI
+coverage
+.github
+.claude
+
+# Docs and scripts not needed in the image
+docs
+styles/contrast-rules.md
+scripts/coolify-*.ts
+scripts/validate-post.ts
+scripts/post-audit.ts
+scripts/duplicate-content-audit.ts
+scripts/seo-audit.ts
+scripts/internal-link-graph.ts
+scripts/dump-schema.ts
+scripts/build-sitemap-cache.ts
+
+# Local tooling that isn't part of the production build
+prisma/migrations
+*.tar
+*.tar.gz
+*.zip
