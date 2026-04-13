@@ -9,7 +9,7 @@ of what any other doc claims.
 | Group | Done | Target | % |
 |---|---|---|---|
 | Lagna pillars | 1 | 12 | 8% |
-| Mesh cluster (graha-in-bhava) | 41 | 108 | 38% |
+| Mesh cluster (graha-in-bhava) | 42 | 108 | 39% |
 | Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
@@ -49,7 +49,7 @@ The matrix below is the gate.
 | 2nd  | ✗  | ✗  | ✓  | ✗  | ✓  | ✓  | ✓  | ✗  | ✗  |
 | 3rd  | ✗  | ✗  | ✓  | ✓  | ✓  | ✗  | ✓  | ✗  | ✗  |
 | 4th  | ✗  | ✓  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  |
-| 5th  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
+| 5th  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  |
 | 6th  | ✗  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
 | 7th  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✓  | ✗  | ✗  |
 | 8th  | ✗  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
