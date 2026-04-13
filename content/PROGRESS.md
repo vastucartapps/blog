@@ -9,7 +9,7 @@ of what any other doc claims.
 | Group | Done | Target | % |
 |---|---|---|---|
 | Lagna pillars | 1 | 12 | 8% |
-| Mesh cluster (graha-in-bhava) | 25 | 108 | 23% |
+| Mesh cluster (graha-in-bhava) | 26 | 108 | 24% |
 | Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
@@ -49,7 +49,7 @@ The matrix below is the gate.
 | 2nd  | ✗  | ✗  | ✓  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
 | 3rd  | ✗  | ✗  | ✓  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 4th  | ✗  | ✓  | ✓  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
-| 5th  | ✓  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
+| 5th  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
 | 6th  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 7th  | ✓  | ✓  | ✓  | ✗  | ✗  | ✓  | ✓  | ✗  | ✗  |
 | 8th  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
@@ -96,6 +96,7 @@ The matrix below is the gate.
 - [x] Mars in 6th house `mars-6th-house-aries-lagna` ← Ripu Bhava enemy destroyer + 8L-in-6H Vipareet Yoga
 - [x] Mars in 9th house `mars-9th-house-aries-lagna` ← Dharma Bhava, friendly Dhanu, Kshatriya dharma
 - [x] Mars in 2nd house `mars-2nd-house-aries-lagna` ← Dhana Bhava Manglik, Vrishabha enemy sign
+- [x] Mars in 5th house `mars-5th-house-aries-lagna` ← Putra Bhava trikona, Simha friendly sign
 - [ ] Mars in 5th house `mars-5th-house-aries-lagna` ← Simha friend sign, creativity
 
 ---
@@ -132,6 +133,7 @@ before the previous one is at 109/109)
 | `mars-6th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-13 |
 | `mars-9th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-13 |
 | `mars-2nd-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-13 |
+| `mars-5th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-13 |
 
 ---
 
