@@ -1,6 +1,8 @@
 import type { Metadata, Viewport } from "next";
 import { GoogleAnalytics } from "@/components/analytics/google-analytics";
-import { isGAEnabled } from "@/lib/gtag";
+import { RouteTracker } from "@/components/analytics/route-tracker";
+import { WebVitalsReporter } from "@/components/analytics/web-vitals-reporter";
+import { GA_ENABLED } from "@/lib/analytics/config";
 import "@/styles/globals.css";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://blog.vastucart.in";
@@ -110,8 +112,12 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en-IN" suppressHydrationWarning>
-      <body>{children}</body>
-      {isGAEnabled ? <GoogleAnalytics /> : null}
+      <head>{GA_ENABLED ? <GoogleAnalytics /> : null}</head>
+      <body>
+        {children}
+        {GA_ENABLED ? <RouteTracker /> : null}
+        {GA_ENABLED ? <WebVitalsReporter /> : null}
+      </body>
     </html>
   );
 }

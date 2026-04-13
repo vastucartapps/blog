@@ -1,51 +1,42 @@
-"use client";
+import {
+  GA_COOKIE_DOMAIN,
+  GA_DEBUG,
+  GA_DEFAULT_CONSENT_REGIONS,
+  GA_MEASUREMENT_ID,
+} from "@/lib/analytics/config";
 
-import Script from "next/script";
-import { usePathname, useSearchParams } from "next/navigation";
-import { Suspense, useEffect, useRef } from "react";
-import { GA_MEASUREMENT_ID, pageview } from "@/lib/gtag";
-
-function RouteChangeTracker() {
-  const pathname = usePathname();
-  const searchParams = useSearchParams();
-  const lastTracked = useRef<string | null>(null);
-
-  useEffect(() => {
-    if (!pathname) return;
-    const query = searchParams?.toString();
-    const url = query ? `${pathname}?${query}` : pathname;
-    if (lastTracked.current === url) return;
-    lastTracked.current = url;
-    pageview(url);
-  }, [pathname, searchParams]);
-
-  return null;
+function buildInitScript(): string {
+  const regions = JSON.stringify(GA_DEFAULT_CONSENT_REGIONS);
+  return `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+window.gtag=gtag;
+gtag('consent','default',{'ad_storage':'denied','ad_user_data':'denied','ad_personalization':'denied','analytics_storage':'denied','functionality_storage':'granted','personalization_storage':'denied','security_storage':'granted','wait_for_update':500,'region':${regions}});
+gtag('consent','default',{'ad_storage':'denied','ad_user_data':'denied','ad_personalization':'denied','analytics_storage':'granted','functionality_storage':'granted','personalization_storage':'denied','security_storage':'granted'});
+gtag('set','developer_id.dMDU2Yj',true);
+gtag('js',new Date());
+gtag('config','${GA_MEASUREMENT_ID}',{'anonymize_ip':true,'send_page_view':true,'transport_type':'beacon','cookie_flags':'SameSite=None;Secure','cookie_domain':'${GA_COOKIE_DOMAIN}'${GA_DEBUG ? ",'debug_mode':true" : ""}});`;
 }
 
 export function GoogleAnalytics() {
   return (
     <>
-      <Script
-        id="ga-loader"
-        src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
-        strategy="afterInteractive"
+      <link
+        rel="preconnect"
+        href="https://www.googletagmanager.com"
+        crossOrigin=""
       />
-      <Script id="ga-init" strategy="afterInteractive">
-        {`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          window.gtag = gtag;
-          gtag('js', new Date());
-          gtag('config', '${GA_MEASUREMENT_ID}', {
-            send_page_view: false,
-            anonymize_ip: true,
-            transport_type: 'beacon'
-          });
-        `}
-      </Script>
-      <Suspense fallback={null}>
-        <RouteChangeTracker />
-      </Suspense>
+      <link
+        rel="preconnect"
+        href="https://www.google-analytics.com"
+        crossOrigin=""
+      />
+      <script
+        async
+        src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
+      />
+      <script
+        id="ga-init"
+        dangerouslySetInnerHTML={{ __html: buildInitScript() }}
+      />
     </>
   );
 }
