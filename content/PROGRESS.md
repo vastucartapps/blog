@@ -9,7 +9,7 @@ of what any other doc claims.
 | Group | Done | Target | % |
 |---|---|---|---|
 | Lagna pillars | 1 | 12 | 8% |
-| Mesh cluster (graha-in-bhava) | 26 | 108 | 24% |
+| Mesh cluster (graha-in-bhava) | 27 | 108 | 25% |
 | Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
@@ -56,7 +56,7 @@ The matrix below is the gate.
 | 9th  | ✗  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
 | 10th | ✗  | ✓  | ✓  | ✗  | ✗  | ✗  | ✓  | ✓  | ✗  |
 | 11th | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
-| 12th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 12th | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 
 **Mesh cluster total: 15/108 graha-in-bhava + 1/1 pillar = 16/109 published. All 9 swakshetra + 3 Pancha Mahapurusha exaltation + Phase 4 high-signal placements in progress.**
 
@@ -97,6 +97,9 @@ The matrix below is the gate.
 - [x] Mars in 9th house `mars-9th-house-aries-lagna` ← Dharma Bhava, friendly Dhanu, Kshatriya dharma
 - [x] Mars in 2nd house `mars-2nd-house-aries-lagna` ← Dhana Bhava Manglik, Vrishabha enemy sign
 - [x] Mars in 5th house `mars-5th-house-aries-lagna` ← Putra Bhava trikona, Simha friendly sign
+- [x] Mars in 12th house `mars-12th-house-aries-lagna` ← Vyaya Bhava moksha, Meena friendly sign
+
+**Phase 5 COMPLETE — Full Mars column closed. All 12 Mars-in-bhava placements for Mesh Lagna published.**
 - [ ] Mars in 5th house `mars-5th-house-aries-lagna` ← Simha friend sign, creativity
 
 ---
@@ -134,6 +137,7 @@ before the previous one is at 109/109)
 | `mars-9th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-13 |
 | `mars-2nd-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-13 |
 | `mars-5th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-13 |
+| `mars-12th-house-aries-lagna` | planet-in-house | 2150 | 100/100 | ✓ all gates | 2026-04-13 |
 
 ---
 
