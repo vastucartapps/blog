@@ -9,7 +9,7 @@ of what any other doc claims.
 | Group | Done | Target | % |
 |---|---|---|---|
 | Lagna pillars | 1 | 12 | 8% |
-| Mesh cluster (graha-in-bhava) | 10 | 108 | 9% |
+| Mesh cluster (graha-in-bhava) | 13 | 108 | 12% |
 | Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
@@ -48,17 +48,17 @@ The matrix below is the gate.
 | 1st  | ✓  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 2nd  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
 | 3rd  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  |
-| 4th  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 4th  | ✗  | ✓  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
 | 5th  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 6th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
-| 7th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
+| 7th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✓  | ✗  | ✗  |
 | 8th  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 9th  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
-| 10th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  |
+| 10th | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  |
 | 11th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 12th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 
-**Mesh cluster total: 10/108 graha-in-bhava + 1/1 pillar = 11/109 published. All 9 swakshetra (planet-in-own-sign) placements for Mesh Lagna are DONE.**
+**Mesh cluster total: 13/108 graha-in-bhava + 1/1 pillar = 14/109 published. All 9 swakshetra (planet-in-own-sign) + 3 Pancha Mahapurusha exaltation placements for Mesh Lagna are DONE.**
 
 ### Phase 1 batch (DONE — all gates green)
 - [x] Sun in 1st house, Mesh Lagna `sun-1st-house-aries-lagna`

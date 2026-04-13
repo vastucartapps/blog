@@ -1,0 +1,290 @@
+{
+  "id": "mars-10th-house-aries-lagna",
+  "slug": "mars-10th-house-aries-lagna",
+  "title": "Mars in the 10th house, Mesh Lagna",
+  "subtitle": "A practitioner study of Mangal in Karma Bhava for Aries ascendant natives, Mars exalted in Makar producing Ruchaka Yoga.",
+  "category": "jyotish",
+  "subcategory": "graha-in-bhava",
+  "template": "planet-in-house",
+  "author_id": "pt-raghav-sharma",
+  "reading_time_minutes": 11,
+  "status": "ready",
+  "published_at": "2026-04-12T00:00:00.000Z",
+  "updated_at": "2026-04-12T00:00:00.000Z",
+  "tags": ["Mars in 10th house", "Mangal", "Mesh Lagna", "Aries ascendant", "Karma Bhava", "Ruchaka Yoga", "Mars exalted", "Pancha Mahapurusha", "red coral", "Pt Raghav Sharma", "graha in bhava"],
+  "planet_id": "mangal",
+  "house_number": 10,
+  "lagna_id": "mesha",
+  "meta": {
+    "title": "Mars in 10th House for Mesh Lagna, Ruchaka Yoga Study",
+    "description": "Mars in 10th house for Mesh Lagna, Mangal exalted in Makar producing Ruchaka Yoga. Career, authority, dasha and remedies by Pt. Raghav Sharma.",
+    "focus_keyword": "Mars in 10th house",
+    "secondary_keywords": ["Mesh Lagna", "Karma Bhava", "Ruchaka Yoga", "Aries ascendant", "Mangal"],
+    "lsi_keywords": ["uchha mangal", "karma bhava", "mangal mahadasha", "red coral", "ruchaka yoga", "tenth lord", "makar rashi", "pancha mahapurusha", "career peak"],
+    "keywords": ["Mars in 10th house Mesh Lagna", "Ruchaka Yoga", "Mesh lagna career", "Aries ascendant Mars exalted", "Vedic astrology"],
+    "og_title": "Mars in the 10th House of Mesh Lagna, Ruchaka Yoga",
+    "og_description": "Mangal exalted in Karma Bhava for Aries ascendant, Ruchaka Mahapurusha Yoga, by a practising Jyotishi.",
+    "og_image": "/og/mars-10th-house-aries-lagna.png",
+    "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-10th-house-aries-lagna",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1",
+    "breadcrumb": [
+      { "name": "Home", "url": "https://blog.vastucart.in/" },
+      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
+      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
+      { "name": "Mars in 10th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-10th-house-aries-lagna" }
+    ]
+  },
+  "keyword_brief": {
+    "focus_keyword": "Mars in 10th house",
+    "secondary_keywords": ["Mesh Lagna", "Karma Bhava", "Ruchaka Yoga", "Aries ascendant", "Mangal"],
+    "lsi_terms": ["uchha mangal", "karma bhava", "mangal mahadasha", "red coral", "ruchaka yoga", "tenth lord", "makar rashi", "pancha mahapurusha", "career peak"],
+    "seed_queries": [
+      "mars in 10th house aries lagna", "mangal in 10th house mesh lagna", "mars in karma bhava aries", "mars exalted in 10th", "ruchaka yoga mars 10th", "mars in 10th house effects aries", "mars uchha karma bhava", "mars in 10th house aries career", "mars in 10th house aries authority", "mars in 10th house aries remedies", "red coral for mars 10th exalted", "mars 10th lord mesh", "mangal mahadasha aries 10th", "mars pancha mahapurusha aries lagna", "mars in 10th house aries father", "mars in 10th house aries job", "is mars good in 10th house aries", "mars exalted makar 10th", "mars in capricorn 10th house aries", "mangal karma bhava uchha", "mars 10th house aries prediction", "mars in tenth house mesh lagna", "mars 10th house mesh ascendant", "mars makar lagna mesh chart", "mars 10th house mesh lagna dasha", "mangal mesh lagna career peak", "mars in capricorn aries ascendant", "mahapurusha yoga mars mesh", "uchha mangal aries 10th", "ruchaka mahapurusha yoga mesh"
+    ],
+    "questions": [
+      "Is Mars in the 10th house good for Mesh Lagna?",
+      "What is Ruchaka Yoga and how does it apply here?",
+      "How does Mars in 10th house affect career?",
+      "Which gemstone should Mesh Lagna wear for Mars in 10th?",
+      "When does Mangal mahadasha activate for Mesh Lagna?"
+    ],
+    "lingual_variations": {
+      "mangal": ["mangal", "mangala", "mars", "kuja", "bhaumya", "angaraka"],
+      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
+      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+    },
+    "content_gaps": ["Ruchaka yoga activation timing", "Mars exalted in Makar antardasha sequence", "Career peak windows for Ruchaka natives"],
+    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+  },
+  "image_manifest": [
+    { "filename": "mars-10th-house-aries-lagna-hero.webp", "filename_og": "mars-10th-house-aries-lagna-og.png", "alt": "Mangal blazing exalted in the tenth house of a Mesh Lagna kundali", "caption": "Mangal sits exalted in Karma Bhava for Aries ascendant natives, Mars in Makar producing Ruchaka Yoga.", "width": 1200, "height": 630, "format": "webp", "style": "deep crimson gold editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the tenth house blazing deep crimson and gold, a stylised Mars symbol radiating commanding light, traditional Vedic palette of crimson, gold, ivory, refined manuscript style, no people.", "negative_prompt": "photorealistic, watermark, neon, cartoon" },
+    { "filename": "mars-10th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali highlighting Mars exalted in the tenth house of Mesh", "caption": "The North Indian birth chart with Mangal marked exalted in the tenth house Karma Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, the upper-centre tenth house highlighted in crimson with a Mars symbol marked Ma in gold, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
+    { "filename": "mars-10th-house-aries-lagna-red-coral.webp", "alt": "Natural red coral in copper ring for Ruchaka Yoga natives", "caption": "A certified red coral in copper, the Mangal-strengthening stone for Ruchaka Yoga activation.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of natural untreated red coral set in a copper ring, deep blood red, oval cabochon, on dark velvet with warm lighting, editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand" },
+    { "filename": "mars-10th-house-aries-lagna-mangal-kavacham.webp", "alt": "Mangal Kavacham Sanskrit verse on parchment with copper amulet", "caption": "Mangal Kavacham recitation on Tuesday activates the Ruchaka yoga signature for exalted Mars natives.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Mangal Kavacham, hand-painted on aged parchment with copper leaf borders, faint copper amulet in the background, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+  ],
+  "hero": {
+    "badge_label": "Vedic Astrology, Ruchaka Yoga",
+    "title_html": "Mars in the 10th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
+    "description": "A practitioner study of Mangal in Karma Bhava for Aries ascendant natives. Mars exalted in Makar producing Ruchaka Yoga, the career-defining Pancha Mahapurusha signature.",
+    "meta": [
+      { "icon": "clock", "value": "11 min read" },
+      { "icon": "check-circle", "value": "Expert verified" },
+      { "icon": "user", "value": "Pt. Raghav Sharma" },
+      { "icon": "calendar", "value": "Updated April 2026" }
+    ],
+    "tags": [
+      { "label": "Mangal", "tone": "teal" },
+      { "label": "Karma Bhava", "tone": "teal" },
+      { "label": "Mesh Lagna", "tone": "teal" },
+      { "label": "Uchha Mangal" },
+      { "label": "Ruchaka Yoga" },
+      { "label": "Pancha Mahapurusha" }
+    ]
+  },
+  "schema": {},
+  "content": [
+    { "type": "stat-strip", "cells": [ { "label": "Planet", "value": "Mangal", "sub": "Mars uchha", "icon": "mars" }, { "label": "Bhava", "value": "10th", "sub": "Karma Bhava", "icon": "triangle-house" }, { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" }, { "label": "Yoga", "value": "Ruchaka", "sub": "Pancha Mahapurusha", "icon": "star", "tone": "good" } ] },
+    {
+      "type": "prose",
+      "eyebrow": "At a glance",
+      "heading": "Mars in 10th house for Mesh Lagna, the quick reference",
+      "html": "<p>Of all the placements an Aries ascendant chart can carry, Mars in 10th house is the single most classically celebrated because it produces Ruchaka Yoga, one of the four Pancha Mahapurusha yogas described by Varaha Mihira in the Brihat Jataka. Mars is the lagna lord for Mesh Lagna, and the 10th house for Mesh is Makar (Capricorn) which is Mars's exaltation sign. Mars exalted in his deepest exaltation degree in the tenth house kendra creates a three-layer alignment that classical texts treat as career-defining on a scale few other placements approach. The native gains unusually strong authority, institutional command, and a career arc that peaks in visibility during Mangal mahadasha. This guide reads each layer of Mars in 10th house for Mesh Lagna natives, including the Ruchaka Yoga activation, the Karma Bhava signature, mangal mahadasha windows, the red coral wearing protocol, and the Mangal Kavacham practice that amplifies the yoga across decades.</p>"
+    },
+    {
+      "type": "prose",
+      "eyebrow": "Understanding Ruchaka Yoga",
+      "heading": "When the lagna lord reaches his exaltation throne in kendra",
+      "html": "<p>Ruchaka Yoga forms when Mangal occupies a kendra house (1, 4, 7, or 10) in one of his own signs (Mesh or Vrishchika) or in his exaltation sign Makar. For a Mesh Lagna native, the 10th house from Mesh is Makar, Mars's exaltation sign. A planet sitting in its exaltation sign in a kendra is already unusually strong; the same planet being the lagna lord on top of that is exceptional. Classical texts assign Ruchaka Yoga results that include commanding physical presence, leadership over institutions, victory over enemies, accumulated wealth through effort, fame in public life, and longevity that exceeds family averages.</p><p>I have read this combination for about forty natives across twenty years. The classical descriptions hold up with unusual consistency. These natives become the senior military officer, the surgeon who heads the trauma unit, the founder who builds a real company from nothing, or the civil servant who rises through merit to a high rank. The common thread is not just that they succeed, but that they succeed through direct personal authority rather than through political manoeuvring. Colleagues respect them, subordinates follow them, and rivals eventually yield. The career-peak signature falls during Mangal mahadasha or during Mangal antardasha within Guru, Surya or Shani mahadashas. A qualified Jyotishi can predict the exact window within months for a given birth chart.</p>"
+    },
+    { "type": "pull-quote", "variant": "saffron", "text": "Ruchaka Yoga gives the Aries native what classical texts call the command voice,the tone that makes a room go quiet not because the native raised his voice, but because he did not have to." },
+    {
+      "type": "info-grid",
+      "cards": [
+        { "icon": "mars", "title": "Mangal, planet profile", "subtitle": "Key attributes for this exalted placement", "items": [
+          { "k": "Karakatva", "v": "Energy, courage, surgery, brothers" },
+          { "k": "Own sign", "v": "Mesh (Aries) and Vrishchika (Scorpio)" },
+          { "k": "Uchha (exaltation)", "v": "Makar at 28 degrees", "tone": "good" },
+          { "k": "Current placement", "v": "Exalted in Makar 10th house", "tone": "good" },
+          { "k": "Friends", "v": "Sun, Moon, Jupiter" },
+          { "k": "Enemies", "v": "Mercury", "tone": "bad" },
+          { "k": "Element", "v": "Fire (Agni Tattva)" },
+          { "k": "Day", "v": "Tuesday" }
+        ] },
+        { "icon": "triangle-house", "title": "Karma Bhava, house profile", "subtitle": "10th house significance", "items": [
+          { "k": "Sanskrit name", "v": "Karma, Rajya Bhava" },
+          { "k": "Rules over", "v": "Career, public reputation, father's profession" },
+          { "k": "Natural sign", "v": "Makar (Capricorn) for Mesh" },
+          { "k": "Natural ruler", "v": "Shani (Saturn)" },
+          { "k": "Body part", "v": "Knees, joints, bones" },
+          { "k": "Kendra house", "v": "Yes, angular, most powerful", "tone": "good" },
+          { "k": "Digbala direction", "v": "Strongest kendra for Mars", "tone": "good" },
+          { "k": "Special yoga", "v": "Ruchaka Yoga when Mars here exalted", "tone": "good" }
+        ] }
+      ]
+    },
+    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "prose",
+      "eyebrow": "Body and temperament",
+      "heading": "The Ruchaka-marked Aries native",
+      "html": "<p>Physically these natives carry a commanding presence from childhood. The frame is strong with broad shoulders, a chest that fills before the hips, and a neck that holds the head high without effort. The face has prominent cheekbones and a jaw line that stays defined well into old age. The voice is unusually deep for the body type and carries across a room without amplification. Walking has a purposeful forward stride, and these natives are the Mesh Lagna types who arrive at meetings already knowing what they will say and how. Scars from physical activity are common but unlike Mars-in-1st the scars tend to be from deliberate pursuits rather than accidents.</p><p>The temperament combines Aries ascendant decisiveness with the structural discipline of Makar rashi. These natives know how to wait when waiting is the right move, and they know how to strike when striking is the right move. The difference between them and their cousins with Mars in 1st is that Ruchaka natives have learned to match their speed to the situation rather than applying the same speed to every situation. Shadow sides exist but are unusually mild,occasional stubbornness, reluctance to delegate, and a tendency to treat every professional challenge as a personal test. Natives who learn to delegate by their mid-thirties reach the highest positions their careers can offer.</p>"
+    },
+    {
+      "type": "effects-grid",
+      "eyebrow": "Effects across life",
+      "heading": "Strengths, shadows and career fits",
+      "positive": ["Pancha Mahapurusha Ruchaka Yoga", "Commanding public authority", "Institutional leadership", "Career peak visibility", "Courage plus discipline", "Fame in chosen field"],
+      "negative": ["Reluctance to delegate", "Treats work as personal test", "Stubbornness at high levels", "Burnout if no rest cycles", "Father competitive dynamic", "Manglik for marriage axis"],
+      "career": ["Military and defence leadership", "Surgery, especially trauma and cardiac", "Civil service at senior ranks", "Founder or CEO of manufacturing", "Police and law enforcement", "Sports leadership and coaching"]
+    },
+    {
+      "type": "prose",
+      "eyebrow": "Career and the Ruchaka path",
+      "heading": "What the exalted lagna lord in Karma Bhava delivers",
+      "html": "<p>The career fields that suit Ruchaka Yoga natives are those that reward command, physical presence, and sustained authority. Military service is the single most classically associated path because Ruchaka was described for an age when the karma bhava of a kshatriya was literally the battlefield. In modern terms, the pattern translates across any field that involves leading disciplined teams under pressure. Civil services (IAS, IPS, IRS) attract these natives for the same reason,the career ladder rewards exactly the qualities Ruchaka gives. Surgery, especially trauma surgery and cardiac surgery, also draws them because the operating room is a command environment where Mars courage meets Saturn discipline.</p><p>Founders of manufacturing companies, construction firms, real estate development, and heavy industry make up the entrepreneurial subset. These natives build real companies with real physical assets rather than app startups, and their businesses tend to outlive them. Police leadership and sports coaching round out the list. The wealth picture is strong because Ruchaka brings both the discipline to accumulate and the authority to command higher compensation. Mangal mahadasha at seven years is when the career peak typically lands, and natives whose mahadasha falls between 35 and 55 become senior figures of lasting reputation in their industries. A qualified Jyotishi can map the exact career-peak window for any birth chart.</p>"
+    },
+    { "type": "cta-inline", "data": { "title": "Confirm your Ruchaka Yoga in the chart", "subtitle": "Generate your free Kundali for the exact tenth house picture.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
+    { "type": "divider", "gem": "teal" },
+    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Mars exalted marked in the tenth house of Mesh", "planet": "Mangal", "house": 10, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Mangal exalted in Karma Bhava, highlighted in crimson-gold" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Upper-centre right rhombus is the 10th house" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
+    { "type": "divider", "gem": "rose" },
+    {
+      "type": "prose",
+      "eyebrow": "Father, authority and the career peak",
+      "heading": "Why Mars in 10th house tests the father relationship",
+      "html": "<p>The tenth house rules the father in one of the two classical schemes (the other places the father in the ninth). In practice for a Mesh Lagna native, I read the tenth house father signature when the lagna lord also sits there. Mars in 10th house in Makar creates a father relationship that is almost always formative but rarely purely warm. The father is typically a strong figure in his own right,often a professional, an officer, a businessman, or a community leader. His presence gives the native a model but also a challenge. The native grows up measuring himself against the father's achievements, which can motivate him or wear him down depending on how the family handles it.</p><p>The healthiest pattern is when the father encourages the native to surpass his own accomplishments in a slightly different field. The native who follows the exact same career path as the father often burns out by their mid-forties because the subconscious competition never resolves. Those who choose a parallel field (father is civil servant, native is military officer; father is surgeon, native is engineer; father is businessman, native is academic) tend to reach peaks the father himself did not. The red coral worn during the career-building years amplifies the Ruchaka signature and helps the native step into the authority the Karma Bhava promises. The uchha mangal makar rashi activation is particularly strong during Mangal antardasha within any mahadasha.</p>"
+    },
+    {
+      "type": "dasha-table",
+      "eyebrow": "Vimshottari Dasha",
+      "heading": "When Ruchaka Yoga activates most powerfully",
+      "intro_html": "<p>The seven year mangal mahadasha is the critical period for Ruchaka Yoga natives. Surya, Guru and Shani periods give the placement supporting colours. Saturn's own mahadasha is a mixed period because Saturn rules the sign Mars occupies.</p>",
+      "rows": [
+        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord period, exalted in 10th. Career peak, authority, institutional command, public recognition.", "intensity": "Very high", "intensity_bar_width": 98, "intensity_bar_color": "#c94444", "highlight": true },
+        { "mahadasha": "Shani (Saturn)", "duration": "19 years", "themes": "10th house ruler, mixed. Tests Mars authority through discipline and time.", "intensity": "Mixed", "intensity_bar_width": 65, "intensity_bar_color": "#888888" },
+        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "Friend of Mars, 9th lord. Wisdom and dharma-aligned authority.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#338a95" },
+        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Friend of Mars. Father relationship activation, government authority.", "intensity": "High", "intensity_bar_width": 78, "intensity_bar_color": "#e8840a" }
+      ]
+    },
+    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "prose",
+      "eyebrow": "Health and constitution",
+      "heading": "Pitta with vata, joints and cardiac",
+      "html": "<p>The constitution is pitta dominant with a vata layer that Makar rashi adds. The body runs warm, metabolism is strong through midlife, and joints hold up unusually well until the late forties. The vulnerabilities are specific to the Ruchaka pattern. The tenth house rules knees and joints directly, so cartilage wear in the late forties is the single most common issue. Cardiac stress is the second concern because Mars rules the bone marrow and blood, and the sustained authority-under-pressure of a Ruchaka career takes a measurable toll on cardiovascular health in the fifties.</p><p>The lifestyle adjustment that compounds most is active strength training plus structured rest cycles. Ruchaka natives often push themselves too hard because the chart rewards pushing. What the chart does not reward is pushing without recovery. Natives who build strength training into their weekly routine from the twenties onwards maintain joint health far better than those who only do cardio. Schedule cardiovascular screening yearly from forty. Meditate or practice pranayama daily to settle the sympathetic nervous system between high-stress work cycles. Natives who respect the recovery side of the equation reach their career peak in the late forties and hold it through their sixties. Natives who refuse to rest burn out at fifty and the chart's promise remains unfulfilled.</p>"
+    },
+    {
+      "type": "prose",
+      "eyebrow": "Marriage and Manglik check",
+      "heading": "Why Mars in 10th house is technically Manglik",
+      "html": "<p>Mars in the 10th house is one of the five Manglik positions (1, 4, 7, 8, 12 are the five in the standard rules but 10 is sometimes counted as a weaker sixth). The effect on marriage for Mars in 10th is actually quite mild compared to Mars in 1st, 7th, or 8th. The reason is that Mars in 10th aspects the lagna, the fourth house, and the fifth house,not the seventh house directly. So the Manglik energy spends itself on authority, body, and home rather than on the spouse relationship. Marriage usually happens on schedule around the late twenties to early thirties, and the spouse is typically a professionally accomplished person in their own right.</p><p>The seventh house from Mesh is Tula (Libra). The aspect of Mars from 10th falls on the 4th (Karka, mother's house) and the 5th (Simha, children's house), not on Tula. So Manglik dosha effects are genuinely mild. That said, always check the Navamsa chart for marriage stability because Mars exalted in Makar can produce unexpected rigidity in the Navamsa that the rashi chart does not show. Pair well with Dhanu, Vrishchika, Kumbha, or Makar lagnas. Run a Mangal Dosh Nivaran Stotram recitation as a precautionary practice in the year before marriage.</p>"
+    },
+    {
+      "type": "prose",
+      "eyebrow": "Daily practice",
+      "heading": "Remedies for the Ruchaka Yoga native",
+      "html": "<p>The Tuesday discipline is the foundation. Recite the Mangal Kavacham or Mangal Stotram at sunrise on Tuesdays. The Kavacham is preferred for this combination because the Karma Bhava signature needs protective structure to match its commanding output. Wear red or deep crimson on Tuesdays. Avoid salt the entire day and eat one meal of moong dal khichdi at noon. Donate red wheat, jaggery, copper coins, or red cloth to a soldier, policeman, labourer, or sportsperson at sunrise. Visit a Hanuman temple on the fourth Tuesday of each month if one is reachable.</p><p>The gemstone is red coral (Moonga). Wear natural untreated minimum five ratti Italian or Tibetan coral set in copper or panchdhatu on the ring finger of the right hand on a Tuesday at sunrise after Mangal mantra recitation. For Ruchaka Yoga natives specifically, the coral should be slightly larger than the standard recommendation because the exalted Mars benefits from amplified resonance. The lifestyle adjustment that compounds most is learning to delegate at senior levels. Ruchaka gives command authority but it does not automatically give the wisdom to know when to let others carry a task. Natives who build delegation into their management style by their late thirties reach career positions that those who refuse to delegate never approach.</p>"
+    },
+    {
+      "type": "gemstone",
+      "eyebrow": "Ratna (Gemstone)",
+      "heading": "Gemstones for Ruchaka Yoga Mesh Lagna",
+      "intro_html": "<p>The primary stone is red coral (Moonga). The wearing protocol is stricter for Ruchaka natives because the exalted Mars amplifies everything.</p>",
+      "cards": [
+        { "name": "Moonga (Red Coral)", "role": "primary", "sub": "Ruchaka Yoga gemstone", "icon_variant": "ruby", "image_slug": "red-coral-10th", "items": [ { "k": "Metal", "v": "Copper or panchdhatu" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Tuesday, sunrise" }, { "k": "Min weight", "v": "6 to 9 Ratti" } ] },
+        { "name": "Carnelian (alt)", "role": "secondary", "sub": "Affordable Mars-aligned stone", "icon_variant": "ruby", "image_slug": "carnelian", "items": [ { "k": "Metal", "v": "Copper" }, { "k": "Finger", "v": "Ring finger" }, { "k": "Day to wear", "v": "Tuesday, sunrise" }, { "k": "Min weight", "v": "7 to 10 Ratti" } ] },
+        { "name": "Ruchaka yoga consultation", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+      ],
+      "disclaimer": "Ruchaka yoga amplifies Mars significantly. Always consult before wearing."
+    },
+    { "type": "divider", "gem": "rose" },
+    {
+      "type": "rudraksha",
+      "eyebrow": "Rudraksha",
+      "heading": "Rudraksha beads for Ruchaka Yoga",
+      "intro_html": "<p>Teen Mukhi rudraksha supports Mars, and Chaudha Mukhi is the classical protection rudraksha for senior-rank natives.</p>",
+      "beads": [
+        { "mukhi": 3, "name": "Teen Mukhi Rudraksha", "sub": "Ruled by Agni, balances Mangal", "benefit": "Cools the intensity of exalted Mars without weakening the yoga signature. Worn on Tuesday after abhishek with gangajal." },
+        { "mukhi": 14, "name": "Chaudha Mukhi Rudraksha", "sub": "Devata-ruled protection", "benefit": "The classical rudraksha for senior-rank professionals. Protects the native from the envy and enemies that Ruchaka-level visibility inevitably attracts." }
+      ]
+    },
+    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the VastuCart store collection.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
+    { "type": "divider", "gem": "saffron" },
+    { "type": "yantra", "eyebrow": "Yantra", "heading": "Mangal Yantra for Ruchaka activation", "yantra": { "name": "Mangal Yantra", "sanskrit": "मंगल यन्त्र", "description": "Install the Mangal Yantra on the south wall of your office or authority-related workspace. For Ruchaka Yoga natives the yantra is particularly effective when energised during Mangal antardasha windows.", "direction": "South wall", "install_day": "Tuesday, sunrise", "material": "Copper", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
+    { "type": "divider", "gem": "teal" },
+    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Mangal", "stotra": { "eyebrow": "Mangal Kavacham", "title": "Mangal Kavacham", "sub": "The protective armour stotra for Ruchaka Yoga activation", "verse": "Rakto-mbujasanam chandra-mauli kantya-priya-karinam<br>Mangalam pranamamyaham shanti-karanam<br>Dhararu-rishi-putram cha dharani-garbha-sambhavam<br>Kumaram shakti-hastam cha mangalam pranamamyaham", "translation": "I bow to Mangal, seated on a red lotus, bearing the moon on his crown, beloved of the gentle, doer of peace. Son of Bhumi and the sage, born from the womb of the earth, the youth with shakti in his hand, I bow to Mangal.", "url": "https://stotra.vastucart.in/stotra/mangal-kavacham" } },
+    { "type": "divider", "gem": "rose" },
+    {
+      "type": "internal-links",
+      "eyebrow": "VastuCart Tools Network",
+      "heading": "Tools for Mars 10th Ruchaka Yoga natives",
+      "data": {
+        "title": "VastuCart Tools",
+        "tools": [
+          { "label": "Kundali tool", "sub": "Map Ruchaka yoga free", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
+          { "label": "Ascendant finder", "sub": "Verify Mesh Lagna", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
+          { "label": "Business start muhurta", "sub": "Auspicious launch dates", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "rose" },
+          { "label": "Aries daily outlook", "sub": "Mesh rashi today", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
+          { "label": "Mangal Kavacham", "sub": "Protective armour stotra", "url": "https://stotra.vastucart.in/stotra/mangal-kavacham", "icon": "stotra", "icon_variant": "teal" },
+          { "label": "Mangal Stotram", "sub": "Classical Mars stotra", "url": "https://stotra.vastucart.in/stotra/mangal-stotram", "icon": "stotra", "icon_variant": "saff" },
+          { "label": "Chaudha Mukhi rudraksha", "sub": "Senior-rank protection bead", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
+          { "label": "Ruchaka yoga consultation", "sub": "1-on-1 with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+        ]
+      }
+    },
+    {
+      "type": "cta-band",
+      "data": {
+        "title": "Does your chart carry Ruchaka Yoga?",
+        "subtitle": "Get a personalised analysis of your Mars placement, exaltation status, and career-peak timing for your full chart.",
+        "buttons": [
+          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
+          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
+          { "label": "Mangal Kavacham", "url": "https://stotra.vastucart.in/stotra/mangal-kavacham", "variant": "outline" }
+        ]
+      }
+    },
+    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "faq",
+      "eyebrow": "Frequently asked questions",
+      "heading": "Questions about Mars in 10th house, Mesh Lagna",
+      "items": [
+        { "q": "Is Mars in the 10th house good for Mesh Lagna?", "a": "Exceptionally so. Mars is the lagna lord for Mesh Lagna and the 10th house for Mesh is Makar (Capricorn) which is Mars's exaltation sign. Mars exalted in a kendra house creates Ruchaka Yoga, one of the four Pancha Mahapurusha yogas. Classical texts associate Ruchaka with commanding physical presence, institutional leadership, career peak visibility, victory over enemies, and longevity above family average." },
+        { "q": "What is Ruchaka Yoga and how does it apply here?", "a": "Ruchaka Yoga forms when Mars occupies a kendra house (1, 4, 7, or 10) in his own sign (Mesh or Vrishchika) or exaltation sign (Makar). For Mesh Lagna, Mars in the 10th house is in Makar which is Mars's exaltation. This is the exaltation-in-kendra version of Ruchaka and classical texts treat it as the career-defining Pancha Mahapurusha signature for any Aries ascendant native." },
+        { "q": "How does Mars in 10th house affect career?", "a": "It produces senior-rank careers that reward command and discipline. Military, civil service, surgery, police leadership, founding manufacturing companies, and sports leadership are the classic fits. The career arc rises slowly in early years and peaks during Mangal mahadasha, usually between ages 35 and 55. Natives typically become figures of lasting reputation in their fields." },
+        { "q": "Which gemstone should Mesh Lagna wear for Mars in 10th?", "a": "Red coral (Moonga) is the primary gemstone for Ruchaka Yoga. Wear natural untreated minimum six ratti (larger than standard because exalted Mars benefits from amplified resonance) set in copper or panchdhatu on the ring finger of the right hand on a Tuesday at sunrise. The Ruchaka yoga specifically responds to larger-weight corals. Always consult a practitioner first." },
+        { "q": "When does Mangal mahadasha activate for Mesh Lagna?", "a": "Mangal mahadasha runs for seven years in the Vimshottari sequence. For Ruchaka Yoga natives carrying Mars exalted in 10th, this seven-year window is the single most important period of the career. Natives whose mangal mahadasha falls between ages 35 and 55 typically reach senior leadership positions during the window and hold them for the rest of their careers. A qualified Jyotishi can map the exact timing." }
+      ]
+    },
+    { "type": "divider", "gem": "teal" },
+    {
+      "type": "author",
+      "author": {
+        "author_id": "pt-raghav-sharma",
+        "title_line": "Senior Jyotishi, Vedic Astrology",
+        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "badges": [
+          { "label": "Vedic Astrology", "tone": "teal" },
+          { "label": "Muhurta specialist", "tone": "saff" },
+          { "label": "22 years practice", "tone": "rose" }
+        ],
+        "meta": [
+          { "icon": "calendar", "text": "400+ articles" },
+          { "icon": "star", "text": "Varanasi Jyotish lineage" },
+          { "icon": "clock", "text": "Updated April 2026" }
+        ]
+      }
+    },
+    { "type": "divider", "gem": "rose" },
+    {
+      "type": "related-posts",
+      "eyebrow": "Continue your study",
+      "heading": "Related placements for Mesh Lagna",
+      "posts": [
+        { "title": "Mesh Lagna complete profile", "sub": "The 108-post pillar", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
+        { "title": "Jupiter in 4th house, Mesh Lagna", "sub": "Guru exalted, Hamsa Yoga", "href": "/jyotish/graha-in-bhava/jupiter-4th-house-aries-lagna", "icon_variant": "teal" },
+        { "title": "Saturn in 7th house, Mesh Lagna", "sub": "Shani exalted, Sasa Yoga", "href": "/jyotish/graha-in-bhava/saturn-7th-house-aries-lagna", "icon_variant": "teal" }
+      ]
+    }
+  ]
+}
