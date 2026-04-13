@@ -9,7 +9,7 @@ of what any other doc claims.
 | Group | Done | Target | % |
 |---|---|---|---|
 | Lagna pillars | 1 | 12 | 8% |
-| Mesh cluster (graha-in-bhava) | 17 | 108 | 16% |
+| Mesh cluster (graha-in-bhava) | 18 | 108 | 17% |
 | Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
@@ -49,7 +49,7 @@ The matrix below is the gate.
 | 2nd  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
 | 3rd  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 4th  | ✗  | ✓  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
-| 5th  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 5th  | ✓  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
 | 6th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 7th  | ✓  | ✗  | ✓  | ✗  | ✗  | ✓  | ✓  | ✗  | ✗  |
 | 8th  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
@@ -84,7 +84,7 @@ The matrix below is the gate.
 - [x] Moon in 10th house `moon-10th-house-aries-lagna` ← career karaka in Makara
 - [x] Mars in 7th house `mars-7th-house-aries-lagna` ← Manglik Dosha central case
 - [x] Rahu in 10th house `rahu-10th-house-aries-lagna` ← BPHS favourable zenith node
-- [ ] Jupiter in 5th house `jupiter-5th-house-aries-lagna` ← trine-to-trine blessing
+- [x] Jupiter in 5th house `jupiter-5th-house-aries-lagna` ← trine-to-trine Dharma-Karmadhipati seed
 - [ ] Moon in 7th house `moon-7th-house-aries-lagna` ← emotional spouse link
 
 ---
@@ -113,6 +113,7 @@ before the previous one is at 109/109)
 | `moon-10th-house-aries-lagna` | planet-in-house | 2180 | 100/100 | ✓ all gates | 2026-04-13 |
 | `mars-7th-house-aries-lagna` | planet-in-house | 2310 | 100/100 | ✓ all gates | 2026-04-13 |
 | `rahu-10th-house-aries-lagna` | planet-in-house | 2280 | 100/100 | ✓ all gates | 2026-04-13 |
+| `jupiter-5th-house-aries-lagna` | planet-in-house | 2320 | 100/100 | ✓ all gates | 2026-04-13 |
 
 ---
 

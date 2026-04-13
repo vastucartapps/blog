@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { Icon } from "@/components/ui/Icon";
@@ -61,7 +62,7 @@ export default async function AuthorPage({
       jobTitle: author.title,
       description: author.bio,
       url: absoluteUrl(authorUrl(slug)),
-      image: `${SITE_URL}/VastuCartLogo.png`,
+      image: `${SITE_URL}${author.avatar_url ?? "/VastuCartLogo.png"}`,
       knowsAbout: author.specialization,
       worksFor: {
         "@type": "Organization",
@@ -142,24 +143,39 @@ export default async function AuthorPage({
             >
               <div
                 style={{
-                  width: 132,
-                  height: 132,
+                  width: 156,
+                  height: 156,
                   borderRadius: "50%",
                   border: "3px solid var(--gold-light)",
-                  background: "linear-gradient(135deg, var(--dark) 0%, var(--teal) 100%)",
+                  background: author.avatar_url
+                    ? "transparent"
+                    : "linear-gradient(135deg, var(--dark) 0%, var(--teal) 100%)",
                   display: "flex",
                   alignItems: "center",
                   justifyContent: "center",
                   color: "var(--gold-light)",
                   fontFamily: "var(--font-display)",
-                  fontSize: 44,
+                  fontSize: 48,
                   fontWeight: 600,
                   flexShrink: 0,
+                  overflow: "hidden",
+                  position: "relative",
                   boxShadow:
                     "0 22px 50px -16px rgba(0,0,0,0.55), inset 0 1px 0 rgba(255,255,255,0.10)",
                 }}
               >
-                {author.initials}
+                {author.avatar_url ? (
+                  <Image
+                    src={author.avatar_url}
+                    alt={`${author.name}, ${author.title}`}
+                    fill
+                    sizes="156px"
+                    style={{ objectFit: "cover" }}
+                    priority
+                  />
+                ) : (
+                  author.initials
+                )}
               </div>
               <div style={{ minWidth: 0 }}>
                 <span

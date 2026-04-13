@@ -8,6 +8,7 @@ export const AUTHORS: Record<string, Author> = {
     name: "Pt. Raghav Sharma",
     title: "Jyotish Acharya, 22 years",
     initials: "RS",
+    avatar_url: "/authors/pt-raghav-sharma.webp",
     avatar_gradient: "from-saffron to-gold",
     bio: "Varanasi-based practicing Jyotishi with over two decades of consultation experience across Graha, Dasha and remedial astrology.",
     specialization: ["Jyotish", "Graha", "Dasha", "Muhurta", "Remedies"],

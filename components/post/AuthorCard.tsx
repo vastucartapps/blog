@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { motion } from "framer-motion";
 import { Icon, type IconName } from "@/components/ui/Icon";
 import type { AuthorCardData } from "@/lib/types";
@@ -41,23 +42,38 @@ export function AuthorCard({ author }: Props) {
     >
       <div
         style={{
-          width: 88,
-          height: 88,
+          width: 104,
+          height: 104,
           borderRadius: "50%",
-          background: "linear-gradient(135deg, var(--dark) 0%, var(--teal) 100%)",
+          background: profile.avatar_url
+            ? "transparent"
+            : "linear-gradient(135deg, var(--dark) 0%, var(--teal) 100%)",
           border: "2px solid var(--gold-light)",
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
           color: "var(--gold-light)",
           fontFamily: "var(--font-display)",
-          fontSize: 28,
+          fontSize: 32,
           fontWeight: 600,
           flexShrink: 0,
+          overflow: "hidden",
           boxShadow: "0 14px 32px -16px rgba(1,63,71,0.40)",
+          position: "relative",
         }}
       >
-        {profile.initials}
+        {profile.avatar_url ? (
+          <Image
+            src={profile.avatar_url}
+            alt={`${profile.name}, ${profile.title}`}
+            fill
+            sizes="104px"
+            style={{ objectFit: "cover" }}
+            priority={false}
+          />
+        ) : (
+          profile.initials
+        )}
       </div>
       <div style={{ flex: 1, minWidth: 0 }}>
         <div
