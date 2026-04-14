@@ -5,9 +5,11 @@ interface Props {
   categorySlug: string;
   subs: SubCategory[];
   active?: string;
+  /** Live count of published posts keyed by subcategory slug. */
+  counts?: Record<string, number>;
 }
 
-export function SubcategoryChips({ categorySlug, subs, active }: Props) {
+export function SubcategoryChips({ categorySlug, subs, active, counts }: Props) {
   return (
     <nav aria-label="Subcategories" style={{ display: "flex", flexWrap: "wrap", gap: 10 }}>
       {subs.map((s) => {
@@ -50,7 +52,7 @@ export function SubcategoryChips({ categorySlug, subs, active }: Props) {
                 marginLeft: 2,
               }}
             >
-              {s.target_post_count}
+              {counts?.[s.slug] ?? 0}
             </span>
           </Link>
         );

@@ -70,3 +70,14 @@ export function countPostsByCategory(): Record<string, number> {
   }
   return out;
 }
+
+// Live count of published posts keyed by subcategory slug. Scoped
+// to a single category so the same subcategory slug used under two
+// categories (if ever added) does not collide.
+export function countPostsBySubcategory(category: string): Record<string, number> {
+  const out: Record<string, number> = {};
+  for (const p of getPostsByCategory(category)) {
+    if (p.subcategory) out[p.subcategory] = (out[p.subcategory] ?? 0) + 1;
+  }
+  return out;
+}

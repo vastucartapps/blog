@@ -34,7 +34,6 @@ interface ClusterCard {
   slug: string;
   icon: IconName;
   description: string;
-  count_label: string;
 }
 
 // The 9 jyotish clusters that live under any lagna pillar.
@@ -45,56 +44,48 @@ const LAGNA_CLUSTERS: ClusterCard[] = [
     slug: "graha-in-bhava",
     icon: "sun",
     description: "Every planet placed in every house, interpreted for this lagna.",
-    count_label: "108 posts",
   },
   {
     label: "Graha States",
     slug: "graha-states",
     icon: "star",
     description: "Uchha, neecha, digbali, asta, vakri and baaladi avasthas.",
-    count_label: "60 posts",
   },
   {
     label: "Conjunctions & Yogas",
     slug: "conjunctions",
     icon: "diamond-gem",
     description: "Two and three planet conjunctions producing rajyoga and dhana yoga.",
-    count_label: "80 posts",
   },
   {
     label: "Nakshatras",
     slug: "nakshatra",
     icon: "moon",
     description: "All 27 nakshatras with padas, deities and qualities.",
-    count_label: "27 posts",
   },
   {
     label: "Vimshottari Dasha",
     slug: "dasha",
     icon: "clock",
     description: "Mahadasha and antardasha periods, timing of life events.",
-    count_label: "60 posts",
   },
   {
     label: "Yogas",
     slug: "yogas",
     icon: "triangle-house",
     description: "Raja yogas, dhana yogas, viparita raja yogas and nabhasa yogas.",
-    count_label: "80 posts",
   },
   {
     label: "Remedies",
     slug: "remedies",
     icon: "check-circle",
     description: "Classical remedial measures, mantra, charity and daana.",
-    count_label: "40 posts",
   },
   {
     label: "Rashi Profile",
     slug: "rashi-profiles",
     icon: "mars",
     description: "The matching rashi profile and personality template.",
-    count_label: "12 posts",
   },
 ];
 
@@ -110,6 +101,8 @@ interface Props {
   description: string;
   /** Stat strip cells: Lord, Element, Quality, Direction etc */
   stats: { label: string; value: string; sub?: string }[];
+  /** Live count of published posts keyed by jyotish subcategory slug. */
+  clusterCounts?: Record<string, number>;
 }
 
 export function LagnaPillarHero({
@@ -121,6 +114,7 @@ export function LagnaPillarHero({
   englishName,
   description,
   stats,
+  clusterCounts,
 }: Props) {
   const theme = getTheme("jyotish");
   // Resolve lagna canonical labels for cross-checking
@@ -376,7 +370,7 @@ export function LagnaPillarHero({
                       opacity: 0.75,
                     }}
                   >
-                    {c.count_label}
+                    {clusterCounts?.[c.slug] ?? 0} posts
                   </span>
                   <span
                     style={{

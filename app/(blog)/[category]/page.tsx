@@ -6,7 +6,7 @@ import { CategoryHero } from "@/components/listing/CategoryHero";
 import { SubcategoryChips } from "@/components/listing/SubcategoryChips";
 import { PostGrid } from "@/components/listing/PostGrid";
 import { CATEGORIES, getCategory } from "@/lib/categories";
-import { getPostsByCategory } from "@/lib/content";
+import { getPostsByCategory, countPostsBySubcategory } from "@/lib/content";
 import { absoluteUrl, SITE_URL } from "@/lib/utils";
 import type { IconName } from "@/components/ui/Icon";
 
@@ -34,6 +34,7 @@ export default async function CategoryPage({ params }: { params: Promise<Params>
   const cat = getCategory(category);
   if (!cat) notFound();
   const posts = getPostsByCategory(cat.slug);
+  const subCounts = countPostsBySubcategory(cat.slug);
   const breadcrumb = [
     { label: "Home", href: "/" },
     { label: cat.label, href: `/${cat.slug}` },
@@ -78,7 +79,7 @@ export default async function CategoryPage({ params }: { params: Promise<Params>
         />
         <div className="wrap-wide" style={{ paddingTop: "3.5rem", paddingBottom: "4rem" }}>
           <div style={{ marginBottom: "2.5rem" }}>
-            <SubcategoryChips categorySlug={cat.slug} subs={cat.subcategories} />
+            <SubcategoryChips categorySlug={cat.slug} subs={cat.subcategories} counts={subCounts} />
           </div>
           <PostGrid posts={posts} categoryLabel={cat.label} />
         </div>

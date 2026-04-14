@@ -6,7 +6,7 @@ import { PostHero } from "@/components/post/PostHero";
 import { LagnaPillarHero } from "@/components/post/LagnaPillarHero";
 import { BlockRenderer } from "@/components/post/BlockRenderer";
 import { getCategory, getSubcategory } from "@/lib/categories";
-import { getPostBySlug, getPublishedPosts } from "@/lib/content";
+import { getPostBySlug, getPublishedPosts, countPostsBySubcategory } from "@/lib/content";
 import { absoluteUrl } from "@/lib/utils";
 import { buildPostSchema } from "@/lib/schema-builder";
 import { LAGNA_LABELS, type LagnaSlug } from "@/lib/internal-links";
@@ -113,6 +113,7 @@ export default async function PostPage({
     | { cells: { label: string; value: string; sub?: string }[] }
     | undefined;
   const pillarStats = firstStatStrip?.cells ?? [];
+  const clusterCounts = isLagnaPillar ? countPostsBySubcategory("jyotish") : undefined;
 
   return (
     <>
@@ -128,6 +129,7 @@ export default async function PostPage({
             englishName={`${lagnaLabels.english} Ascendant`}
             description={post.hero.description}
             stats={pillarStats}
+            clusterCounts={clusterCounts}
           />
         ) : (
           <PostHero
