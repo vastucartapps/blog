@@ -9,7 +9,7 @@ of what any other doc claims.
 | Group | Done | Target | % |
 |---|---|---|---|
 | Lagna pillars | 1 | 12 | 8% |
-| Mesh cluster (graha-in-bhava) | 79 | 108 | 73% |
+| Mesh cluster (graha-in-bhava) | 82 | 108 | 76% |
 | Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
@@ -47,7 +47,7 @@ The matrix below is the gate.
 |---|---|---|---|---|---|---|---|---|---|
 | 1st  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
 | 2nd  | ✗  | ✗  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✗  |
-| 3rd  | ✗  | ✗  | ✓  | ✓  | ✓  | ✗  | ✓  | ✗  | ✗  |
+| 3rd  | ✗  | ✗  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✗  |
 | 4th  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✓  | ✓  | ✓  |
 | 5th  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✓  | ✓  | ✗  |
 | 6th  | ✗  | ✗  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✗  |
@@ -56,7 +56,7 @@ The matrix below is the gate.
 | 9th  | ✓  | ✓  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✓  |
 | 10th | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
 | 11th | ✓  | ✗  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✗  |
-| 12th | ✗  | ✓  | ✓  | ✗  | ✓  | ✓  | ✓  | ✗  | ✗  |
+| 12th | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✗  |
 
 **Mesh cluster total: 15/108 graha-in-bhava + 1/1 pillar = 16/109 published. All 9 swakshetra + 3 Pancha Mahapurusha exaltation + Phase 4 high-signal placements in progress.**
 
@@ -194,6 +194,9 @@ before the previous one is at 109/109)
 | `venus-5th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
 | `mercury-11th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
 | `ketu-8th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
+| `mercury-12th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
+| `sun-12th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
+| `rahu-3rd-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
 
 ---
 
