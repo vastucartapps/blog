@@ -9,7 +9,7 @@ of what any other doc claims.
 | Group | Done | Target | % |
 |---|---|---|---|
 | Lagna pillars | 1 | 12 | 8% |
-| Mesh cluster (graha-in-bhava) | 82 | 108 | 76% |
+| Mesh cluster (graha-in-bhava) | 85 | 108 | 79% |
 | Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
@@ -46,7 +46,7 @@ The matrix below is the gate.
 | House | Surya | Chandra | Mangal | Budha | Guru | Shukra | Shani | Rahu | Ketu |
 |---|---|---|---|---|---|---|---|---|---|
 | 1st  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| 2nd  | ✗  | ✗  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✗  |
+| 2nd  | ✓  | ✗  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✓  |
 | 3rd  | ✗  | ✗  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✗  |
 | 4th  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✓  | ✓  | ✓  |
 | 5th  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✓  | ✓  | ✗  |
@@ -55,10 +55,10 @@ The matrix below is the gate.
 | 8th  | ✓  | ✓  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✓  |
 | 9th  | ✓  | ✓  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✓  |
 | 10th | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| 11th | ✓  | ✗  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✗  |
+| 11th | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✗  |
 | 12th | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✗  |
 
-**Mesh cluster total: 15/108 graha-in-bhava + 1/1 pillar = 16/109 published. All 9 swakshetra + 3 Pancha Mahapurusha exaltation + Phase 4 high-signal placements in progress.**
+**Mesh cluster total: 85/108 graha-in-bhava + 1/1 pillar = 86/109 published. All 9 swakshetra + 3 Pancha Mahapurusha exaltation + Phase 4 high-signal placements complete. Phase 7 rolling: Sun-2, Moon-11, Ketu-2 closes batch 13.**
 
 ### Phase 1 batch (DONE — all gates green)
 - [x] Sun in 1st house, Mesh Lagna `sun-1st-house-aries-lagna`
