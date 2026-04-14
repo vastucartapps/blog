@@ -9,7 +9,7 @@ of what any other doc claims.
 | Group | Done | Target | % |
 |---|---|---|---|
 | Lagna pillars | 1 | 12 | 8% |
-| Mesh cluster (graha-in-bhava) | 46 | 108 | 43% |
+| Mesh cluster (graha-in-bhava) | 49 | 108 | 45% |
 | Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
@@ -45,7 +45,7 @@ The matrix below is the gate.
 
 | House | Surya | Chandra | Mangal | Budha | Guru | Shukra | Shani | Rahu | Ketu |
 |---|---|---|---|---|---|---|---|---|---|
-| 1st  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  |
+| 1st  | ✓  | ✓  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  |
 | 2nd  | ✗  | ✗  | ✓  | ✗  | ✓  | ✓  | ✓  | ✗  | ✗  |
 | 3rd  | ✗  | ✗  | ✓  | ✓  | ✓  | ✗  | ✓  | ✗  | ✗  |
 | 4th  | ✗  | ✓  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  |
@@ -54,9 +54,9 @@ The matrix below is the gate.
 | 7th  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✓  | ✗  | ✗  |
 | 8th  | ✗  | ✗  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  |
 | 9th  | ✗  | ✗  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  |
-| 10th | ✗  | ✓  | ✓  | ✗  | ✓  | ✗  | ✓  | ✓  | ✗  |
+| 10th | ✓  | ✓  | ✓  | ✗  | ✓  | ✗  | ✓  | ✓  | ✗  |
 | 11th | ✗  | ✗  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  |
-| 12th | ✗  | ✗  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  |
+| 12th | ✗  | ✗  | ✓  | ✗  | ✓  | ✓  | ✓  | ✗  | ✗  |
 
 **Mesh cluster total: 15/108 graha-in-bhava + 1/1 pillar = 16/109 published. All 9 swakshetra + 3 Pancha Mahapurusha exaltation + Phase 4 high-signal placements in progress.**
 
@@ -161,6 +161,9 @@ before the previous one is at 109/109)
 | `jupiter-2nd-house-aries-lagna` | planet-in-house | 2150 | 100/100 | ✓ all gates | 2026-04-13 |
 | `jupiter-3rd-house-aries-lagna` | planet-in-house | 2150 | 100/100 | ✓ all gates | 2026-04-13 |
 | `jupiter-6th-house-aries-lagna` | planet-in-house | 2150 | 100/100 | ✓ all gates | 2026-04-13 |
+| `sun-10th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
+| `moon-1st-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
+| `venus-12th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
 
 ---
 
