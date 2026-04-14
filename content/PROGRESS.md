@@ -9,7 +9,7 @@ of what any other doc claims.
 | Group | Done | Target | % |
 |---|---|---|---|
 | Lagna pillars | 1 | 12 | 8% |
-| Mesh cluster (graha-in-bhava) | 58 | 108 | 54% |
+| Mesh cluster (graha-in-bhava) | 61 | 108 | 56% |
 | Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
@@ -48,13 +48,13 @@ The matrix below is the gate.
 | 1st  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✓  |
 | 2nd  | ✗  | ✗  | ✓  | ✗  | ✓  | ✓  | ✓  | ✗  | ✗  |
 | 3rd  | ✗  | ✗  | ✓  | ✓  | ✓  | ✗  | ✓  | ✗  | ✗  |
-| 4th  | ✗  | ✓  | ✓  | ✗  | ✓  | ✓  | ✓  | ✗  | ✗  |
+| 4th  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✓  | ✗  | ✗  |
 | 5th  | ✓  | ✓  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  |
 | 6th  | ✗  | ✗  | ✓  | ✓  | ✓  | ✗  | ✓  | ✗  | ✗  |
 | 7th  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✓  | ✓  | ✓  |
 | 8th  | ✗  | ✗  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  |
-| 9th  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  |
-| 10th | ✓  | ✓  | ✓  | ✗  | ✓  | ✗  | ✓  | ✓  | ✗  |
+| 9th  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✓  |
+| 10th | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✗  |
 | 11th | ✗  | ✗  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✗  |
 | 12th | ✗  | ✗  | ✓  | ✗  | ✓  | ✓  | ✓  | ✗  | ✗  |
 
@@ -173,6 +173,9 @@ before the previous one is at 109/109)
 | `sun-9th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
 | `moon-5th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
 | `rahu-7th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
+| `mercury-10th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
+| `sun-4th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
+| `ketu-9th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
 
 ---
 
