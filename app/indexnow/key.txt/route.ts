@@ -9,8 +9,11 @@ import { getIndexNowKey } from "@/lib/indexnow";
 // Naver and Seznam can verify ownership before accepting pings.
 // ─────────────────────────────────────────────────────────────────
 
-export const dynamic = "force-static";
-export const revalidate = 3600;
+// Must read process.env at request time, not build time. If we marked
+// this route static, Next.js would bake the env value into the build
+// cache — and if INDEXNOW_KEY wasn't present during the build, the
+// "not configured" fallback would be served forever.
+export const dynamic = "force-dynamic";
 
 export async function GET() {
   const key = getIndexNowKey();
