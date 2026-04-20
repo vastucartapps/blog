@@ -41,10 +41,13 @@ export async function submitToIndexNow(urls: string[]): Promise<{
   }
 
   const host = new URL(SITE_URL).hostname;
+  // IndexNow validators accept keyLocation anywhere on the host, but
+  // Bing's validator is stricter when the path looks unusual. Using
+  // the `{key}.txt` root convention is the widest-compatible form.
   const payload = {
     host,
     key,
-    keyLocation: `${SITE_URL}/indexnow/key.txt`,
+    keyLocation: `${SITE_URL}/${key}.txt`,
     urlList: urls,
   };
 
