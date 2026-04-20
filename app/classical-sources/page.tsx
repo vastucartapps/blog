@@ -3,7 +3,12 @@ import Link from "next/link";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { SITE_URL } from "@/lib/utils";
-import { buildAboutPageSchema } from "@/lib/schema";
+import {
+  buildAboutPageSchema,
+  buildBookSchemas,
+  CLASSICAL_BOOKS,
+  buildHubSchemas,
+} from "@/lib/schema";
 
 const URL = `${SITE_URL}/classical-sources`;
 const PUBLISHED_AT = "2026-04-20T00:00:00.000Z";
@@ -155,7 +160,7 @@ const SOURCES: SourceEntry[] = [
 const DOMAINS = Array.from(new Set(SOURCES.map((s) => s.domain)));
 
 export default function ClassicalSourcesPage() {
-  const schemas = buildAboutPageSchema({
+  const aboutSchemas = buildAboutPageSchema({
     slug: "classical-sources",
     name: "Classical Sources — VastuCart Blog",
     description:
@@ -164,6 +169,35 @@ export default function ClassicalSourcesPage() {
     datePublished: PUBLISHED_AT,
     dateModified: PUBLISHED_AT,
   });
+
+  // Emit a Book entity for every classical text so each carries its
+  // own schema signature in Google's Knowledge Graph.
+  const bookSchemas = buildBookSchemas(CLASSICAL_BOOKS, URL);
+
+  // Hub-style listing for the books-as-items representation.
+  const hubSchemas = buildHubSchemas({
+    url: URL,
+    pageType: "CollectionPage",
+    name: "Classical Sources — VastuCart Blog",
+    description:
+      "Every article on VastuCart Blog is grounded in a named classical source. This page lists the Sanskrit and English texts that underpin our content.",
+    breadcrumb: [{ name: "Classical Sources", url: "/classical-sources" }],
+    items: CLASSICAL_BOOKS.map((b, i) => ({
+      name: b.name,
+      url: `/classical-sources#${b.id}`,
+      description: b.description,
+      position: i + 1,
+    })),
+    navigation: [
+      { name: "Editorial Standards", url: "/editorial-standards" },
+      { name: "Authors", url: "/authors" },
+      { name: "Glossary", url: "/glossary" },
+    ],
+    datePublished: PUBLISHED_AT,
+    dateModified: PUBLISHED_AT,
+  });
+
+  const schemas = [...aboutSchemas, ...hubSchemas, ...bookSchemas];
 
   return (
     <>
@@ -261,7 +295,12 @@ export default function ClassicalSourcesPage() {
                 {SOURCES.filter((s) => s.domain === domain).map((s) => (
                   <article
                     key={s.title}
+                    id={s.title
+                      .toLowerCase()
+                      .replace(/[^a-z0-9]+/g, "-")
+                      .replace(/^-|-$/g, "")}
                     style={{
+                      scrollMarginTop: 90,
                       padding: "1.4rem 1.6rem",
                       borderRadius: 14,
                       border: "1px solid var(--border)",

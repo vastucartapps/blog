@@ -7,7 +7,7 @@ import { AUTHORS } from "@/lib/authors";
 import { getPublishedPosts } from "@/lib/content";
 import { SITE_URL } from "@/lib/utils";
 import {
-  buildCollectionPageSchema,
+  buildHubSchemas,
   buildAllPersonSchemas,
 } from "@/lib/schema";
 
@@ -36,19 +36,47 @@ export default function AuthorsIndexPage() {
 
   const authorList = Object.values(AUTHORS);
 
-  const collectionSchemas = buildCollectionPageSchema({
+  const hubSchemas = buildHubSchemas({
     url: URL,
+    pageType: "CollectionPage",
     name: "Authors — VastuCart Blog",
     description:
       "The practitioners and editors behind VastuCart Blog. Meet the Jyotishacharyas, Vastu consultants, and research desk that produce our long-form articles.",
-    items: authorList.map((a) => ({
+    breadcrumb: [{ name: "Authors", url: "/authors" }],
+    items: authorList.map((a, i) => ({
       name: a.name,
       url: `/authors/${a.id}`,
       description: a.bio,
+      position: i + 1,
     })),
-    breadcrumb: [{ name: "Authors", url: "/authors" }],
+    navigation: [
+      { name: "Editorial Standards", url: "/editorial-standards" },
+      { name: "Classical Sources", url: "/classical-sources" },
+      { name: "Glossary", url: "/glossary" },
+    ],
+    faq: [
+      {
+        q: "Who writes Jyotish articles on VastuCart Blog?",
+        a: "Jyotish articles are authored and reviewed by Pt. Raghav Sharma, a Varanasi-based practicing Jyotishacharya with two decades of consultation experience in the Parasari tradition.",
+      },
+      {
+        q: "Who writes non-Jyotish content (numerology, tarot, vastu, puja, festivals, gemstones, rudraksha)?",
+        a: "Non-Jyotish content is produced by the VastuCart Editorial desk, researched collaboratively against classical sources, and reviewed by senior practitioners on staff before publication.",
+      },
+      {
+        q: "How is accuracy ensured?",
+        a: "Every article passes four editorial gates: factual review against primary classical sources (BPHS, Jaimini Sutras, Manasara, Rudraksha Jabala Upanishad, and others listed on our Classical Sources page), Sanskrit spelling check, internal-link validation, and JSON-LD schema validation.",
+      },
+      {
+        q: "Can I contact an author directly?",
+        a: "Editorial queries go to hi@vastucart.in. Business queries go to business@vastucart.in. Individual author contact is channelled through the editorial desk to protect practitioner time.",
+      },
+    ],
+    datePublished: "2026-04-20T00:00:00.000Z",
+    dateModified: new Date().toISOString(),
   });
-  const schemas = [...collectionSchemas, ...buildAllPersonSchemas()];
+
+  const schemas = [...hubSchemas, ...buildAllPersonSchemas()];
 
   return (
     <>

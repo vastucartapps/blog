@@ -52,3 +52,15 @@ export {
   type PillarPart,
   type PillarSchemaInput,
 } from "./pillar";
+export {
+  buildHubSchemas,
+  type HubListItem,
+  type HubNavItem,
+  type HubSchemaInput,
+} from "./hub";
+export {
+  buildBookSchema,
+  buildBookSchemas,
+  CLASSICAL_BOOKS,
+  type BookInput,
+} from "./book";

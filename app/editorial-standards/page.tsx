@@ -3,7 +3,7 @@ import Link from "next/link";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { SITE_URL } from "@/lib/utils";
-import { buildAboutPageSchema } from "@/lib/schema";
+import { buildAboutPageSchema, buildHubSchemas } from "@/lib/schema";
 
 const URL = `${SITE_URL}/editorial-standards`;
 const PUBLISHED_AT = "2026-04-20T00:00:00.000Z";
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
 };
 
 export default function EditorialStandardsPage() {
-  const schemas = buildAboutPageSchema({
+  const aboutSchemas = buildAboutPageSchema({
     slug: "editorial-standards",
     name: "Editorial Standards — VastuCart Blog",
     description:
@@ -32,6 +32,77 @@ export default function EditorialStandardsPage() {
     datePublished: PUBLISHED_AT,
     dateModified: PUBLISHED_AT,
   });
+
+  // Hub layer adds FAQPage + SiteNavigation cross-refs so this policy
+  // page gets pulled into Q&A rich results alongside its AboutPage.
+  const hubSchemas = buildHubSchemas({
+    url: URL,
+    pageType: "AboutPage",
+    name: "Editorial Standards — VastuCart Blog",
+    description:
+      "Editorial process, sourcing, review gates, corrections policy, editorial independence, and contact channels.",
+    breadcrumb: [{ name: "Editorial Standards", url: "/editorial-standards" }],
+    items: [
+      { name: "Authorship", url: "/editorial-standards#authorship", position: 1 },
+      {
+        name: "Research and sourcing",
+        url: "/editorial-standards#sourcing",
+        position: 2,
+      },
+      {
+        name: "Review before publish",
+        url: "/editorial-standards#review",
+        position: 3,
+      },
+      {
+        name: "Corrections policy",
+        url: "/editorial-standards#corrections",
+        position: 4,
+      },
+      {
+        name: "Editorial independence",
+        url: "/editorial-standards#independence",
+        position: 5,
+      },
+      {
+        name: "Disclaimers",
+        url: "/editorial-standards#disclaimers",
+        position: 6,
+      },
+      { name: "Contact", url: "/editorial-standards#contact", position: 7 },
+    ],
+    navigation: [
+      { name: "Authors", url: "/authors" },
+      { name: "Classical Sources", url: "/classical-sources" },
+      { name: "Glossary", url: "/glossary" },
+    ],
+    faq: [
+      {
+        q: "How are articles on VastuCart Blog researched?",
+        a: "We cite classical texts first: Brihat Parashara Hora Shastra, Jaimini Sutras, Saravali, Phaladeepika, and Brihat Samhita for Jyotish; Manasara, Mayamatam, and Vishwakarma Prakash for Vastu; Rider Waite tradition for tarot; Pythagorean and Chaldean systems for numerology; Nirnaya Sindhu and Dharma Sindhu for festival timing; Garuda Purana and Rudraksha Jabala Upanishad for Rudraksha. The full reading list lives on the Classical Sources page.",
+      },
+      {
+        q: "Who reviews articles before publication?",
+        a: "Jyotish content is authored and reviewed by Pt. Raghav Sharma, a Varanasi-based practicing Jyotishacharya. Everything else is produced by the VastuCart Editorial desk and reviewed by senior practitioners on staff before publication.",
+      },
+      {
+        q: "What happens when a reader flags an error?",
+        a: "We investigate within seven days. If the error is confirmed, we correct the article, update the dateModified field, and note the correction at the end of the article. We do not silently edit substantive claims. Email corrections to hi@vastucart.in.",
+      },
+      {
+        q: "Does VastuCart Blog accept sponsored content?",
+        a: "No. Our recommendations on gemstones, rudraksha, puja samagri, and consultations are editorial judgements based on classical prescription. Where we link to the VastuCart store, the reader sees the path we would recommend to a consulting client. We do not accept paid placements or sponsored content in editorial articles.",
+      },
+      {
+        q: "Do astrology articles replace professional advice?",
+        a: "No. Astrology, numerology, and Vastu are classical knowledge systems that inform personal reflection. Articles on this blog do not substitute for medical, legal, psychological, or financial advice. For personal guidance, book a consultation through the VastuCart panel.",
+      },
+    ],
+    datePublished: PUBLISHED_AT,
+    dateModified: PUBLISHED_AT,
+  });
+
+  const schemas = [...aboutSchemas, ...hubSchemas];
 
   return (
     <>
@@ -123,7 +194,7 @@ export default function EditorialStandardsPage() {
               color: "var(--on-light-2)",
             }}
           >
-            <h2 style={proseH2}>1. Authorship</h2>
+            <h2 id="authorship" style={proseH2}>1. Authorship</h2>
             <p>
               Jyotish content — every Graha placement, Dasha analysis, Lagna
               profile, Nakshatra reading, and remedial article — is authored
@@ -141,7 +212,7 @@ export default function EditorialStandardsPage() {
               and reviewed by the senior panel before publication.
             </p>
 
-            <h2 style={proseH2}>2. Research and sourcing</h2>
+            <h2 id="sourcing" style={proseH2}>2. Research and sourcing</h2>
             <p>
               We cite classical texts first: Brihat Parashara Hora Shastra,
               Jaimini Sutras, Saravali, Phaladeepika, Brihat Samhita, and the
@@ -156,7 +227,7 @@ export default function EditorialStandardsPage() {
               page.
             </p>
 
-            <h2 style={proseH2}>3. Review before publish</h2>
+            <h2 id="review" style={proseH2}>3. Review before publish</h2>
             <p>
               Every article goes through four gates: factual review against the
               primary source, Sanskrit term spelling check, internal-link
@@ -165,7 +236,7 @@ export default function EditorialStandardsPage() {
               ships with broken schema or unresolved internal links.
             </p>
 
-            <h2 style={proseH2}>4. Corrections policy</h2>
+            <h2 id="corrections" style={proseH2}>4. Corrections policy</h2>
             <p>
               When a reader flags an error, we investigate within seven days.
               If confirmed, we correct the article, update the{" "}
@@ -187,7 +258,7 @@ export default function EditorialStandardsPage() {
               .
             </p>
 
-            <h2 style={proseH2}>5. Editorial independence</h2>
+            <h2 id="independence" style={proseH2}>5. Editorial independence</h2>
             <p>
               Our recommendations on gemstones, rudraksha, puja samagri, and
               consultations are editorial judgements based on classical
@@ -197,7 +268,7 @@ export default function EditorialStandardsPage() {
               articles.
             </p>
 
-            <h2 style={proseH2}>6. Disclaimers</h2>
+            <h2 id="disclaimers" style={proseH2}>6. Disclaimers</h2>
             <p>
               Astrology, numerology, and Vastu are classical knowledge systems
               that inform personal reflection. Articles on this blog do not
@@ -206,7 +277,7 @@ export default function EditorialStandardsPage() {
               VastuCart panel.
             </p>
 
-            <h2 style={proseH2}>7. Contact</h2>
+            <h2 id="contact" style={proseH2}>7. Contact</h2>
             <p>
               Editorial queries:{" "}
               <a href="mailto:hi@vastucart.in" style={proseLink}>

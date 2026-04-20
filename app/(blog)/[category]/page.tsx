@@ -8,29 +8,53 @@ import { PostGrid } from "@/components/listing/PostGrid";
 import { CATEGORIES, getCategory } from "@/lib/categories";
 import { getPostsByCategory, countPostsBySubcategory } from "@/lib/content";
 import { absoluteUrl, SITE_URL } from "@/lib/utils";
-import { buildCollectionPageSchema } from "@/lib/schema";
+import { buildHubSchemas } from "@/lib/schema";
+import { getCategoryFAQs } from "@/lib/category-faqs";
+import { getCategoryConceptSlugs } from "@/lib/category-concepts";
 import type { IconName } from "@/components/ui/Icon";
 
-interface Params { category: string; }
+interface Params {
+  category: string;
+}
 
 export function generateStaticParams() {
   return CATEGORIES.map((c) => ({ category: c.slug }));
 }
 
-export async function generateMetadata({ params }: { params: Promise<Params> }): Promise<Metadata> {
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<Params>;
+}): Promise<Metadata> {
   const { category } = await params;
   const cat = getCategory(category);
   if (!cat) return {};
   const url = absoluteUrl(`/${cat.slug}`);
+  const title = `${cat.label}, ${cat.label_hindi} — VastuCart Blog`;
   return {
-    title: `${cat.label}, ${cat.label_hindi} Articles`,
+    title,
     description: cat.description,
-    alternates: { canonical: url },
-    openGraph: { title: cat.label, description: cat.description, url, type: "website" },
+    alternates: {
+      canonical: url,
+      languages: {
+        "en-IN": url,
+        "x-default": url,
+      },
+    },
+    openGraph: {
+      title: cat.label,
+      description: cat.description,
+      url,
+      type: "website",
+    },
   };
 }
 
-export default async function CategoryPage({ params }: { params: Promise<Params> }) {
+export default async function CategoryPage({
+  params,
+}: {
+  params: Promise<Params>;
+}) {
   const { category } = await params;
   const cat = getCategory(category);
   if (!cat) notFound();
@@ -41,17 +65,42 @@ export default async function CategoryPage({ params }: { params: Promise<Params>
     { label: cat.label, href: `/${cat.slug}` },
   ];
 
-  const schemas = buildCollectionPageSchema({
+  const now = new Date().toISOString();
+  const authorSlug =
+    cat.author_id === "pt-raghav-sharma"
+      ? "pt-raghav-sharma"
+      : "vastucart-editorial";
+
+  const schemas = buildHubSchemas({
     url: `${SITE_URL}/${cat.slug}`,
+    pageType: "CollectionPage",
     name: `${cat.label}, ${cat.label_hindi} Articles`,
     description: cat.description,
-    items: posts.map((p) => ({
+    breadcrumb: [{ name: cat.label, url: `/${cat.slug}` }],
+    items: posts.map((p, i) => ({
       name: p.title,
       url: `/${p.category}/${p.subcategory}/${p.slug}`,
       description: p.meta?.description,
+      position: i + 1,
     })),
-    breadcrumb: [{ name: cat.label, url: `/${cat.slug}` }],
+    navigation: [
+      {
+        name: `${cat.label} Complete Guide`,
+        url: `/${cat.slug}/complete-guide`,
+      },
+      ...cat.subcategories.map((s) => ({
+        name: s.label,
+        url: `/${cat.slug}/${s.slug}`,
+      })),
+    ],
+    faq: getCategoryFAQs(cat.slug),
+    conceptSlugs: getCategoryConceptSlugs(cat.slug),
+    authorSlug,
+    datePublished: now,
+    dateModified: now,
   });
+
+  const faqs = getCategoryFAQs(cat.slug);
 
   return (
     <>
@@ -67,7 +116,10 @@ export default async function CategoryPage({ params }: { params: Promise<Params>
           postCount={posts.length}
           category={cat.id}
         />
-        <div className="wrap-wide" style={{ paddingTop: "3.5rem", paddingBottom: "4rem" }}>
+        <div
+          className="wrap-wide"
+          style={{ paddingTop: "3.5rem", paddingBottom: "4rem" }}
+        >
           <div style={{ marginBottom: "2rem" }}>
             <a
               href={`/${cat.slug}/complete-guide`}
@@ -92,9 +144,84 @@ export default async function CategoryPage({ params }: { params: Promise<Params>
             </a>
           </div>
           <div style={{ marginBottom: "2.5rem" }}>
-            <SubcategoryChips categorySlug={cat.slug} subs={cat.subcategories} counts={subCounts} />
+            <SubcategoryChips
+              categorySlug={cat.slug}
+              subs={cat.subcategories}
+              counts={subCounts}
+            />
           </div>
           <PostGrid posts={posts} categoryLabel={cat.label} />
+
+          {faqs.length > 0 ? (
+            <section
+              id="faq"
+              style={{
+                marginTop: "5rem",
+                paddingTop: "3rem",
+                borderTop: "1px solid var(--border)",
+              }}
+            >
+              <p
+                style={{
+                  fontSize: 10.5,
+                  fontWeight: 700,
+                  letterSpacing: "0.18em",
+                  textTransform: "uppercase",
+                  color: "var(--teal)",
+                  marginBottom: 10,
+                }}
+              >
+                Frequently asked
+              </p>
+              <h2
+                style={{
+                  fontFamily: "var(--font-display)",
+                  fontSize: 28,
+                  fontWeight: 600,
+                  color: "var(--on-light-1)",
+                  marginBottom: 22,
+                }}
+              >
+                {cat.label}, answered
+              </h2>
+              <div style={{ display: "grid", gap: 14 }}>
+                {faqs.map((item, idx) => (
+                  <details
+                    key={idx}
+                    style={{
+                      padding: "1rem 1.3rem",
+                      borderRadius: 12,
+                      border: "1px solid var(--border)",
+                      background: "#ffffff",
+                    }}
+                  >
+                    <summary
+                      style={{
+                        fontFamily: "var(--font-display)",
+                        fontSize: 16,
+                        fontWeight: 600,
+                        color: "var(--on-light-1)",
+                        cursor: "pointer",
+                        listStyle: "none",
+                      }}
+                    >
+                      {item.q}
+                    </summary>
+                    <p
+                      style={{
+                        marginTop: 10,
+                        fontSize: 14.5,
+                        lineHeight: 1.75,
+                        color: "var(--on-light-2)",
+                      }}
+                    >
+                      {item.a}
+                    </p>
+                  </details>
+                ))}
+              </div>
+            </section>
+          ) : null}
         </div>
       </main>
       <Footer />

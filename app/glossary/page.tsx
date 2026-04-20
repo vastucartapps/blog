@@ -6,7 +6,7 @@ import { SITE_URL } from "@/lib/utils";
 import { GLOSSARY_TERMS } from "@/lib/glossary-terms";
 import {
   buildDefinedTermSchemas,
-  buildCollectionPageSchema,
+  buildHubSchemas,
 } from "@/lib/schema";
 
 const URL = `${SITE_URL}/glossary`;
@@ -27,21 +27,31 @@ export const metadata: Metadata = {
 };
 
 export default function GlossaryPage() {
-  const collection = buildCollectionPageSchema({
+  const hubSchemas = buildHubSchemas({
     url: URL,
+    pageType: "CollectionPage",
     name: "Glossary — VastuCart Blog",
     description:
-      "Canonical Sanskrit term definitions used across every article on VastuCart Blog.",
-    items: GLOSSARY_TERMS.map((t) => ({
+      "Canonical glossary of Sanskrit terms used across the VastuCart Blog: lagna, graha, bhava, rashi, nakshatra, dasha, yoga, dosha, muhurta, panchanga, and more.",
+    breadcrumb: [{ name: "Glossary", url: "/glossary" }],
+    items: GLOSSARY_TERMS.map((t, i) => ({
       name: t.name,
       url: `/glossary#${t.id}`,
       description: t.description,
+      position: i + 1,
     })),
-    breadcrumb: [{ name: "Glossary", url: "/glossary" }],
+    navigation: [
+      { name: "Jyotish", url: "/jyotish" },
+      { name: "Numerology", url: "/numerology" },
+      { name: "Vastu", url: "/vastu" },
+      { name: "Classical Sources", url: "/classical-sources" },
+    ],
+    datePublished: PUBLISHED_AT,
+    dateModified: PUBLISHED_AT,
   });
 
   const definedTerms = buildDefinedTermSchemas(GLOSSARY_TERMS);
-  const schemas = [...collection, ...definedTerms];
+  const schemas = [...hubSchemas, ...definedTerms];
 
   const sorted = [...GLOSSARY_TERMS].sort((a, b) =>
     a.name.localeCompare(b.name)
