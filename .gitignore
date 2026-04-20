@@ -53,6 +53,14 @@ next-env.d.ts
 /scripts/progress.json
 /logs/
 
+# ─────────────────────────────────────────────────────────────────
+# Credentialed automation scripts (Puppeteer + Coolify login).
+# These hardcode a plaintext password; pushing them would leak the
+# Coolify admin login. They are dev-only tooling and do NOT run in
+# production — Coolify deploys Next.js from git without these.
+# ─────────────────────────────────────────────────────────────────
+/scripts/coolify-*.ts
+
 # Panchang + generative image cache
 /.cache/
 
@@ -82,6 +90,11 @@ next-env.d.ts
 /public/zodiac icons/
 # legacy duplicate of nakshatras/, the canonical dir without the s
 /public/nakshatra/
+# VastuCart network spec files — internal reference, not public
+/public/00-shared-contracts.md
+/public/04-blog-vastucart-in.md
+/public/*-blog-vastucart-in.md
+/public/*-shared-contracts.md
 
 # WSL Zone.Identifier sidecar files (Windows interop artifacts)
 *:Zone.Identifier

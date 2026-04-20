@@ -10,16 +10,26 @@ const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://blog.vastucart.in"
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "VastuCart Blog — Vedic Astrology, Jyotish, Vastu and Spiritual Wisdom",
+    default:
+      "VastuCart Blog — Vedic Astrology, Jyotish, Vastu and Spiritual Wisdom",
     template: "%s | VastuCart Blog",
   },
   description:
-    "Practitioner-grade Vedic astrology and Jyotish from Pt. Raghav Sharma and the VastuCart panel. Planets, houses, nakshatras, tarot, numerology, vastu, gemstones, rudraksha and remedies.",
+    "Practitioner-grade Vedic astrology and Jyotish from the VastuCart panel. Planets, houses, nakshatras, tarot, numerology, vastu, gemstones, rudraksha and remedies, reviewed by senior Jyotishacharyas.",
   applicationName: "VastuCart Blog",
   generator: "Next.js",
   referrer: "origin-when-cross-origin",
-  authors: [{ name: "VastuCart", url: "https://vastucart.in" }],
-  creator: "VastuCart",
+  authors: [
+    {
+      name: "Pt. Raghav Sharma",
+      url: `${SITE_URL}/authors/pt-raghav-sharma`,
+    },
+    {
+      name: "VastuCart Editorial",
+      url: `${SITE_URL}/authors/vastucart-editorial`,
+    },
+  ],
+  creator: "VastuCart Editorial",
   publisher: "VastuCart",
   category: "Vedic Astrology",
   keywords: [
@@ -31,10 +41,12 @@ export const metadata: Metadata = {
     "Numerology",
     "Tarot",
     "Vastu Shastra",
+    "Puja Vidhi",
+    "Festivals",
     "Gemstones",
     "Rudraksha",
     "Remedies",
-    "Pt. Raghav Sharma",
+    "VastuCart Blog",
   ],
   robots: {
     index: true,
@@ -50,11 +62,12 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_IN",
+    alternateLocale: ["hi_IN"],
     siteName: "VastuCart Blog",
     url: SITE_URL,
     title: "VastuCart Blog — Vedic Astrology, Jyotish and Spiritual Wisdom",
     description:
-      "Practitioner-grade Vedic astrology and Jyotish from VastuCart. Planets, houses, nakshatras, gemstones, remedies.",
+      "Practitioner-grade Vedic astrology and Jyotish from VastuCart. Planets, houses, nakshatras, gemstones, remedies, reviewed by senior Jyotishacharyas.",
     images: [
       {
         url: "/VastuCartLogo.png",
@@ -87,6 +100,11 @@ export const metadata: Metadata = {
     canonical: SITE_URL,
     languages: {
       "en-IN": SITE_URL,
+      "x-default": SITE_URL,
+    },
+    types: {
+      "application/rss+xml": `${SITE_URL}/feed.xml`,
+      "application/feed+json": `${SITE_URL}/feed.json`,
     },
   },
   formatDetection: {

@@ -67,6 +67,19 @@ export function Header() {
               {c.label}
             </Link>
           ))}
+          <Link
+            href="/authors"
+            style={{
+              padding: "8px 12px",
+              fontSize: 12.5,
+              fontWeight: 500,
+              color: "var(--on-light-1)",
+              borderRadius: 6,
+            }}
+            className="hover:text-teal hover:bg-cream-2 transition-colors"
+          >
+            Authors
+          </Link>
         </nav>
 
         <div style={{ marginLeft: "auto", display: "inline-flex", gap: 8, alignItems: "center" }}>

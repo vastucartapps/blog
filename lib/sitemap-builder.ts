@@ -26,13 +26,19 @@ export function buildSitemap(): MetadataRoute.Sitemap {
     priority: 1.0,
   });
 
-  // Category pages
+  // Category pages + pillar pages (one per category)
   for (const cat of CATEGORIES) {
     entries.push({
       url: `${SITE_URL}/${cat.slug}`,
       lastModified: now,
       changeFrequency: "weekly",
       priority: 0.9,
+    });
+    entries.push({
+      url: `${SITE_URL}/${cat.slug}/complete-guide`,
+      lastModified: now,
+      changeFrequency: "weekly",
+      priority: 0.95,
     });
     for (const sub of cat.subcategories) {
       entries.push({
@@ -44,7 +50,21 @@ export function buildSitemap(): MetadataRoute.Sitemap {
     }
   }
 
-  // Author pages
+  // Glossary — referenced by every post's DefinedTermSet
+  entries.push({
+    url: `${SITE_URL}/glossary`,
+    lastModified: now,
+    changeFrequency: "monthly",
+    priority: 0.7,
+  });
+
+  // Authors index + author profile pages
+  entries.push({
+    url: `${SITE_URL}/authors`,
+    lastModified: now,
+    changeFrequency: "monthly",
+    priority: 0.7,
+  });
   for (const slug of Object.keys(AUTHORS)) {
     entries.push({
       url: `${SITE_URL}/authors/${slug}`,
@@ -53,6 +73,23 @@ export function buildSitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     });
   }
+
+  // E-E-A-T transparency pages (editorial standards, classical sources).
+  // Low change frequency but high trust signal — every post links to both.
+  entries.push(
+    {
+      url: `${SITE_URL}/editorial-standards`,
+      lastModified: now,
+      changeFrequency: "yearly",
+      priority: 0.6,
+    },
+    {
+      url: `${SITE_URL}/classical-sources`,
+      lastModified: now,
+      changeFrequency: "yearly",
+      priority: 0.6,
+    }
+  );
 
   // Posts — pillar pages get higher priority and weekly refresh
   // so Google re-crawls them often. Pillars are the topical hubs:

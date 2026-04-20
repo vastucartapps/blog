@@ -9,7 +9,10 @@ import { AUTHORS, getAuthor } from "@/lib/authors";
 import { getPublishedPosts } from "@/lib/content";
 import { absoluteUrl, formatDate, SITE_URL } from "@/lib/utils";
 import { authorUrl } from "@/lib/internal-links";
-import { ORGANIZATION_SAME_AS } from "@/lib/categories";
+import {
+  buildPersonSchema,
+  buildProfilePageSchema,
+} from "@/lib/schema";
 
 interface Params {
   slug: string;
@@ -52,30 +55,14 @@ export default async function AuthorPage({
 
   const posts = getPublishedPosts().filter((p) => p.author_id === slug);
 
-  // Schema: ProfilePage + Person
-  const profile = {
-    "@context": "https://schema.org",
-    "@type": "ProfilePage",
-    mainEntity: {
-      "@type": "Person",
-      name: author.name,
-      jobTitle: author.title,
-      description: author.bio,
-      url: absoluteUrl(authorUrl(slug)),
-      image: `${SITE_URL}${author.avatar_url ?? "/VastuCartLogo.png"}`,
-      knowsAbout: author.specialization,
-      worksFor: {
-        "@type": "Organization",
-        name: "VastuCart",
-        url: "https://vastucart.in",
-        sameAs: ORGANIZATION_SAME_AS,
-      },
-      address: {
-        "@type": "PostalAddress",
-        addressLocality: author.location,
-      },
-    },
-  };
+  // Canonical Person + ProfilePage per public/00-shared-contracts.md §2.2.
+  // Both use the contract @id strings so sister subdomains can reference
+  // them verbatim without redefinition.
+  const personSchema = buildPersonSchema(slug);
+  const profileSchema = buildProfilePageSchema(slug);
+  const schemas = [personSchema, profileSchema].filter(
+    (s): s is NonNullable<typeof s> => s !== null
+  );
 
   return (
     <>
@@ -193,7 +180,7 @@ export default async function AuthorPage({
                     textTransform: "uppercase",
                   }}
                 >
-                  Senior Author
+                  {slug === "vastucart-editorial" ? "Editorial Desk" : "Senior Author"}
                 </span>
                 <h1
                   className="hero-display-sm"
@@ -241,10 +228,21 @@ export default async function AuthorPage({
                 flexWrap: "wrap",
               }}
             >
-              <Stat label="Years of practice" value={`${author.experience_years}+`} />
-              <Stat label="Articles published" value={`${posts.length}`} />
-              <Stat label="Lineage" value={author.lineage ?? "Parashari Jyotish"} />
-              <Stat label="Based in" value={author.location} />
+              {slug === "vastucart-editorial" ? (
+                <>
+                  <Stat label="Desk" value="Editorial" />
+                  <Stat label="Articles published" value={`${posts.length}`} />
+                  <Stat label="Coverage" value={`${author.categories.length} categories`} />
+                  <Stat label="Based in" value={author.location} />
+                </>
+              ) : (
+                <>
+                  <Stat label="Years of practice" value={`${author.experience_years}+`} />
+                  <Stat label="Articles published" value={`${posts.length}`} />
+                  <Stat label="Lineage" value={author.lineage ?? "Parashari Jyotish"} />
+                  <Stat label="Based in" value={author.location} />
+                </>
+              )}
             </div>
           </div>
         </section>
@@ -441,10 +439,13 @@ export default async function AuthorPage({
         </section>
       </main>
       <Footer />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(profile) }}
-      />
+      {schemas.map((entity, i) => (
+        <script
+          key={`ld-author-${i}`}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(entity) }}
+        />
+      ))}
     </>
   );
 }

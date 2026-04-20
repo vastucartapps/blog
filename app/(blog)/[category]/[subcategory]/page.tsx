@@ -8,6 +8,7 @@ import { PostGrid } from "@/components/listing/PostGrid";
 import { CATEGORIES, getCategory, getSubcategory } from "@/lib/categories";
 import { getPostsBySubcategory, countPostsBySubcategory } from "@/lib/content";
 import { absoluteUrl, SITE_URL } from "@/lib/utils";
+import { buildCollectionPageSchema } from "@/lib/schema";
 import type { IconName } from "@/components/ui/Icon";
 
 interface Params { category: string; subcategory: string; }
@@ -45,23 +46,20 @@ export default async function SubcategoryPage({ params }: { params: Promise<Para
     { label: sub.label, href: `/${cat.slug}/${sub.slug}` },
   ];
 
-  const collection = {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    name: `${sub.label}, ${cat.label}`,
-    description: sub.description,
+  const schemas = buildCollectionPageSchema({
     url: `${SITE_URL}/${cat.slug}/${sub.slug}`,
-  };
-  const crumb = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    itemListElement: breadcrumb.map((b, i) => ({
-      "@type": "ListItem",
-      position: i + 1,
-      name: b.label,
-      item: `${SITE_URL}${b.href}`,
+    name: `${sub.label}, ${cat.label} Articles`,
+    description: sub.description,
+    items: posts.map((p) => ({
+      name: p.title,
+      url: `/${p.category}/${p.subcategory}/${p.slug}`,
+      description: p.meta?.description,
     })),
-  };
+    breadcrumb: [
+      { name: cat.label, url: `/${cat.slug}` },
+      { name: sub.label, url: `/${cat.slug}/${sub.slug}` },
+    ],
+  });
 
   return (
     <>
@@ -90,10 +88,13 @@ export default async function SubcategoryPage({ params }: { params: Promise<Para
         </div>
       </main>
       <Footer />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify([collection, crumb]) }}
-      />
+      {schemas.map((entity, i) => (
+        <script
+          key={`ld-sub-${i}`}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(entity) }}
+        />
+      ))}
     </>
   );
 }

@@ -127,6 +127,76 @@ export function Footer() {
               ))}
             </ul>
           </div>
+
+          <div>
+            <p
+              style={{
+                fontSize: 10,
+                fontWeight: 700,
+                letterSpacing: "0.14em",
+                textTransform: "uppercase",
+                color: "var(--saffron-light)",
+              }}
+            >
+              Editorial Trust
+            </p>
+            <ul
+              style={{
+                marginTop: 16,
+                display: "flex",
+                flexDirection: "column",
+                gap: 8,
+                fontSize: 13,
+                listStyle: "none",
+              }}
+            >
+              <li>
+                <Link
+                  href="/authors"
+                  style={{ color: "var(--on-dark-3)" }}
+                  className="hover:text-white"
+                >
+                  Authors
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/authors/pt-raghav-sharma"
+                  style={{ color: "var(--on-dark-3)" }}
+                  className="hover:text-white"
+                >
+                  Pt. Raghav Sharma
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/authors/vastucart-editorial"
+                  style={{ color: "var(--on-dark-3)" }}
+                  className="hover:text-white"
+                >
+                  VastuCart Editorial
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/editorial-standards"
+                  style={{ color: "var(--on-dark-3)" }}
+                  className="hover:text-white"
+                >
+                  Editorial Standards
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/classical-sources"
+                  style={{ color: "var(--on-dark-3)" }}
+                  className="hover:text-white"
+                >
+                  Classical Sources
+                </Link>
+              </li>
+            </ul>
+          </div>
         </div>
 
         <div

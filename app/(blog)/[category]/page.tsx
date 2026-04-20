@@ -8,6 +8,7 @@ import { PostGrid } from "@/components/listing/PostGrid";
 import { CATEGORIES, getCategory } from "@/lib/categories";
 import { getPostsByCategory, countPostsBySubcategory } from "@/lib/content";
 import { absoluteUrl, SITE_URL } from "@/lib/utils";
+import { buildCollectionPageSchema } from "@/lib/schema";
 import type { IconName } from "@/components/ui/Icon";
 
 interface Params { category: string; }
@@ -40,28 +41,17 @@ export default async function CategoryPage({ params }: { params: Promise<Params>
     { label: cat.label, href: `/${cat.slug}` },
   ];
 
-  const collection = {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    name: cat.label,
-    description: cat.description,
+  const schemas = buildCollectionPageSchema({
     url: `${SITE_URL}/${cat.slug}`,
-    hasPart: posts.map((p) => ({
-      "@type": "Article",
-      headline: p.title,
-      url: `${SITE_URL}/${p.category}/${p.subcategory}/${p.slug}`,
+    name: `${cat.label}, ${cat.label_hindi} Articles`,
+    description: cat.description,
+    items: posts.map((p) => ({
+      name: p.title,
+      url: `/${p.category}/${p.subcategory}/${p.slug}`,
+      description: p.meta?.description,
     })),
-  };
-  const crumb = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    itemListElement: breadcrumb.map((b, i) => ({
-      "@type": "ListItem",
-      position: i + 1,
-      name: b.label,
-      item: `${SITE_URL}${b.href}`,
-    })),
-  };
+    breadcrumb: [{ name: cat.label, url: `/${cat.slug}` }],
+  });
 
   return (
     <>
@@ -78,6 +68,29 @@ export default async function CategoryPage({ params }: { params: Promise<Params>
           category={cat.id}
         />
         <div className="wrap-wide" style={{ paddingTop: "3.5rem", paddingBottom: "4rem" }}>
+          <div style={{ marginBottom: "2rem" }}>
+            <a
+              href={`/${cat.slug}/complete-guide`}
+              style={{
+                display: "inline-flex",
+                alignItems: "center",
+                gap: 10,
+                padding: "10px 18px",
+                borderRadius: 10,
+                background: "var(--saffron)",
+                color: "#ffffff",
+                fontSize: 13,
+                fontWeight: 700,
+                letterSpacing: "0.06em",
+                textDecoration: "none",
+                textTransform: "uppercase",
+                boxShadow: "0 14px 28px -18px rgba(232,132,10,0.6)",
+              }}
+            >
+              Read the {cat.label.toLowerCase()} complete guide
+              <span aria-hidden>›</span>
+            </a>
+          </div>
           <div style={{ marginBottom: "2.5rem" }}>
             <SubcategoryChips categorySlug={cat.slug} subs={cat.subcategories} counts={subCounts} />
           </div>
@@ -85,10 +98,13 @@ export default async function CategoryPage({ params }: { params: Promise<Params>
         </div>
       </main>
       <Footer />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify([collection, crumb]) }}
-      />
+      {schemas.map((entity, i) => (
+        <script
+          key={`ld-cat-${i}`}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(entity) }}
+        />
+      ))}
     </>
   );
 }

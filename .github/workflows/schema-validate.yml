@@ -1,0 +1,48 @@
+name: Schema validation
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - "app/**"
+      - "lib/**"
+      - "content/**"
+      - "components/**"
+      - "scripts/validate-schema.ts"
+      - "package.json"
+      - ".github/workflows/schema-validate.yml"
+  push:
+    branches: [main]
+
+concurrency:
+  group: schema-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: Validate JSON-LD on every post
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --prefer-offline --no-audit --fund=false
+
+      - name: TypeScript compile check
+        run: npx tsc --noEmit
+
+      - name: Schema smoke test across every post
+        run: npx tsx scripts/validate-schema.ts
+
+      - name: Next.js production build
+        run: npx next build
+        env:
+          NEXT_PUBLIC_SITE_URL: https://blog.vastucart.in

@@ -33,7 +33,7 @@ export const CATEGORIES: CategoryDef[] = [
     description: "Life path, destiny, name numerology and angel numbers, rooted in Vedic numbers and Chaldean practice.",
     icon_name: "star",
     color_var: "teal",
-    author_id: "kavya-menon",
+    author_id: "vastucart-editorial",
     sort_order: 2,
     post_count_target: 150,
     subcategories: [
@@ -54,7 +54,7 @@ export const CATEGORIES: CategoryDef[] = [
     description: "All 78 tarot cards, spreads, and readings grounded in traditional Rider Waite and Thoth systems.",
     icon_name: "tarot",
     color_var: "rose",
-    author_id: "kavya-menon",
+    author_id: "vastucart-editorial",
     sort_order: 3,
     post_count_target: 200,
     subcategories: [
@@ -75,7 +75,7 @@ export const CATEGORIES: CategoryDef[] = [
     description: "Vastu shastra for home, office and land, covering direction, room placement, and remedial corrections.",
     icon_name: "vastu",
     color_var: "gold",
-    author_id: "pt-suresh-mishra",
+    author_id: "vastucart-editorial",
     sort_order: 4,
     post_count_target: 150,
     subcategories: [
@@ -97,7 +97,7 @@ export const CATEGORIES: CategoryDef[] = [
       "Complete puja procedures, mantras, samagri, step-by-step vidhi, and significance for every major ritual and deity, from Vastu Puja to Diwali Puja.",
     icon_name: "bell",
     color_var: "saffron",
-    author_id: "pt-suresh-mishra",
+    author_id: "vastucart-editorial",
     sort_order: 5,
     post_count_target: 104,
     subcategories: [
@@ -116,7 +116,7 @@ export const CATEGORIES: CategoryDef[] = [
     description: "Major Hindu festivals with dates, muhurta and authentic puja procedures.",
     icon_name: "calendar",
     color_var: "rose",
-    author_id: "pt-suresh-mishra",
+    author_id: "vastucart-editorial",
     sort_order: 6,
     post_count_target: 80,
     subcategories: [

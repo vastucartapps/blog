@@ -38,7 +38,17 @@ export async function generateMetadata({
     title: post.meta.title,
     description: post.meta.description,
     keywords: post.meta.keywords,
-    alternates: { canonical: url },
+    alternates: {
+      canonical: url,
+      languages: {
+        "en-IN": url,
+        "x-default": url,
+      },
+      types: {
+        "application/rss+xml": `${absoluteUrl("/feed.xml")}`,
+        "application/feed+json": `${absoluteUrl("/feed.json")}`,
+      },
+    },
     openGraph: {
       type: "article",
       title: post.meta.og_title ?? post.meta.title,
@@ -48,6 +58,8 @@ export async function generateMetadata({
       publishedTime: post.published_at,
       modifiedTime: post.updated_at,
       authors: [absoluteUrl(`/authors/${post.author_id}`)],
+      section: post.category,
+      tags: post.tags,
     },
     twitter: {
       card: "summary_large_image",
