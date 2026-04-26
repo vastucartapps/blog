@@ -31,6 +31,7 @@ import { WearingRitual } from "./WearingRitual";
 import { ContraIndications } from "./ContraIndications";
 import { ImageFigure } from "./ImageFigure";
 import { AstroGlossary } from "./AstroGlossary";
+import { Infographic } from "./Infographic";
 
 interface Props {
   blocks: ContentBlock[];
@@ -86,6 +87,17 @@ export function BlockRenderer({ blocks, category, slug }: Props) {
                 heading={block.heading}
                 intro_html={block.intro_html}
                 terms={block.terms}
+              />
+            );
+          case "infographic":
+            return (
+              <Infographic
+                key={i}
+                illustration={block.illustration}
+                alt={block.alt}
+                caption={block.caption}
+                eyebrow={block.eyebrow}
+                heading={block.heading}
               />
             );
           case "pull-quote":

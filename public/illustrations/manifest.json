@@ -1,0 +1,208 @@
+{
+  "$schema": "VastuCart illustration manifest",
+  "generated": "2026-04-26",
+  "palette": {
+    "primary": "#013F47",
+    "secondary": "#e8840a",
+    "accent": "#c9a84c",
+    "background": "#faf6ef"
+  },
+  "themes": [
+    {
+      "theme": "meditation",
+      "filename": "meditation-1-vc.svg",
+      "alt": "Person meditating in lotus posture, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "meditation",
+      "filename": "meditation-2-vc.svg",
+      "alt": "Hand-drawn figure meditating cross-legged, brand-coloured illustration",
+      "source": "Open Doodles",
+      "license": "CC0"
+    },
+    {
+      "theme": "family",
+      "filename": "family-1-vc.svg",
+      "alt": "Family enjoying quality time together, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "family",
+      "filename": "family-2-vc.svg",
+      "alt": "Parent and child playing together, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "prosperity",
+      "filename": "prosperity-1-vc.svg",
+      "alt": "Person depositing coins into a savings jar, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "prosperity",
+      "filename": "prosperity-2-vc.svg",
+      "alt": "Personal finance and budgeting scene, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "wisdom",
+      "filename": "wisdom-1-vc.svg",
+      "alt": "Stack of books representing scholarship, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "wisdom",
+      "filename": "wisdom-2-vc.svg",
+      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "healthcare",
+      "filename": "healthcare-1-vc.svg",
+      "alt": "Doctor consulting with patient, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "partnership",
+      "filename": "partnership-1-vc.svg",
+      "alt": "Couple posing for a portrait, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "partnership",
+      "filename": "partnership-2-vc.svg",
+      "alt": "Couple sharing affection, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "transformation",
+      "filename": "transformation-1-vc.svg",
+      "alt": "Person navigating a fast-changing world, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "transformation",
+      "filename": "transformation-2-vc.svg",
+      "alt": "Figure climbing upward stairs symbolising growth, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "courage",
+      "filename": "courage-1-vc.svg",
+      "alt": "Athlete training and building strength, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "courage",
+      "filename": "courage-2-vc.svg",
+      "alt": "Hand-drawn sprinting figure showing determination, brand-coloured illustration",
+      "source": "Open Doodles",
+      "license": "CC0"
+    },
+    {
+      "theme": "career",
+      "filename": "career-1-vc.svg",
+      "alt": "Businesswoman avatar, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "career",
+      "filename": "career-2-vc.svg",
+      "alt": "Professional success factors infographic, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "writing",
+      "filename": "writing-1-vc.svg",
+      "alt": "Writer at a laptop composing online content, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "writing",
+      "filename": "writing-2-vc.svg",
+      "alt": "Person writing down ideas in a notebook, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "conversation",
+      "filename": "conversation-1-vc.svg",
+      "alt": "Two people having a casual conversation, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "conversation",
+      "filename": "conversation-2-vc.svg",
+      "alt": "Group communicating over a work chat, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "devotion",
+      "filename": "devotion-1-vc.svg",
+      "alt": "Mindful figure in quiet contemplation, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "devotion",
+      "filename": "devotion-2-vc.svg",
+      "alt": "Levitating figure suggesting transcendence and devotion, brand-coloured illustration",
+      "source": "Open Doodles",
+      "license": "CC0"
+    },
+    {
+      "theme": "mantra",
+      "filename": "mantra-1-vc.svg",
+      "alt": "Audio playlist representing chanting and sound, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "mantra",
+      "filename": "mantra-2-vc.svg",
+      "alt": "Listener with audiobook representing recitation and sound, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "gemstone",
+      "filename": "gemstone-1-vc.svg",
+      "alt": "Treasure chest with gemstones, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "celebration",
+      "filename": "celebration-1-vc.svg",
+      "alt": "Joyful figures dancing in celebration, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    },
+    {
+      "theme": "celebration",
+      "filename": "celebration-2-vc.svg",
+      "alt": "Figures celebrating an achievement, brand-coloured illustration",
+      "source": "unDraw",
+      "license": "MIT (no attribution)"
+    }
+  ]
+}

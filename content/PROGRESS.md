@@ -9,7 +9,7 @@ of what any other doc claims.
 | Group | Done | Target | % |
 |---|---|---|---|
 | Lagna pillars | 1 | 12 | 8% |
-| Mesh cluster (graha-in-bhava) | 97 | 108 | 90% |
+| Mesh cluster (graha-in-bhava) | 100 | 108 | 93% |
 | Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
@@ -53,10 +53,10 @@ The matrix below is the gate.
 | 6th  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  |
 | 7th  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
 | 8th  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✓  |
-| 9th  | ✓  | ✓  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✓  |
+| 9th  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✓  |
 | 10th | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
 | 11th | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✗  |
-| 12th | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✗  |
+| 12th | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✓  |
 
 **Mesh cluster total: 97/108 graha-in-bhava + 1/1 pillar = 98/109 published (90%). Phase 7 rolling: Venus-3 (2L+7L softened upachaya, new SOP), Moon-6 (4L kendra-in-dushthana caregiver, new SOP), Mercury-8 (3L+6L Randhra occult-research, new SOP) closes batch 17. Image-figure block now wired into renderer; all 98 posts have on-disk WebP images via the SVG-to-WebP pipeline.**
 

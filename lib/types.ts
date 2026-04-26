@@ -352,6 +352,14 @@ export type ContentBlock =
       terms: { term: string; meaning: string }[];
     }
   | {
+      type: "infographic";
+      illustration: string;
+      alt: string;
+      caption?: string;
+      eyebrow?: string;
+      heading?: string;
+    }
+  | {
       type: "pull-quote";
       variant?: GemTone;
       text: string;
