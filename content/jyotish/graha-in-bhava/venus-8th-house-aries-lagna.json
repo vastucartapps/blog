@@ -12,7 +12,17 @@
   "status": "ready",
   "published_at": "2026-04-26T00:00:00.000Z",
   "updated_at": "2026-04-26T00:00:00.000Z",
-  "tags": ["Venus in 8th house", "Shukra Vrishchika", "Mesh Lagna", "Aries ascendant", "Randhra Bhava", "2L 7L in 8H", "marriage transformation", "Shukra mahadasha", "graha in bhava"],
+  "tags": [
+    "Venus in 8th house",
+    "Shukra Vrishchika",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Randhra Bhava",
+    "2L 7L in 8H",
+    "marriage transformation",
+    "Shukra mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "shukra",
   "house_number": 8,
   "lagna_id": "mesha",
@@ -20,27 +30,108 @@
     "title": "Venus in 8th House Mesh Lagna, Partnership Transformation",
     "description": "Venus in 8th house for Mesh Lagna, Shukra in Vrishchika, the 2L and 7L marakas in Randhra Bhava, and the marriage-transformation vocation signature.",
     "focus_keyword": "Venus in 8th house",
-    "secondary_keywords": ["Mesh Lagna", "Randhra Bhava", "Shukra Vrishchika", "Aries ascendant", "2L and 7L in 8H"],
-    "lsi_keywords": ["randhra bhava", "shukra vrishchika", "venus in scorpio", "2nd lord eighth", "7th lord eighth", "shukra mahadasha", "diamond hira", "venus enemy sign", "marriage transformation", "joint finances"],
-    "keywords": ["Venus in 8th house Mesh Lagna", "Shukra in Randhra Bhava", "Venus in Scorpio", "Mesh lagna 8th Venus", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Randhra Bhava",
+      "Shukra Vrishchika",
+      "Aries ascendant",
+      "2L and 7L in 8H"
+    ],
+    "lsi_keywords": [
+      "randhra bhava",
+      "shukra vrishchika",
+      "venus in scorpio",
+      "2nd lord eighth",
+      "7th lord eighth",
+      "shukra mahadasha",
+      "diamond hira",
+      "venus enemy sign",
+      "marriage transformation",
+      "joint finances"
+    ],
+    "keywords": [
+      "Venus in 8th house Mesh Lagna",
+      "Shukra in Randhra Bhava",
+      "Venus in Scorpio",
+      "Mesh lagna 8th Venus",
+      "Vedic astrology"
+    ],
     "og_title": "Venus in 8th House Mesh Lagna, Partnership Transformation",
     "og_description": "Shukra in Vrishchika in Randhra Bhava for Aries natives, by VastuCart Editorial.",
     "og_image": "/og/venus-8th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/venus-8th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Venus in 8th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/venus-8th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Venus in 8th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/venus-8th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Venus in 8th house",
-    "secondary_keywords": ["Mesh Lagna", "Randhra Bhava", "Shukra Vrishchika", "Aries ascendant", "2L and 7L in 8H"],
-    "lsi_terms": ["randhra bhava", "shukra vrishchika", "venus in scorpio", "2nd lord eighth", "7th lord eighth", "shukra mahadasha", "diamond hira", "venus enemy sign", "marriage transformation", "joint finances"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Randhra Bhava",
+      "Shukra Vrishchika",
+      "Aries ascendant",
+      "2L and 7L in 8H"
+    ],
+    "lsi_terms": [
+      "randhra bhava",
+      "shukra vrishchika",
+      "venus in scorpio",
+      "2nd lord eighth",
+      "7th lord eighth",
+      "shukra mahadasha",
+      "diamond hira",
+      "venus enemy sign",
+      "marriage transformation",
+      "joint finances"
+    ],
     "seed_queries": [
-      "venus in 8th house aries lagna", "shukra in 8th house mesh lagna", "venus in scorpio mesh ascendant", "shukra vrishchika aries lagna", "venus in randhra bhava mesh", "venus in 8th house marriage aries", "venus in scorpio 8th aries", "shukra randhra bhava mesh", "2l 7l in 8h aries lagna", "venus in 8th house remedies aries", "diamond for venus 8th aries", "hira mesh lagna 8th", "shukra mahadasha aries 8th", "venus in 8th house aries spouse", "venus in 8th house aries inheritance", "is venus good in 8th house aries", "venus in scorpio aries ascendant career", "marriage transformation venus", "joint finances venus", "venus 8th house aries prediction", "venus in eighth house mesh lagna", "venus 8th house mesh ascendant", "shukra in mesh lagna 8th", "venus vrishchika lagna mesh chart", "venus 8th house mesh lagna dasha", "shukra mesh lagna marriage", "venus maraka aries", "2nd lord eighth aries", "venus mars enemy", "shukra dosha 8th"
+      "venus in 8th house aries lagna",
+      "shukra in 8th house mesh lagna",
+      "venus in scorpio mesh ascendant",
+      "shukra vrishchika aries lagna",
+      "venus in randhra bhava mesh",
+      "venus in 8th house marriage aries",
+      "venus in scorpio 8th aries",
+      "shukra randhra bhava mesh",
+      "2l 7l in 8h aries lagna",
+      "venus in 8th house remedies aries",
+      "diamond for venus 8th aries",
+      "hira mesh lagna 8th",
+      "shukra mahadasha aries 8th",
+      "venus in 8th house aries spouse",
+      "venus in 8th house aries inheritance",
+      "is venus good in 8th house aries",
+      "venus in scorpio aries ascendant career",
+      "marriage transformation venus",
+      "joint finances venus",
+      "venus 8th house aries prediction",
+      "venus in eighth house mesh lagna",
+      "venus 8th house mesh ascendant",
+      "shukra in mesh lagna 8th",
+      "venus vrishchika lagna mesh chart",
+      "venus 8th house mesh lagna dasha",
+      "shukra mesh lagna marriage",
+      "venus maraka aries",
+      "2nd lord eighth aries",
+      "venus mars enemy",
+      "shukra dosha 8th"
     ],
     "questions": [
       "Is Venus in the 8th house good for Mesh Lagna?",
@@ -50,36 +141,130 @@
       "Which remedies help Mesh Lagna with Venus in 8th?"
     ],
     "lingual_variations": {
-      "shukra": ["shukra", "venus", "bhargava", "kavi", "ushanas"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "shukra": [
+        "shukra",
+        "venus",
+        "bhargava",
+        "kavi",
+        "ushanas"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Venus in Mars sign Vrishchika reading", "2L and 7L marakas in Randhra Bhava", "Marriage as transformation signature"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Venus in Mars sign Vrishchika reading",
+      "2L and 7L marakas in Randhra Bhava",
+      "Marriage as transformation signature"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "venus-8th-house-aries-lagna-hero.webp", "filename_og": "venus-8th-house-aries-lagna-og.png", "alt": "Soft Shukra in the eighth house of a Mesh Lagna kundali in Vrishchika", "caption": "Shukra sits in Vrishchika in the eighth house for Aries ascendant natives, the 2L and 7L marakas producing the partnership-transformation signature.", "width": 1200, "height": 630, "format": "webp", "style": "luminous rose-indigo editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the eighth house glowing rose and deep indigo, a stylised Venus symbol above a small scorpion Vrishchika silhouette, traditional Vedic palette of rose, indigo, soft cream, refined manuscript style, no people.", "negative_prompt": "photorealistic, watermark, text, neon, cartoon" },
-    { "filename": "venus-8th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Venus in the eighth house of Mesh in Vrishchika", "caption": "The North Indian birth chart with Shukra marked in Vrishchika on the eighth house Randhra Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the eighth house highlighted in rose with a Shukra symbol marked Sh and Vrishchika scorpion glyph, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "venus-8th-house-aries-lagna-diamond.webp", "alt": "Natural diamond in platinum ring, gemstone for Venus 8th house Mesh Lagna", "caption": "Diamond is the classical Shukra ratna and is recommended only after a chart review because Venus carries 2L plus 7L maraka rulership for Mesh.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural diamond set in a platinum ring, brilliant cut, on dark velvet with cool lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "venus-8th-house-aries-lagna-shri-suktam.webp", "alt": "Shri Suktam Sanskrit verse on parchment with lotus motif", "caption": "Shri Suktam recitation strengthens the Venus channel through the classical Lakshmi prosperity hymn.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Shri Suktam, hand-painted on aged parchment with rose and gold leaf borders, faint lotus motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "venus-8th-house-aries-lagna-hero.webp",
+      "filename_og": "venus-8th-house-aries-lagna-og.png",
+      "alt": "Soft Shukra in the eighth house of a Mesh Lagna kundali in Vrishchika",
+      "caption": "Shukra sits in Vrishchika in the eighth house for Aries ascendant natives, the 2L and 7L marakas producing the partnership-transformation signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "luminous rose-indigo editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the eighth house glowing rose and deep indigo, a stylised Venus symbol above a small scorpion Vrishchika silhouette, traditional Vedic palette of rose, indigo, soft cream, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "venus-8th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Venus in the eighth house of Mesh in Vrishchika",
+      "caption": "The North Indian birth chart with Shukra marked in Vrishchika on the eighth house Randhra Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the eighth house highlighted in rose with a Shukra symbol marked Sh and Vrishchika scorpion glyph, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "venus-8th-house-aries-lagna-diamond.webp",
+      "alt": "Natural diamond in platinum ring, gemstone for Venus 8th house Mesh Lagna",
+      "caption": "Diamond is the classical Shukra ratna and is recommended only after a chart review because Venus carries 2L plus 7L maraka rulership for Mesh.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural diamond set in a platinum ring, brilliant cut, on dark velvet with cool lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "venus-8th-house-aries-lagna-shri-suktam.webp",
+      "alt": "Shri Suktam Sanskrit verse on parchment with lotus motif",
+      "caption": "Shri Suktam recitation strengthens the Venus channel through the classical Lakshmi prosperity hymn.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Shri Suktam, hand-painted on aged parchment with rose and gold leaf borders, faint lotus motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Reviewed Study",
     "title_html": "Venus in the 8th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A reviewed study of Shukra in Randhra Bhava for Aries ascendant natives. Venus in Vrishchika, the 2L and 7L marakas in the eighth house of transformation, and the partnership-as-rebirth signature that asks the native to grow through relationship rather than around it.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Reviewed by VastuCart Jyotish Review Panel" },
-      { "icon": "user", "value": "VastuCart Editorial" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Shukra", "tone": "teal" },
-      { "label": "Randhra Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Enemy sign Vrishchika" },
-      { "label": "2L and 7L in 8H" },
-      { "label": "Marriage transformation" }
+      {
+        "label": "Shukra",
+        "tone": "teal"
+      },
+      {
+        "label": "Randhra Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Enemy sign Vrishchika"
+      },
+      {
+        "label": "2L and 7L in 8H"
+      },
+      {
+        "label": "Marriage transformation"
+      }
     ]
   },
   "schema": {},
@@ -87,10 +272,30 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Shukra", "sub": "Venus", "icon": "sun" },
-        { "label": "Bhava", "value": "8th", "sub": "Randhra Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Complex", "sub": "Maraka rulership in dushthana", "icon": "star" }
+        {
+          "label": "Planet",
+          "value": "Shukra",
+          "sub": "Venus",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "8th",
+          "sub": "Randhra Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Complex",
+          "sub": "Maraka rulership in dushthana",
+          "icon": "star"
+        }
       ]
     },
     {
@@ -113,39 +318,110 @@
         }
       ]
     },
-    { "type": "pull-quote", "variant": "rose", "text": "When the partnership lord and the wealth lord both sit in the transformation house, the native is not punished. They are asked to grow through intimacy. The marriage that survives this placement is the marriage that earned its weight." },
+    {
+      "type": "pull-quote",
+      "variant": "rose",
+      "text": "When the partnership lord and the wealth lord both sit in the transformation house, the native is not punished. They are asked to grow through intimacy. The marriage that survives this placement is the marriage that earned its weight."
+    },
+    {
+      "type": "image-figure",
+      "filename": "venus-8th-house-aries-lagna-hero.webp",
+      "alt": "Soft Shukra in the eighth house of a Mesh Lagna kundali in Vrishchika",
+      "caption": "Shukra sits in Vrishchika in the eighth house for Aries ascendant natives, the 2L and 7L marakas producing the partnership-transformation signature.",
+      "width": 1200,
+      "height": 630,
+      "priority": true,
+      "credit": "VastuCart"
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Shukra, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Shukra, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Love, partnership, wealth, beauty, art" },
-            { "k": "Own signs", "v": "Vrishabha, Tula" },
-            { "k": "Uchha (exaltation)", "v": "Meena at 27 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Kanya at 27 degrees", "tone": "bad" },
-            { "k": "Sign state here", "v": "Enemy sign Vrishchika" },
-            { "k": "Friends", "v": "Mercury, Saturn" },
-            { "k": "Element", "v": "Water (Jala Tattva)" },
-            { "k": "Role for Mesh", "v": "2nd and 7th lord (both maraka)" }
+            {
+              "k": "Karakatva",
+              "v": "Love, partnership, wealth, beauty, art"
+            },
+            {
+              "k": "Own signs",
+              "v": "Vrishabha, Tula"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Meena at 27 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Kanya at 27 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Enemy sign Vrishchika"
+            },
+            {
+              "k": "Friends",
+              "v": "Mercury, Saturn"
+            },
+            {
+              "k": "Element",
+              "v": "Water (Jala Tattva)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "2nd and 7th lord (both maraka)"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Randhra Bhava, house profile", "subtitle": "8th house significance",
+          "icon": "triangle-house",
+          "title": "Randhra Bhava, house profile",
+          "subtitle": "8th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Randhra, Ayur Bhava" },
-            { "k": "Rules over", "v": "Transformation, occult, joint finances, in-laws" },
-            { "k": "Natural sign", "v": "Vrishchika (Scorpio) for Mesh" },
-            { "k": "Natural ruler", "v": "Mangal (Mars)" },
-            { "k": "Body part", "v": "Reproductive system, lower abdomen" },
-            { "k": "Classical nature", "v": "Dushthana, moksha trikona" },
-            { "k": "Vedic quality", "v": "Both maraka lords in dushthana" },
-            { "k": "Special effect", "v": "Marriage transformation signature" }
+            {
+              "k": "Sanskrit name",
+              "v": "Randhra, Ayur Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Transformation, occult, joint finances, in-laws"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Vrishchika (Scorpio) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Mangal (Mars)"
+            },
+            {
+              "k": "Body part",
+              "v": "Reproductive system, lower abdomen"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Dushthana, moksha trikona"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Both maraka lords in dushthana"
+            },
+            {
+              "k": "Special effect",
+              "v": "Marriage transformation signature"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -201,10 +477,58 @@
         }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Check your Shukra in Randhra Bhava placement", "subtitle": "Generate your free Kundali to see your eighth house Venus.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "rose" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Venus marked in the eighth house of Mesh", "planet": "Shukra", "house": 8, "lagna": "Mesh", "legend": [ { "color": "rose", "text": "Shukra in Randhra Bhava in Vrishchika, marked in rose" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "saffron", "text": "Eighth house is the seat of transformation" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Shukra in Randhra Bhava placement",
+        "subtitle": "Generate your free Kundali to see your eighth house Venus.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "rose"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Venus marked in the eighth house of Mesh",
+      "planet": "Shukra",
+      "house": 8,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "rose",
+          "text": "Shukra in Randhra Bhava in Vrishchika, marked in rose"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "saffron",
+          "text": "Eighth house is the seat of transformation"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "image-figure",
+      "filename": "venus-8th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Venus in the eighth house of Mesh in Vrishchika",
+      "caption": "The North Indian birth chart with Shukra marked in Vrishchika on the eighth house Randhra Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "priority": false,
+      "credit": "VastuCart"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "scannable-prose",
       "eyebrow": "Deep-dive interpretation",
@@ -231,13 +555,45 @@
       "heading": "When Venus in 8th delivers its Randhra chapter",
       "intro_html": "<p>Shukra mahadasha is the defining window. The transformation theme crystallises through specific marriage, inheritance, or joint-venture events across these twenty years.</p>",
       "rows": [
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "The Randhra Bhava activation. Marriage matures, inheritance materialises, joint ventures consolidate. Maraka rulerships also active, so health and partnership both ask for attention.", "intensity": "Peak", "intensity_bar_width": 92, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Trikona lord for Mesh. Authority enters the relational vocation, public reputation builds for the therapy or research practice.", "intensity": "Very good", "intensity_bar_width": 80, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Chandra (Moon)", "duration": "10 years", "themes": "Kendra lord for Mesh. Emotional foundation supports the partnership work, mother and family stabilise around the marriage.", "intensity": "Very good", "intensity_bar_width": 82, "intensity_bar_color": "#338a95" },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Sign dispositor of Shukra here and lagna lord. Bold transformation steps, surgical or research breakthroughs, decisive moves on inheritance.", "intensity": "Very high", "intensity_bar_width": 88, "intensity_bar_color": "#f4b942" }
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "The Randhra Bhava activation. Marriage matures, inheritance materialises, joint ventures consolidate. Maraka rulerships also active, so health and partnership both ask for attention.",
+          "intensity": "Peak",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "Trikona lord for Mesh. Authority enters the relational vocation, public reputation builds for the therapy or research practice.",
+          "intensity": "Very good",
+          "intensity_bar_width": 80,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Chandra (Moon)",
+          "duration": "10 years",
+          "themes": "Kendra lord for Mesh. Emotional foundation supports the partnership work, mother and family stabilise around the marriage.",
+          "intensity": "Very good",
+          "intensity_bar_width": 82,
+          "intensity_bar_color": "#338a95"
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Sign dispositor of Shukra here and lagna lord. Bold transformation steps, surgical or research breakthroughs, decisive moves on inheritance.",
+          "intensity": "Very high",
+          "intensity_bar_width": 88,
+          "intensity_bar_color": "#f4b942"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -270,29 +626,160 @@
       "heading": "Gemstones for Venus in 8th house Mesh Lagna",
       "intro_html": "<p>Diamond is the classical Venus gemstone but is recommended only after a considered chart review. Venus carries 2L plus 7L maraka rulership for Mesh, and the dual maraka dimension requires practitioner verification before any permanent wearing.</p>",
       "cards": [
-        { "name": "Hira (Diamond)", "role": "primary", "sub": "Classical Venus stone, consult before wearing", "icon_variant": "diamond", "image_slug": "diamond", "items": [ { "k": "Metal", "v": "Platinum or white gold" }, { "k": "Finger", "v": "Little finger or middle finger" }, { "k": "Day to wear", "v": "Friday, sunrise" }, { "k": "Min weight", "v": "0.5 carat minimum" } ] },
-        { "name": "White Sapphire (alt)", "role": "secondary", "sub": "Milder Venus-aligned alternative", "icon_variant": "diamond", "image_slug": "diamond", "items": [ { "k": "Metal", "v": "White gold or silver" }, { "k": "Finger", "v": "Little finger" }, { "k": "Day to wear", "v": "Friday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Hira", "role": "shop", "sub": "1-on-1 chart review with VastuCart Editorial", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Hira (Diamond)",
+          "role": "primary",
+          "sub": "Classical Venus stone, consult before wearing",
+          "icon_variant": "diamond",
+          "image_slug": "diamond",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Platinum or white gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Little finger or middle finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Friday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "0.5 carat minimum"
+            }
+          ]
+        },
+        {
+          "name": "White Sapphire (alt)",
+          "role": "secondary",
+          "sub": "Milder Venus-aligned alternative",
+          "icon_variant": "diamond",
+          "image_slug": "diamond",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "White gold or silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Little finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Friday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Hira",
+          "role": "shop",
+          "sub": "1-on-1 chart review with VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Diamond for Venus with dual 2L and 7L maraka rulership requires a careful chart review before permanent wearing. The maraka dimension can interact unpredictably with Venus stones for this lagna specifically."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "image-figure",
+      "filename": "venus-8th-house-aries-lagna-diamond.webp",
+      "alt": "Natural diamond in platinum ring, gemstone for Venus 8th house Mesh Lagna",
+      "caption": "Diamond is the classical Shukra ratna and is recommended only after a chart review because Venus carries 2L plus 7L maraka rulership for Mesh.",
+      "width": 1024,
+      "height": 768,
+      "priority": false,
+      "credit": "VastuCart"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Venus in 8th house",
       "intro_html": "<p>The Shukra-aligned rudraksha is the Chha Mukhi, the six-face bead classically ruled by Kartikeya and aligned with Venus.</p>",
       "beads": [
-        { "mukhi": 6, "name": "Chha Mukhi Rudraksha", "sub": "Ruled by Kartikeya, the classical Venus bead", "benefit": "The Chha Mukhi is the primary bead for Shukra strengthening protocols. For this placement it works best paired with Mars-aligned beads because the sign dispositor is Mangal. Supports the partnership-transformation signature, balances the dual maraka rulership, and is recommended for natives building therapy, research, or relationship-counselling careers." },
-        { "mukhi": 3, "name": "Tri Mukhi Rudraksha", "sub": "Ruled by Agni, aligned with Mars the sign lord", "benefit": "The three-face bead serves as the sign-dispositor support because the sign lord of Shukra in Vrishchika is Mangal. Wearing the Tri Mukhi alongside the Chha Mukhi honours both planet and sign-lord through the specific pairing the chart structurally requires. The combination strengthens the remedial channel that this complex placement specifically responds to." }
+        {
+          "mukhi": 6,
+          "name": "Chha Mukhi Rudraksha",
+          "sub": "Ruled by Kartikeya, the classical Venus bead",
+          "benefit": "The Chha Mukhi is the primary bead for Shukra strengthening protocols. For this placement it works best paired with Mars-aligned beads because the sign dispositor is Mangal. Supports the partnership-transformation signature, balances the dual maraka rulership, and is recommended for natives building therapy, research, or relationship-counselling careers."
+        },
+        {
+          "mukhi": 3,
+          "name": "Tri Mukhi Rudraksha",
+          "sub": "Ruled by Agni, aligned with Mars the sign lord",
+          "benefit": "The three-face bead serves as the sign-dispositor support because the sign lord of Shukra in Vrishchika is Mangal. Wearing the Tri Mukhi alongside the Chha Mukhi honours both planet and sign-lord through the specific pairing the chart structurally requires. The combination strengthens the remedial channel that this complex placement specifically responds to."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Shukra Yantra for the partnership Venus", "yantra": { "name": "Shukra Yantra", "sanskrit": "शुक्र यन्त्र", "description": "The Shukra Yantra is the geometric form of the Venus channel. For Shukra in the Mesh 8th house install it on the south-east wall of the home altar or shared bedroom. Friday at sunrise in Shukra hora is the installation window. Consecrate with Shri Suktam recitation and a rose-water libation.", "direction": "South-east wall (altar or shared space)", "install_day": "Friday sunrise, Shukra hora preferred", "material": "Silver or copper", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Shukra in Vrishchika", "stotra": { "eyebrow": "Shri Suktam", "title": "Shri Suktam", "sub": "Classical Lakshmi prosperity hymn", "verse": "Om hiranya varnam harinim suvarna rajatasrajam<br>Chandram hiranmayim lakshmim jatavedo ma avaha<br>Tam ma avaha jatavedo lakshmim anapagaminim<br>Yasyam hiranyam vindeyam gam ashvam purushan aham", "translation": "Om, invoke for me, O Jatavedas, the goddess Lakshmi who is golden-coloured, doe-like, garlanded with gold and silver, lustrous like the moon, made of gold. Bring her to me, the Lakshmi who never departs, by whose grace I shall obtain gold, cattle, horses, and family. Shri Suktam is the classical Lakshmi prosperity hymn and is the daily recitation recommended for a chart where Shukra carries the dual maraka rulership and the partnership-transformation signature requires careful prosperity propitiation.", "url": "https://stotra.vastucart.in/stotra/shri-suktam" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Shukra Yantra for the partnership Venus",
+      "yantra": {
+        "name": "Shukra Yantra",
+        "sanskrit": "शुक्र यन्त्र",
+        "description": "The Shukra Yantra is the geometric form of the Venus channel. For Shukra in the Mesh 8th house install it on the south-east wall of the home altar or shared bedroom. Friday at sunrise in Shukra hora is the installation window. Consecrate with Shri Suktam recitation and a rose-water libation.",
+        "direction": "South-east wall (altar or shared space)",
+        "install_day": "Friday sunrise, Shukra hora preferred",
+        "material": "Silver or copper",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Shukra in Vrishchika",
+      "stotra": {
+        "eyebrow": "Shri Suktam",
+        "title": "Shri Suktam",
+        "sub": "Classical Lakshmi prosperity hymn",
+        "verse": "Om hiranya varnam harinim suvarna rajatasrajam<br>Chandram hiranmayim lakshmim jatavedo ma avaha<br>Tam ma avaha jatavedo lakshmim anapagaminim<br>Yasyam hiranyam vindeyam gam ashvam purushan aham",
+        "translation": "Om, invoke for me, O Jatavedas, the goddess Lakshmi who is golden-coloured, doe-like, garlanded with gold and silver, lustrous like the moon, made of gold. Bring her to me, the Lakshmi who never departs, by whose grace I shall obtain gold, cattle, horses, and family. Shri Suktam is the classical Lakshmi prosperity hymn and is the daily recitation recommended for a chart where Shukra carries the dual maraka rulership and the partnership-transformation signature requires careful prosperity propitiation.",
+        "url": "https://stotra.vastucart.in/stotra/shri-suktam"
+      }
+    },
+    {
+      "type": "image-figure",
+      "filename": "venus-8th-house-aries-lagna-shri-suktam.webp",
+      "alt": "Shri Suktam Sanskrit verse on parchment with lotus motif",
+      "caption": "Shri Suktam recitation strengthens the Venus channel through the classical Lakshmi prosperity hymn.",
+      "width": 1024,
+      "height": 768,
+      "priority": false,
+      "credit": "VastuCart"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -300,19 +787,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your eighth house Venus and dual maraka status", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Marriage matching tool", "sub": "Compatibility analysis for Mesh natives", "url": "https://www.vastucart.in/tools/marriage-matching", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Marriage muhurta", "sub": "Auspicious dates for wedding ceremony", "url": "https://muhurta.vastucart.in/marriage-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Business muhurta", "sub": "Auspicious dates for joint venture launches", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Shri Suktam", "sub": "Classical Lakshmi prosperity hymn", "url": "https://stotra.vastucart.in/stotra/shri-suktam", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Lakshmi Ashtakam", "sub": "Eight-verse Lakshmi hymn", "url": "https://stotra.vastucart.in/stotra/lakshmi-ashtakam", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Hanuman Chalisa", "sub": "Mars dispositor remedy hymn", "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Mangal Stotram", "sub": "Classical Mars hymn for sign-lord", "url": "https://stotra.vastucart.in/stotra/mangal-stotram", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Shukra Stotram", "sub": "Classical Venus hymn", "url": "https://stotra.vastucart.in/stotra/shukra-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Diamond and gemstone source", "sub": "Certified Hira for Venus", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Shukra yantra store", "sub": "Silver Shukra yantra for the home altar", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Marriage transformation analysis with VastuCart Editorial", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your eighth house Venus and dual maraka status",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Marriage matching tool",
+            "sub": "Compatibility analysis for Mesh natives",
+            "url": "https://www.vastucart.in/tools/marriage-matching",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Marriage muhurta",
+            "sub": "Auspicious dates for wedding ceremony",
+            "url": "https://muhurta.vastucart.in/marriage-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Business muhurta",
+            "sub": "Auspicious dates for joint venture launches",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Shri Suktam",
+            "sub": "Classical Lakshmi prosperity hymn",
+            "url": "https://stotra.vastucart.in/stotra/shri-suktam",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Lakshmi Ashtakam",
+            "sub": "Eight-verse Lakshmi hymn",
+            "url": "https://stotra.vastucart.in/stotra/lakshmi-ashtakam",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Hanuman Chalisa",
+            "sub": "Mars dispositor remedy hymn",
+            "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Mangal Stotram",
+            "sub": "Classical Mars hymn for sign-lord",
+            "url": "https://stotra.vastucart.in/stotra/mangal-stotram",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Shukra Stotram",
+            "sub": "Classical Venus hymn",
+            "url": "https://stotra.vastucart.in/stotra/shukra-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Diamond and gemstone source",
+            "sub": "Certified Hira for Venus",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Shukra yantra store",
+            "sub": "Silver Shukra yantra for the home altar",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Marriage transformation analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -322,26 +887,59 @@
         "title": "Is your Randhra Bhava Venus carrying the partnership-transformation signature?",
         "subtitle": "Get a full personalised analysis of your eighth house Shukra, the dual maraka pattern, and the Shukra mahadasha relationship and inheritance timing.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Shri Suktam", "url": "https://stotra.vastucart.in/stotra/shri-suktam", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Shri Suktam",
+            "url": "https://stotra.vastucart.in/stotra/shri-suktam",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Venus in 8th house, Mesh Lagna",
       "items": [
-        { "q": "Is Venus in the 8th house good for Mesh Lagna?", "a": "The reading is complex and deserves careful framing. Shukra is both the 2L and 7L for Mesh Lagna, and both rulerships are classically maraka because they govern wealth and partnership, the two areas where karmic accounts close. Placing both marakas in Randhra Bhava is structurally heavy but not destructive. The placement signals that the native's most important growth happens through relationship, inheritance, and joint enterprise rather than solo accumulation. Natives who accept the transformation theme and approach partnership as a refinement engine rather than a comfort contract typically build remarkably durable marriages and joint-finance careers." },
-        { "q": "What does the 2L and 7L in 8H produce for Aries natives?", "a": "It produces the partnership-as-rebirth signature where wealth, marriage, and personal transformation are structurally entangled. Marriage typically arrives later than the social peer group expects, often after the native has done significant inner work. The relationship that forms tends to carry unusual depth and survives the transformation pressure that lesser placements would not. Wealth arrives through inheritance, in-law family support, joint ventures, and partnership-business income rather than through solo entrepreneurship. The chart structurally rewards combination over single-handed effort. Career fits cluster around psychology, research, surgery, inheritance law, joint-finance work, and depth-arts." },
-        { "q": "Does Venus in 8th house affect marriage and partnership?", "a": "Yes, and the pattern is specific enough to describe predictively. The 7L in 8H is among the classical signatures for delayed marriage. Many natives marry in their late twenties or thirties, and the relationship typically carries unusual depth, intensity, or transformative pressure. The marriage often forms through professional or research collaboration, and in-laws frequently play a supportive structural role across decades. Practitioners should describe this nuance carefully because popular astrology reads Venus in 8th as divorce-prone when the classical reading is more about delay and depth. Natives who rush to marry early under this placement often experience the transformation karma as rupture; natives who wait typically meet a partner whose own depth matches their own." },
-        { "q": "How does Venus in Vrishchika express through the Mars sign?", "a": "The Venus-Mars relationship is classical enmity, so Shukra in Vrishchika sits in an enemy sign by both directions of the relationship. The sign is not the formal debility (that would be Kanya), but it is uncomfortable. Venus loses some of her aesthetic ease and gains intensity, secrecy, and the scorpion's transformative pressure. Marriage and partnership take on a deeper, more research-driven quality than typical Venus placements would produce. The native's aesthetic sense becomes darker, more refined, and more selective. The remedial pathway must honour the Mars dispositor first, then approach Venus through the propitiated sign-lord; this sequence is the most common practitioner mistake when remedies are recommended without considering the dispositor relationship." },
-        { "q": "Which remedies help Mesh Lagna with Venus in 8th?", "a": "The remedial sequence is specific: Mars first, then Venus. Daily Hanuman Chalisa is the foundational remedy because Mangal is the sign dispositor, and the chart cannot be remedied through Venus alone. Tuesday observance with sindoor offerings to a Hanuman altar combined with Friday Shri Suktam recitation forms the core protocol. Diamond is the classical Venus gemstone but is recommended only after a careful chart review because Venus carries dual 2L plus 7L maraka rulership for Mesh. For most natives, the safer primary path is remedial work through Hanuman Chalisa and Shri Suktam without direct Venus stone wearing, until the practitioner has verified that the Venus dimension dominates over the maraka dimension in the specific chart." }
+        {
+          "q": "Is Venus in the 8th house good for Mesh Lagna?",
+          "a": "The reading is complex and deserves careful framing. Shukra is both the 2L and 7L for Mesh Lagna, and both rulerships are classically maraka because they govern wealth and partnership, the two areas where karmic accounts close. Placing both marakas in Randhra Bhava is structurally heavy but not destructive. The placement signals that the native's most important growth happens through relationship, inheritance, and joint enterprise rather than solo accumulation. Natives who accept the transformation theme and approach partnership as a refinement engine rather than a comfort contract typically build remarkably durable marriages and joint-finance careers."
+        },
+        {
+          "q": "What does the 2L and 7L in 8H produce for Aries natives?",
+          "a": "It produces the partnership-as-rebirth signature where wealth, marriage, and personal transformation are structurally entangled. Marriage typically arrives later than the social peer group expects, often after the native has done significant inner work. The relationship that forms tends to carry unusual depth and survives the transformation pressure that lesser placements would not. Wealth arrives through inheritance, in-law family support, joint ventures, and partnership-business income rather than through solo entrepreneurship. The chart structurally rewards combination over single-handed effort. Career fits cluster around psychology, research, surgery, inheritance law, joint-finance work, and depth-arts."
+        },
+        {
+          "q": "Does Venus in 8th house affect marriage and partnership?",
+          "a": "Yes, and the pattern is specific enough to describe predictively. The 7L in 8H is among the classical signatures for delayed marriage. Many natives marry in their late twenties or thirties, and the relationship typically carries unusual depth, intensity, or transformative pressure. The marriage often forms through professional or research collaboration, and in-laws frequently play a supportive structural role across decades. Practitioners should describe this nuance carefully because popular astrology reads Venus in 8th as divorce-prone when the classical reading is more about delay and depth. Natives who rush to marry early under this placement often experience the transformation karma as rupture; natives who wait typically meet a partner whose own depth matches their own."
+        },
+        {
+          "q": "How does Venus in Vrishchika express through the Mars sign?",
+          "a": "The Venus-Mars relationship is classical enmity, so Shukra in Vrishchika sits in an enemy sign by both directions of the relationship. The sign is not the formal debility (that would be Kanya), but it is uncomfortable. Venus loses some of her aesthetic ease and gains intensity, secrecy, and the scorpion's transformative pressure. Marriage and partnership take on a deeper, more research-driven quality than typical Venus placements would produce. The native's aesthetic sense becomes darker, more refined, and more selective. The remedial pathway must honour the Mars dispositor first, then approach Venus through the propitiated sign-lord; this sequence is the most common practitioner mistake when remedies are recommended without considering the dispositor relationship."
+        },
+        {
+          "q": "Which remedies help Mesh Lagna with Venus in 8th?",
+          "a": "The remedial sequence is specific: Mars first, then Venus. Daily Hanuman Chalisa is the foundational remedy because Mangal is the sign dispositor, and the chart cannot be remedied through Venus alone. Tuesday observance with sindoor offerings to a Hanuman altar combined with Friday Shri Suktam recitation forms the core protocol. Diamond is the classical Venus gemstone but is recommended only after a careful chart review because Venus carries dual 2L plus 7L maraka rulership for Mesh. For most natives, the safer primary path is remedial work through Hanuman Chalisa and Shri Suktam without direct Venus stone wearing, until the practitioner has verified that the Venus dimension dominates over the maraka dimension in the specific chart."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
@@ -349,27 +947,68 @@
         "title_line": "Editorial Desk, Blog by VastuCart",
         "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "VastuCart", "tone": "teal" },
-          { "label": "Editorial desk", "tone": "saff" },
-          { "label": "Reviewed by Jyotish Panel", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "Updated April 2026" },
-          { "icon": "star", "text": "VastuCart Jyotish Review Panel" },
-          { "icon": "clock", "text": "Continuously edited" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Shukra in the seventh, swakshetra Tula", "sub": "Venus own sign in the marriage kendra", "href": "/jyotish/graha-in-bhava/venus-7th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Shukra in the second, swakshetra Vrishabha", "sub": "Venus own sign in the wealth angle", "href": "/jyotish/graha-in-bhava/venus-2nd-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Mangal in the eighth, lagna lord transformation", "sub": "Mars in the same Randhra Bhava, dispositor parallel", "href": "/jyotish/graha-in-bhava/mars-8th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Shukra in the seventh, swakshetra Tula",
+          "sub": "Venus own sign in the marriage kendra",
+          "href": "/jyotish/graha-in-bhava/venus-7th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Shukra in the second, swakshetra Vrishabha",
+          "sub": "Venus own sign in the wealth angle",
+          "href": "/jyotish/graha-in-bhava/venus-2nd-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Mangal in the eighth, lagna lord transformation",
+          "sub": "Mars in the same Randhra Bhava, dispositor parallel",
+          "href": "/jyotish/graha-in-bhava/mars-8th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
   ]

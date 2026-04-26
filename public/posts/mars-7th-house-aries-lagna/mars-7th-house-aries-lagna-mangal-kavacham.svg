@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" role="img" aria-label="Mangal Kavacham Sanskrit verse on parchment with copper spear motif">
+  <defs>
+    <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FBF5E2"/>
+      <stop offset="100%" stop-color="#E8DDB7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="768" fill="url(#parchment)"/>
+  <rect x="40" y="40" width="944" height="688" fill="none" stroke="#c9a84c" stroke-width="6"/>
+  <text x="512" y="220" text-anchor="middle" font-family="serif" font-size="56" fill="#013F47" font-style="italic">Sanskrit verse</text>
+  <text x="512" y="320" text-anchor="middle" font-family="serif" font-size="48" fill="#013F47">on parchment</text>
+  <text x="512" y="500" text-anchor="middle" font-family="serif" font-style="italic" font-size="32" fill="#5a4a30">— Stotra opening line</text>
+</svg>

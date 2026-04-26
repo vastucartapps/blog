@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" role="img" aria-label="Natural pearl in silver ring, the gemstone for Moon 4th house Mesh Lagna">
+  <defs>
+    <radialGradient id="velvet" cx="0.5" cy="0.5" r="0.7">
+      <stop offset="0%" stop-color="#1a2530"/>
+      <stop offset="100%" stop-color="#000"/>
+    </radialGradient>
+  </defs>
+  <rect width="1024" height="768" fill="url(#velvet)"/>
+  <image href="/gemstones/pearl.png" x="262" y="134" width="500" height="500" preserveAspectRatio="xMidYMid meet"/>
+  <text x="512" y="700" text-anchor="middle" font-family="serif" font-size="32" fill="#faf6ef">pearl</text>
+</svg>

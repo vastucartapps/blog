@@ -335,6 +335,16 @@ export type ContentBlock =
       subsections: { h3: string; html: string }[];
     }
   | {
+      type: "image-figure";
+      filename: string;
+      alt: string;
+      caption: string;
+      width: number;
+      height: number;
+      priority?: boolean;
+      credit?: string;
+    }
+  | {
       type: "pull-quote";
       variant?: GemTone;
       text: string;

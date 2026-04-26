@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="North Indian kundali chart highlighting Venus in the third house of Mesh in Mithuna">
+  <rect width="1024" height="1024" fill="#faf6ef"/>
+  <rect x="62" y="62" width="900" height="900" fill="none" stroke="#013F47" stroke-width="3"/>
+  <line x1="62" y1="62" x2="962" y2="962" stroke="#013F47" stroke-width="2"/>
+  <line x1="962" y1="62" x2="62" y2="962" stroke="#013F47" stroke-width="2"/>
+  <polygon points="512,62 962,512 512,962 62,512" fill="none" stroke="#013F47" stroke-width="3"/>
+  <circle cx="180" cy="350" r="60" fill="#e8840a" opacity="0.18"/>
+  <text x="180" y="372" text-anchor="middle" font-family="serif" font-size="64" fill="#e8840a">♀</text>
+  <text x="180" y="275" text-anchor="middle" font-family="serif" font-size="22" fill="#013F47" opacity="0.6">house 3</text>
+</svg>

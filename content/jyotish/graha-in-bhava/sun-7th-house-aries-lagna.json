@@ -316,6 +316,16 @@
       "text": "A debilitated Sun in Kalatra Bhava does not break the chart, it forces the native to build identity through partnership rather than assert it above partnership."
     },
     {
+      "type": "image-figure",
+      "filename": "sun-7th-house-aries-lagna-hero.webp",
+      "alt": "Surya muted in the seventh house of a Mesh Lagna kundali",
+      "caption": "Surya sits debilitated in Kalatra Bhava for Aries ascendant natives, the Sun in neecha Tula producing the marriage and partnership challenge signature.",
+      "width": 1200,
+      "height": 630,
+      "priority": true,
+      "credit": "VastuCart"
+    },
+    {
       "type": "info-grid",
       "cards": [
         {
@@ -486,6 +496,16 @@
       ],
       "cta_label": "Get your free Kundali",
       "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "image-figure",
+      "filename": "sun-7th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Sun placed in the seventh house of Mesh",
+      "caption": "The North Indian birth chart with Surya marked in the seventh house Kalatra Bhava of Mesh Lagna, opposite the ascendant.",
+      "width": 1024,
+      "height": 1024,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "divider",
@@ -696,6 +716,26 @@
         "translation": "When Rama stood exhausted in battle, the sage Agastya approached and said, recite Aditya Hridayam and you shall conquer all enemies, attain all knowledge, and never face defeat. For a debilitated Sun in the seventh, this hymn is the foundational daily practice.",
         "url": "https://stotra.vastucart.in/stotra/aditya-hridayam"
       }
+    },
+    {
+      "type": "image-figure",
+      "filename": "sun-7th-house-aries-lagna-aditya-hridayam.webp",
+      "alt": "Aditya Hridayam Sanskrit verse on aged parchment with muted copper disc",
+      "caption": "Aditya Hridayam recitation at sunrise is the primary remedy for debilitated Surya in the seventh house.",
+      "width": 1024,
+      "height": 768,
+      "priority": false,
+      "credit": "VastuCart"
+    },
+    {
+      "type": "image-figure",
+      "filename": "sun-7th-house-aries-lagna-red-garnet.webp",
+      "alt": "Red garnet in silver setting, the safer alternative for debilitated Sun Mesh Lagna",
+      "caption": "Red garnet is the classical safer alternative when Surya is debilitated in Tula for Aries natives, milder than untreated ruby.",
+      "width": 1024,
+      "height": 768,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "divider",

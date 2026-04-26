@@ -29,14 +29,17 @@ import { PujaVidhi } from "./PujaVidhi";
 import { SamagriList } from "./SamagriList";
 import { WearingRitual } from "./WearingRitual";
 import { ContraIndications } from "./ContraIndications";
+import { ImageFigure } from "./ImageFigure";
 
 interface Props {
   blocks: ContentBlock[];
   /** Category id used to apply theme colours to per-category components. */
   category?: string;
+  /** Post slug — used by image-figure blocks to resolve `public/posts/{slug}/{filename}` */
+  slug?: string;
 }
 
-export function BlockRenderer({ blocks, category }: Props) {
+export function BlockRenderer({ blocks, category, slug }: Props) {
   return (
     <>
       {blocks.map((block, i) => {
@@ -60,6 +63,20 @@ export function BlockRenderer({ blocks, category }: Props) {
                 subsections={block.subsections}
               />
             );
+          case "image-figure":
+            return slug ? (
+              <ImageFigure
+                key={i}
+                slug={slug}
+                filename={block.filename}
+                alt={block.alt}
+                caption={block.caption}
+                width={block.width}
+                height={block.height}
+                priority={block.priority}
+                credit={block.credit}
+              />
+            ) : null;
           case "pull-quote":
             return <PullQuote key={i} text={block.text} variant={block.variant} />;
           case "stat-strip":
