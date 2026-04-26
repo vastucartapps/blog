@@ -119,15 +119,13 @@ const SIGN_POSITIONS: Record<number, [number, number, number]> = {
   12: [250, 78,  12],
 };
 
-function fileToDataUri(absPath: string): string {
-  const buf = fs.readFileSync(absPath);
-  const ext = path.extname(absPath).toLowerCase();
-  const mime =
-    ext === ".webp" ? "image/webp" :
-    ext === ".png"  ? "image/png"  :
-    ext === ".jpg" || ext === ".jpeg" ? "image/jpeg" :
-    "application/octet-stream";
-  return `data:${mime};base64,${buf.toString("base64")}`;
+async function fileToPngDataUri(absPath: string): Promise<string> {
+  // librsvg (sharp's SVG engine) cannot decode embedded WebP via
+  // xlink:href, only PNG/JPEG. Always re-encode to PNG so the
+  // icon circles render correctly inside the rasterised hero.
+  const sharp = (await import("sharp")).default;
+  const png = await sharp(fs.readFileSync(absPath)).png().toBuffer();
+  return `data:image/png;base64,${png.toString("base64")}`;
 }
 
 function escapeXml(s: string): string {
@@ -149,7 +147,7 @@ export interface HeroCardData {
   eyebrow?: string;
 }
 
-export function buildHeroCardSvg(data: HeroCardData): string {
+export async function buildHeroCardSvg(data: HeroCardData): Promise<string> {
   const planetKey = (data.planet_id ?? "").toLowerCase() as PlanetId;
   const planet = PLANETS[planetKey];
   if (!planet) throw new Error(`Unknown planet_id: ${data.planet_id}`);
@@ -163,8 +161,10 @@ export function buildHeroCardSvg(data: HeroCardData): string {
 
   const lagnaIconPath  = path.join(PUBLIC_DIR, "zodiac-icons",  `${lagna.zodiac}.webp`);
   const planetIconPath = path.join(PUBLIC_DIR, "gemstones",     `${planet.gem}.webp`);
-  const lagnaDataUri   = fileToDataUri(lagnaIconPath);
-  const planetDataUri  = fileToDataUri(planetIconPath);
+  const [lagnaDataUri, planetDataUri] = await Promise.all([
+    fileToPngDataUri(lagnaIconPath),
+    fileToPngDataUri(planetIconPath),
+  ]);
 
   // Sign number at each house = ((lagna.num - 1 + h - 1) % 12) + 1.
   // House 1 carries the lagna's sign; subsequent houses carry the next
@@ -220,8 +220,16 @@ export function buildHeroCardSvg(data: HeroCardData): string {
   const caption =
     `${planet.english.toUpperCase()} · ${HOUSE_ORDINAL[h]} HOUSE · ${signInHouseLabel.toUpperCase()}`;
 
-  // Five trait bullets.
-  const traits = (data.key_traits ?? []).slice(0, 5);
+  // Five trait bullets. The teal panel content area runs roughly
+  // x=60..510 (450px usable). Georgia 17pt averages ~9px/char, so
+  // we cap each trait at ~46 chars so it always fits without
+  // bleeding onto the cream panel where light text becomes
+  // invisible.
+  const TRAIT_MAX_CHARS = 46;
+  const traits = (data.key_traits ?? []).slice(0, 5).map((t) => {
+    const s = String(t ?? "").trim();
+    return s.length > TRAIT_MAX_CHARS ? s.slice(0, TRAIT_MAX_CHARS - 1).trimEnd() + "…" : s;
+  });
   while (traits.length < 5) traits.push("");
   const traitYs = [752, 802, 852, 902, 952];
   const traitsBlock = traits
@@ -230,7 +238,7 @@ export function buildHeroCardSvg(data: HeroCardData): string {
       return (
         `      <g transform="translate(0, ${traitYs[i]})">\n` +
         `        <text font-size="16" fill="#F2A04C" y="-2">✦</text>\n` +
-        `        <text x="26" font-size="20">${safe}</text>\n` +
+        `        <text x="26" font-size="17">${safe}</text>\n` +
         `      </g>`
       );
     })

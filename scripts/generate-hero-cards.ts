@@ -103,7 +103,7 @@ async function processPost(jsonPath: string) {
 
   const traits = pickKeyTraits(post);
 
-  const svg = buildHeroCardSvg({
+  const svg = await buildHeroCardSvg({
     planet_id: post.planet_id,
     lagna_id: post.lagna_id,
     house_number: post.house_number,

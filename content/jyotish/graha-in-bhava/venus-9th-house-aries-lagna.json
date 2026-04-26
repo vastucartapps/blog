@@ -27,7 +27,7 @@
   "lagna_id": "mesha",
   "meta": {
     "title": "Venus in 9th House Mesh Lagna, Dharma Aesthete Guide",
-    "description": "Venus in 9th house Mesh Lagna, Shukra in Jupiter's Dhanu in Dharma Bhava, dharmic aesthete and pilgrimage guide by VastuCart Editorial.",
+    "description": "Venus in 9th house Mesh Lagna, Shukra in Jupiter's Dhanu in Dharma Bhava, the dharmic aesthete and pilgrimage guide by VastuCart Editorial.",
     "focus_keyword": "Venus in 9th house",
     "secondary_keywords": [
       "Mesh Lagna",
@@ -841,6 +841,13 @@
             "url": "https://stotra.vastucart.in/stotra/lakshmi-ashtottara-shatanamavali",
             "icon": "stotra",
             "icon_variant": "saff"
+          },
+          {
+            "label": "Lakshmi Aarti",
+            "sub": "Daily aarti to Lakshmi for Venus dharma",
+            "url": "https://stotra.vastucart.in/stotra/lakshmi-aarti",
+            "icon": "stotra",
+            "icon_variant": "teal"
           },
           {
             "label": "Shukra Stotram",
