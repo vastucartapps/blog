@@ -9,7 +9,7 @@ of what any other doc claims.
 | Group | Done | Target | % |
 |---|---|---|---|
 | Lagna pillars | 1 | 12 | 8% |
-| Mesh cluster (graha-in-bhava) | 91 | 108 | 84% |
+| Mesh cluster (graha-in-bhava) | 94 | 108 | 87% |
 | Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
@@ -47,18 +47,18 @@ The matrix below is the gate.
 |---|---|---|---|---|---|---|---|---|---|
 | 1st  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
 | 2nd  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| 3rd  | ✓  | ✗  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✗  |
+| 3rd  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✗  |
 | 4th  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
 | 5th  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  |
-| 6th  | ✗  | ✗  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  |
+| 6th  | ✓  | ✗  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  |
 | 7th  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| 8th  | ✓  | ✓  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✓  |
+| 8th  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✓  | ✗  | ✓  |
 | 9th  | ✓  | ✓  | ✓  | ✗  | ✓  | ✗  | ✓  | ✗  | ✓  |
 | 10th | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
 | 11th | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✗  |
 | 12th | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✗  |
 
-**Mesh cluster total: 91/108 graha-in-bhava + 1/1 pillar = 92/109 published. Phase 7 rolling: Sun-3 (5L trikona in upachaya parakrama), Mercury-5 (3L+6L in creativity trikona), Rahu-6 (classical own house enemy conquest) closes batch 15.**
+**Mesh cluster total: 94/108 graha-in-bhava + 1/1 pillar = 95/109 published. Phase 7 rolling: Moon-3 (4L kendra in upachaya, new SOP), Venus-8 (2L+7L marakas in Randhra, new SOP), Sun-6 (5L trikona in dushthana, new SOP) closes batch 16. First batch on the new VastuCart Editorial byline + scannable-prose + SVG-to-WebP image pipeline.**
 
 ### Phase 1 batch (DONE — all gates green)
 - [x] Sun in 1st house, Mesh Lagna `sun-1st-house-aries-lagna`

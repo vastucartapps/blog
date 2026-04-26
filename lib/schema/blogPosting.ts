@@ -42,6 +42,11 @@ function countWords(post: ArticlePost): number {
   for (const block of post.content) {
     if (block.type === "prose") {
       total += plainText(block.html).split(/\s+/).filter(Boolean).length;
+    } else if (block.type === "scannable-prose") {
+      total += plainText(block.lead_html).split(/\s+/).filter(Boolean).length;
+      for (const sub of block.subsections) {
+        total += plainText(sub.html).split(/\s+/).filter(Boolean).length;
+      }
     } else if (block.type === "pull-quote") {
       total += block.text.split(/\s+/).filter(Boolean).length;
     } else if (block.type === "faq") {

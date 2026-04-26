@@ -317,9 +317,22 @@ function validate(post: PostJSON, file: string): ValidationReport {
     let proseTotal = 0;
     const blocks = post.content ?? [];
     for (const block of blocks) {
-      const b = block as { type: string; html?: string; text?: string };
+      const b = block as {
+        type: string;
+        html?: string;
+        text?: string;
+        lead_html?: string;
+        subsections?: { html: string }[];
+      };
       if (b.type === "prose" && b.html) {
         proseTotal += words(b.html);
+      } else if (b.type === "scannable-prose") {
+        if (b.lead_html) proseTotal += words(b.lead_html);
+        if (Array.isArray(b.subsections)) {
+          for (const sub of b.subsections) {
+            if (sub.html) proseTotal += words(sub.html);
+          }
+        }
       } else if (b.type === "pull-quote" && b.text) {
         proseTotal += words(b.text);
       }
@@ -741,9 +754,22 @@ function validate(post: PostJSON, file: string): ValidationReport {
     const blocks = post.content ?? [];
     const allText: string[] = [];
     for (const block of blocks) {
-      const b = block as { type: string; html?: string; text?: string };
+      const b = block as {
+        type: string;
+        html?: string;
+        text?: string;
+        lead_html?: string;
+        subsections?: { html: string }[];
+      };
       if (b.type === "prose" && b.html) allText.push(plain(b.html));
-      else if (b.type === "pull-quote" && b.text) allText.push(b.text);
+      else if (b.type === "scannable-prose") {
+        if (b.lead_html) allText.push(plain(b.lead_html));
+        if (Array.isArray(b.subsections)) {
+          for (const sub of b.subsections) {
+            if (sub.html) allText.push(plain(sub.html));
+          }
+        }
+      } else if (b.type === "pull-quote" && b.text) allText.push(b.text);
     }
     const joined = allText.join(" ").toLowerCase();
     const tokens = joined.split(/\s+/).filter((w) => w.length > 2);
