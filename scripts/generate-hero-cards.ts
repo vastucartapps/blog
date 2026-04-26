@@ -115,9 +115,12 @@ async function processPost(jsonPath: string) {
     if (!dryRun) fs.mkdirSync(outDir, { recursive: true });
   }
 
-  const svgPath = path.join(outDir, `${post.slug}-hero.svg`);
-  const webpPath = path.join(outDir, `${post.slug}-hero.webp`);
-  const ogPath = path.join(outDir, `${post.slug}-hero-og.webp`);
+  // -v2 cache-bust: Cloudflare/Next public caches set 1y immutable on
+  // /posts/**, so any earlier broken render stays pinned forever
+  // under the same URL. Bumping the filename forces a fresh fetch.
+  const svgPath = path.join(outDir, `${post.slug}-hero-v2.svg`);
+  const webpPath = path.join(outDir, `${post.slug}-hero-v2.webp`);
+  const ogPath = path.join(outDir, `${post.slug}-hero-og-v2.webp`);
 
   if (!dryRun) {
     fs.writeFileSync(svgPath, svg);
@@ -149,8 +152,8 @@ async function processPost(jsonPath: string) {
   const oldManifest = post.image_manifest ?? [];
   const newFirst: ManifestEntry = {
     ...(oldManifest[0] ?? {}),
-    filename: `${post.slug}-hero.webp`,
-    filename_og: `${post.slug}-hero-og.webp`,
+    filename: `${post.slug}-hero-v2.webp`,
+    filename_og: `${post.slug}-hero-og-v2.webp`,
     alt: oldManifest[0]?.alt ?? newHeroAlt,
     caption: oldManifest[0]?.caption ?? newHeroCaption,
     width: 1060,
@@ -162,7 +165,21 @@ async function processPost(jsonPath: string) {
 
   post.image_manifest = newManifest;
   post.meta = post.meta ?? {};
-  post.meta.og_image = `/posts/${post.slug}/${post.slug}-hero-og.webp`;
+  post.meta.og_image = `/posts/${post.slug}/${post.slug}-hero-og-v2.webp`;
+
+  // Also update any in-body image-figure block that references the
+  // old hero filename so the section image updates with the URL.
+  if (Array.isArray(post.content)) {
+    for (const block of post.content as Array<Record<string, unknown>>) {
+      if (
+        block?.type === "image-figure" &&
+        typeof block.filename === "string" &&
+        block.filename === `${post.slug}-hero.webp`
+      ) {
+        block.filename = `${post.slug}-hero-v2.webp`;
+      }
+    }
+  }
 
   if (!dryRun) {
     fs.writeFileSync(jsonPath, JSON.stringify(post, null, 2) + "\n");
