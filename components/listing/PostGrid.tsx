@@ -5,6 +5,7 @@ import { PostCard } from "./PostCard";
 import { EmptyState } from "./EmptyState";
 import { Icon } from "@/components/ui/Icon";
 import { formatDate } from "@/lib/utils";
+import { resolveFeaturedImage } from "@/lib/post-images";
 
 interface Props {
   posts: ArticlePost[];
@@ -53,6 +54,7 @@ function FeaturedPostCard({
   post: ArticlePost;
   categoryLabel?: string;
 }) {
+  const featured = resolveFeaturedImage(post);
   return (
     <Link
       href={`/${post.category}/${post.subcategory}/${post.slug}`}
@@ -68,44 +70,68 @@ function FeaturedPostCard({
       data-media="ratio"
     >
       <div
-        className="diamond-bg split-media relative"
+        className="split-media relative"
         style={{
           minHeight: 240,
+          background: "var(--cream-2)",
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
+          position: "relative",
+          overflow: "hidden",
         }}
       >
-        <span
-          aria-hidden
-          className="pointer-events-none absolute"
-          style={{
-            top: -60,
-            right: -40,
-            width: 260,
-            height: 260,
-            borderRadius: "50%",
-            background:
-              "radial-gradient(circle, rgba(232,132,10,0.18) 0%, transparent 65%)",
-          }}
-        />
-        <div
-          style={{
-            width: 168,
-            height: 168,
-            borderRadius: "50%",
-            border: "1px solid rgba(232,132,10,0.35)",
-            background: "rgba(255,255,255,0.04)",
-            display: "flex",
-            alignItems: "center",
-            justifyContent: "center",
-            color: "var(--saffron-light)",
-            position: "relative",
-            zIndex: 1,
-          }}
-        >
-          <Icon name="sun" size={92} />
-        </div>
+        {featured ? (
+          <Image
+            src={featured.src}
+            alt={featured.alt}
+            fill
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 600px"
+            style={{ objectFit: "cover" }}
+            priority
+          />
+        ) : (
+          <div className="diamond-bg" style={{ position: "absolute", inset: 0 }}>
+            <span
+              aria-hidden
+              className="pointer-events-none absolute"
+              style={{
+                top: -60,
+                right: -40,
+                width: 260,
+                height: 260,
+                borderRadius: "50%",
+                background:
+                  "radial-gradient(circle, rgba(232,132,10,0.18) 0%, transparent 65%)",
+              }}
+            />
+            <div
+              style={{
+                position: "absolute",
+                inset: 0,
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
+                color: "var(--saffron-light)",
+              }}
+            >
+              <div
+                style={{
+                  width: 168,
+                  height: 168,
+                  borderRadius: "50%",
+                  border: "1px solid rgba(232,132,10,0.35)",
+                  background: "rgba(255,255,255,0.04)",
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                }}
+              >
+                <Icon name="sun" size={92} />
+              </div>
+            </div>
+          </div>
+        )}
       </div>
 
       <div

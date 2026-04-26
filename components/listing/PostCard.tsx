@@ -1,45 +1,13 @@
 import Link from "next/link";
 import Image from "next/image";
-import fs from "node:fs";
-import path from "node:path";
 import type { ArticlePost } from "@/lib/types";
 import { Icon } from "@/components/ui/Icon";
 import { formatDate } from "@/lib/utils";
+import { resolveFeaturedImage } from "@/lib/post-images";
 
 interface Props {
   post: ArticlePost;
   categoryLabel?: string;
-}
-
-interface ImageManifestEntry {
-  filename: string;
-  alt: string;
-}
-
-/**
- * Find the best featured image for a post card. Order of preference:
- *   1. /og/{slug}.png (the social-share image, 1200x630)
- *   2. /posts/{slug}/{first manifest entry}
- * Returns null if neither exists yet — the card falls back to the
- * themed medallion. This lets posts publish before images are
- * generated and seamlessly upgrade once they land.
- */
-function resolveFeaturedImage(post: ArticlePost): { src: string; alt: string } | null {
-  const cwd = process.cwd();
-  const ogPath = path.join(cwd, "public", "og", `${post.slug}.png`);
-  if (fs.existsSync(ogPath)) {
-    return { src: `/og/${post.slug}.png`, alt: post.meta?.og_title ?? post.title };
-  }
-  const manifest = (post as ArticlePost & { image_manifest?: ImageManifestEntry[] }).image_manifest;
-  if (manifest && manifest.length > 0) {
-    for (const img of manifest) {
-      const p = path.join(cwd, "public", "posts", post.slug, img.filename);
-      if (fs.existsSync(p)) {
-        return { src: `/posts/${post.slug}/${img.filename}`, alt: img.alt };
-      }
-    }
-  }
-  return null;
 }
 
 export function PostCard({ post, categoryLabel }: Props) {
