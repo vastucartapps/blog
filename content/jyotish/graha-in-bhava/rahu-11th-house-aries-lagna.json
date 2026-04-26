@@ -217,6 +217,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Rahu Stotra, hand-painted on aged parchment with gold leaf borders, faint serpent and mace motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "rahu-11th-house-aries-lagna-career-infographic.webp",
+      "alt": "Rahu in 11th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "rahu-11th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Rahu 11th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -304,10 +322,14 @@
       "html": "<p>If you carry Rahu in the eleventh house of a Mesh chart, you hold what classical Parashari texts consistently describe as the single best Rahu placement in the entire catalogue, and the reason the tradition treats this position differently from every other Rahu location is structural rather than sentimental. Three features converge here in the same direction and produce the gain amplification the chart is famous for. The eleventh house from Mesh is Kumbha (Aquarius), ruled by Shani, and the Rahu-Saturn relationship is classical friendship because the two planets share temperamental affinities around structure, systems, outsider positioning, and the slow build of unconventional networks. Rahu in Saturn's sign expresses through a medium that welcomes its full karakatva range without the friction that appears in more turbulent sign placements, and the friendly Kumbha sign therefore gives the placement unusually stable functional output.</p><p>The second structural feature is the house itself. The eleventh house is Labha Bhava, the upachaya house of gains, income, friend networks, elder siblings, fulfilment of desires, and the visible material return on the native's worldly effort. Upachaya houses classically grow malefics rather than reducing them, which means Rahu (a shadow malefic) gets progressively stronger across the native's life in this position rather than fading, and the amplification energy Rahu carries finds its natural expression in the gain-related themes the house already rules. The third feature is the lagna aspect. From the 11th, Rahu casts his full 5th aspect (counted from the occupying house) to the lagna, bringing the amplification signature directly into the body and identity angle without going through the chaotic body-placement version that the more difficult Rahu positions produce. This guide reads every layer of Rahu in 11th house for Mesh Lagna natives: the Rahu-Saturn friendship, the upachaya amplification, the classical best-placement reading with the practitioner nuance it actually requires, and the hessonite protocol that applies here with unusual confidence.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-2-vc.svg",
-      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "rahu-11th-house-aries-lagna-career-infographic.webp",
+      "alt": "Rahu in 11th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "prose",
@@ -464,10 +486,14 @@
       "html": "<p>Career paths cluster around fields where network effects and the amplification of unconventional work produce the gain pattern the chart delivers. Technology, startups, and disruptive enterprise are the strongest single fit because the placement supports the native who thrives in fast-moving, network-leveraged environments that reward growth over stability. Many natives work in technology sectors where careers compound through connections and equity. International business and foreign-market commerce fit because the Rahu foreign signature combined with the Labha income signature produces natives whose commercial work crosses borders naturally.</p><p>Social enterprise and community organisation suit the chart because the 11th house rules groups and friend networks, and Rahu amplifies the group-dimension specifically. Media, publishing, and content platforms work because the native's natural social gift translates directly into audience-building. Venture investment and speculative finance suit natives whose pattern recognition runs to markets. Group-based consulting and network-leveraged work round out the list. Rahu mahadasha is the defining career window and arrives with dramatic expansion of income and network that often multiplies the native's professional reach several times over. The window typically runs for the full eighteen years and produces the cumulative gain the chart has been building toward since childhood.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "career-2-vc.svg",
-      "alt": "Professional success factors infographic, brand-coloured illustration",
-      "eyebrow": "CAREER"
+      "type": "image-figure",
+      "filename": "rahu-11th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Rahu 11th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "cta-inline",

@@ -218,6 +218,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Hanuman Chalisa, hand-painted on aged parchment with gold leaf borders, faint mace motif in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "mars-4th-house-aries-lagna-career-infographic.webp",
+      "alt": "Mars in 4th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "mars-4th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mars 4th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -305,10 +323,14 @@
       "html": "<p>Mars in 4th house for Mesh Lagna is the hardest Mangal placement in the Aries ascendant catalogue. The fourth house from Mesh is Karka (Cancer), Chandra's sign, and Karka is the exact sign of Mars's debilitation (neecha), with the deepest point of weakness at 28 degrees. On top of the debilitation, this is one of the six classical Manglik Dosha positions, and the affected planet is Mangal himself, the lagna lord of Mesh. Placing the lagna lord debilitated in Sukha Bhava produces a native whose core identity finds itself in weakness exactly where the chart wants stability, home, mother, emotional security, property, and vehicles. And yet, this placement is not the disaster popular astrology makes it out to be. Classical dispositor rescue rules, a strong Moon elsewhere in the chart, and a disciplined remedial practice can transform the entire expression of the combination. This guide reads every layer of Mars in 4th house for Mesh Lagna natives: the debilitation depth, the lagna lord in Sukha Bhava signature, the Moon dispositor rescue, Manglik cancellation, mother and home dynamics, and the pearl-first remedy framework that gives the placement its best chance.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "mars-4th-house-aries-lagna-career-infographic.webp",
+      "alt": "Mars in 4th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "prose",
@@ -465,10 +487,14 @@
       "html": "<p>The career signature is unusually specific because the chart places the lagna lord in the house of property, land, and the built environment. Real estate and property development is the single strongest fit, and natives who commit to this field often find that the career itself becomes a remedy, building and selling homes for others heals the native's own relationship to home in a way no gemstone can match. Construction, civil engineering, and land acquisition businesses form the second cluster and absorb the fiery lagna lord energy into the physical built world.</p><p>Military and defence services remain viable because Mars retains its core nature even when debilitated. Surgery and emergency medicine work for the same reason, the precision and courage are still present, and Karka water adds an unusual compassion. Agriculture, land management, and home-oriented businesses (furniture, interiors, home services) also channel the placement productively. Mangal mahadasha runs seven years and is typically the decisive career window, but for this placement the direction taken in the late twenties usually shapes everything that follows because the debilitated lagna lord responds well to commitment and poorly to drift.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "career-1-vc.svg",
-      "alt": "Businesswoman avatar, brand-coloured illustration",
-      "eyebrow": "CAREER"
+      "type": "image-figure",
+      "filename": "mars-4th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mars 4th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "cta-inline",

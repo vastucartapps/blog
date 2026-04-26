@@ -218,6 +218,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Mangal Kavacham, hand-painted on aged parchment with copper leaf borders, faint copper amulet in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "mars-8th-house-aries-lagna-career-infographic.webp",
+      "alt": "Mars in 8th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "mars-8th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mars 8th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -305,10 +323,14 @@
       "html": "<p>Before going into effects, the Mangal own sign dignity of this Mars in 8th house placement deserves its own focus. Vrishchika (Scorpio) is Mars's second own sign, a fixed water sign that gives Mars depth and endurance in a way Mesh Lagna (cardinal fire) does not. When Mangal own sign sits in the Randhra Bhava, the eighth house transformation signature combines with the Vrishchika rashi depth to produce natives who handle crises that other Aries ascendants cannot handle. Classical texts (Phaladeepika, Jataka Parijata) note specifically that Mars in Vrishchika gives longevity-enhancing effects that override some of the typical 8th house malefic patterns. This is the single most important interpretive distinction for reading this combination correctly. The native does not suffer as much as the generic Mars-in-8th rules suggest because the Mangal own sign Vrishchika anchor is actively protecting the longevity karaka throughout the Vimshottari sequence, especially during Mangal antardasha windows.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "mars-8th-house-aries-lagna-career-infographic.webp",
+      "alt": "Mars in 8th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "prose",
@@ -586,10 +608,14 @@
       "html": "<p>The Tuesday discipline is the foundation. Recite the Mangal Kavacham or Mangal Stotram at sunrise on Tuesdays. The Kavacham is specifically recommended for this combination because the protective armour quality of the stotra matches the eighth house signature's need for psychological and physical protection. Wear red or deep orange on Tuesdays. Avoid salt the entire day. Eat one meal of moong dal khichdi at noon. Donate red wheat, jaggery, copper coins, or red cloth to a labourer, sportsperson, or military person on Tuesday at sunrise.</p><p>The gemstone is red coral (Moonga). Wear natural untreated minimum five ratti coral set in copper or panchdhatu on the ring finger of the right hand on a Tuesday at sunrise after Mangal mantra recitation. The lifestyle adjustment that compounds most is acknowledging the transformation signature of the chart rather than resisting it. These natives suffer most when they try to maintain surface-level stability that the chart is actively working to disrupt. Natives who surrender to the eighth-house rhythm,accepting that every seven to nine years brings a major life change that the surface identity cannot survive intact,report dramatic improvements in both mental and physical health. The chart's deep purpose is transformation, and resisting it is how the body breaks down. Living with it is how the body survives longer than expected.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "meditation-1-vc.svg",
-      "alt": "Person meditating in lotus posture, brand-coloured illustration",
-      "eyebrow": "MEDITATION"
+      "type": "image-figure",
+      "filename": "mars-8th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mars 8th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "gemstone",

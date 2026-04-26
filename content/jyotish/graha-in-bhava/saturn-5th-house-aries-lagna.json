@@ -216,6 +216,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Shani stotra, hand-painted on aged parchment with iron borders, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "saturn-5th-house-aries-lagna-career-infographic.webp",
+      "alt": "Saturn in 5th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "saturn-5th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Saturn 5th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -303,10 +321,14 @@
       "html": "<p>Saturn in 5th house for Mesh Lagna is one of the most interpretively layered Shani placements in the Aries ascendant catalogue. The fifth house from Mesh is Simha (Leo), Surya's sign, and Surya and Shani are classical enemies, so the sign placement reduces Shani's natural strength. The 5th house is a trikona, and classical tradition describes the effect of malefics in trikonas as a mild reduction because trikonas are dharmic and malefic energies weigh down the blessing current of the trine. Shani is also the 10L and <strong>lord of the 11th house</strong> (also called the 11L) for Mesh, placing the career and gains lord into the house of children, creativity, speculation, and intelligence. The combination produces a specific classical signature around delayed children, disciplined creativity, serious education, and caution around speculation. This guide reads every layer of Saturn in 5th house for Mesh Lagna natives: the enemy sign in trine dynamics, the delayed children pattern, disciplined creativity expression, the speculation warning, and the Neelam protocol that demands careful verification for this placement.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-2-vc.svg",
-      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "saturn-5th-house-aries-lagna-career-infographic.webp",
+      "alt": "Saturn in 5th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -603,10 +625,14 @@
       "html": "<p>Saturday is foundational and Sunday is a meaningful secondary day because Surya rules Simha and honouring the sign lord alongside the occupying planet strengthens the placement. On Saturday rise before sunrise, wear dark blue or black, recite Shani stotras, visit a Shani temple if accessible, and donate iron or food to an elderly poor person. The Hanuman Chalisa at dusk softens Shani harshness. On Sunday rise before sunrise, offer water to Surya facing east from a copper vessel, and recite the Aditya Hridayam. The Sunday observance specifically honours the dispositor Sun and supports the creative and children signature.</p><p>The gemstone is Neelam but with strict caution because Shani is in the enemy sign Simha. Mandatory three-day trial wearing is essential, and a full chart review by a practising Jyotishi must verify that the placement supports the stone before any permanent commitment. The Saat Mukhi rudraksha is the safer first step. The lifestyle adjustment that compounds most is the deliberate practice of allowing creative imperfection. Natives who build low-stakes creative routines (journaling, sketching, private music practice) where judgement is suspended balance the Shani critic with process-oriented play, and the combination keeps the creative channel open across decades. The chart rewards patient discipline in creative and family domains and penalises both the rush toward early outcomes and the surrender to perfectionism.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "meditation-2-vc.svg",
-      "alt": "Hand-drawn figure meditating cross-legged, brand-coloured illustration",
-      "eyebrow": "MEDITATION"
+      "type": "image-figure",
+      "filename": "saturn-5th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Saturn 5th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "gemstone",

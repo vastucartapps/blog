@@ -217,6 +217,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Rahu-Ketu Stotram, hand-painted on aged parchment with gold leaf borders, faint serpent and flag motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "rahu-3rd-house-aries-lagna-career-infographic.webp",
+      "alt": "Rahu in 3rd house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "rahu-3rd-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Rahu 3rd house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -304,10 +322,14 @@
       "html": "<p>If you carry Rahu in the third house of a Mesh chart, you hold one of the strongest Rahu placements in the Aries ascendant catalogue, and classical Parashari texts rank the 3rd house position as the second-best Rahu location after the 11th house because the same upachaya growth rule that benefits Rahu in the 11th applies here and amplifies the Parakrama karakatvas rather than reducing them. The third house from Mesh is Mithuna (Gemini), ruled by Budha, and the Rahu-Mercury relationship is classical friendship because both planets share the affinity for communication, movement, mental versatility, and boundary-crossing work. A Rahu in Mercury's own sign expresses through a medium that welcomes the planet's core karakatvas, and the friendly Mithuna sign therefore gives the placement comfortable functional output alongside the upachaya compounding.</p><p>The second structural feature is the house itself. The third house is Parakrama Bhava, the seat of self-effort, courage, communication, younger siblings, short journeys, hands and skill, and the willingness to take initiative. Upachaya houses (3, 6, 10, 11) grow malefic and amplified planets over time rather than reducing them, and Rahu's amplification energy finds unusually clean purchase in the 3rd house specifically because the house's own themes of self-effort and boundary-crossing communication align directly with Rahu's boundary-crossing nature. The third feature is the younger-sibling signature. The 3rd house rules younger siblings directly, and Rahu here often produces unusual patterns: younger siblings of foreign background, unusual life paths, or significant gap in age from the native. This guide reads every layer of Rahu in 3rd house for Mesh Lagna natives: the Rahu-Mercury friendship, the upachaya courage amplification, the communication vocation signature, the younger-sibling pattern, and the hessonite protocol that applies here with confidence.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "rahu-3rd-house-aries-lagna-career-infographic.webp",
+      "alt": "Rahu in 3rd house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -484,10 +506,14 @@
       "html": "<p>Career paths cluster around fields where the native's willingness to speak, write, and act bravely becomes the central vocational asset. The strongest single fit is journalism, broadcasting, and investigative reporting because the chart produces natives whose verbal quickness combined with Rahu's boundary-crossing drive produces reporters who reach stories other journalists avoid. Many natives build careers as the journalist whose investigative reporting exposes what established media misses, and the compounding across decades produces reputations that depend on sustained courage rather than on single breakthrough moments. Translation and cross-cultural communication fit the chart because the Mithuna communication gift combined with Rahu's foreign signature produces natives whose work specifically bridges languages and cultures.</p><p>Technology, software, and innovative communication platforms suit natives whose vocational pull is technical because Rahu's amplification combined with the 3rd house communication karakatva produces natives who build the tools other communicators use. Public speaking, training, and activist work fit the chart because the courage amplification translates directly into the willingness to speak from stages and in public settings that other natives find intimidating. Writing across genres and boundary-crossing fiction suit natives whose creative voice refuses to stay inside established forms. Sales, business development, and deal-making across borders channel the combination productively for natives whose vocational pull is commercial. Rahu mahadasha is the defining career window and arrives with dramatic expansion of the native's public voice, often through a specific moment of visibility (a publication, a broadcast, a speech, a campaign) that opens the compounding network the placement produces across the rest of the life.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "career-1-vc.svg",
-      "alt": "Businesswoman avatar, brand-coloured illustration",
-      "eyebrow": "CAREER"
+      "type": "image-figure",
+      "filename": "rahu-3rd-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Rahu 3rd house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "cta-inline",

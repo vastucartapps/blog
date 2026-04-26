@@ -217,6 +217,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Saraswati Stotram, hand-painted on aged parchment with gold leaf borders, faint veena and lotus motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "mercury-5th-house-aries-lagna-career-infographic.webp",
+      "alt": "Mercury in 5th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "mercury-5th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mercury 5th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -303,10 +321,14 @@
       "html": "<p>If you carry Budha in the fifth house of a Mesh chart, you hold a placement that deserves careful practitioner framing because Mercury's functional lordship for Aries natives is dual and the reading depends on naming both sides precisely. Budha rules Mithuna (the 3rd house for Mesh) and Kanya (the 6th house for Mesh), so for this lagna Mercury carries the 3L auspicious upachaya rulership and the 6L dushthana rulership at the same time. Placing this dual-rulership planet in the 5th house trikona puts one auspicious upachaya lord and one dushthana lord into the seat of creativity, children, purva punya, and the dharmic intelligence the native brings into the present life.</p><p>The second structural feature is that the fifth house from Mesh is Simha (Leo), ruled by Surya. The Sun-Mercury relationship is classically one-sided friendship from Sun's side: Surya treats Budha as a friend while Budha treats Surya as neutral. The one-sided cooperation means Budha in Simha is in a friend sign by the Sun's perspective, which supports the placement functionally even though Mercury does not formally return the friendship. The trikona strength of the fifth house overrides most of the dushthana rulership issues the 6L contribution would otherwise produce, and the combined result is a placement that classical tradition reads as productive for analytical creativity, strategic mind work, and the specifically intellectual form of creative output. This guide reads every layer: the Budha-Simha friend sign reading, the 3L plus <strong>lord of the 6th house</strong> (also called the 6L) overlap in a creativity trikona, the analytical-creative signature, and the emerald protocol that applies here with appropriate caution.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-2-vc.svg",
-      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "mercury-5th-house-aries-lagna-career-infographic.webp",
+      "alt": "Mercury in 5th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -493,10 +515,14 @@
       "html": "<p>Career paths cluster around fields where structured intellect and creative imagination compound into specifically strategic output. The strongest single fit is strategic consulting and analytical creative direction because the chart combines the 3L communication rulership with the 5H creativity trikona and the 6L analytical-service dimension directly, and many natives build careers as senior strategists, creative directors with analytical backgrounds, or consulting leaders whose reputation rests on the specifically intellectual rigour of their creative recommendations. Editorial leadership in high-craft publishing also fits well because the chart rewards the precise judgement that distinguishes excellent creative work from merely competent output.</p><p>Educational content and structured teaching suit the placement because the 5H rules formal learning and mantra siddhi and Mercury rules explanation and pedagogy. Many natives build careers as senior educators, curriculum designers, or teaching authors whose work carries the specifically analytical clarity that students and institutions value. Research writing and intellectual journalism fit natives whose pull is more literary because the chart rewards the essay form where analytical and creative elements compound together rather than competing. Game design, systems thinking, and strategy work are natural fits because the chart combines puzzle-solving pleasure with creative output capacity, and many natives become designers of systems whose users experience them as both elegant and intelligent. Screenwriting with an analytical-creative blend rounds out the list. Budha mahadasha is the defining window, and it typically crystallises the vocation into its signature form through a specific editorial, teaching, or strategic project that becomes the native's definitive professional contribution."
     },
     {
-      "type": "infographic",
-      "illustration": "career-2-vc.svg",
-      "alt": "Professional success factors infographic, brand-coloured illustration",
-      "eyebrow": "CAREER"
+      "type": "image-figure",
+      "filename": "mercury-5th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mercury 5th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "cta-inline",

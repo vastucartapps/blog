@@ -218,6 +218,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Lakshmi Ashtakam, hand-painted on aged parchment with gold leaf borders, faint lotus and gold coin motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "venus-4th-house-aries-lagna-career-infographic.webp",
+      "alt": "Venus in 4th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "venus-4th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Venus 4th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -305,10 +323,14 @@
       "html": "<p>If you carry Shukra in the fourth house of a Mesh chart, you hold one of the cleanest Venus placements in the entire Aries ascendant catalogue, because the placement combines three structural strengths that compound rather than conflict. The fourth house from Mesh is Karka (Cancer), ruled by Chandra, and the Moon is Venus's friend in classical relationships. By sign dignity the placement is comfortable, neither exalted nor debilitated, holding mid-strength functional status that the friendly relationship supports. The fourth house is also the specific seat where Shukra holds digbala, the directional strength awarded to Venus at the home angle. Classical texts treat Venus and Mercury as the two planets that get digbala in the fourth, because the karakatvas of refinement, comfort, education, and inner contentment that the fourth house rules are exactly the territory where Venus operates at his clearest functional output.</p><p>The second structural feature is the dual lordship Venus carries for Mesh Lagna. Shukra rules both Vrishabha (2nd house) and Tula (7th house), so any Venus placement for Mesh natives carries a <strong>lord of the 2nd house</strong> (also called the 2L) plus <strong>lord of the 7th house</strong> (also called the 7L) double role. Placing this dual-role planet in the 4th creates a configuration where the lord of wealth and family (2L) and the lord of marriage and partnership (7L) both occupy the home and mother angle, producing a native whose entire material and relational life is anchored in the domestic centre. Note that this is NOT Pancha Mahapurusha Malavya Yoga, which requires Venus exalted or in own sign in a kendra. Karka is neither, so even though the 4th is one of the four kendras, the named yoga does not form. The placement is structurally one of the strongest non-Malavya Venus configurations possible. This guide reads every layer of Venus in 4th house for Mesh Lagna natives: the digbala in friendly sign, the 2L plus 7L dual lordship, the refined-comfort signature, and the diamond protocol that applies here with high confidence.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "venus-4th-house-aries-lagna-career-infographic.webp",
+      "alt": "Venus in 4th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -494,10 +516,14 @@
       "html": "<p>Career paths cluster around fields where home values translate directly into public-facing work, and the strongest single fit is hospitality and family business leadership. Venus as 2L plus 7L in the 4th wires the entire vocational instinct toward businesses that make other people feel at home, and many natives run family hospitality operations, restaurants, guest houses, or hotels where the personal warmth becomes a competitive advantage systems cannot replicate. Real estate and property development are the parallel commercial fits, and natives often build property portfolios as a primary or secondary income stream regardless of their main vocation.</p><p>Interior design and home aesthetics work because the eye for proportion and material that Venus produces translates directly into spaces, and natives often start with their own home and grow into client work from there. Education, especially early childhood, suits the chart because the 4L Moon karakatva combined with Venus refinement produces a teacher whose mode is gentle, structured, and unusually attentive to the student's emotional climate. Wellness, spa, and retreat industries channel the chart productively. Family-rooted creative practice (cooking, traditional crafts, hereditary art forms) suits natives whose vocation is more inherited than self-built. Shukra mahadasha is when the vocational identity crystallises, often through a marriage, an inherited property, or a family business decision that opens the rest of the working life.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "career-1-vc.svg",
-      "alt": "Businesswoman avatar, brand-coloured illustration",
-      "eyebrow": "CAREER"
+      "type": "image-figure",
+      "filename": "venus-4th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Venus 4th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "cta-inline",

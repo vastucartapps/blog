@@ -218,6 +218,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Chandra Sahasranama, hand-painted on aged parchment with gold and silver leaf borders, faint crescent moon and lotus motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "moon-9th-house-aries-lagna-career-infographic.webp",
+      "alt": "Moon in 9th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "moon-9th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Moon 9th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -305,10 +323,14 @@
       "html": "<p>If you carry Chandra in the ninth house of a Mesh chart, you hold one of the cleanest dharmic Moon placements in the entire Aries ascendant catalogue, because the placement combines three structural strengths that all work in the same direction. The ninth house from Mesh is Dhanu (Sagittarius), ruled by Guru, and Jupiter is generally favourable toward the Moon in classical relationships even though the technical rule treats them as neutral (Moon is the natural counsellor and Jupiter the natural teacher, and their shared commitment to wisdom produces practical friendliness even when the textbook rule is neutral). By sign relationship the placement is comfortable, holding mid-strength functional status that the friendly Dhanu sign welcomes. The ninth house is also Dharma Bhava, the trikona of dharma, father, teacher, long journeys, classical learning, and the inner orientation toward truth that the trikona houses collectively rule. Placing the mind karaka in the dharma trikona produces a native whose emotional and mental life is wired toward the dharmic dimension of existence from a young age.</p><p>The second structural feature is the kendra-to-trikona raja yoga the placement creates. For Mesh Lagna, Chandra rules Karka and is therefore the 4L. Placing the 4L (the lord of the strongest kendra) in the 9H (the deepest dharmic trikona) creates one of the cleanest raja yoga combinations classical Parashari texts describe, where the foundation angle of home and mother flows directly into the dharmic pillar of truth and wisdom. The two angles reinforce each other, and the practical effect is that the native's home life and mother figure carry the dharmic current directly, producing families where the dharmic orientation runs through the mother rather than through the father, and natives whose deepest spiritual inheritance comes through maternal channels. As with all paksha-sensitive Moon placements, the lunar phase at birth shapes the functional intensity. This guide reads every layer of Moon in 9th house for Mesh Lagna natives: the friendly sign comfort, the kendra-to-trikona raja yoga, the mother-as-dharmic-figure signature, and the pearl protocol that applies here with high confidence.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-2-vc.svg",
-      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "moon-9th-house-aries-lagna-career-infographic.webp",
+      "alt": "Moon in 9th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -341,10 +363,14 @@
       "html": "<p>The most useful interpretive frame for understanding Moon in 9th of Mesh is the mother-as-dharmic-figure reading, which captures both the structural truth and the lived experience the chart produces. Popular astrology often treats the 9th house father-signature as the default, but the 9th house in classical tradition is broader than that: it is the house of all dharmic transmission, and the dharmic figure can be the father, the teacher, the grandfather, the guru, or the mother depending on which planet occupies the house. When Chandra (the karaka of mother) sits in the 9th, the chart is explicitly naming the mother as the dharmic transmitter, and the reading is unusually consistent in clinical reports for natives with this placement: their mother is the one who introduced them to prayer, to scripture, to dharmic practice, to pilgrimage, and to the inner orientation that the native carries into adulthood as their own.</p><p>The <strong>lord of the 4th house</strong> (also called the 4L) in <strong>9th house</strong> (called <em>Dharma Bhava</em>, the house of father, philosophy, and higher learning) configuration is the second specific feature that deserves careful reading because it forms a clean kendra-to-trikona raja yoga. Classical Parashari texts list kendra-to-trikona raja yogas among the three cleanest raja yoga patterns because they connect the foundation of the chart (the four kendras that supply structural support) with the dharmic pillars (the three trikonas that supply meaning and blessing). When the 4L occupies the 9H, the home and mother angle flows into the dharma house, and the combination produces a native whose domestic and spiritual life become inseparable. The home becomes the place where dharmic practice happens. The mother becomes the teacher. The native's emotional grounding and their spiritual orientation are not two separate things, they are one continuous expression. The third interpretive layer is aspect. From the 9th, Chandra aspects the 3rd house with his full opposition aspect, bringing the dharmic-emotional current into the parakrama and communication angle. Natives often become teachers, writers, or communicators whose output carries an unmistakable dharmic quality that readers and students recognise even when the surface topic is secular.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "family-2-vc.svg",
-      "alt": "Parent and child playing together, brand-coloured illustration",
-      "eyebrow": "FAMILY"
+      "type": "image-figure",
+      "filename": "moon-9th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Moon 9th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "pull-quote",

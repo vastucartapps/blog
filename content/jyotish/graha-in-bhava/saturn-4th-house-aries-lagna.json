@@ -217,6 +217,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Shani stotra, hand-painted on aged parchment with iron accent borders, faint chain and crow motifs in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "saturn-4th-house-aries-lagna-career-infographic.webp",
+      "alt": "Saturn in 4th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "saturn-4th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Saturn 4th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -304,10 +322,14 @@
       "html": "<p>Saturn in 4th house for Mesh Lagna is one of the most interpretively mixed Shani placements in the Aries ascendant catalogue. The fourth house from Mesh is Karka (Cancer), Chandra's sign, and Shani is classically inimical with Chandra at the planetary level. Shani in Karka sits in enemy sign territory which reduces his natural strength. However, the 4th house is a kendra (angular foundation house), and any planet in a kendra retains significant functional strength regardless of sign. Shani is also the 10L (Makara, tenth house) and the 11L (Kumbha, eleventh house) for Mesh Lagna, so placing this dual-role planet in the 4H creates a classical kendra-to-kendra configuration where the career lord and the gains lord jointly occupy the home house. The combination produces natives whose home and mother experience is shaped by discipline, austerity, and often late property acquisition, but whose career and wealth eventually find their full expression through the foundation the difficult home years built. This guide reads every layer of Saturn in 4th house for Mesh Lagna natives: the enemy sign reduction softened by kendra strength, the home and mother signature, late property timing, the 10L and <strong>lord of the 11th house</strong> (also called the 11L) dual lordship weight, and the neelam protocol this specific combination demands.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "saturn-4th-house-aries-lagna-career-infographic.webp",
+      "alt": "Saturn in 4th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -607,10 +629,14 @@
       "html": "<p>The Saturday discipline is foundational and the Monday observance is the important secondary ritual because Chandra rules Karka and honouring the sign lord alongside the occupying planet is the classical courtesy for this specific configuration. On Saturday rise before sunrise, bathe, wear dark blue or black clothing, and recite the Shani stotra or Dashrath krit Shani stotra in the morning. Visit a Shani temple if accessible, offer black sesame seeds, mustard oil, iron items, or black cloth. Donate iron, black cloth, or food to an elderly poor person on Saturday mornings. On Monday wear white, recite the Chandra Stotram or Chandra Kavacham at moonrise, and offer water from a silver vessel to the moon. The Monday observance specifically honours the dispositor Moon and supports the mother relationship the placement needs conscious repair work around.</p><p>The Hanuman Chalisa at dusk every day is the single most effective compound practice for softening the Shani weight, and natives with this placement report that the daily discipline compounds visibly across months. The gemstone is blue sapphire (Neelam) but with the standard strict caution. Because Shani is in an enemy sign, the placement is not classically recommended for direct Neelam amplification without full chart verification and mandatory trial wearing. The Saat Mukhi rudraksha is the safer first remedial step. If Neelam is indicated by a practitioner after verification, the three-day trial wearing protocol applies before permanent commitment. The lifestyle adjustment that compounds most is the deliberate practice of emotional repair with the mother. Natives who commit to regular mother contact, even brief weekly calls when physical presence is not possible, and who consciously let the relationship deepen across adult decades, often find that the Shani weight on the home house softens into something warmer and more sustainable than the classical reading would predict. The chart rewards conscious emotional work exactly where it enforces austerity.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "meditation-1-vc.svg",
-      "alt": "Person meditating in lotus posture, brand-coloured illustration",
-      "eyebrow": "MEDITATION"
+      "type": "image-figure",
+      "filename": "saturn-4th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Saturn 4th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "gemstone",

@@ -219,6 +219,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Surya Ashtakam, hand-painted on aged parchment with gold leaf borders, faint solar disc and lotus motifs in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "sun-10th-house-aries-lagna-career-infographic.webp",
+      "alt": "Sun in 10th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "sun-10th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Sun 10th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -306,10 +324,14 @@
       "html": "<p>If you carry Surya in the tenth house of a Mesh Lagna chart, you hold one of the most interpretively interesting Sun placements in the Aries ascendant catalogue because it forces two opposing structural facts into the same reading. The tenth house from Mesh is Makara (Capricorn), ruled by Shani, whose relationship with Surya is classical enmity rooted in the Vivasvan-Yama myth. By sign dignity, a Sun in Makara is a Sun in the house of an adversary, and classical texts describe the result as constrained or slow to ripen. However, the tenth house is also the specific house where Surya holds digbala, the directional strength that Parashara awards to a planet at its strongest point on the wheel. Directional strength is not a sentiment, it is a measurable Shadbala component that adds to the planet's functional output regardless of sign.</p><p>The result is a reading where your solar signature is powerful and visible but arrives through a Saturnian medium. Ambition is cold, patient, and methodical rather than hot, impulsive, and dramatic. Authority is earned through discipline, not claimed through birthright. Add to this that Surya is the 5th lord for Mesh Lagna (he owns Simha, the fifth), and placing the 5L in the 10H creates a trine-to-kendra raja yoga that classical texts treat as one of the clean career-elevation yogas. This guide reads every layer of the placement: the enemy sign vs digbala tension, the raja yoga, the Saturnian authority pattern, and the ruby protocol that still applies here despite the sign dignity.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "sun-10th-house-aries-lagna-career-infographic.webp",
+      "alt": "Sun in 10th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -606,10 +628,14 @@
       "html": "<p>The Sunday discipline is foundational and delivers real benefit here because the placement specifically needs the native to keep their internal solar warmth alive against the cold Saturnian medium the sign provides. Rise before sunrise, bathe, wear saffron, red, or golden-toned clothing, and offer arghya (water libation) to the rising Sun facing east. Surya Ashtakam recitation is the primary stotra for this placement because it is a classical eight-verse hymn that invokes the eight qualities of Surya in a structured, disciplined format that aligns with the Saturnian operating system the chart requires. Offer red flowers, wheat, jaggery, or copper at the morning altar, and donate to institutions that serve structural causes: schools, legal aid, public health, or civil rights work, all of which channel the 10th house karma signature constructively.</p><p>Ruby (Manikya) is the primary gemstone and remains the correct recommendation here despite the enemy sign placement, because the digbala and the 5L in 10H raja yoga together override the sign-dignity reduction for the purposes of gemstone work. Wear a natural Burmese or African ruby of minimum three ratti set in gold on the ring finger of the right hand on a Sunday at sunrise after Surya mantra recitation. The classical rule that cautions against ruby in enemy sign placements applies when the Sun is also debilitated or combust, which is not the case here, and practitioners who work with this placement consistently see the ruby produce positive career and health results within six to twelve months of wearing. The specific lifestyle adjustment that compounds most is what I call the long-horizon calendar. Because the chart rewards patience and punishes impatience, natives who adopt a three-to-five year planning horizon for career decisions (rather than the quarterly or annual planning most people default to) see the Saturnian medium shift from adversary to ally. The chart is literally asking for the Saturnian operating system, and natives who give it the operating system it asks for see the digbala reward they were promised.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "meditation-1-vc.svg",
-      "alt": "Person meditating in lotus posture, brand-coloured illustration",
-      "eyebrow": "MEDITATION"
+      "type": "image-figure",
+      "filename": "sun-10th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Sun 10th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "gemstone",

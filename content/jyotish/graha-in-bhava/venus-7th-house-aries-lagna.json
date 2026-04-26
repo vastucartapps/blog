@@ -217,6 +217,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Shukra stotra, hand-painted on aged parchment with silver leaf borders, faint white lotus in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "venus-7th-house-aries-lagna-career-infographic.webp",
+      "alt": "Venus in 7th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "venus-7th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Venus 7th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -304,10 +322,14 @@
       "html": "<p>Of all the placements a Mesh Lagna chart can carry, Venus in 7th house is one of only four that produce a Pancha Mahapurusha yoga, the highest classical category of planetary dignities. The seventh house for Mesh Lagna is Tula (Libra), Shukra's second own sign. A benefic planet sitting in its own sign in a kendra house creates a Pancha Mahapurusha yoga, and for Venus specifically this is Malavya Yoga,one of the most celebrated combinations in classical Jyotish. Natives carrying this Venus in 7th house signature gain an unusually attractive spouse, wealth through partnership, aesthetic refinement, and the kind of social grace that opens doors other Aries ascendant natives have to knock on. This guide reads each layer of Venus in 7th house for Mesh Lagna natives, including the Malavya Yoga activation, the marriage timing, shukra mahadasha windows, the diamond heera wearing protocol, and the Shukra remedies that amplify the yoga across decades.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-2-vc.svg",
-      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "venus-7th-house-aries-lagna-career-infographic.webp",
+      "alt": "Venus in 7th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "prose",
@@ -528,10 +550,14 @@
       "html": "<p>The marriage karaka is the central feature of this Venus in 7th house placement and deserves its own treatment. Venus is both the natural karaka of marriage AND the seventh lord for Mesh Lagna. When the seventh lord sits in the seventh house in his own sign, the marriage signature is amplified three ways. The spouse arrives early (often before age 28), comes from a stable and prosperous family, is visibly attractive, and brings either direct financial resources or social capital that transforms the native's trajectory. Arranged matches are unusually successful because both families recognise the compatibility quickly. Love marriages form when the native meets the spouse in an aesthetic, creative, or social context rather than a work or educational one.</p><p>The partnership quality after marriage is the real gift. These marriages are notable for their harmony, the absence of major fights, and the way the two partners publicly present as a team. The wealth acceleration after marriage is the most-remarked feature by friends and family. Both partners tend to earn, the households are well-managed, and the financial trajectory goes from moderate to comfortable by the tenth anniversary. The Malavya yoga activation in Shukra mahadasha or in Shukra antardasha brings this partnership signature to full expression. A qualified Jyotishi can map the marriage timing window based on the native's dasha sequence. Practical matching: pair with Tula, Vrishabha, Meena, Karka, or Simha lagnas for the smoothest fit.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "partnership-2-vc.svg",
-      "alt": "Couple sharing affection, brand-coloured illustration",
-      "eyebrow": "PARTNERSHIP"
+      "type": "image-figure",
+      "filename": "venus-7th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Venus 7th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "dasha-table",

@@ -217,6 +217,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Budha Stotram, hand-painted on aged parchment with green and gold leaf borders, faint lotus and serpent motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "mercury-4th-house-aries-lagna-career-infographic.webp",
+      "alt": "Mercury in 4th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "mercury-4th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mercury 4th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -303,10 +321,14 @@
       "html": "<p>If you carry Budha in the fourth house of a Mesh chart, you hold a placement that deserves unusually careful framing because the functional lordship Mercury carries for Aries natives is complex and the practitioner reading depends on naming both sides precisely. Budha rules Mithuna (the 3rd house for Mesh) and Kanya (the 6th house for Mesh), so for Aries ascendants Mercury is simultaneously the 3L parakrama lord and the 6L ripu lord. Placing this dual-rulership planet in the 4th house kendra puts one auspicious upachaya rulership and one dushthana rulership into the seat of mother, home, and emotional foundation at the same time.</p><p>The second structural feature is that the fourth house from Mesh is Karka (Cancer), ruled by Chandra, and Budha treats Chandra as enemy even though Chandra is neutral toward Budha. The one-sided enmity means Mercury in Karka is mildly uncomfortable by sign disposition without reaching the actual debility that Meena produces. The practical effect is that the native's analytical mind operates well inside the home environment but carries a mild undertone of emotional friction when the chart's deeper feelings interact with Mercury's cool intellectual register. This guide reads every layer: the Budha-Chandra enemy-sign reading, the 3L plus <strong>lord of the 6th house</strong> (also called the 6L) overlap in a kendra, the analytical-mind-at-home signature, and the emerald protocol that applies here with the specific caution the 6L rulership requires.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "mercury-4th-house-aries-lagna-career-infographic.webp",
+      "alt": "Mercury in 4th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -492,10 +514,14 @@
       "html": "<p>Career paths cluster around fields where analytical competence, written communication, and careful service combine with the specifically home-centred work environment the chart produces. The strongest single fit is writing and editorial work from home because the chart joins the 3L communication rulership with the 4H domestic kendra directly, and many natives build careers as writers, editors, content producers, or documentation specialists whose professional output emerges from a disciplined home study routine. Real estate and property analysis fit well because the 4H directly rules property and Mercury adds the analytical competence the field requires.</p><p>Accounting and financial analysis suit this placement because the 6L rulership brings the service-and-detail discipline that finance work demands while the kendra strength supports Mercury functionally. Many natives build careers as CAs, financial analysts, or audit specialists whose reputation rests on their comfort with complexity and their willingness to work long quiet hours on detail-heavy files. Home-based business and consultancy fit the chart because the placement specifically rewards entrepreneurial effort from the domestic base. Education content and tutoring work especially well because the 4H rules formal learning and Mercury rules teaching, and the combination produces natives whose home becomes the learning centre for their circle of students. Research and archival work round out the list. Budha mahadasha is the defining window, and it typically crystallises the vocation into its specific form, often through a major writing, teaching, or analytical project launched from the home base."
     },
     {
-      "type": "infographic",
-      "illustration": "career-1-vc.svg",
-      "alt": "Businesswoman avatar, brand-coloured illustration",
-      "eyebrow": "CAREER"
+      "type": "image-figure",
+      "filename": "mercury-4th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mercury 4th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "cta-inline",

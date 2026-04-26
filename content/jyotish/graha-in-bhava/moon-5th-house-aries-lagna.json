@@ -218,6 +218,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Chandrashekhar Ashtakam, hand-painted on aged parchment with gold and silver leaf borders, faint crescent moon and trident motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "moon-5th-house-aries-lagna-career-infographic.webp",
+      "alt": "Moon in 5th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "moon-5th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Moon 5th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -305,10 +323,14 @@
       "html": "<p>If you carry Chandra in the fifth house of a Mesh chart, you hold one of the strongest Moon placements in the entire Aries ascendant catalogue, because the placement combines structural strengths from three different layers of the chart. The fifth house from Mesh is Simha (Leo), ruled by Surya, and the Sun and Moon are classical friends in their relationships. By sign relationship the placement is comfortable, neither exalted nor debilitated, holding mid-strength functional status that the friendly relationship supports throughout the chart. The fifth house is also Putra Bhava, the trikona of children, creativity, mantra, past life merit (purva punya), and the inner orientation toward joy that the trikona houses collectively rule. Placing the mind karaka in this trikona produces a native whose inner life is wired toward creative expression and the emotional warmth of children from a young age, and the wiring is visible in the personality long before the native develops conscious craft about it.</p><p>The second structural feature is the kendra-to-trikona raja yoga the placement creates. For Mesh Lagna, Chandra rules Karka and is therefore the 4L. Placing the 4L in the 5H connects the strongest kendra (the home and mother angle) with the deepest dharmic trikona (the creativity and children house), and a kendra lord in a trikona house is one of the cleanest raja yoga configurations in classical Parashari texts. The kendra and trikona reinforce each other, and the practical effect is that the native's home life (<strong>lord of the 4th house</strong> (also called the 4L)) flows directly into their creative life (<strong>5th house</strong> (called <em>Putra Bhava</em>, the house of creativity, children, and merit)), producing artists, teachers, parents, and creative practitioners whose work draws explicitly on the warmth and inner stability that the home angle supplies. As with all paksha-sensitive Moon placements, the lunar phase at birth shapes the functional intensity. This guide reads every layer of Moon in 5th house for Mesh Lagna natives: the friendly sign comfort, the kendra-to-trikona raja yoga, the children and creative-mother signature, and the pearl protocol that applies here with high confidence.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-2-vc.svg",
-      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "moon-5th-house-aries-lagna-career-infographic.webp",
+      "alt": "Moon in 5th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -341,10 +363,14 @@
       "html": "<p>Classical Parashari texts treat kendra-to-trikona raja yoga as one of the three cleanest raja yoga configurations in Vedic astrology, because the kendras (1, 4, 7, 10) supply the foundation strength of any chart while the trikonas (1, 5, 9) supply the dharmic blessing. When the lord of a kendra occupies a trikona house (or when the lord of a trikona occupies a kendra), the foundation strength flows into the dharmic blessing or the dharmic blessing flows into the foundation, and the result is a native whose worldly stability and inner orientation become genuinely connected to each other rather than living as separate domains. For Mesh Lagna with Chandra as 4L placed in the 5H, the kendra-to-trikona connection runs from the home and mother angle into the children and creativity trikona, which means the native's emotional foundation literally feeds their creative output and their relationship with their own children.</p><p>The Moon-as-4L specifically deserves attention here because the 4L for Mesh is unusually significant. Chandra rules Karka which falls on the 4th house, and the 4th house is the seat of home, mother, vahana (vehicles), property, education, emotional foundation, and inner contentment. Placing this lord in the 5th house puts the home and mother themes directly into the creativity and children house, and the practical effect is that the mother becomes the formative creative figure of childhood. Mothers of natives with this placement consistently carry their own creative or aesthetic gift (music, art, craft, storytelling, cooking as art form) that the child absorbs as the primary template for what creative life looks like. Many natives with this placement do not realise until well into adulthood that their creative voice was shaped by watching their mother, and the recognition usually arrives during therapy, during the writing of a creative piece, or during their own parenting of small children. The third interpretive layer is the children reading. Putra Bhava literally means the children house, and a friendly Moon here typically supports easy fertility, healthy children, and an unusually warm relationship between the native and their offspring throughout life.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "career-2-vc.svg",
-      "alt": "Professional success factors infographic, brand-coloured illustration",
-      "eyebrow": "CAREER"
+      "type": "image-figure",
+      "filename": "moon-5th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Moon 5th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "pull-quote",

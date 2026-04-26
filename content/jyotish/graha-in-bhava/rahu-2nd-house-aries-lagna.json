@@ -218,6 +218,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Rahu Kavacham, hand-painted on aged parchment with faded gold leaf borders, faint serpent and dragon head motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "rahu-2nd-house-aries-lagna-career-infographic.webp",
+      "alt": "Rahu in 2nd house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "rahu-2nd-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Rahu 2nd house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -305,10 +323,14 @@
       "html": "<p>If you carry Rahu in the second house of a Mesh chart, you hold a placement that drops the hunger-amplifying north node into the wealth-and-speech house of Venus's own sign, and the reading is genuinely rewarding when the chart is described correctly because Vrishabha is the specific sign most Parashari lineages treat as cooperative for Rahu. Classical streams vary on whether Vrishabha is Rahu's formal exaltation point or simply his strongest functional placement, but the practical consensus is that Rahu in Taurus channels his amplification hunger through a refined aesthetic register rather than through the reckless hunger the same planet produces in more volatile signs.</p><p>The second structural feature is that Rahu is a chaya graha without sign ownership of his own, so the practitioner reading depends heavily on the sign dispositor, which here is Shukra. The Rahu-Venus relationship is classically cooperative, and both planets share an interest in material accumulation, aesthetic refinement, and the commerce of pleasing objects. Placing Rahu in the wealth house of his friend's sign produces a hunger that is already channeled toward productive territory. The 2nd house rules wealth, family, speech, face, and food, so Rahu here amplifies all of them in specific ways. Family tends to be large or unconventional, speech tends toward the bold and the persuasive, wealth accumulation tends to arrive through unusual or foreign channels, and food habits tend to expand into the refined or the experimental. This guide reads every layer: the Rahu-Vrishabha sign reading, the 2nd house hunger mechanics, the foreign-wealth signature, and the remedial protocol through Shukra that strengthens this placement structurally.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-2-vc.svg",
-      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "rahu-2nd-house-aries-lagna-career-infographic.webp",
+      "alt": "Rahu in 2nd house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "prose",
@@ -317,10 +339,14 @@
       "html": "<p>Classical Parashari tradition reads Rahu as the amplifier-planet who magnifies the karakatvas of any house he occupies. Unlike Ketu who subtracts and refines, Rahu adds and hungers. When the north node sits in the 2nd house of wealth, family, and speech, the native develops a deep hunger for material accumulation that shows up early in life and compounds into the adult decades. The hunger is not optional: natives feel it as a permanent internal pressure, and the practitioner reading is not to suppress the hunger but to channel it into the fields where Rahu specifically rewards effort. Vrishabha is the sign where the channel is already productive, because Venus supplies the aesthetic and commercial discipline Rahu's raw ambition otherwise lacks.</p><p>For Mesh natives the expression pattern is specific. Family tends to be larger than average, often with step-relatives, half-siblings, adopted members, or a genuinely unconventional structure the native grows up navigating. Speech develops early toward persuasive, bold, or commercially effective registers, and many natives become natural salespeople, marketers, or negotiators before they realise they have trained the skill. Wealth accumulation often arrives through foreign connections, import-export businesses, overseas earnings, or the specifically cross-cultural commercial channels Rahu favours. Food habits tend toward experimental cuisines, international restaurants, and the refined aesthetic eating that Vrishabha Venus suggests. The reading is distinct from Ketu-in-2nd detachment or Shani-in-2nd discipline: Rahu here produces appetite, scale, and the willingness to go beyond cultural comfort zones to build the material life the placement promises. Practitioners should describe this confidently because popular astrology reads Rahu fear-wise when the structural reading is more nuanced and often more productive than expected.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "prosperity-2-vc.svg",
-      "alt": "Personal finance and budgeting scene, brand-coloured illustration",
-      "eyebrow": "PROSPERITY"
+      "type": "image-figure",
+      "filename": "rahu-2nd-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Rahu 2nd house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "pull-quote",

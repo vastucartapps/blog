@@ -216,6 +216,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Brihaspati stotra, hand-painted on aged parchment with gold leaf borders, faint brass kalash in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "jupiter-4th-house-aries-lagna-career-infographic.webp",
+      "alt": "Jupiter in 4th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "jupiter-4th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Jupiter 4th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -303,10 +321,14 @@
       "html": "<p>Of all the placements Jupiter can take in a Mesh Lagna chart, Jupiter in 4th house is the one classical texts single out as producing Hamsa Yoga, one of the four Pancha Mahapurusha yogas. The 4th house for Mesh Lagna is Karka (Cancer) which is Jupiter's exaltation sign. Jupiter exalted in a kendra house creates Hamsa Yoga, and Varaha Mihira in the Brihat Jataka describes the Hamsa native as having physical beauty resembling a swan (hamsa), refined manners, scholarly ability, love of truth, and a life spent surrounded by good company. For Mesh Lagna natives specifically, this Jupiter in 4th house adds wealth through wisdom, strong mother relationship, educated family, and the kind of inner peace that other Aries ascendant natives work decades to cultivate. This guide reads each layer of Jupiter in 4th house for Mesh Lagna natives, including the Hamsa Yoga activation, the Sukha Bhava signature, guru mahadasha windows, the yellow sapphire wearing protocol, and the Brihaspati practice that compounds the yoga across decades.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "jupiter-4th-house-aries-lagna-career-infographic.webp",
+      "alt": "Jupiter in 4th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "prose",
@@ -578,10 +600,14 @@
       "html": "<p>The seventh house from Mesh is Tula (Libra) ruled by Shukra (Venus). Jupiter in 4th aspects the seventh house with his fifth-from-fourth aspect (the trine aspect Jupiter always casts). This means Jupiter's wisdom influence reaches directly into the marriage axis. Spouses tend to be highly educated, often from a family with scholarly or religious tradition, and the match is almost always facilitated by mutual family connections rather than chance meetings.</p><p>The marriage ceremony and the partnership that follows are blessed in the classical sense,stable, harmonious, and productive of good children. Natives often marry during Guru mahadasha or during a Jupiter transit through the seventh house. The wealth acceleration after marriage is notable, not through the partner's direct earnings but through the combined family's support network opening opportunities the native alone could not access. Pair with Dhanu, Meena, Karka, or Simha lagnas for the smoothest fit. Always check the Navamsa chart and note that Hamsa Yoga tends to override many traditional dosha concerns because Jupiter's benefic influence is so strong in exaltation.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "partnership-1-vc.svg",
-      "alt": "Couple posing for a portrait, brand-coloured illustration",
-      "eyebrow": "PARTNERSHIP"
+      "type": "image-figure",
+      "filename": "jupiter-4th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Jupiter 4th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "prose",

@@ -218,6 +218,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Lakshmi Sahasranama, hand-painted on aged parchment with gold leaf borders, faint lotus and gold coin motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "venus-6th-house-aries-lagna-career-infographic.webp",
+      "alt": "Venus in 6th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "venus-6th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Venus 6th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -305,10 +323,14 @@
       "html": "<p>If you carry Shukra in the sixth house of a Mesh chart, you hold one of the most interpretively demanding Venus placements in the entire Aries ascendant catalogue because the chart combines three weakness layers that make the reading meaningless without the specific neecha bhanga check practitioners need to run. The sixth house from Mesh is Kanya (Virgo), ruled by Budha, and Kanya is the exact sign of Venus's debilitation (neecha) with the deep debility point at 27 degrees. Debilitation is the lowest dignity any planet can hold in Vedic astrology, and classical texts describe the result as the full karakatva range expressing at reduced functional strength. The 6th house is also Ripu Bhava, a classical dushthana of enemies, debt, illness, and daily service, and benefic planets in dushthanas experience an additional reduction from the house category. Venus's dual <strong>lord of the 2nd house</strong> (also called the 2L) plus <strong>lord of the 7th house</strong> (also called the 7L) lordship further complicates the reading because both the wealth lord and the marriage lord are affected by the debility at the same time.</p><p>The single most important interpretive move is the neecha bhanga check. Classical Parashari tradition treats debilitation as a provisional reading that can be cancelled by specific rescue conditions, and when the cancellation applies, the debilitated planet often produces Neecha Bhanga Raja Yoga, a cancellation-based raja yoga that classical texts treat as one of the most powerful reversal patterns in the whole catalogue. The primary rescue condition for Venus debilitated in Kanya is that Mercury (the lord of Kanya) must be well placed, specifically in a kendra from the lagna or from the Moon. If Mercury sits in the 1st, 4th, 7th, or 10th from the lagna, the debility is cancelled and the placement flips from sustained struggle into rescued raja yoga. This guide reads every layer of Venus in 6th house for Mesh Lagna natives: the debility mechanics, the neecha bhanga check with the specific rescue conditions, the 2L plus 7L in dushthana reading, the diamond protocol that applies only after the rescue condition is confirmed, and the practitioner nuance that distinguishes the two very different lived versions of the same placement.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "venus-6th-house-aries-lagna-career-infographic.webp",
+      "alt": "Venus in 6th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -505,10 +527,14 @@
       "html": "<p>Career paths cluster around fields that combine refined aesthetic or interpersonal skill with the 6th house service register. The strongest single fit is refined service work and craftsmanship where the native's Venusian gifts express through daily labour that accumulates quality over time. Many natives build careers in artisanal production, restoration, or traditional crafts where the work requires both aesthetic sense and patient repetition, and the compensation pattern follows the chart's specific rhythm of modest early-career income that compounds into genuine expertise by middle age. Healthcare, especially women's health, obstetrics, midwifery, and reproductive medicine, fits the chart because the Venus reproductive-fluid karakatva combined with the 6H medical rulership produces natives with unusual vocational alignment for caring-medical work.</p><p>Forensic work and quality auditing fit because the 6th house rules discrimination of the subtle, and debilitated Venus in Mercury's sign produces natives whose aesthetic eye combined with analytical care makes them unusually good at catching errors, fraud, or quality issues that others miss. Culinary arts and hospitality service work because Kanya is the earth sign of food and care, and natives often build careers in the service end of refined hospitality (chef, sommelier, service manager) where the Venus taste sense meets the 6H daily-labour discipline. Textile, garment, and artisanal production suit natives whose craft is tactile rather than abstract. Insurance, underwriting, and refined commerce round out the list because the 2L wealth combined with the 6H analytical register produces natives well-suited to financial fields where detail and risk-assessment are the actual work. Shukra mahadasha is when the vocation either crystallises into the rescue-pattern reversal (if the neecha bhanga applies) or settles into the sustained-service pattern (if it does not). Practitioners should always run the check before reading the dasha promises.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "career-1-vc.svg",
-      "alt": "Businesswoman avatar, brand-coloured illustration",
-      "eyebrow": "CAREER"
+      "type": "image-figure",
+      "filename": "venus-6th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Venus 6th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "cta-inline",

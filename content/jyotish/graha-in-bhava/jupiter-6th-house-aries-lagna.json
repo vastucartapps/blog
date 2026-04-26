@@ -219,6 +219,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from a Dattatreya mantra, hand-painted on aged parchment with gold leaf borders, faint trident and lotus motifs in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "jupiter-6th-house-aries-lagna-career-infographic.webp",
+      "alt": "Jupiter in 6th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "jupiter-6th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Jupiter 6th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -306,10 +324,14 @@
       "html": "<p>Jupiter in 6th house for Mesh Lagna is one of the most interpretively layered Guru placements in the Aries ascendant catalogue because the house itself carries a dual nature. The sixth house from Mesh is Kanya (Virgo), Budha's sign, and Guru in Kanya sits in an enemy sign because Jupiter and Mercury are classical planetary adversaries. The 6th house is simultaneously an Upachaya (growing) house and a Dushthana (difficult) house, which is the same combination Mars-in-sixth carries, but the reading flips because Mars is a malefic who thrives in Upachayas while Jupiter is a benefic whose full expression is classically reduced in dushthanas. And yet, the combination is not weak in any meaningful sense. Guru is the ninth lord for Mesh Lagna, and placing the 9L in the 6H produces the service-through-wisdom signature that classical texts treat as one of the clearest indicators of a native who earns their dharma by serving others through medicine, law, teaching, or spiritual counsel. This guide reads every layer of Jupiter in 6th house for Mesh Lagna natives: the benefic-in-dushthana reduction rule, the service channel, medical and judicial career fits, the aspects Jupiter casts from the 6th to 2nd, 10th, and 12th, and the remedial framework the placement specifically requires.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "jupiter-6th-house-aries-lagna-career-infographic.webp",
+      "alt": "Jupiter in 6th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -354,10 +376,14 @@
       "html": "<p>The sixth house is Ripu Bhava, the domain of enemies, litigation, debts, disease, obstacles, daily routine, service, subordinates, pets, and the general category of challenges a native has to overcome rather than enjoy. Classical tradition treats it as one of the three Dushthana houses (6, 8, 12) along with being one of the four Upachaya houses (3, 6, 10, 11). For malefics this combination is friendly because malefic energy applied to obstacles produces productive struggle. For benefics the combination is less friendly because a benefic in a dushthana classically loses some of its blessing weight to the challenging house, but retains enough to produce a specific kind of service signature that other placements cannot match.</p><p>Kanya rashi adds the second layer. Budha rules Kanya, and although Mercury is Jupiter's enemy at the planetary level, the sign itself is methodical, analytical, detail-oriented, and oriented toward practical problem-solving through careful process. These qualities actually suit a 6th house service vocation remarkably well because medicine, law, compliance, and advisory work all reward the precision Kanya brings. The native's wisdom becomes practical rather than abstract, diagnostic rather than contemplative, and directed toward concrete problems rather than toward philosophical speculation. The third interpretive layer, and the one most practitioners underweight, is Jupiter's aspect set. Every planet aspects the house seven houses away (the direct opposition aspect), and Jupiter specifically aspects the 5th and 9th from its position as well (Parashari special aspects). From the 6th house, this means Jupiter aspects the 12th (opposition, losses and moksha), the 10th (5th aspect, career), and the 2nd (9th aspect, wealth and family). The benefic thus blesses three critical houses from within the dushthana itself, which softens the placement's classical reduction significantly.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "career-1-vc.svg",
-      "alt": "Businesswoman avatar, brand-coloured illustration",
-      "eyebrow": "CAREER"
+      "type": "image-figure",
+      "filename": "jupiter-6th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Jupiter 6th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "pull-quote",

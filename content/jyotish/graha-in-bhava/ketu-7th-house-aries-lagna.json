@@ -217,6 +217,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Ketu Kavacham, hand-painted on aged parchment with gold leaf borders, faint flag and serpent motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "ketu-7th-house-aries-lagna-career-infographic.webp",
+      "alt": "Ketu in 7th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "ketu-7th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Ketu 7th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -304,10 +322,14 @@
       "html": "<p>If you carry Ketu in the seventh house of a Mesh chart, you hold one of the most misread placements in popular astrology, because the standard summary reduces this configuration to a simple sentence (Ketu in 7th means no marriage) that is both fear-mongering and structurally inaccurate. The actual reading is more interesting and more nuanced. The seventh house from Mesh is Tula (Libra), ruled by Shukra, and Venus is treated as friendly to Ketu in classical relationships. By sign relationship the placement is comfortable, neither exalted nor debilitated, and the friendly Tula sign softens the harsher edges of the south node placement in ways that the popular reading completely misses. Ketu has no own sign, no clear exaltation in mainstream Parashari tradition, and no house lordship because he is a shadow planet, but his nodal nature means he amplifies the house and sign he occupies and infuses the placement with his core themes regardless of dignity.</p><p>The second structural feature is the lagna-Ketu opposition. Mars (the Mesh lagna lord) sits in the 1st house and Ketu sits in the 7th, which means Mars's full 7th aspect falls on Ketu and Ketu's full 7th aspect falls back on the lagna. The two carry shared martial qualities (Ketu is described as Mars-like in classical texts) but pull in opposite directions: Mars wants self-assertion and direct action, Ketu wants dissolution into something larger. The opposition places the self-other axis at the structural centre of the native's spiritual work, and the marriage signature the placement produces is best understood as the chart's specific pedagogy on that axis rather than as a simple yes-or-no on whether marriage will happen. This guide reads every layer of Ketu in 7th house for Mesh Lagna natives: the friendly Tula softening, the lagna-Ketu opposition, the actual marriage and spouse signature (which is far more nuanced than the popular reading), and the cat's eye protocol that requires especially careful chart confirmation here.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-2-vc.svg",
-      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "ketu-7th-house-aries-lagna-career-infographic.webp",
+      "alt": "Ketu in 7th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "prose",
@@ -429,10 +451,14 @@
       "html": "<p>Physically the native carries the Mesh Lagna frame with the unmistakable lagna-Ketu opposition signature that classical texts describe carefully. Because Ketu sits opposite the body and aspects it with his full 7th aspect, the body itself often carries small markers of the south node placement: a slight asymmetry between left and right sides, an unusual feature inherited from a grandparent the family does not remember, or a birthmark or scar that the native does not connect to a specific incident. The face is typically expressive but with a thoughtful, slightly removed quality that strangers find interesting without being able to name why. The eyes are often described as old-soul, holding a steady look that does not quite match the rest of the body's age. The body tends toward lean rather than muscular, and the build often does not match what either parent provided, as if the genetic instructions were partially edited at conception by the placement itself.</p><p>Temperament is the layer that most distinguishes this placement from every other Mesh combination because the inner experience is shaped by the constant lagna-Ketu dialogue. These natives carry the Mesh courage and the willingness to act, but they also carry an internal voice that asks whether the action is worth the cost, whether the relationship is worth the effort, and whether the conventional path other Aries natives walk is the path their own chart actually wants. The questioning is not pessimism. It is the south node performing its structural function of pulling the self-other axis into spiritual examination. They are unusually attuned to the partner's inner life, often reading the partner's moods and unspoken concerns before the partner expresses them, and the attunement makes them either deeply attractive or slightly intimidating to potential spouses depending on how the spouse meets the placement. They are slow to commit, not because of fear but because the chart specifically wants them to recognise the right partner rather than the convenient one, and the slowness usually feels like a failure to family members in the twenties before it reveals itself as wisdom in the thirties. The shadow side is the disengagement risk, because natives who never learn to honour the partnership pull can drift into isolation that looks like spiritual independence but feels like loneliness from the inside. Natives who pair the discernment with explicit relational courage develop the deeply intimate marriages the placement is genuinely capable of supporting.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "partnership-2-vc.svg",
-      "alt": "Couple sharing affection, brand-coloured illustration",
-      "eyebrow": "PARTNERSHIP"
+      "type": "image-figure",
+      "filename": "ketu-7th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Ketu 7th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "effects-grid",

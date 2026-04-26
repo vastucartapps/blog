@@ -220,6 +220,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Mangal Dosh Nivaran Stotra, hand-painted on aged parchment with copper leaf borders, faint flame motif in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "mars-2nd-house-aries-lagna-career-infographic.webp",
+      "alt": "Mars in 2nd house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "mars-2nd-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mars 2nd house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -307,10 +325,14 @@
       "html": "<p>Mars in 2nd house for Mesh Lagna is the Dhana Bhava Manglik placement of the Aries ascendant catalogue. The second house from Mesh is Vrishabha (Taurus), Shukra's sign, and Mangal in Vrishabha sits in an enemy sign because Mars and Venus are classical adversaries. The house itself is classically listed as one of the six Manglik Dosha positions (along with the 1st, 4th, 7th, 8th, and 12th), so this placement does carry Kuja Dosha unlike the Upachaya Mars placements in the 3rd, 6th, and 11th. The 2nd is also a Marakasthana (a house classically associated with the activation of difficult karma) which adds another layer to the reading. And yet, this placement is not the disaster popular astrology frames it as. The lagna lord sitting in the wealth house gives a direct channel from the native's identity into the material accumulation arena, classical cancellation rules for Manglik Dosha frequently apply, and with disciplined remedial practice the combination produces unusually effective wealth-builders. This guide reads every layer of Mars in 2nd house for Mesh Lagna natives: the Dhana Bhava signature, the speech and family patterns, the Manglik status and its cancellations, eating habit observations, and the gemstone protocol that requires verification rather than automatic red coral.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "mars-2nd-house-aries-lagna-career-infographic.webp",
+      "alt": "Mars in 2nd house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "prose",
@@ -319,10 +341,14 @@
       "html": "<p>The second house is Dhana Bhava, the domain of accumulated wealth, speech, family of origin, the face and mouth, food habits, memory, early learning, and the values the native inherits before they consciously choose their own. Classical tradition also classifies it as a Marakasthana, a house where difficult planetary influences can sharpen during specific dasha periods, though this reading applies more strongly to the planets occupying the 7th and 2nd together rather than to any individual placement. Mars here brings the warrior planet into a domain that values stability, aesthetic comfort, and slow accumulation, which produces an immediate tension the native either masters or fights against for decades depending on their awareness.</p><p>Vrishabha rashi adds the second layer. Venus rules Vrishabha, Mars and Venus are classical enemies, and the sign itself is fixed earth, slow-moving, comfort-loving, and sensually oriented. Mars in Vrishabha does not lose his fire, but he finds it in an environment that wants to move slowly and gather possessions rather than fight battles. What happens in practice is that the native becomes a fighter for material security, someone who treats wealth accumulation with the intensity most people reserve for survival, and who builds businesses or careers explicitly to create financial stability that their family of origin may not have had. The third interpretive layer is the Manglik Dosha status. The 2nd is on the classical list, so this placement does carry the dosha, and practitioners should always run the full eight-fold cancellation check (matched Manglik in partner, Jupiter aspect, sign dignity, benefic conjunction, Navamsa strength, age cancellation, Mars-in-seventh-of-partner, and strong lagna-lord-of-partner rules) before drawing marriage-timing conclusions. In more than half the charts I read with this combination, at least one cancellation trigger applies.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "prosperity-1-vc.svg",
-      "alt": "Person depositing coins into a savings jar, brand-coloured illustration",
-      "eyebrow": "PROSPERITY"
+      "type": "image-figure",
+      "filename": "mars-2nd-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mars 2nd house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "pull-quote",

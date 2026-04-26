@@ -217,6 +217,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Durga Saptashloki, hand-painted on aged parchment with gold leaf borders, faint trishul and lotus motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "rahu-7th-house-aries-lagna-career-infographic.webp",
+      "alt": "Rahu in 7th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "rahu-7th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Rahu 7th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -304,10 +322,14 @@
       "html": "<p>If you carry Rahu in the seventh house of a Mesh chart, you hold one of the most distinctive marriage placements in the entire Aries ascendant catalogue, because the north node sitting in the kalatra angle reshapes the partnership domain around the themes Rahu rules: amplification, foreign signature, hunger for difference, taboo-crossing, unconventional unions, and the magnetic pull toward partners who carry something the family did not provide. The seventh house from Mesh is Tula (Libra), ruled by Shukra, and Venus is treated as friendly to Rahu in classical relationships. By sign relationship the placement is comfortable, neither exalted nor debilitated, and the friendly Tula sign supports the relational expression that Venus naturally rules. Rahu has no own sign, no clear exaltation in mainstream Parashari tradition, and no house lordship because he is a shadow planet, but his nodal nature means he amplifies the house and sign he occupies and infuses the placement with his core themes regardless of dignity.</p><p>The second structural feature is the lagna-Rahu opposition that the placement creates with Mars at the Mesh lagna. Mars (the Mesh lagna lord) sits at the body angle and Rahu sits opposite at the kalatra angle, which means the two are in direct mutual aspect even when neither planet is conjunct another. Mars represents the self in its most active asserting form. Rahu represents the unprocessed desire that the soul has come to amplify in this incarnation. The opposition places the partnership domain at the centre of the native's amplification work, and the marriage signature the placement produces is best understood as the chart's specific vehicle for the broader Rahu life pattern: the marriage is the place where the unconventional, the foreign, or the taboo comes into the native's life regardless of whether the rest of the chart prepared them for it. This guide reads every layer of Rahu in 7th house for Mesh Lagna natives: the friendly Tula sign, the lagna-Rahu opposition, the foreign-spouse and unconventional-marriage signatures, and the hessonite protocol that requires especially careful chart confirmation here.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "rahu-7th-house-aries-lagna-career-infographic.webp",
+      "alt": "Rahu in 7th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "prose",
@@ -316,10 +338,14 @@
       "html": "<p>Students often arrive at this placement carrying anxiety from popular astrology readings that label it as marriage-destroying. The honest practitioner answer is that Rahu in the 7th does not destroy marriage. It produces a specific kind of marriage signature that is unconventional in form, amplified in intensity, and usually involves a partner whose background, nationality, age, or life history differs significantly from what the native's family expected. Marriages happen for natives with this placement at roughly the same rates as for other 7th house configurations. What differs is the type of marriage that arrives, the kind of partner the native is structurally drawn to, and the role the marriage plays in the native's broader life direction. Rahu is the planet of unprocessed desire, and his presence in the kalatra house means the native's desire stream meets its destination through the partnership rather than through other channels.</p><p>The marriage-as-amplification-vehicle reading is the second specific feature that practitioners need to read carefully. For natives with this placement, the marriage is rarely just a personal bond. It is the structural channel through which the broader Rahu themes (foreign experience, unconventional life path, exposure to difference, amplified ambition) enter the native's daily life. Many natives meet their spouse abroad, marry into a foreign family, marry someone whose career takes the native into a foreign country, or marry someone from a different culture, religion, class, or generation than their family ever imagined. The pattern is so consistent in clinical reports that practitioners can usually predict the foreign or unconventional element before the native confirms it. The third interpretive layer is the contrast with Ketu in 7th. Both nodal placements in the marriage angle produce non-conventional marriage signatures, but they work in opposite directions. Ketu in 7th produces detachment from partnership and asks the native to grow into conscious relating. Rahu in 7th produces amplified attraction toward partnership and asks the native to channel the amplification into a partner who can hold it without being consumed. The two placements are mirror images of each other, and the contrast is the cleanest way to understand what each is actually doing.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "partnership-1-vc.svg",
-      "alt": "Couple posing for a portrait, brand-coloured illustration",
-      "eyebrow": "PARTNERSHIP"
+      "type": "image-figure",
+      "filename": "rahu-7th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Rahu 7th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "pull-quote",

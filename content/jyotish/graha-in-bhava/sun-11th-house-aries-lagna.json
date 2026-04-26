@@ -218,6 +218,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Surya Hridayam, hand-painted on aged parchment with gold leaf borders, faint solar disc and lotus motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "sun-11th-house-aries-lagna-career-infographic.webp",
+      "alt": "Sun in 11th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "sun-11th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Sun 11th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -305,10 +323,14 @@
       "html": "<p>If you carry Surya in the eleventh house of a Mesh chart, you hold a placement that combines two opposing structural forces in the same reading, and practitioners need to hold both to describe the placement accurately. The eleventh house from Mesh is Kumbha (Aquarius), ruled by Shani, and the Sun-Saturn relationship is classical enmity rooted in the Vivasvan-Yama myth. A Sun in Saturn's own sign expresses through a medium that is temperamentally opposed to its core nature, and classical texts treat the result as a sign-weakened placement where the solar warmth and authoritative register run through an unfriendly Saturnian operating system. However, the 11th house is also Labha Bhava, an upachaya growth house where malefic and hot planets strengthen over time rather than fading, and the house is the specific seat of gains, friend networks, elder siblings, and the fulfilment of worldly desire. The upachaya rule partially offsets the enemy sign reduction, and the net functional output is mid-strength rather than weak, with a specific pacing where the native's solar expression builds across decades rather than peaking early.</p><p>The second structural feature is the 5L in <strong>11th house</strong> (called <em>Labha Bhava</em>, the house of gains, networks, and elder siblings) configuration. For Mesh Lagna, Surya rules Simha and is therefore the 5L, the lord of the trikona of creativity, past life merit, children, and mantra siddhi. Placing this trikona lord in the 11H upachaya house creates a specific pattern classical texts describe as the creative-income combination: the native earns gains (11H) through their creative intelligence (<strong>lord of the 5th house</strong> (also called the 5L)), and the income arrives specifically through friend networks, group contexts, and the larger community rather than through solitary achievement. This is NOT the cleanest trikona-kendra raja yoga because the 11th is not a kendra, but it is a recognised trikona-to-upachaya pattern that compounds across decades. This guide reads every layer of Sun in 11th house for Mesh Lagna natives: the enemy sign vs upachaya tension, the 5L creative lord in the gain house, the friends and elder-brother pattern, and the ruby protocol that still applies here despite the sign dignity.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-2-vc.svg",
-      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "sun-11th-house-aries-lagna-career-infographic.webp",
+      "alt": "Sun in 11th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -490,10 +512,14 @@
       "html": "<p>Career paths cluster around fields where creative output reaches income through group or community channels rather than through solo authority or institutional ladder-climbing. The strongest single fit is group-based creative enterprise, where the native works within a collaborative structure producing creative output that the group collectively brings to market. Many natives with this placement build careers in creative agencies, collaborative publishing houses, research teams, or cooperative creative ventures where their contribution is significant but the income flows through the group's collective work rather than through solo visibility. Research and academic collaborations fit the chart because the scholarly world rewards the specific kind of group-embedded creative work the placement produces: journal publications with multiple authors, research grants for team projects, long-term academic collaborations that compound across decades.</p><p>Community leadership and nonprofit work suit the chart because the 11th house specifically rules community and groups, and natives often find their footing in nonprofit roles where the creative dimension (programme design, communications, strategy) intersects with community organising. Open-source technology and collective projects channel the combination productively for natives with technical skills. Teaching within cooperative institutions (collectively-run schools, teacher cooperatives, academic departments that reward collaboration) suits natives whose vocational pull is more educational. Public-sector creative work rounds out the list because government cultural institutions, public media, and civic creative programmes all reward sustained contribution within group structures rather than solo performance. Surya mahadasha is when the creative-gain pattern crystallises into recognised form, and the window often arrives through a specific friend or group connection that opens the decade of compound gain.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "career-2-vc.svg",
-      "alt": "Professional success factors infographic, brand-coloured illustration",
-      "eyebrow": "CAREER"
+      "type": "image-figure",
+      "filename": "sun-11th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Sun 11th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "cta-inline",

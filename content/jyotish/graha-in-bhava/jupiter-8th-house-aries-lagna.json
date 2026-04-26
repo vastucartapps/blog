@@ -219,6 +219,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Vishnu Sahasranama, hand-painted on aged parchment with gold leaf borders, faint serpent and lotus motifs in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "jupiter-8th-house-aries-lagna-career-infographic.webp",
+      "alt": "Jupiter in 8th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "jupiter-8th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Jupiter 8th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -306,10 +324,14 @@
       "html": "<p>Jupiter in 8th house for Mesh Lagna is one of the most distinctive Guru placements in the Aries ascendant catalogue because it combines a friendly sign with a difficult house to produce a signature unlike any other Jupiter position. The eighth house from Mesh is Vrishchika (Scorpio), Mangal's own sign, and Guru in Vrishchika sits in a friendly sign because Mars is a classical friend of Jupiter and the sign is where Mars holds swakshetra strength. On the other hand, the 8th house is a Dushthana, one of the three difficult houses (6, 8, 12) where benefics classically experience a reduction of their full expression. So the native has a friendly sign blessing the occupant but a difficult house containing it, and the combination produces the longevity (Ayush Bhava) signature that classical texts treat as one of the clearest indicators of a life that extends well into the eighties with mental clarity intact. Guru is the ninth lord for Mesh Lagna, and placing the 9L in the 8H creates a dharma-through-transformation signature where the native earns their wisdom through crises, occult study, research, and the careful handling of other people's resources. This guide reads every layer of Jupiter in 8th house for Mesh Lagna natives: the longevity blessing, the occult and research channel, inheritance patterns, the benefic-in-dushthana nuance softened by the friendly sign, and the pukhraj protocol this specific combination requires.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "jupiter-8th-house-aries-lagna-career-infographic.webp",
+      "alt": "Jupiter in 8th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -342,10 +364,14 @@
       "html": "<p>The eighth house is Ayush Bhava, also called Randhra Bhava, the domain of longevity, inheritance, occult knowledge, research, chronic and sudden events, joint finances, insurance, the spouse's resources, and the hidden forces that transform a life without being visible from the outside. Classical tradition treats it as the second of the three Dushthana houses and as one of the two longevity houses (along with the 3rd). Any planet in the 8th influences the native's life span and quality of transformation, and Jupiter specifically in this house is one of the most classically favourable longevity signatures in all of Parashara tradition, because the wisdom karaka in the longevity house grants not just years but grace across those years. Natives with this placement typically report that their elder years are unusually clear-minded compared with peers who suffered cognitive decline or chronic illness.</p><p>Vrishchika rashi adds the second layer, and it is the layer that separates this Jupiter placement from a generic benefic-in-dushthana reading. Mars rules Vrishchika, and Mars is a classical friend of Jupiter at the planetary level. Vrishchika is a water sign (fixed water) with the intensity and depth that 8th house themes specifically require for productive expression, which produces natives who are comfortable with the themes other people find uncomfortable, death and loss, inheritance and legacy, occult knowledge and hidden truth, research into unpublished territory, and the careful handling of funds belonging to others. The classical benefic-in-dushthana reduction still applies in a mild form, but the friendly sign significantly softens it. The third interpretive layer is the 9L-in-8H configuration. For Mesh Lagna, Guru owns both Dhanu (9th) and Meena (12th), so placing the dual-role Guru in the 8th crosses both dharma and moksha channels into the transformation house, producing natives whose wisdom is earned through the crises they navigate rather than through comfortable study.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "transformation-1-vc.svg",
-      "alt": "Person navigating a fast-changing world, brand-coloured illustration",
-      "eyebrow": "TRANSFORMATION"
+      "type": "image-figure",
+      "filename": "jupiter-8th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Jupiter 8th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "pull-quote",

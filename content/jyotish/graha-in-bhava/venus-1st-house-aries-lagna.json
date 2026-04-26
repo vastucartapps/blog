@@ -217,6 +217,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Lakshmi Hridayam, hand-painted on aged parchment with gold leaf borders, faint lotus and gold coin motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "venus-1st-house-aries-lagna-career-infographic.webp",
+      "alt": "Venus in 1st house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "venus-1st-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Venus 1st house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -304,10 +322,14 @@
       "html": "<p>If you carry Shukra at the lagna of a Mesh chart, you hold one of the most personally significant Venus placements in the entire Aries ascendant catalogue, because Venus at the first house literally becomes the body it occupies. The first house from Mesh is Mesha, ruled by Mangal, and the Mars-Venus relationship is classical neutrality (neither friend nor enemy), which means the placement neither benefits from nor suffers under the sign's lordship in the way that friend or enemy sign placements would. Venus in martial Mesha expresses the refined planet through the warrior sign, producing a native who carries Aries directness combined with Venusian beauty in a way that distinguishes them from every other Mesh placement. The functional output is mid-strength rather than peak, but the personal nature of the lagna position amplifies the placement's emotional and physical impact regardless of the quantitative strength reading.</p><p>The second structural feature is the dual lordship Venus carries for Mesh Lagna. Shukra rules both Vrishabha (2nd house) and Tula (7th house), so any Venus placement for Mesh natives carries a <strong>lord of the 2nd house</strong> (also called the 2L) plus <strong>lord of the 7th house</strong> (also called the 7L) double role. Placing this dual-role planet at the lagna means the body itself becomes the carrier of both the wealth-and-family signature of the second house and the marriage-and-partnership signature of the seventh, and the native's identity is built around the simultaneous expression of both. The body becomes the vehicle for accumulated resources, family inheritance, refined speech (in the 2L family-tradition sense), and the marriage drive that the chart specifically wires into the personality from birth. Note that this is NOT Pancha Mahapurusha Malavya Yoga, which requires Venus exalted or in own sign in a kendra. Mesha is neither, so even though the placement sits in the strongest kendra, the named yoga does not form. This guide reads every layer of Venus in 1st house for Mesh Lagna natives: the martial Mesha sign, the 2L plus 7L dual lordship, the body-as-refinement-vessel signature, and the diamond protocol that applies here with confidence despite the neutral sign relationship.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "venus-1st-house-aries-lagna-career-infographic.webp",
+      "alt": "Venus in 1st house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -487,10 +509,14 @@
       "html": "<p>Career paths cluster around fields where personal magnetism and aesthetic awareness are vocational assets, and the strongest single fit is modelling, fashion, and beauty industry leadership. The chart literally produces natives whose face is the work. Many spend years modelling, acting, or working in fashion where the body is the primary instrument and the Venus refinement combined with Aries fire produces a presence other charts cannot replicate. Hospitality and refined service work fit because the warmth translates directly into making other people feel at ease.</p><p>Performing arts (acting, dance, music) work because the placement supports forms where the body and presence are inseparable from the craft. Many natives find their footing in their twenties through a single high-visibility performance moment that establishes the rest of their career. Sales and brand-led commerce suit the chart because the same magnetism that draws romantic partners also draws customers. Wedding and event industries channel the 7L marriage signature productively. Family business and inherited enterprises round out the list because the 2L wealth signature wires the native into family money channels, and many step into family business roles in their thirties even when they had originally pursued a different career. Shukra mahadasha is when the vocation crystallises, often through a marriage or a public-visibility moment that opens the next phase of the working life.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "career-1-vc.svg",
-      "alt": "Businesswoman avatar, brand-coloured illustration",
-      "eyebrow": "CAREER"
+      "type": "image-figure",
+      "filename": "venus-1st-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Venus 1st house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "cta-inline",

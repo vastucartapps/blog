@@ -218,6 +218,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Dashrath krit Shani stotra, hand-painted on aged parchment with silver leaf borders, faint iron and crow motifs in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "saturn-1st-house-aries-lagna-career-infographic.webp",
+      "alt": "Saturn in 1st house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "saturn-1st-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Saturn 1st house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -305,10 +323,14 @@
       "html": "<p>Saturn in 1st house for Mesh Lagna is the debilitated Shani case of the Aries ascendant catalogue and one of the most interpretively weighty placements in the entire chart. The first house is Mesha itself, and Mesha is the exact sign of Shani's debilitation (neecha rashi), with the deepest point of weakness at 20 degrees. Shani is also the 10th lord for Mesh Lagna (owning Makara, the tenth) and the 11th lord (owning Kumbha, the eleventh), so placing this dual-role Shani in the lagna in neecha condition produces a native whose body and personality carry the weight of the two most important material houses of the chart in their most challenging expression. And yet, the placement is not the disaster popular astrology makes it out to be. Classical Mars dispositor rescue rules frequently apply because Mars (the lord of Mesha) is also the lagna lord for Mesh Lagna, and placing the debilitated Shani in the lagna means the dispositor Mars is by definition strong (it is the lagna). This is one of the cleanest built-in rescue mechanisms in all of Vedic astrology. This guide reads every layer of Saturn in 1st house for Mesh Lagna natives: the debilitation depth, the 10L+<strong>lord of the 11th house</strong> (also called the 11L) dual lordship weight, the automatic Mars rescue, the hard-earned authority signature, and the blue sapphire caution the placement absolutely requires.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "saturn-1st-house-aries-lagna-career-infographic.webp",
+      "alt": "Saturn in 1st house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -604,10 +626,14 @@
       "html": "<p>The Saturday discipline is foundational and delivers unusual benefic return for this placement because the chart's entire structural weight responds to conscious Shani honouring. Rise before sunrise, bathe, wear dark blue or black clothing, and recite the Dashrath krit Shani stotra in the morning window. Visit a Shani temple if accessible, offer black sesame seeds, mustard oil, iron items, or black cloth at the altar. Donate iron, black cloth, mustard oil, or a plain meal to an elderly poor person on Saturday, and maintain this as a weekly discipline rather than an occasional gesture. The Hanuman connection is unusually important here because Hanuman is classically described as the deity who neutralises Shani's harshness, and reciting the Hanuman Chalisa at dusk on Tuesday and Saturday creates a balanced weekly rhythm that softens the Shani weight significantly.</p><p>The gemstone question requires the most caution of any placement in the entire Mesh Lagna catalogue. Blue sapphire (Neelam) is the classical Shani stone, but Neelam is also the single most sensitive gemstone in the Vedic system and is particularly risky for a debilitated Shani because amplifying a weak planet can produce exactly the heaviness the remedial practice is trying to soften. My practice preference is to absolutely require mandatory trial wearing (three days minimum, ideally seven days) before any permanent commitment, a full chart review by a practicing Jyotishi who verifies the Mars rescue is strong, and never self-prescribing Neelam for this placement. When indicated after verification, a natural Ceylon blue sapphire of minimum four ratti set in silver or panchdhatu on the middle finger of the right hand on a Saturday at sunrise after Shani mantra recitation is the protocol. The lifestyle adjustment that compounds most is the practice of deliberate joy. Natives who establish weekly practices that bring them joy (time in nature, music, spending time with friends, hobbies pursued for pleasure rather than achievement) balance the Shani weight with Mars lightness, and the combination sustains the long career the chart produces rather than burning the native out before the recognition arrives.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "meditation-1-vc.svg",
-      "alt": "Person meditating in lotus posture, brand-coloured illustration",
-      "eyebrow": "MEDITATION"
+      "type": "image-figure",
+      "filename": "saturn-1st-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Saturn 1st house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "gemstone",

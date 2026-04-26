@@ -219,6 +219,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Soma Suktam, hand-painted on aged parchment with gold and silver leaf borders, faint crescent moon and lotus motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "moon-1st-house-aries-lagna-career-infographic.webp",
+      "alt": "Moon in 1st house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "moon-1st-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Moon 1st house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -306,10 +324,14 @@
       "html": "<p>If you carry Chandra at the lagna of a Mesh chart, you hold the most personal lunar placement in the entire Aries ascendant catalogue, because the Moon at the first house literally becomes the body it occupies. The first house from Mesh is Mesha (Aries), ruled by Mangal, and the Moon and Mars share a classical friendship rooted in their respective karakatvas of mind and action. By sign relationship the Moon is comfortable here in a friend's territory, neither exalted nor debilitated, holding mid-strength functional status that classical texts describe as productive but specifically sensitive to the paksha (lunar phase) at the moment of birth. Shukla paksha (waxing Moon, from the day after Amavasya through the day before Purnima) gives the placement its full benefic expression. Krishna paksha (waning Moon, from Purnima through Amavasya) reduces the benefic strength and shifts the reading toward emotional vulnerability that the native must work with consciously throughout life.</p><p>The second structural feature is the 4L in <strong>1st house</strong> (called <em>Pratham Bhava</em>, the house of the self, body, and personality) configuration. For Mesh Lagna, Chandra rules Karka, which falls on the fourth house, the kendra of home, mother, emotional foundation, and inner sukha (contentment). Placing the 4L in the 1H creates a kendra-to-kendra raja yoga where the lord of one of the four foundation angles occupies another foundation angle, producing a native whose personal identity is inseparable from their home, their mother, and their emotional inner world. This guide reads every layer of Moon in 1st house for Mesh Lagna natives: the paksha diagnostic that decides functional strength, the 4L in 1H raja yoga, the fire-water tension between the watery Moon and the fiery Aries body, and the pearl protocol that strengthens the placement when the chart calls for it.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "moon-1st-house-aries-lagna-career-infographic.webp",
+      "alt": "Moon in 1st house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -605,10 +627,14 @@
       "html": "<p>The Monday discipline is foundational and delivers genuine benefit for this placement because the chart is structurally wired to the lunar current that the day carries. Rise before sunrise, bathe with cool water, wear white, silver-grey, or pale cream clothing, and visit a Shiva temple if accessible because Chandra sits on Shiva's matted hair in the iconography and Shiva worship strengthens the lunar channel through the deity who carries it. The Soma Suktam is the primary recitation for this placement because it is the Vedic Rigveda hymn to Soma, the lunar nectar deity who is functionally Chandra in his most ancient form, and the recitation directly invokes the cooling, nourishing tide that the placement specifically activates. Offer white flowers, white rice, milk, or sugar at the altar, and donate dairy, water vessels, or food to elderly women, mothers in need, or maternal charities, all of which channel the 4L karakatva constructively.</p><p>The full moon practice is the single most important monthly remedy for this placement, and natives who establish a Purnima observance from their twenties (sitting in moonlight for ten to fifteen minutes, hydrating with water that has rested in moonlight, recitation of a chosen Chandra hymn) see the chart's lunar signature settle into its most balanced expression across decades. The gemstone is pearl (Moti) and is recommended with confidence here when the paksha reading supports it. Wear a natural Basra or saltwater pearl of minimum five ratti set in silver on the small finger of the right hand on a Monday at sunrise after Chandra mantra recitation. For krishna paksha natives, the pearl protocol is even more important because it works to compensate for the reduced functional strength the phase produces, and consistent wearing usually brings noticeable emotional regulation within three to six months. The lifestyle adjustment that compounds most is building rhythm into daily life. Because the Moon governs cycles, natives who structure their day, week, month, and year as nested rhythms (consistent wake time, weekly rest day, monthly Purnima practice, annual seasonal reset) see the placement deliver its fullest expression.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "meditation-1-vc.svg",
-      "alt": "Person meditating in lotus posture, brand-coloured illustration",
-      "eyebrow": "MEDITATION"
+      "type": "image-figure",
+      "filename": "moon-1st-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Moon 1st house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "gemstone",

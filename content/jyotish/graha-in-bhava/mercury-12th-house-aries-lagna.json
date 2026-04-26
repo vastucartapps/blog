@@ -218,6 +218,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Saraswati Panchakam, hand-painted on aged parchment with gold leaf borders, faint veena and lotus motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "mercury-12th-house-aries-lagna-career-infographic.webp",
+      "alt": "Mercury in 12th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "mercury-12th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mercury 12th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -305,10 +323,14 @@
       "html": "<p>If you carry Budha in the twelfth house of a Mesh chart, you hold the third debility study in the Mesh catalogue because the placement combines Mercury's own debility sign with the classical dushthana reduction of the 12th house, and practitioners should describe the reading with the same care they give to Venus debilitated in the 6th and Moon debilitated in the 8th. The twelfth house from Mesh is Meena (Pisces), ruled by Guru, and Meena is the exact sign of Mercury's debilitation (neecha) with the deep debility point at 15 degrees of Meena. Debilitation is the lowest dignity any planet can hold, and classical texts describe the result as the full karakatva range expressing at reduced functional strength. The 12th house is also Vyaya Bhava, a dushthana of losses, expenditure, foreign lands, sleep, hidden matters, and the dissolution themes the house rules. Mercury's dual role as <strong>lord of the 3rd house</strong> (also called the 3L) plus <strong>lord of the 6th house</strong> (also called the 6L) for Mesh further complicates the reading because both the parakrama (communication) and the service (discipline) karakatvas are affected by the debility simultaneously.</p><p>The single most important interpretive move is the Jupiter-dispositor neecha bhanga check. Classical Parashari tradition treats debilitation as provisional, and specific rescue conditions can cancel the debility and flip the reading into Neecha Bhanga Raja Yoga. The primary rescue for Mercury debilitated in Meena is that Jupiter (the lord of Meena) must be well placed, specifically in a kendra from the lagna or from the Moon. When Jupiter is well placed, the dispositor rescue activates and the placement expresses very differently from the unrescued version. A secondary rescue is Mercury's planet of exaltation (Mercury exalts in Kanya, so Mars or any well-placed planet in Kanya supports the rescue, but specifically the native's own Kanya placements matter). The most common rescue in practice is Jupiter in a kendra. This guide reads every layer of Mercury in 12th house for Mesh Lagna natives: the debility mechanics, the Jupiter-dispositor neecha bhanga check, the 3L plus 6L in dushthana compound reduction, the contemplative reading for rescued natives, and the emerald protocol that applies only after the rescue is confirmed.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-2-vc.svg",
-      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "mercury-12th-house-aries-lagna-career-infographic.webp",
+      "alt": "Mercury in 12th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -493,10 +515,14 @@
       "html": "<p>Career paths for natives with the Jupiter rescue cluster around fields that specifically value the contemplative and hidden-register work Mercury in 12th produces. The strongest single fit is contemplative writing and spiritual teaching because the chart produces natives whose verbal output reaches the contemplative register conventional prose cannot reach. Many natives build careers as the writer whose books appeal to readers looking for depth rather than quick clarity, and the audience compounds slowly but durably across decades. Foreign service and international work fit because the 12th house rules foreign lands and natives often find their gifts better received outside their birth country.</p><p>Hospice, monastic, and retreat-based work suit natives whose vocational pull is toward care in hidden settings. The chart produces natives who do their best communication work in one-on-one or small-group contexts where the slower register has time to unfold. Research in hidden or esoteric fields fits because the 12th house rules knowledge that is not immediately accessible. Translation and cross-language editorial work channel the 12th house foreign karakatvas. Dream research and sleep medicine are specific medical niches the chart often suggests. Budha mahadasha is when the vocation crystallises either into the rescue expression or into the intensified service-in-obscurity pattern depending on the rescue condition.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "career-2-vc.svg",
-      "alt": "Professional success factors infographic, brand-coloured illustration",
-      "eyebrow": "CAREER"
+      "type": "image-figure",
+      "filename": "mercury-12th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mercury 12th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "cta-inline",

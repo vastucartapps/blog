@@ -218,6 +218,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Mangal Kavacham, hand-painted on aged parchment with copper leaf borders, faint copper amulet in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "mars-10th-house-aries-lagna-career-infographic.webp",
+      "alt": "Mars in 10th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "mars-10th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mars 10th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -305,10 +323,14 @@
       "html": "<p>Of all the placements an Aries ascendant chart can carry, Mars in 10th house is the single most classically celebrated because it produces Ruchaka Yoga, one of the four Pancha Mahapurusha yogas described by Varaha Mihira in the Brihat Jataka. Mars is the lagna lord for Mesh Lagna, and the 10th house for Mesh is Makar (Capricorn) which is Mars's exaltation sign. Mars exalted in his deepest exaltation degree in the tenth house kendra creates a three-layer alignment that classical texts treat as career-defining on a scale few other placements approach. The native gains unusually strong authority, institutional command, and a career arc that peaks in visibility during Mangal mahadasha. This guide reads each layer of Mars in 10th house for Mesh Lagna natives, including the Ruchaka Yoga activation, the Karma Bhava signature, mangal mahadasha windows, the red coral wearing protocol, and the Mangal Kavacham practice that amplifies the yoga across decades.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-2-vc.svg",
-      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "mars-10th-house-aries-lagna-career-infographic.webp",
+      "alt": "Mars in 10th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "prose",
@@ -587,10 +609,14 @@
       "html": "<p>The Tuesday discipline is the foundation. Recite the Mangal Kavacham or Mangal Stotram at sunrise on Tuesdays. The Kavacham is preferred for this combination because the Karma Bhava signature needs protective structure to match its commanding output. Wear red or deep crimson on Tuesdays. Avoid salt the entire day and eat one meal of moong dal khichdi at noon. Donate red wheat, jaggery, copper coins, or red cloth to a soldier, policeman, labourer, or sportsperson at sunrise. Visit a Hanuman temple on the fourth Tuesday of each month if one is reachable.</p><p>The gemstone is red coral (Moonga). Wear natural untreated minimum five ratti Italian or Tibetan coral set in copper or panchdhatu on the ring finger of the right hand on a Tuesday at sunrise after Mangal mantra recitation. For Ruchaka Yoga natives specifically, the coral should be slightly larger than the standard recommendation because the exalted Mars benefits from amplified resonance. The lifestyle adjustment that compounds most is learning to delegate at senior levels. Ruchaka gives command authority but it does not automatically give the wisdom to know when to let others carry a task. Natives who build delegation into their management style by their late thirties reach career positions that those who refuse to delegate never approach.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "meditation-2-vc.svg",
-      "alt": "Hand-drawn figure meditating cross-legged, brand-coloured illustration",
-      "eyebrow": "MEDITATION"
+      "type": "image-figure",
+      "filename": "mars-10th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mars 10th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "gemstone",

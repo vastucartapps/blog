@@ -218,6 +218,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Surya Mandala Stotram, hand-painted on aged parchment with gold leaf borders, faint solar mandala and lotus motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "sun-12th-house-aries-lagna-career-infographic.webp",
+      "alt": "Sun in 12th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "sun-12th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Sun 12th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -305,10 +323,14 @@
       "html": "<p>If you carry Surya in the twelfth house of a Mesh chart, you hold a placement that parallels Sun in 8th structurally but expresses through a different set of themes because the 12th house rules moksha, foreign lands, and hidden matters rather than transformation and inheritance. The twelfth house from Mesh is Meena (Pisces), ruled by Guru, and the Sun-Jupiter relationship is classical friendship rooted in their shared commitment to wisdom, dharma, and the contemplative register both planets naturally honour. A Sun in Jupiter's own sign expresses through a medium that welcomes the planet's core karakatvas, and the friendly Meena sign softens the dushthana reduction the 12th house would otherwise apply to any occupying planet. The placement is therefore not the flat weakness popular astrology sometimes predicts, it is a redirection of the solar expression into the moksha and foreign registers the house specifically rules.</p><p>The second structural feature is that Surya is the 5L for Mesh Lagna (he rules Simha, the 5th house). Placing the 5L trikona lord in the 12H dushthana creates the same trikona-in-dushthana pattern that Sun in 8th produces, and classical texts give trikona lords the specific protection that softens dushthana reductions without cancelling them entirely. The placement is not a raja yoga because raja yogas require trikona-kendra combinations, but it is a structural redirection of the 5L creative intelligence and purva-punya into the 12th house territory: foreign lands, contemplative work, hidden-register vocations, and the dharmic expression that finds audiences outside the native's birth country more readily than inside it. This guide reads every layer of Sun in 12th house for Mesh Lagna natives: the Sun-Jupiter friendship, the trikona-in-dushthana softening, the foreign-creative-dharma signature, and the ruby protocol that applies here with reasonable confidence once the softening is understood.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "sun-12th-house-aries-lagna-career-infographic.webp",
+      "alt": "Sun in 12th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -497,10 +519,14 @@
       "html": "<p>Career paths cluster around fields that specifically support the foreign and contemplative register the placement produces. The strongest single fit is foreign teaching and spiritual leadership abroad. Many natives with this placement find their authentic vocational home in a tradition outside their birth culture, and they often build careers as teachers, lineage holders, or spiritual guides who operate in countries other than the one where they were born. The foreign setting provides both the audience and the recognition that the birth country struggled to deliver, and natives who accept the relocation pattern experience the chart as unusually generous with vocational opportunity. Contemplative writing and philosophical scholarship fit natives whose vocational pull is more literary, and many build careers as authors whose books reach international readers more readily than domestic ones.</p><p>International dharmic work and retreat leadership suit the chart because the 12th house rules both foreign lands and moksha themes, and the combination produces natives whose vocational calling involves organising, leading, or teaching within international retreat and dharmic-institution structures. Foreign-market creative work and cross-cultural arts fit natives whose creative 5L intelligence finds its audience through cross-border channels rather than through mainstream domestic markets. Research in classical and contemplative traditions suit scholars whose work involves recovering and interpreting traditions from texts that originated in foreign contexts. Translation of traditional sources into new languages is the specific niche the chart often suggests because the combination of solar authority and foreign-house location produces natives with unusual capacity to bridge traditions across languages. Surya mahadasha is when the foreign-dharma vocation crystallises, often through a specific invitation to teach or lead abroad that the native did not specifically seek but could not refuse once it appeared.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "career-1-vc.svg",
-      "alt": "Businesswoman avatar, brand-coloured illustration",
-      "eyebrow": "CAREER"
+      "type": "image-figure",
+      "filename": "sun-12th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Sun 12th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "cta-inline",

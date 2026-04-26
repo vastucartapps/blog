@@ -217,6 +217,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Ketu Stotram, hand-painted on aged parchment with gold leaf borders, faint flag and serpent motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "ketu-4th-house-aries-lagna-career-infographic.webp",
+      "alt": "Ketu in 4th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "ketu-4th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Ketu 4th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -304,10 +322,14 @@
       "html": "<p>If you carry Ketu in the fourth house of a Mesh chart, you hold the quiet mirror of the more famous Rahu-4th placement, and the two readings deserve to be described together because they are structurally opposite and interpretively distinct. The fourth house from Mesh is Karka (Cancer), ruled by Chandra, and the Moon-Ketu relationship is classically treated as friction rather than friendship because the nourishing Moon and the dissolving Ketu pull in opposite directions. The sign is therefore not a friend for Ketu and the placement expresses through a medium that produces specific work for the native around mother, home, and emotional foundation. But where Rahu in 4th produces restlessness and movement, Ketu in 4th produces detachment and quiet dissatisfaction, and the two readings should not be conflated even though both involve the Sukha Bhava.</p><p>The second important feature is the structural reading of Ketu in the mother house. Classical Parashari tradition treats this placement as a marker of inherited karma related to mother, home, or emotional foundation that the current life is meant to complete rather than extend. The actual pattern the placement produces is a native whose relationship with mother, home, and emotional foundation carries a specific quiet detachment from the conventional version the family offered. The mother relationship is usually loving but emotionally distant, even when both parties wish it to be closer. The home rarely feels like the deep anchor it does for other natives. The inner sense of belonging that the 4th house classically provides tends to look for somewhere else the native cannot always name. Ketu also casts his full 10th aspect (counted from the 4th) onto the 10th house career angle, bringing the detachment signature into the career and producing the vocational pattern where the native works as if the career were not quite their own ambition but a duty they are completing on behalf of someone else. This guide reads every layer of Ketu in 4th house for Mesh Lagna natives: the Karka friction, the mother-detachment pedagogy, the Rahu-Ketu mirror distinction, the 10H career aspect, and the cat's eye protocol that requires especially careful chart confirmation here.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "ketu-4th-house-aries-lagna-career-infographic.webp",
+      "alt": "Ketu in 4th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -452,10 +474,14 @@
       "html": "<p>Physically the native carries the Mesh Lagna frame with the Ketu signature that classical texts catalogue carefully. The face often carries a quiet, watchful quality that strangers notice without being able to name, and the eyes are typically dark and slightly withdrawn in expression even when the native is engaged in conversation. Complexion can run on the fairer side because the Karka sign tempers the standard Mesh warmth. Many natives with this placement have a specific marker on the chest area (a birthmark, a small scar, or an asymmetry) that classical texts treat as the diagnostic sign of Ketu at the 4th house position. The body tends to be lean and still rather than restless, and natives often describe themselves as unusually comfortable in quiet empty rooms where peers feel the need for company.</p><p>Temperament is the layer where this placement most distinguishes the native from popular Aries stereotypes. These natives carry Mesh courage but the courage runs quietly rather than loudly, and they rarely feel the need to perform their willingness to act even when they are acting. They are unusually self-contained, often described by friends and family as the person who seems content alone in ways others find either enviable or slightly puzzling. They love their mother but the love expresses differently than it does for siblings or peers: quieter, more reserved, less in need of frequent contact. They often feel guilty about this difference during their twenties and thirties before they understand the structural reading and relax into the quieter love the chart produces. They are unusually comfortable with home changes (unlike the restless Rahu 4th natives) but not because they enjoy change, because they do not attach the same meaning to any particular house that other natives attach. The shadow side is the emotional isolation the placement can produce if the native treats the detachment as permission to avoid relational work entirely. Natives who accept the structural detachment while also building explicit relational commitments develop the rare quiet settledness that distinguishes this placement's best expression. Natives who use the detachment as a reason to avoid all intimate work can drift into a life that looks functional from outside but feels thin from inside.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "family-1-vc.svg",
-      "alt": "Family enjoying quality time together, brand-coloured illustration",
-      "eyebrow": "FAMILY"
+      "type": "image-figure",
+      "filename": "ketu-4th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Ketu 4th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "effects-grid",

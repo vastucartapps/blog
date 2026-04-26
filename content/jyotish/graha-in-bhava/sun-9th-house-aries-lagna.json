@@ -219,6 +219,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Dwadash Aditya Stotram, hand-painted on aged parchment with gold leaf borders, faint twelve solar discs and lotus motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "sun-9th-house-aries-lagna-career-infographic.webp",
+      "alt": "Sun in 9th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "sun-9th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Sun 9th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -306,10 +324,14 @@
       "html": "<p>If you carry Surya in the ninth house of a Mesh chart, you hold one of the cleanest dharmic placements in the entire Aries ascendant catalogue, because three structural strengths converge here in the same direction. The ninth house from Mesh is Dhanu (Sagittarius), ruled by Guru, and Jupiter is Sun's classical friend. By sign relationship the placement is comfortable, neither exalted nor debilitated, holding mid-strength functional status that the friendly relationship supports throughout the chart. The ninth house is also Dharma Bhava, the trikona of dharma, father, teacher, long journeys, classical learning, purva punya (past life merit), and the inner orientation toward truth that the trikona houses collectively rule. Placing the soul karaka in the dharma trikona produces a native whose entire identity is wired toward the dharmic dimension of life from a young age, and the wiring is visible in the personality long before the native develops conscious philosophy about it.</p><p>The second structural feature is the trine-to-trine raja yoga the placement creates. For Mesh Lagna, Surya rules Simha (5th house) and is therefore the 5L. Placing the 5L in the 9H connects the two trikonas of dharma directly, because both the 5th and the 9th are trikona (trine) houses, and a trikona lord in another trikona house is one of the named raja yoga configurations classical texts call Lakshmi Yoga in some lineages and trine-to-trine raja yoga in others. The two trikonas reinforce each other rather than compete, and the result is a native whose creative intelligence (<strong>lord of the 5th house</strong> (also called the 5L)) flows directly into dharmic expression (<strong>9th house</strong> (called <em>Dharma Bhava</em>, the house of father, philosophy, and higher learning)), producing teachers, scholars, dharmic leaders, and creative practitioners whose work carries an unmistakable wisdom signature even when the technical craft is what other people notice first. This guide reads every layer of Sun in 9th house for Mesh Lagna natives: the friendly sign comfort, the trine-to-trine raja yoga, the father-as-teacher signature, and the ruby protocol that applies here with high confidence.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "sun-9th-house-aries-lagna-career-infographic.webp",
+      "alt": "Sun in 9th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -605,10 +627,14 @@
       "html": "<p>The Sunday discipline is foundational and delivers genuine benefit for this placement because the chart is structurally aligned with the solar current the day carries. Rise before sunrise, bathe, wear saffron, red, or golden-toned clothing, and offer arghya (water libation) to the rising Sun facing east. Visit a Vishnu, Surya, or Aditya temple if accessible, and offer red flowers, wheat, jaggery, or copper at the morning altar. Donate books, scholarships, or funds to educational and dharmic institutions, all of which channel the 9th house karakatvas constructively. Pilgrimages to traditional dharmic sites (especially Sun temples and lineage seats) carry unusual weight for natives with this placement because the chart specifically rewards the long-journey expression of the 9th house current.</p><p>The Dwadash Aditya Stotram is the primary recitation for this placement because it is the classical hymn to the twelve forms of the Sun, and the dharmic 9th house specifically activates the multi-form expression of Surya the stotram invokes. Reciting the Dwadash Aditya Stotram daily for forty days at any major teaching transition (start of a new course, beginning of a writing project, acceptance of a leadership role) is the formal protocol, and natives often report a noticeable shift in clarity and authority by the third week. The gemstone is ruby (Manikya) and is recommended with high confidence here because the friendly sign and trikona placement together support the gemstone protocol cleanly. Wear a natural Burmese or African ruby of minimum three ratti set in gold on the ring finger of the right hand on a Sunday at sunrise after Surya mantra recitation. The lifestyle adjustment that compounds most is treating the dharmic vocation as primary even when the commercial returns are slower than peers see. Because the chart specifically rewards the dharmic dimension of work, natives who refuse to compromise the dharmic core for commercial gain experience the chart deliver its fullest expression as a life of recognised teaching authority that carries forward beyond their own lifetime.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "meditation-1-vc.svg",
-      "alt": "Person meditating in lotus posture, brand-coloured illustration",
-      "eyebrow": "MEDITATION"
+      "type": "image-figure",
+      "filename": "sun-9th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Sun 9th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "gemstone",

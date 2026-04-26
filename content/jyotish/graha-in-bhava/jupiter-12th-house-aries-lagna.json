@@ -219,6 +219,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Narayana Kavacham, hand-painted on aged parchment with gold leaf borders, faint lotus and conch motifs in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "jupiter-12th-house-aries-lagna-career-infographic.webp",
+      "alt": "Jupiter in 12th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "jupiter-12th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Jupiter 12th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -306,10 +324,14 @@
       "html": "<p>Jupiter in 12th house for Mesh Lagna is one of the most spiritually powerful Guru placements in the Aries ascendant catalogue because it combines two structural strengths that rarely meet in the same placement. The twelfth house from Mesh is Meena (Pisces), and Meena is Jupiter's own sign (swakshetra). Classical tradition treats any planet in its own sign as holding full functional strength regardless of house placement, and this overrides the dushthana reduction rule that would otherwise apply to a benefic in the 12th. Guru is also the 12th lord for Mesh Lagna (he owns Meena), so placing the 12L in the 12H creates the specific configuration where the lord of the house occupies its own house, which classical texts name as one of the cleanest forms of own-sign strength. The 12th house is Vyaya Bhava, the domain of losses, expenditures, foreign lands, moksha, isolation, sleep, hidden matters, and the dissolution of the ego into something larger. Placing the wisdom karaka in his own sign in the moksha house produces a native whose entire life is wired toward contemplative depth, foreign grace, and the liberation that 12th house themes promise. This guide reads every layer of Jupiter in 12th house for Mesh Lagna natives: the swakshetra override of the dushthana rule, the moksha signature, the foreign settlement pattern, the generosity to a fault, and the pukhraj protocol which works here with high confidence.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-2-vc.svg",
-      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "jupiter-12th-house-aries-lagna-career-infographic.webp",
+      "alt": "Jupiter in 12th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -605,10 +627,14 @@
       "html": "<p>The Thursday discipline is foundational and delivers unusual benefic return for this placement because the chart is already structurally aligned with Guru worship. Rise before sunrise, bathe, wear yellow or gold-toned clothing, and visit a Vishnu temple or Dattatreya shrine if accessible. The Narayana Kavacham is particularly aligned with this placement because it is Vishnu's protective armour hymn classically recited for moksha aspirants, and the 12th house Jupiter in own sign specifically wires the native toward the moksha current that the hymn invokes. Offer yellow flowers, turmeric, chana dal, or jaggery at the altar, and donate books, food, or funds to a meditation retreat, an ashram, or a teacher who has guided the native's spiritual path.</p><p>The daily meditation practice is the single most important lifestyle remedy for this placement, and natives who establish a twenty-minute daily sit by their early twenties see the chart's moksha signature compound across decades into a genuine contemplative depth that other placements cannot match. The gemstone is yellow sapphire (Pukhraj) and is recommended with confidence here because the swakshetra strength overrides the dushthana reduction cleanly. Wear a natural Ceylon pukhraj of minimum four ratti set in gold on the index finger of the right hand on a Thursday at sunrise after Guru mantra recitation. This is one of the few Jupiter placements where the full confidence recommendation applies despite the 12th house location, and the reason is the same reason the whole placement is strong: own sign overrides house category. The lifestyle adjustment that compounds most is building a structured approach to giving. Natives with this placement give generously by nature, and the chart rewards giving that is structured (defined percentages of income, specific beneficiaries, long-term commitments) rather than impulsive. Structured generosity becomes spiritual practice, while unstructured generosity becomes depletion.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "meditation-2-vc.svg",
-      "alt": "Hand-drawn figure meditating cross-legged, brand-coloured illustration",
-      "eyebrow": "MEDITATION"
+      "type": "image-figure",
+      "filename": "jupiter-12th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Jupiter 12th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "gemstone",

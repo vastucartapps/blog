@@ -220,6 +220,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Chandra Kavacham, hand-painted on aged parchment with silver leaf borders, faint silver moon disc in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "moon-10th-house-aries-lagna-career-infographic.webp",
+      "alt": "Moon in 10th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "moon-10th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Moon 10th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -307,10 +325,14 @@
       "html": "<p>Moon in 10th house for Mesh Lagna is a placement that professional astrologers spend more time on than almost any other lunar combination for Aries ascendant charts. The tenth house from Mesh is Makara (Capricorn), ruled by Shani. Chandra in Makara is the Moon in an enemy sign, because Shani and Chandra are classical adversaries, and yet Chandra simultaneously becomes the fourth lord (Karka, Moon's own sign, is the fourth from Mesh) sitting in the tenth, which is a kendra-to-kendra raja yoga signature. This guide reads every layer of Moon in 10th house for Mesh Lagna natives: the Makara sign challenge, the career karaka at the zenith, the waxing versus waning distinction that decides so much, chandra mahadasha windows, the mother's health angle, and the pearl moti protocol that stabilises the placement across decades.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-2-vc.svg",
-      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "moon-10th-house-aries-lagna-career-infographic.webp",
+      "alt": "Moon in 10th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "prose",
@@ -319,10 +341,14 @@
       "html": "<p>The tenth house is Karma Bhava, the zenith of the birth chart, the house of career, profession, reputation, public standing, and the work the native is remembered for across their lifetime. For Mesh Lagna this house carries Makara rashi, ruled by Shani, the planet of discipline, delay, endurance, and hard-earned reward. When Chandra steps into this Makara tenth, the native's career is governed by a slow-building rhythm that does not match the instinct-driven Mars energy the lagna itself runs on. The Moon in Shani's sign loses the immediacy and emotional fluency it enjoys in Karka or Vrishabha, and instead is subjected to a long apprenticeship under the taskmaster planet. This is not a bad placement, it is a mature placement, and it rewards patience the way Shani always does.</p><p>Two things happen simultaneously that make this combination interesting. First, Chandra as fourth lord (Moon owns Karka, the fourth from Mesh) sits in a kendra (the tenth), which forms a classical fourth-lord-in-tenth raja yoga fragment that classical texts associate with public recognition and reputation in matters of home, property, vehicles, or whatever the fourth house signifies when it shows up in the tenth house domain of career. Second, the Moon is the karaka of the public mind, the masses, mother, nourishment, and emotional comfort, and any planet in the tenth becomes a career significator. So Chandra in tenth is literally a career driven by the public mind, by emotional resonance with an audience, by nourishing or caring for large groups. The Makara sign texture forces this to build slowly and to pay its dues to experience, but once it matures, the recognition tends to be wide and lasting.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "career-2-vc.svg",
-      "alt": "Professional success factors infographic, brand-coloured illustration",
-      "eyebrow": "CAREER"
+      "type": "image-figure",
+      "filename": "moon-10th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Moon 10th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "pull-quote",

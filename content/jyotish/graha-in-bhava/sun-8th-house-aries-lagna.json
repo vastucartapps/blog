@@ -218,6 +218,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Surya Chalisa, hand-painted on aged parchment with gold leaf borders, faint solar disc and lotus motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "sun-8th-house-aries-lagna-career-infographic.webp",
+      "alt": "Sun in 8th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "sun-8th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Sun 8th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -305,10 +323,14 @@
       "html": "<p>If you carry Surya in the eighth house of a Mesh chart, you hold one of the more interpretively subtle Sun placements in the Aries ascendant catalogue because the reading balances a dushthana reduction against two structural strengths that classical practitioners should recognise. The eighth house from Mesh is Vrishchika (Scorpio), ruled by Mangal, and the Sun-Mars relationship is classical friendship. Both planets share the fire-warrior temperament, and Mars as the Mesh lagna lord is the native's own chart ruler, so placing the Sun in a friendly sign ruled by the lagna lord produces a specific compound benefit: the Sun's expression is welcomed by the sign, and the dispositor (Mars) also strengthens the chart's overall foundation. The 8th house is a classical dushthana of transformation, inheritance, hidden matters, and the death-and-rebirth themes, and the house-category rule does apply a baseline reduction, but the friendly sign softens it considerably from the fear-mongering version popular astrology produces.</p><p>The second structural feature is that Surya is the 5L for Mesh Lagna (he rules Simha, the 5th house). Placing the 5L trikona lord in the 8H dushthana creates a specific configuration classical texts describe with unusual care: the lord of creativity, purva-punya, and dharmic intelligence occupies the house of transformation, hidden knowledge, and research. Unlike the trikona-to-kendra raja yoga patterns (<strong>lord of the 5th house</strong> (also called the 5L) in 1, 4, 7, or 10), this trikona-in-dushthana placement does not produce the clean raja yoga reading, but it does produce a specific vocational signature: the native's creative intelligence finds its natural home in research, investigation, hidden-knowledge work, and the transformative vocations the 8th house rules. Classical texts do not describe this as a weakness. They describe it as a redirection of the 5L creative gifts into the specific territory the 8th house governs. This guide reads every layer of Sun in 8th house for Mesh Lagna natives: the Mars-dispositor friendliness, the 5L trikona-in-dushthana vocation, the hidden strengths pattern, and the ruby protocol that applies here with reasonable confidence once the dushthana softening is understood.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-2-vc.svg",
-      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "sun-8th-house-aries-lagna-career-infographic.webp",
+      "alt": "Sun in 8th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -489,10 +511,14 @@
       "html": "<p>Career paths cluster around fields that reward the native's instinct for hidden material. Research, scholarship, and archival investigation are the strongest single fit. Many natives spend years in research roles before their work is recognised publicly, and the recognition usually arrives through a single specific piece of work (a book, a paper, a case) that the field cannot ignore. Forensic medicine, surgery, and pathology fit the chart because the medical investigation work the 8th house rules matches the native's natural capacity for depth.</p><p>Occult studies and esoteric scholarship are specific niches because the 8th house directly rules the occult, and many natives build careers in Vedic astrology, classical scripture study, or traditional medicine. Investigative journalism and documentary production fit natives whose vocational pull is more public-facing. Psychology, psychiatry, and depth counselling work because the 8th house rules the psychological depths. Inheritance law and estate planning round out the list because the 8th house rules these matters directly. Surya mahadasha is when the research vocation crystallises into recognised form, often through a specific major project that establishes the native's reputation.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "career-2-vc.svg",
-      "alt": "Professional success factors infographic, brand-coloured illustration",
-      "eyebrow": "CAREER"
+      "type": "image-figure",
+      "filename": "sun-8th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Sun 8th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "cta-inline",

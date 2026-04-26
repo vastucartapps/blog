@@ -221,6 +221,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Hanuman Bahuk, hand-painted on aged parchment with copper leaf borders, faint mace and lotus motifs in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "mars-12th-house-aries-lagna-career-infographic.webp",
+      "alt": "Mars in 12th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "mars-12th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mars 12th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -308,10 +326,14 @@
       "html": "<p>Mars in 12th house for Mesh Lagna is the most spiritually unusual Mangal placement in the Aries ascendant catalogue. The twelfth house from Mesh is Meena (Pisces), Guru's sign, and Mangal in Meena sits in a friendly sign because Jupiter is a classical friend of Mars. This is the third friendly-sign Mars placement in the Mesh cluster after Mars in the 9th (Dhanu) and Mars in the 5th (Simha), and it reads very differently from both because the house itself is a dushthana rather than a trikona. The twelfth house is Vyaya Bhava, a house of losses, expenditures, foreign lands, moksha, isolation, hospitals, and the dissolution of the ego into something larger. And yet, Mars in Meena softens the classical dushthana concerns significantly because the benefic sign cushions the malefic energy and redirects it from destructive expenditure toward spiritual, foreign, or service-oriented channels. The 12th is a Manglik position (on the classical list), so practitioners should run the cancellation check carefully. This guide reads every layer of Mars in 12th house for Mesh Lagna natives: the Meena friendly-sign softening, the moksha signature that distinguishes this from every other Mars placement, the foreign travel and settlement pattern, the hospital and covert work career fits, and the remedial practice that channels the Mars fire into liberation rather than loss.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-2-vc.svg",
-      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "mars-12th-house-aries-lagna-career-infographic.webp",
+      "alt": "Mars in 12th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "prose",
@@ -582,10 +604,14 @@
       "html": "<p>The Tuesday discipline is foundational and the Thursday observance is the strong secondary ritual because Guru rules Meena and honouring the sign lord alongside the occupying planet is the classical courtesy this placement responds to most. On Tuesday rise before sunrise, wear red or copper-toned clothing, and recite the Mangal Kavacham and the Mangal Dosh Nivaran Stotram in the morning window. On Thursday wear yellow or gold-toned clothing, visit a Vishnu or Dattatreya temple if accessible, and recite the Guru Stotram or Vishnu Sahasranama. The combined Tuesday and Thursday practice is specifically what this placement responds to because the Mars occupant and the Guru sign lord are both being honoured in their respective weekdays.</p><p>The Hanuman connection is central. Reciting the Hanuman Chalisa at dusk every day and the Hanuman Bahuk weekly is the single most effective compound practice for this placement because Hanuman is the exemplar of courage channelled into devotion, which is exactly what the chart is asking the native to embody. The gemstone is where the practitioner slows down. Red coral is the classical Mars stone but because this is a Manglik position in a dushthana house, direct amplification without verification is not the right first move. My practice preference is to require a full chart review before recommending red coral, specifically to verify the condition of Navamsa Mars, the presence of any active Manglik cancellation, and the overall strength of Guru elsewhere in the chart. When the review confirms strong Navamsa Mars and a supportive Guru, red coral of minimum six ratti set in copper can be worn on Tuesday morning. When these conditions are not met, I prefer pukhraj (yellow sapphire) as the primary stone because it strengthens Guru as the sign lord and channels the moksha signature more cleanly than direct Mars amplification. The lifestyle adjustment that compounds most is the commitment to a daily meditation practice of at least twenty minutes, because the chart specifically rewards the inward turn.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "meditation-2-vc.svg",
-      "alt": "Hand-drawn figure meditating cross-legged, brand-coloured illustration",
-      "eyebrow": "MEDITATION"
+      "type": "image-figure",
+      "filename": "mars-12th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mars 12th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "gemstone",

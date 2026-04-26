@@ -219,6 +219,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Madhurashtakam, hand-painted on aged parchment with gold leaf borders, faint honey pot and lotus motifs in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "jupiter-2nd-house-aries-lagna-career-infographic.webp",
+      "alt": "Jupiter in 2nd house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "jupiter-2nd-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Jupiter 2nd house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -306,10 +324,14 @@
       "html": "<p>Jupiter in 2nd house for Mesh Lagna is the classical honey-tongued wealth placement of the Aries ascendant catalogue. The second house from Mesh is Vrishabha (Taurus), Shukra's sign, and Guru in Vrishabha technically sits in an enemy sign because Jupiter and Venus are classical planetary adversaries. But the sign tension is largely overridden by the house itself. The 2nd is Dhana Bhava, the house of wealth, speech, family, face, and accumulated values, and a benefic in Dhana Bhava is one of the most universally positive placements for any chart because the native's core resources and voice are blessed by the wisdom karaka directly. This is the practitioner contrast to the Mars in 2nd placement we covered earlier, where the same house carried sharp-edged speech and Manglik Dosha. With Jupiter here instead, the speech is described classically as madhura (sweet as honey), the family is cultured and typically well-educated, and the wealth signature is inherited and institutionally supported rather than earned through aggressive effort. Guru is also the ninth lord for Mesh Lagna and placing the 9L in the 2H creates a dharma-in-wealth raja yoga where family values and material inheritance flow together. This guide reads every layer of Jupiter in 2nd house for Mesh Lagna natives: the Dhana Bhava benefic blessing, the honey-tongued speech signature, family wealth patterns, the 12L complication, and the pukhraj protocol that works here without caveats.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "jupiter-2nd-house-aries-lagna-career-infographic.webp",
+      "alt": "Jupiter in 2nd house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -346,10 +368,14 @@
       "html": "<p>The second house is Dhana Bhava, the domain of accumulated wealth, speech, family of origin, face and mouth, food habits, memory, early learning, and the values the native inherits from the family before consciously choosing their own. Classical tradition also classifies it as a Marakasthana, a house associated with the activation of difficult karma during specific dasha windows, though this reading applies more strongly when malefics occupy the 2nd than when benefics do. A Jupiter in the 2nd house is classically treated as a clean positive placement because the wisdom karaka in the wealth house produces exactly the form of wealth that most dharmic traditions recommend, inherited, stable, supported by family institutions, and arriving through the native's voice and teaching rather than through aggressive transactions.</p><p>Vrishabha rashi adds the second layer, and the reading here is interesting because it inverts the common assumption about enemy-sign placements. Venus rules Vrishabha, and although Jupiter and Venus are classical enemies, the Vrishabha sign specifically emphasises stability, sensory refinement, cultural appreciation, and slow accumulation, all of which harmonise with the Jupiter benefic signature in unexpected ways. The native ends up with the Jupiter wisdom channelled through Venus-flavoured refinement, producing a cultured sensibility that most Jupiter placements cannot match. The third interpretive layer is the 9L-in-2H raja yoga. For Mesh Lagna, Guru owns Dhanu on the 9th, and placing the dharma lord in the wealth house creates a direct connection between inherited values and inherited resources. Classical texts describe this as the signature of a family that passes down not just money but wisdom, not just property but the ethical framework for using property, and natives with this combination usually grow up in households where the parents read, value education, and treat cultural refinement as a legitimate form of family wealth alongside material assets.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "prosperity-1-vc.svg",
-      "alt": "Person depositing coins into a savings jar, brand-coloured illustration",
-      "eyebrow": "PROSPERITY"
+      "type": "image-figure",
+      "filename": "jupiter-2nd-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Jupiter 2nd house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "pull-quote",

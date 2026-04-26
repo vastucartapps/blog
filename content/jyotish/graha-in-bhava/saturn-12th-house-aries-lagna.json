@@ -217,6 +217,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Shani stotra, hand-painted on aged parchment with iron borders, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "saturn-12th-house-aries-lagna-career-infographic.webp",
+      "alt": "Saturn in 12th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "saturn-12th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Saturn 12th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -304,10 +322,14 @@
       "html": "<p>Saturn in 12th house for Mesh Lagna is the moksha-through-discipline signature of the Aries ascendant catalogue, and it closes the twelve-placement Saturn column for Mesh. The twelfth house from Mesh is Meena (Pisces), Jupiter's sign, and Shani and Guru are classical neutrals in Parashari tradition, producing a sign placement that neither supports nor actively obstructs the planet. More importantly, the 12th house is a Dushthana, and classical tradition treats malefics in dushthanas as functionally suited to the house because their nature matches the difficult themes of loss, expenditure, foreign lands, and moksha that the house rules. Shani is the 10L (Makara) and <strong>lord of the 11th house</strong> (also called the 11L) (Kumbha) for Mesh Lagna, so placing the career and gains lord in the 12th creates an institutional expenditure signature where the native's material life flows into service, foreign assignments, charity, and moksha-oriented work rather than into personal accumulation. This is not a loss reading in the simple sense, it is a redirection reading where the material channel is consciously redirected into service, contemplation, and liberation. This guide reads every layer of Saturn in 12th house for Mesh Lagna natives: the neutral-sign dushthana placement, the 10L 11L institutional expenditure pattern, the moksha-through-discipline signature, foreign settlement patterns, and the Neelam protocol this specific combination asks for.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-2-vc.svg",
-      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "saturn-12th-house-aries-lagna-career-infographic.webp",
+      "alt": "Saturn in 12th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -601,10 +623,14 @@
       "html": "<p>Saturday discipline is foundational. Thursday is the meaningful secondary day because Guru rules Meena and honouring the sign lord alongside the occupying planet is the classical courtesy. On Saturday rise before sunrise, wear dark blue or black, recite Shani stotras, visit a Shani temple if accessible, donate iron or food to an elderly poor person. On Thursday wear yellow, recite the Guru Stotram or Vishnu Sahasranama, and offer chana dal or yellow flowers at a Vishnu temple. The Hanuman Chalisa at dusk daily is non-negotiable. The single most important lifestyle commitment for this placement is a daily meditation practice, because the chart specifically rewards contemplative depth and penalises its absence.</p><p>The gemstone is Neelam (blue sapphire), and for this placement the neutral-sign dushthana configuration supports the stone moderately but still requires mandatory three-day trial wearing before any permanent commitment. Neelam remains the most sensitive stone in the Vedic system. When indicated after practitioner review, wear a natural Ceylon Neelam of minimum four ratti set in silver or panchdhatu on the middle finger of the right hand on a Saturday at sunrise. The Saat Mukhi rudraksha is the safer first remedial step. The lifestyle adjustment that compounds most is deliberate service practice. Natives who commit a portion of their income, time, or professional energy to a specific cause beyond personal gain see the chart's expenditure channel become meaningful rather than depleting, and the moksha signature deepens into a sustained inner peace that faster-working peers cannot access.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "meditation-2-vc.svg",
-      "alt": "Hand-drawn figure meditating cross-legged, brand-coloured illustration",
-      "eyebrow": "MEDITATION"
+      "type": "image-figure",
+      "filename": "saturn-12th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Saturn 12th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "gemstone",

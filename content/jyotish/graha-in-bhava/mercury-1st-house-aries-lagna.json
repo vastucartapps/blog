@@ -218,6 +218,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Saraswati Stotram, hand-painted on aged parchment with gold leaf borders, faint veena and lotus motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "mercury-1st-house-aries-lagna-career-infographic.webp",
+      "alt": "Mercury in 1st house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "mercury-1st-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mercury 1st house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -305,10 +323,14 @@
       "html": "<p>If you carry Budha at the lagna of a Mesh chart, you hold one of the most interpretively dense Mercury placements in the Aries ascendant catalogue because it forces two opposing structural facts into the same reading. The first house from Mesh is Mesha, ruled by Mangal, and the Mars-Mercury relationship is classical enmity: Mars treats Mercury as adversary because Mercury's son Soma eloped with Tara according to the Brihaspati myth, and the rivalry runs deep enough that classical texts treat Mercury in Mesha as a sign-weakened placement by dignity. However, the first house is also the specific seat where Budha holds digbala, the directional strength awarded to Mercury at the body angle. Mercury and Jupiter both claim the lagna as their digbala seat because the body is the natural domain of intelligence and wisdom, and the directional strength is a measurable Shadbala component that adds to the planet's functional output regardless of sign.</p><p>The second structural feature is the dual lordship Mercury carries for Mesh Lagna. Budha rules both Mithuna (3rd house) and Kanya (6th house), so any Mercury placement for Mesh natives carries a <strong>lord of the 3rd house</strong> (also called the 3L) plus <strong>lord of the 6th house</strong> (also called the 6L) double role. Placing this dual-role planet at the lagna means the body itself becomes the carrier of both the parakrama (self-effort) signature of the third house and the service-and-routine signature of the sixth, and the native's identity is built around the simultaneous expression of both. Note that this is NOT Pancha Mahapurusha Bhadra Yoga, which requires Mercury exalted or in own sign in a kendra. Mesha is neither Mercury's exaltation nor his own sign, so even though the placement sits in the strongest kendra, the named yoga does not form. This guide reads every layer of Mercury in 1st house for Mesh Lagna natives: the enemy sign vs digbala tension, the 3L plus 6L dual lordship, the speech-driven identity, and the emerald protocol that still applies despite the sign dignity.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "mercury-1st-house-aries-lagna-career-infographic.webp",
+      "alt": "Mercury in 1st house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -490,10 +512,14 @@
       "html": "<p>Career paths cluster around fields where speech is the primary instrument. Journalism, broadcasting, and public speaking are the strongest single fit because the digbala Mercury at the body and the Mars-Mercury edge together produce natives who can speak under pressure with a clarity peers cannot match. Many natives spend years building broadcast careers, podcast audiences, or speaking practices that become the central vocational identity by their thirties. Teaching, training, and professional education work because the 3L parakrama signature combined with the 6L service signature produces a teacher whose pedagogical instinct is to break down complexity and carry the burden of student engagement with patience the chart supports.</p><p>Law, contract negotiation, and mediation suit the chart because the analytical precision combined with the verbal fluency produces a courtroom presence other lawyers find difficult to outmatch. Consulting and advisory roles fit because the chart's natural mode is to enter a complex situation, analyse it quickly, and articulate the path forward with confidence clients trust. Writing, editing, and translation channel the placement productively for natives whose strongest mode is written rather than spoken. Sales and business development are the commercial fits where Aries directness and Mercury verbal precision combine. Budha mahadasha is when the vocational identity crystallises, often through a single high-stakes verbal moment that establishes the native's reputation and opens the next decade of work.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "career-1-vc.svg",
-      "alt": "Businesswoman avatar, brand-coloured illustration",
-      "eyebrow": "CAREER"
+      "type": "image-figure",
+      "filename": "mercury-1st-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mercury 1st house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "cta-inline",

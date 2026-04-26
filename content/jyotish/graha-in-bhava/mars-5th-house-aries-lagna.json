@@ -220,6 +220,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Surya Gayatri, hand-painted on aged parchment with gold leaf borders, faint flame motif in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "mars-5th-house-aries-lagna-career-infographic.webp",
+      "alt": "Mars in 5th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "mars-5th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mars 5th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -307,10 +325,14 @@
       "html": "<p>Mars in 5th house for Mesh Lagna is the fiery creative trikona placement of the Aries ascendant catalogue. The fifth house from Mesh is Simha (Leo), Surya's sign, and Mangal in Simha sits in a friendly sign because the Sun is a classical friend of Mars. The fifth house is a trikona (trine) carrying the chart's dharmic and creative blessing, and placing the lagna lord in a trine is classically named as a raja yoga seed. This is the second friendly-sign trikona Mars placement in the Mesh cluster (the other being Mars in the 9th), and the two read very differently. Where Mars in the 9th orients toward dharma and father, Mars in the 5th orients toward children, creativity, speculation, and the kind of passion that fuels both artistic work and competitive sport. For Mesh Lagna specifically, there is a layer worth watching, Mangal is also the 8th lord, and placing the 8L in the 5H can occasionally affect children through the mother's pregnancy complications or through the first child's early health, which is a classical signature practitioners flag carefully. This guide reads every layer of Mars in 5th house for Mesh Lagna natives: the trikona blessing, the children nuance, creative and competitive career fits, speculation discipline, and the red coral protocol that works here without hesitation.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-2-vc.svg",
-      "alt": "Mentor sharing knowledge with a student, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "mars-5th-house-aries-lagna-career-infographic.webp",
+      "alt": "Mars in 5th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -606,10 +628,14 @@
       "html": "<p>The Tuesday discipline is foundational and the Sunday observance is the strong secondary ritual because Surya rules Simha and honouring the sign lord alongside the occupying planet is the classical courtesy that strengthens the whole arrangement. On Tuesday rise before sunrise, wear red or copper-toned clothing, and recite the Mangal Kavacham or Mangal Stotra in the morning window. On Sunday recite the Aditya Hridayam or the Surya Ashtakam at sunrise while offering water to the rising sun from a copper vessel facing east, and observe a lighter diet through the day. The combined Tuesday and Sunday practice is specifically what this placement responds to because both weekdays honour fire-element deities that the chart is structurally aligned with.</p><p>The Hanuman Chalisa at dusk remains a daily practice for every Mars placement and especially for a trikona Mars because Hanuman is the exemplar of courage channelled through devotion, which is exactly the framework the placement rewards. The gemstone is red coral (Moonga) and this is a placement where the stone can be recommended with confidence because the friendly sign plus trikona house combination supports direct amplification cleanly, same as Mars in the 9th. Wear a natural Italian or Mediterranean red coral of minimum six ratti set in gold (preferred for trikona Mars) or copper on the ring finger of the right hand on a Tuesday morning after Mangal mantra recitation. The lifestyle adjustment that compounds most is the explicit discipline around speculation. Natives with this placement have the instinct and the courage to take large financial positions, but without explicit rules about position sizing and stop-loss discipline the chart can produce the same large losses it produces gains. A written trading plan, a mentor for financial decisions, or a family member with veto authority over major speculative moves all help channel the fifth-house fire into sustained wealth rather than feast-or-famine cycles.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "meditation-2-vc.svg",
-      "alt": "Hand-drawn figure meditating cross-legged, brand-coloured illustration",
-      "eyebrow": "MEDITATION"
+      "type": "image-figure",
+      "filename": "mars-5th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Mars 5th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "gemstone",

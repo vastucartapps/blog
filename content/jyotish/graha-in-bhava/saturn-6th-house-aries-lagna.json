@@ -218,6 +218,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Shani Kavacham, hand-painted on aged parchment with iron borders, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "saturn-6th-house-aries-lagna-career-infographic.webp",
+      "alt": "Saturn in 6th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "saturn-6th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Saturn 6th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -305,10 +323,14 @@
       "html": "<p>Saturn in 6th house for Mesh Lagna is one of the strongest classical Shani placements in the entire Aries ascendant catalogue because it combines three structural strengths at once. The sixth house from Mesh is Kanya (Virgo), Budha's sign, and Budha is a classical friend of Shani at the planetary level. The 6th house is an Upachaya where malefics grow stronger over time, and it is simultaneously a Dushthana, which classically favours malefics because their nature matches the house's difficult energies. Shani is the 10L (Makara) and <strong>lord of the 11th house</strong> (also called the 11L) (Kumbha) for Mesh Lagna, placing the career and gains lord together in the house of enemies, debts, and service. The combination produces the classical enemy destroyer signature, a disciplined approach to debt that ensures the native never falls into chronic financial trouble, a strong immunity profile despite the 6th house ruling disease, and a career channel that rewards the native's capacity to operate in difficult institutional environments. This guide reads every layer of Saturn in 6th house for Mesh Lagna natives: the Upachaya friendly-sign triple strength, the 10L+11L dual lordship in dushthana, the enemy destroyer pattern, career and service fits, and the Neelam protocol supported more confidently here than in most Saturn placements.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "saturn-6th-house-aries-lagna-career-infographic.webp",
+      "alt": "Saturn in 6th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -605,10 +627,14 @@
       "html": "<p>Saturday discipline is foundational. Rise before sunrise, wear dark blue or black, recite Shani Kavacham or Dashrath krit Shani stotra in the morning, visit a Shani temple if accessible, donate iron or food to an elderly poor person. Wednesday is a meaningful secondary day because Budha rules Kanya, and reciting a short Budha stotra at sunrise honours the sign lord. The Hanuman Chalisa at dusk daily is non-negotiable for any Saturn placement and especially meaningful here because Hanuman is classically the conqueror of disease and enemies, which is exactly what the 6th house Shani is wired for.</p><p>The gemstone is Neelam (blue sapphire), and for this placement the three structural strengths (Upachaya plus friendly sign plus dushthana-malefic-friendly) support the stone with more confidence than most Shani placements. However, Neelam remains the most sensitive stone in the Vedic system and the mandatory three-day trial wearing protocol still applies. When indicated, wear a natural Ceylon Neelam of minimum four ratti set in silver or panchdhatu on the middle finger of the right hand on a Saturday at sunrise. The Saat Mukhi rudraksha is the safer first step. The lifestyle adjustment that compounds most is deliberate trust-building practice. Natives who consciously develop a few deep friendships that last decades balance the defensive chart instinct and gain the support network that the 6th house by itself cannot provide.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "meditation-1-vc.svg",
-      "alt": "Person meditating in lotus posture, brand-coloured illustration",
-      "eyebrow": "MEDITATION"
+      "type": "image-figure",
+      "filename": "saturn-6th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Saturn 6th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "gemstone",

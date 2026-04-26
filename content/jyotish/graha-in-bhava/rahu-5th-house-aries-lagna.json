@@ -217,6 +217,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Rahu Sahasranama, hand-painted on aged parchment with gold leaf borders, faint serpent and gem motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "rahu-5th-house-aries-lagna-career-infographic.webp",
+      "alt": "Rahu in 5th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "rahu-5th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Rahu 5th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -304,10 +322,14 @@
       "html": "<p>If you carry Rahu in the fifth house of a Mesh chart, you hold one of the more interpretively complex nodal placements in the Aries ascendant catalogue because the chart combines creative amplification with a specific friction between the occupying shadow planet and the sign ruler. The fifth house from Mesh is Simha (Leo), ruled by Surya, and the Rahu-Sun relationship is classical enmity rooted in the Vivasvan myth where Rahu torments the Sun during eclipses. A Rahu in Sun's own sign expresses through a medium that the shadow planet does not welcome, producing a specific friction that practitioners need to read carefully. But the 5th house is also Putra Bhava, the trikona of creativity, past life merit, children, and mantra siddhi, and Rahu's amplification energy finds unusual purchase in the creative domain even when the sign is friction-producing.</p><p>The second structural feature is the specific kind of creativity this placement produces. Rahu does not create in the conventional manner. He amplifies whatever material he encounters and pushes it beyond conventional boundaries, and when this amplification hits the 5th house of creativity the result is intellectual rebellion and unconventional creative output that refuses to follow established forms. Natives with this placement typically produce work that crosses boundaries other creators respect: genre-defying writing, unconventional art forms, research that combines fields other scholars keep separate, creative enterprises that break the rules of their industry. The children reading is the third specific feature. The 5th house rules children directly, and Rahu here often produces unusual patterns: delayed children, children of foreign nationality or unconventional circumstances, or children who carry the amplification signature themselves. Popular astrology sometimes treats Rahu in 5th as putra-dosha, but the honest practitioner reading is that the children signature is unusual rather than absent. This guide reads every layer of Rahu in 5th house for Mesh Lagna natives: the Rahu-Sun sign friction, the intellectual-rebellion creativity signature, the unconventional children pattern, and the hessonite protocol that requires careful chart confirmation here.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "rahu-5th-house-aries-lagna-career-infographic.webp",
+      "alt": "Rahu in 5th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -483,10 +505,14 @@
       "html": "<p>Career paths cluster around fields that reward creative work which crosses boundaries other creators respect. The strongest single fit is experimental writing and boundary-crossing fiction because the chart produces natives whose writing cannot stay inside established genres. Many natives build careers as the writer whose first book confused reviewers and whose third book redefined the genre. Unconventional art and mixed-media work suit the chart because the creative mode is combination rather than tradition, and many build careers in forms that did not exist when they started.</p><p>Interdisciplinary research and field-combining scholarship fit natives whose vocational pull is academic. Many build careers in research niches that did not exist before they named them. Innovative entrepreneurship and startup leadership work because the 5L creativity combined with Rahu amplification produces natives who see business models others dismiss as impractical. Speculative technology and frontier invention fit natives with technical skills. Independent teaching outside institutional structures suits natives whose methodology does not fit inside existing curricula and who build their own schools or training systems. Rahu mahadasha is when the creative direction crystallises, often through a specific creative moment that confuses the conventional audience but attracts the specific audience the chart has been preparing.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "career-1-vc.svg",
-      "alt": "Businesswoman avatar, brand-coloured illustration",
-      "eyebrow": "CAREER"
+      "type": "image-figure",
+      "filename": "rahu-5th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Rahu 5th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "cta-inline",

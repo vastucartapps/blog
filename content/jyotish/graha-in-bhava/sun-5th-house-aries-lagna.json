@@ -218,6 +218,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Aditya Hridayam, hand-painted on aged parchment with gold leaf borders, faint copper sun disc in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "sun-5th-house-aries-lagna-career-infographic.webp",
+      "alt": "Sun in 5th house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "sun-5th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Sun 5th house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -305,10 +323,14 @@
       "html": "<p>Of all the fifth-house placements available to an Aries ascendant chart, Sun in 5th house is one of the rarest and most classically celebrated. The fifth house for Mesh Lagna is Simha (Leo), which is Surya's own sign. Surya is also the fifth lord for Mesh Lagna, so this Sun in 5th house placement makes the fifth lord stand in his own sign in his own house,a three-layer swakshetra in swabhava alignment identical in structure to Mars in 1st house and Jupiter in 9th house, and classically associated with unusually strong purva punya (merit from previous lives), superior intelligence, and children who bring recognition to the family. This guide reads each layer of Sun in 5th house for Mesh Lagna natives, including the intelligence signature, the children karaka, surya mahadasha windows, the ruby manik wearing protocol, and the Aditya Hridayam practice that compounds across decades.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "sun-5th-house-aries-lagna-career-infographic.webp",
+      "alt": "Sun in 5th house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "prose",
@@ -586,10 +608,14 @@
       "html": "<p>The Sunday discipline is foundational. Rise before sunrise, offer water to Surya facing east through a copper vessel, and recite the Aditya Hridayam in full. This stotra is the one classical texts specifically prescribe for Sun in fifth house in own sign because the hymn invokes exactly the purva punya and courage the placement depends on. On Sundays, eat one meal at midday, avoid salt, and wear saffron or deep red. Donate red wheat, raw sugar, copper items, or a book on dharma to a teacher or a student on Sunday mornings.</p><p>The gemstone is ruby (Manik). Wear natural untreated minimum three ratti Burmese ruby set in gold (24 carat preferred) on the ring finger of the right hand on a Sunday at sunrise after Surya mantra recitation. The lifestyle adjustment that compounds most is intellectual humility. These natives are given so much early in life that they can mistake gift for merit. The ones who maintain conscious gratitude for the purva punya signature,by teaching, mentoring, creating, or serving,see the chart continue to deliver well into old age. The ones who take the gifts for granted see them fade. The placement's shadow is spiritual, not physical, and the remedy is spiritual acknowledgement as much as mantra or gemstone.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "meditation-1-vc.svg",
-      "alt": "Person meditating in lotus posture, brand-coloured illustration",
-      "eyebrow": "MEDITATION"
+      "type": "image-figure",
+      "filename": "sun-5th-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Sun 5th house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "gemstone",

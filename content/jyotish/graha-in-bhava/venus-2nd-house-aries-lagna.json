@@ -216,6 +216,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Shukra stotra, hand-painted on aged parchment with silver leaf borders, faint white lotus in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, modern font, photo, watermark, cartoon"
+    },
+    {
+      "filename": "venus-2nd-house-aries-lagna-career-infographic.webp",
+      "alt": "Venus in 2nd house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "venus-2nd-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Venus 2nd house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -303,10 +321,14 @@
       "html": "<p>Of all the second-house placements available to an Aries ascendant chart, Venus in 2nd house is the one classical texts link most directly to accumulated wealth, refined speech, and the kind of family life that combines prosperity with taste. For Mesh Lagna the second house is Vrishabha (Taurus), Shukra's own sign, which makes this Venus in 2nd house swakshetra in Dhana Bhava. Shukra is also the second lord for Mesh Lagna, so the wealth karaka rules the wealth house and sits in the wealth house,a three-layer alignment that classical texts associate with lifelong financial ease and voice that commands attention when it speaks. This guide reads each layer of Venus in 2nd house for Mesh Lagna natives, including the wealth pattern, the family speech signature, shukra mahadasha windows, the diamond heera wearing protocol, and the Shukra remedies that compound across decades.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "venus-2nd-house-aries-lagna-career-infographic.webp",
+      "alt": "Venus in 2nd house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "prose",
@@ -315,10 +337,14 @@
       "html": "<p>The Dhana Bhava is the house of accumulated wealth, family of origin, the voice, the mouth, and the food that sustains the body. Shukra is the karaka of beauty, luxury, relationships, refinement, and the finer things that money can buy. When Shukra sits in Dhana Bhava in his own sign, every one of these karakas finds its natural home. For an Aries ascendant native, whose lagna lord Mars tends toward plainness in aesthetics, this Venus placement is the chart feature that gives the native an eye for quality that the Mars signature alone would not produce.</p><p>I have read this combination for around forty natives in the past fifteen years. The pattern is consistent. The family of origin is comfortable financially, not necessarily rich but never struggling. The childhood home has music or art or good food or all three. The native develops a discriminating taste in clothes, food, and surroundings by their late teens, often surprising their plainer Aries ascendant parents by insisting on specific brands, specific cuisines, or specific aesthetic standards. By adulthood the native is the family member everyone consults for recommendations about restaurants, jewellery, clothing, and home decor. This is Venus in Dhana Bhava in own sign producing exactly what the textbooks say it should produce.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "prosperity-1-vc.svg",
-      "alt": "Person depositing coins into a savings jar, brand-coloured illustration",
-      "eyebrow": "PROSPERITY"
+      "type": "image-figure",
+      "filename": "venus-2nd-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Venus 2nd house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "pull-quote",

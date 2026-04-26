@@ -219,6 +219,24 @@
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Guru Stotram, hand-painted on aged parchment with gold leaf borders, faint lotus motif in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
+    },
+    {
+      "filename": "jupiter-1st-house-aries-lagna-career-infographic.webp",
+      "alt": "Jupiter in 1st house career fits infographic — six career paths with brand-coloured icons",
+      "caption": "Career fits derived from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
+    },
+    {
+      "filename": "jupiter-1st-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Jupiter 1st house remedies infographic — mantra, gemstone, day, colour, yantra, donation",
+      "caption": "Daily practice protocol distilled into a six-card panel.",
+      "width": 1200,
+      "height": 800,
+      "format": "webp",
+      "style": "composed Vedic infographic, brand-coloured"
     }
   ],
   "hero": {
@@ -306,10 +324,14 @@
       "html": "<p>Jupiter in 1st house for Mesh Lagna is the classical wisdom-at-the-ascendant placement of the Aries ascendant catalogue. The first house is Mesha, and Guru in Mesha sits in a friendly sign because Mars is a classical friend of Jupiter, which removes the sign-weakness concern many other Jupiter placements have to overcome. The structural feature that sets this placement apart is digbala, directional strength. Classical Parashara tradition grants Jupiter his full digbala in the first house, meaning Guru expresses his benefic energy at maximum intensity when placed in the lagna regardless of sign. On top of the digbala, Guru is the ninth lord for Mesh Lagna (owning Dhanu) and placing the ninth lord in the first house creates the Dharmadhipati-in-self raja yoga, one of the cleanest signatures of a native whose identity is wired directly into the dharmic current of the chart. Jupiter is also the twelfth lord (owning Meena) which adds a moksha-expenditure layer practitioners should read carefully. This guide reads every layer of Jupiter in 1st house for Mesh Lagna natives: the digbala amplification, the Dharmadhipati raja yoga, the 12th lord complication, physical appearance signatures, and the pukhraj protocol that works here with unusual confidence.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "wisdom-1-vc.svg",
-      "alt": "Stack of books representing scholarship, brand-coloured illustration",
-      "eyebrow": "WISDOM"
+      "type": "image-figure",
+      "filename": "jupiter-1st-house-aries-lagna-career-infographic.webp",
+      "alt": "Jupiter in 1st house career fits infographic for Mesh Lagna natives, six career paths with brand-coloured icons",
+      "caption": "Career fits the chart structurally rewards. Built from classical Parashari tradition.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "astro-glossary",
@@ -602,10 +624,14 @@
       "html": "<p>The Thursday discipline is foundational and more effective for this placement than for any other Jupiter combination because the digbala amplifies the benefic return from every ritual practice. Rise before sunrise, bathe, wear yellow or gold-toned clothing, and visit a Vishnu temple or Dattatreya shrine. Offer yellow flowers, turmeric, chana dal, or jaggery at the altar, and recite the Guru Stotram or Vishnu Sahasranama in full during the morning window. On Thursdays eat one simple sattvic meal at midday without salt, donate books, yellow cloth, or food to a teacher, a student, or a priest, and extend the Thursday discipline into any major professional decision-making day by scheduling important work during Guru hora windows.</p><p>The gemstone is yellow sapphire (Pukhraj) and this is one of the very few placements where I recommend the stone without any hesitation whatsoever. Wear a natural Ceylon pukhraj of minimum four ratti set in gold on the index finger of the right hand on a Thursday at sunrise after Guru mantra recitation. Yellow sapphire is one of the safest gemstones in the Vedic system in general, and for a digbala Jupiter at the lagna, the stone essentially amplifies a placement that is already benefic in structure. Yellow topaz is a milder secondary option for budget-conscious natives. The Vishnu worship framework is the deity-level remedy, and reciting the Vishnu Sahasranama or the Narayana Kavacham daily is the highest-order practice for strengthening any Jupiter placement. The lifestyle adjustment that compounds most is the practice of teaching without insisting on credit, because Jupiter in the lagna natively produces the teaching instinct and natives who share their wisdom freely see the chart deliver its fullest expression, while natives who hoard knowledge or seek recognition in exchange for insight experience the benevolence slowly thinning over decades.</p>"
     },
     {
-      "type": "infographic",
-      "illustration": "meditation-1-vc.svg",
-      "alt": "Person meditating in lotus posture, brand-coloured illustration",
-      "eyebrow": "MEDITATION"
+      "type": "image-figure",
+      "filename": "jupiter-1st-house-aries-lagna-remedies-infographic.webp",
+      "alt": "Jupiter 1st house remedies infographic showing mantra, gemstone, day, colour, yantra, and donation",
+      "caption": "Daily practice protocol pulled from the post body and the Vimshottari dasha mechanics.",
+      "width": 1200,
+      "height": 800,
+      "priority": false,
+      "credit": "VastuCart"
     },
     {
       "type": "gemstone",
