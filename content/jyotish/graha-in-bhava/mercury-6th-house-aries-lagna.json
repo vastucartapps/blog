@@ -210,13 +210,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "mercury-6th-house-aries-lagna-vishnu-sahasranama.webp",
-      "alt": "Vishnu Sahasranama Sanskrit verse on parchment with conch and discus motif",
-      "caption": "Vishnu Sahasranama recitation strengthens the Budha channel through the deity who is the classical Mercury patron.",
-      "width": 1024,
-      "height": 768,
+      "filename": "mercury-6th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Budha Stotram verse parchment for Mercury in Vedic Jyotish",
+      "caption": "Budha Stotram — the canonical Navagraha verse to Mercury, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Vishnu Sahasranama, hand-painted on aged parchment with gold leaf borders, faint conch and discus motifs in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -788,11 +788,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "mercury-6th-house-aries-lagna-vishnu-sahasranama.webp",
-      "alt": "Vishnu Sahasranama Sanskrit verse on parchment with conch and discus motif",
-      "caption": "Vishnu Sahasranama recitation strengthens the Budha channel through the deity who is the classical Mercury patron.",
-      "width": 1024,
-      "height": 768,
+      "filename": "mercury-6th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Budha Stotram verse parchment for Mercury in Vedic Jyotish",
+      "caption": "Budha Stotram — the canonical Navagraha verse to Mercury, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

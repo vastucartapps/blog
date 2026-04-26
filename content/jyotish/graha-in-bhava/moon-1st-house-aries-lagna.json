@@ -210,13 +210,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "moon-1st-house-aries-lagna-soma-suktam.webp",
-      "alt": "Soma Suktam Sanskrit verse on parchment with crescent moon and lotus motif",
-      "caption": "Soma Suktam recitation anchors the lunar tide that the lagna placement specifically activates.",
-      "width": 1024,
-      "height": 768,
+      "filename": "moon-1st-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Chandra Stotram verse parchment for Moon in Vedic Jyotish",
+      "caption": "Chandra Stotram — the canonical Navagraha verse to Moon, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Soma Suktam, hand-painted on aged parchment with gold and silver leaf borders, faint crescent moon and lotus motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -784,11 +784,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "moon-1st-house-aries-lagna-soma-suktam.webp",
-      "alt": "Soma Suktam Sanskrit verse on parchment with crescent moon and lotus motif",
-      "caption": "Soma Suktam recitation anchors the lunar tide that the lagna placement specifically activates.",
-      "width": 1024,
-      "height": 768,
+      "filename": "moon-1st-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Chandra Stotram verse parchment for Moon in Vedic Jyotish",
+      "caption": "Chandra Stotram — the canonical Navagraha verse to Moon, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

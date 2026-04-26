@@ -211,13 +211,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "mars-2nd-house-aries-lagna-mangal-stotra.webp",
-      "alt": "Mangal Dosh Nivaran Stotra Sanskrit verse on parchment with copper disc",
-      "caption": "Mangal Dosh Nivaran Stotra is the dedicated Tuesday recitation for any chart carrying Kuja Dosha from the second house placement.",
-      "width": 1024,
-      "height": 768,
+      "filename": "mars-2nd-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Maṅgala Stotram verse parchment for Mars in Vedic Jyotish",
+      "caption": "Maṅgala Stotram — the canonical Navagraha verse to Mars, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Mangal Dosh Nivaran Stotra, hand-painted on aged parchment with copper leaf borders, faint flame motif in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -762,11 +762,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "mars-2nd-house-aries-lagna-mangal-stotra.webp",
-      "alt": "Mangal Dosh Nivaran Stotra Sanskrit verse on parchment with copper disc",
-      "caption": "Mangal Dosh Nivaran Stotra is the dedicated Tuesday recitation for any chart carrying Kuja Dosha from the second house placement.",
-      "width": 1024,
-      "height": 768,
+      "filename": "mars-2nd-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Maṅgala Stotram verse parchment for Mars in Vedic Jyotish",
+      "caption": "Maṅgala Stotram — the canonical Navagraha verse to Mars, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

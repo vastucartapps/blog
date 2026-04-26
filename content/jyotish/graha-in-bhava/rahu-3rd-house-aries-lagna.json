@@ -208,13 +208,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "rahu-3rd-house-aries-lagna-rahu-ketu-stotram.webp",
-      "alt": "Rahu-Ketu Stotram Sanskrit verse on parchment with serpent and flag motif",
-      "caption": "Rahu-Ketu Stotram recitation strengthens the north node channel through the combined nodes hymn.",
-      "width": 1024,
-      "height": 768,
+      "filename": "rahu-3rd-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Rāhu Stotram verse parchment for Rahu in Vedic Jyotish",
+      "caption": "Rāhu Stotram — the canonical Navagraha verse to Rahu, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Rahu-Ketu Stotram, hand-painted on aged parchment with gold leaf borders, faint serpent and flag motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -778,11 +778,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "rahu-3rd-house-aries-lagna-rahu-ketu-stotram.webp",
-      "alt": "Rahu-Ketu Stotram Sanskrit verse on parchment with serpent and flag motif",
-      "caption": "Rahu-Ketu Stotram recitation strengthens the north node channel through the combined nodes hymn.",
-      "width": 1024,
-      "height": 768,
+      "filename": "rahu-3rd-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Rāhu Stotram verse parchment for Rahu in Vedic Jyotish",
+      "caption": "Rāhu Stotram — the canonical Navagraha verse to Rahu, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

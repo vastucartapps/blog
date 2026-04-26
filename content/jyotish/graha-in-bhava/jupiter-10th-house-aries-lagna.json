@@ -210,13 +210,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "jupiter-10th-house-aries-lagna-dakshinamurti.webp",
-      "alt": "Dakshinamurti stotra Sanskrit verse on parchment with teacher motif",
-      "caption": "Dakshinamurti worship anchors the teaching dimension of a debilitated 10th house Jupiter by invoking Shiva as the original Guru.",
-      "width": 1024,
-      "height": 768,
+      "filename": "jupiter-10th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Bṛhaspati Stotram verse parchment for Jupiter in Vedic Jyotish",
+      "caption": "Bṛhaspati Stotram — the canonical Navagraha verse to Jupiter, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Dakshinamurti stotra, hand-painted on aged parchment with gold leaf borders, faint banyan tree and seated teacher motif in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -787,11 +787,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "jupiter-10th-house-aries-lagna-dakshinamurti.webp",
-      "alt": "Dakshinamurti stotra Sanskrit verse on parchment with teacher motif",
-      "caption": "Dakshinamurti worship anchors the teaching dimension of a debilitated 10th house Jupiter by invoking Shiva as the original Guru.",
-      "width": 1024,
-      "height": 768,
+      "filename": "jupiter-10th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Bṛhaspati Stotram verse parchment for Jupiter in Vedic Jyotish",
+      "caption": "Bṛhaspati Stotram — the canonical Navagraha verse to Jupiter, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

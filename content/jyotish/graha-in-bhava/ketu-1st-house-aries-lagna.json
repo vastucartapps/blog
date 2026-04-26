@@ -209,13 +209,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "ketu-1st-house-aries-lagna-ganesh-atharvashirsha.webp",
-      "alt": "Ganesh Atharvashirsha Sanskrit verse on parchment with elephant-head and lotus motif",
-      "caption": "Ganesh Atharvashirsha recitation strengthens the Ketu channel through Ganesha the classical patron deity of the south node.",
-      "width": 1024,
-      "height": 768,
+      "filename": "ketu-1st-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Ketu Stotram verse parchment for Ketu in Vedic Jyotish",
+      "caption": "Ketu Stotram — the canonical Navagraha verse to Ketu, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Ganesh Atharvashirsha, hand-painted on aged parchment with gold leaf borders, faint elephant-head and lotus motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -758,11 +758,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "ketu-1st-house-aries-lagna-ganesh-atharvashirsha.webp",
-      "alt": "Ganesh Atharvashirsha Sanskrit verse on parchment with elephant-head and lotus motif",
-      "caption": "Ganesh Atharvashirsha recitation strengthens the Ketu channel through Ganesha the classical patron deity of the south node.",
-      "width": 1024,
-      "height": 768,
+      "filename": "ketu-1st-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Ketu Stotram verse parchment for Ketu in Vedic Jyotish",
+      "caption": "Ketu Stotram — the canonical Navagraha verse to Ketu, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

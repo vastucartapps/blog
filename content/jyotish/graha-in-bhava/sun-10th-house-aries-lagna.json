@@ -210,13 +210,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "sun-10th-house-aries-lagna-surya-ashtakam.webp",
-      "alt": "Surya Ashtakam Sanskrit verse on parchment with solar disc and lotus motif",
-      "caption": "Surya Ashtakam recitation strengthens the solar channel through the Saturnian medium this placement requires.",
-      "width": 1024,
-      "height": 768,
+      "filename": "sun-10th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Āditya Stotram verse parchment for Sun in Vedic Jyotish",
+      "caption": "Āditya Stotram — the canonical Navagraha verse to Sun, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Surya Ashtakam, hand-painted on aged parchment with gold leaf borders, faint solar disc and lotus motifs in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -785,11 +785,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "sun-10th-house-aries-lagna-surya-ashtakam.webp",
-      "alt": "Surya Ashtakam Sanskrit verse on parchment with solar disc and lotus motif",
-      "caption": "Surya Ashtakam recitation strengthens the solar channel through the Saturnian medium this placement requires.",
-      "width": 1024,
-      "height": 768,
+      "filename": "sun-10th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Āditya Stotram verse parchment for Sun in Vedic Jyotish",
+      "caption": "Āditya Stotram — the canonical Navagraha verse to Sun, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

@@ -211,13 +211,13 @@
       "negative_prompt": "synthetic stone, plastic, costume jewellery, low resolution, watermark, text, person, hand, model"
     },
     {
-      "filename": "sun-1st-house-aries-lagna-aditya-hridayam.webp",
-      "alt": "Aditya Hridayam Sanskrit verse on parchment with sunrise behind",
-      "caption": "Aditya Hridayam, the stotra Sage Agastya gave Lord Rama, the central daily practice for this placement.",
-      "width": 1024,
-      "height": 768,
+      "filename": "sun-1st-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Āditya Stotram verse parchment for Sun in Vedic Jyotish",
+      "caption": "Āditya Stotram — the canonical Navagraha verse to Sun, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Aditya Hridayam stotra, hand-painted on aged parchment with gold leaf decorative borders, a faint sunrise scene with copper kalash visible in the background, traditional Vedic manuscript aesthetic, warm saffron and gold colour palette, refined editorial illustration, no people in foreground.",
       "negative_prompt": "english text, modern font, photograph of book, signature, watermark, neon, cartoon, people in foreground"
     },
@@ -1265,11 +1265,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "sun-1st-house-aries-lagna-aditya-hridayam.webp",
-      "alt": "Aditya Hridayam Sanskrit verse on parchment with sunrise behind",
-      "caption": "Aditya Hridayam, the stotra Sage Agastya gave Lord Rama, the central daily practice for this placement.",
-      "width": 1024,
-      "height": 768,
+      "filename": "sun-1st-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Āditya Stotram verse parchment for Sun in Vedic Jyotish",
+      "caption": "Āditya Stotram — the canonical Navagraha verse to Sun, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

@@ -208,13 +208,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "rahu-5th-house-aries-lagna-rahu-sahasranama.webp",
-      "alt": "Rahu Sahasranama Sanskrit verse on parchment with serpent and gem motif",
-      "caption": "Rahu Sahasranama recitation strengthens the north node channel through the comprehensive thousand-name hymn.",
-      "width": 1024,
-      "height": 768,
+      "filename": "rahu-5th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Rāhu Stotram verse parchment for Rahu in Vedic Jyotish",
+      "caption": "Rāhu Stotram — the canonical Navagraha verse to Rahu, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Rahu Sahasranama, hand-painted on aged parchment with gold leaf borders, faint serpent and gem motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -777,11 +777,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "rahu-5th-house-aries-lagna-rahu-sahasranama.webp",
-      "alt": "Rahu Sahasranama Sanskrit verse on parchment with serpent and gem motif",
-      "caption": "Rahu Sahasranama recitation strengthens the north node channel through the comprehensive thousand-name hymn.",
-      "width": 1024,
-      "height": 768,
+      "filename": "rahu-5th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Rāhu Stotram verse parchment for Rahu in Vedic Jyotish",
+      "caption": "Rāhu Stotram — the canonical Navagraha verse to Rahu, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

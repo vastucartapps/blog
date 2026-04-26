@@ -209,13 +209,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "moon-8th-house-aries-lagna-chandra-dosh-nivaran.webp",
-      "alt": "Chandra Dosh Nivaran Sanskrit verse on parchment with crescent moon motif",
-      "caption": "Chandra Dosh Nivaran recitation is the specific remedial hymn for afflicted Moon placements and is the primary stotra for this debility.",
-      "width": 1024,
-      "height": 768,
+      "filename": "moon-8th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Chandra Stotram verse parchment for Moon in Vedic Jyotish",
+      "caption": "Chandra Stotram — the canonical Navagraha verse to Moon, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Chandra Dosh Nivaran Stotram, hand-painted on aged parchment with gold and silver leaf borders, faint crescent moon and lotus motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -787,11 +787,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "moon-8th-house-aries-lagna-chandra-dosh-nivaran.webp",
-      "alt": "Chandra Dosh Nivaran Sanskrit verse on parchment with crescent moon motif",
-      "caption": "Chandra Dosh Nivaran recitation is the specific remedial hymn for afflicted Moon placements and is the primary stotra for this debility.",
-      "width": 1024,
-      "height": 768,
+      "filename": "moon-8th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Chandra Stotram verse parchment for Moon in Vedic Jyotish",
+      "caption": "Chandra Stotram — the canonical Navagraha verse to Moon, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

@@ -209,13 +209,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "venus-4th-house-aries-lagna-lakshmi-ashtakam.webp",
-      "alt": "Lakshmi Ashtakam Sanskrit verse on parchment with lotus and gold coin motif",
-      "caption": "Lakshmi Ashtakam recitation strengthens the Venus channel through Lakshmi the goddess of refined abundance and home prosperity.",
-      "width": 1024,
-      "height": 768,
+      "filename": "venus-4th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Śukra Stotram verse parchment for Venus in Vedic Jyotish",
+      "caption": "Śukra Stotram — the canonical Navagraha verse to Venus, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Lakshmi Ashtakam, hand-painted on aged parchment with gold leaf borders, faint lotus and gold coin motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -788,11 +788,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "venus-4th-house-aries-lagna-lakshmi-ashtakam.webp",
-      "alt": "Lakshmi Ashtakam Sanskrit verse on parchment with lotus and gold coin motif",
-      "caption": "Lakshmi Ashtakam recitation strengthens the Venus channel through Lakshmi the goddess of refined abundance and home prosperity.",
-      "width": 1024,
-      "height": 768,
+      "filename": "venus-4th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Śukra Stotram verse parchment for Venus in Vedic Jyotish",
+      "caption": "Śukra Stotram — the canonical Navagraha verse to Venus, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

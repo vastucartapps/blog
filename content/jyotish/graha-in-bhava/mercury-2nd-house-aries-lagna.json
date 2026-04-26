@@ -208,13 +208,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "mercury-2nd-house-aries-lagna-saraswati-hridayam.webp",
-      "alt": "Saraswati Hridayam Sanskrit verse on parchment with veena and lotus motif",
-      "caption": "Saraswati Hridayam recitation strengthens the speech channel through the heart hymn of the learning deity.",
-      "width": 1024,
-      "height": 768,
+      "filename": "mercury-2nd-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Budha Stotram verse parchment for Mercury in Vedic Jyotish",
+      "caption": "Budha Stotram — the canonical Navagraha verse to Mercury, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Saraswati Hridayam, hand-painted on aged parchment with gold leaf borders, faint veena and lotus motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -794,11 +794,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "mercury-2nd-house-aries-lagna-saraswati-hridayam.webp",
-      "alt": "Saraswati Hridayam Sanskrit verse on parchment with veena and lotus motif",
-      "caption": "Saraswati Hridayam recitation strengthens the speech channel through the heart hymn of the learning deity.",
-      "width": 1024,
-      "height": 768,
+      "filename": "mercury-2nd-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Budha Stotram verse parchment for Mercury in Vedic Jyotish",
+      "caption": "Budha Stotram — the canonical Navagraha verse to Mercury, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

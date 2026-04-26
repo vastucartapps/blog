@@ -210,13 +210,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "moon-6th-house-aries-lagna-annapurna-stotram.webp",
-      "alt": "Annapurna Stotram Sanskrit verse on parchment with grain and lotus motif",
-      "caption": "Annapurna Stotram recitation strengthens the lunar mother-care channel and supports the emotional-service vocation.",
-      "width": 1024,
-      "height": 768,
+      "filename": "moon-6th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Chandra Stotram verse parchment for Moon in Vedic Jyotish",
+      "caption": "Chandra Stotram — the canonical Navagraha verse to Moon, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Annapurna Stotram, hand-painted on aged parchment with silver leaf borders, faint grain and lotus motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -831,11 +831,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "moon-6th-house-aries-lagna-annapurna-stotram.webp",
-      "alt": "Annapurna Stotram Sanskrit verse on parchment with grain and lotus motif",
-      "caption": "Annapurna Stotram recitation strengthens the lunar mother-care channel and supports the emotional-service vocation.",
-      "width": 1024,
-      "height": 768,
+      "filename": "moon-6th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Chandra Stotram verse parchment for Moon in Vedic Jyotish",
+      "caption": "Chandra Stotram — the canonical Navagraha verse to Moon, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

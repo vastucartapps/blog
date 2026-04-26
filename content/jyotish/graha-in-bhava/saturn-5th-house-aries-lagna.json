@@ -207,13 +207,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "saturn-5th-house-aries-lagna-shani-stotra.webp",
-      "alt": "Shani stotra Sanskrit verse on parchment",
-      "caption": "Shani stotra recitation on Saturday morning anchors the disciplined creativity channel of a Putra Bhava Saturn.",
-      "width": 1024,
-      "height": 768,
+      "filename": "saturn-5th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Śani Stotram verse parchment for Saturn in Vedic Jyotish",
+      "caption": "Śani Stotram — the canonical Navagraha verse to Saturn, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Shani stotra, hand-painted on aged parchment with iron borders, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -783,11 +783,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "saturn-5th-house-aries-lagna-shani-stotra.webp",
-      "alt": "Shani stotra Sanskrit verse on parchment",
-      "caption": "Shani stotra recitation on Saturday morning anchors the disciplined creativity channel of a Putra Bhava Saturn.",
-      "width": 1024,
-      "height": 768,
+      "filename": "saturn-5th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Śani Stotram verse parchment for Saturn in Vedic Jyotish",
+      "caption": "Śani Stotram — the canonical Navagraha verse to Saturn, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

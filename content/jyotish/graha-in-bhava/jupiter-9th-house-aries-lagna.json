@@ -208,13 +208,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "jupiter-9th-house-aries-lagna-guru-stotra.webp",
-      "alt": "Brihaspati Stotra Sanskrit verse on parchment with copper bell",
-      "caption": "Brihaspati stotra recitation on Thursday is the foundational practice for Jupiter-strengthened natives.",
-      "width": 1024,
-      "height": 768,
+      "filename": "jupiter-9th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Bṛhaspati Stotram verse parchment for Jupiter in Vedic Jyotish",
+      "caption": "Bṛhaspati Stotram — the canonical Navagraha verse to Jupiter, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Brihaspati stotra, hand-painted on aged parchment with gold leaf borders, faint copper temple bell in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, modern font, photo of book, watermark, cartoon"
     },
@@ -759,11 +759,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "jupiter-9th-house-aries-lagna-guru-stotra.webp",
-      "alt": "Brihaspati Stotra Sanskrit verse on parchment with copper bell",
-      "caption": "Brihaspati stotra recitation on Thursday is the foundational practice for Jupiter-strengthened natives.",
-      "width": 1024,
-      "height": 768,
+      "filename": "jupiter-9th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Bṛhaspati Stotram verse parchment for Jupiter in Vedic Jyotish",
+      "caption": "Bṛhaspati Stotram — the canonical Navagraha verse to Jupiter, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

@@ -209,13 +209,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "sun-4th-house-aries-lagna-surya-kavacham.webp",
-      "alt": "Surya Kavacham Sanskrit verse on parchment with solar disc and shield motif",
-      "caption": "Surya Kavacham recitation strengthens the solar channel through the protective armour hymn that the home-angle Sun specifically benefits from.",
-      "width": 1024,
-      "height": 768,
+      "filename": "sun-4th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Āditya Stotram verse parchment for Sun in Vedic Jyotish",
+      "caption": "Āditya Stotram — the canonical Navagraha verse to Sun, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Surya Kavacham, hand-painted on aged parchment with gold leaf borders, faint solar disc and shield motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -787,11 +787,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "sun-4th-house-aries-lagna-surya-kavacham.webp",
-      "alt": "Surya Kavacham Sanskrit verse on parchment with solar disc and shield motif",
-      "caption": "Surya Kavacham recitation strengthens the solar channel through the protective armour hymn that the home-angle Sun specifically benefits from.",
-      "width": 1024,
-      "height": 768,
+      "filename": "sun-4th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Āditya Stotram verse parchment for Sun in Vedic Jyotish",
+      "caption": "Āditya Stotram — the canonical Navagraha verse to Sun, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

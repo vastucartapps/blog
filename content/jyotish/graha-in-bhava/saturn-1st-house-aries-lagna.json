@@ -209,13 +209,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "saturn-1st-house-aries-lagna-shani-stotra.webp",
-      "alt": "Dashrath krit Shani stotra Sanskrit verse on parchment",
-      "caption": "Dashrath krit Shani stotra is the classical recitation for softening a debilitated or afflicted Shani placement.",
-      "width": 1024,
-      "height": 768,
+      "filename": "saturn-1st-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Śani Stotram verse parchment for Saturn in Vedic Jyotish",
+      "caption": "Śani Stotram — the canonical Navagraha verse to Saturn, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Dashrath krit Shani stotra, hand-painted on aged parchment with silver leaf borders, faint iron and crow motifs in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -784,11 +784,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "saturn-1st-house-aries-lagna-shani-stotra.webp",
-      "alt": "Dashrath krit Shani stotra Sanskrit verse on parchment",
-      "caption": "Dashrath krit Shani stotra is the classical recitation for softening a debilitated or afflicted Shani placement.",
-      "width": 1024,
-      "height": 768,
+      "filename": "saturn-1st-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Śani Stotram verse parchment for Saturn in Vedic Jyotish",
+      "caption": "Śani Stotram — the canonical Navagraha verse to Saturn, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

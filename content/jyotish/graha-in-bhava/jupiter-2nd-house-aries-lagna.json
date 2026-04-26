@@ -210,13 +210,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "jupiter-2nd-house-aries-lagna-madhurashtakam.webp",
-      "alt": "Madhurashtakam Sanskrit verse on parchment with honey pot and lotus motif",
-      "caption": "Madhurashtakam is the hymn of sweetness and anchors the honey-tongued speech signature of Dhana Bhava Guru.",
-      "width": 1024,
-      "height": 768,
+      "filename": "jupiter-2nd-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Bṛhaspati Stotram verse parchment for Jupiter in Vedic Jyotish",
+      "caption": "Bṛhaspati Stotram — the canonical Navagraha verse to Jupiter, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Madhurashtakam, hand-painted on aged parchment with gold leaf borders, faint honey pot and lotus motifs in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -788,11 +788,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "jupiter-2nd-house-aries-lagna-madhurashtakam.webp",
-      "alt": "Madhurashtakam Sanskrit verse on parchment with honey pot and lotus motif",
-      "caption": "Madhurashtakam is the hymn of sweetness and anchors the honey-tongued speech signature of Dhana Bhava Guru.",
-      "width": 1024,
-      "height": 768,
+      "filename": "jupiter-2nd-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Bṛhaspati Stotram verse parchment for Jupiter in Vedic Jyotish",
+      "caption": "Bṛhaspati Stotram — the canonical Navagraha verse to Jupiter, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },

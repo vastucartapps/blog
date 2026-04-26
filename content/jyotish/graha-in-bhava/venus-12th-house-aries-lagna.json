@@ -210,13 +210,13 @@
       "negative_prompt": "synthetic, plastic, watermark, hand, model"
     },
     {
-      "filename": "venus-12th-house-aries-lagna-shri-suktam.webp",
-      "alt": "Shri Suktam Sanskrit verse on parchment with lotus and Lakshmi motif",
-      "caption": "Shri Suktam recitation strengthens the exalted Venus channel that the placement specifically activates for refinement and abundance.",
-      "width": 1024,
-      "height": 768,
+      "filename": "venus-12th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Śukra Stotram verse parchment for Venus in Vedic Jyotish",
+      "caption": "Śukra Stotram — the canonical Navagraha verse to Venus, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
-      "style": "illuminated Sanskrit manuscript on parchment",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Shri Suktam, hand-painted on aged parchment with gold leaf borders, faint lotus and Lakshmi motifs in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -788,11 +788,11 @@
     },
     {
       "type": "image-figure",
-      "filename": "venus-12th-house-aries-lagna-shri-suktam.webp",
-      "alt": "Shri Suktam Sanskrit verse on parchment with lotus and Lakshmi motif",
-      "caption": "Shri Suktam recitation strengthens the exalted Venus channel that the placement specifically activates for refinement and abundance.",
-      "width": 1024,
-      "height": 768,
+      "filename": "venus-12th-house-aries-lagna-stotra-parchment.webp",
+      "alt": "Śukra Stotram verse parchment for Venus in Vedic Jyotish",
+      "caption": "Śukra Stotram — the canonical Navagraha verse to Venus, with Devanagari, IAST, and English meaning.",
+      "width": 1060,
+      "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },
