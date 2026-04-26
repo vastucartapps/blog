@@ -16,18 +16,22 @@ import path from "node:path";
 
 const PUBLIC_DIR = path.join(process.cwd(), "public");
 
-// Planet → Sanskrit + English + glyph + gemstone slug.
-// gemstone slug must exist in public/gemstones/{slug}.webp.
+// Planet → Sanskrit + English + glyph + accent colour.
+// The PLANET circle in the hero is rendered as an inline-SVG sigil
+// (large astrological glyph in the planet's accent colour, dark
+// teal background, gold ring), NOT as a gemstone photograph. The
+// LAGNA circle uses public/zodiac-icons/{sign}.webp, which IS the
+// correct asset (zodiac sign illustration).
 const PLANETS = {
-  surya:   { english: "Sun",     sanskrit: "Surya",   glyph: "☉", gem: "ruby"            },
-  chandra: { english: "Moon",    sanskrit: "Chandra", glyph: "☽", gem: "pearl"           },
-  mangal:  { english: "Mars",    sanskrit: "Mangala", glyph: "♂", gem: "red-coral"       },
-  budha:   { english: "Mercury", sanskrit: "Budha",   glyph: "☿", gem: "emerald"         },
-  guru:    { english: "Jupiter", sanskrit: "Guru",    glyph: "♃", gem: "yellow-sapphire" },
-  shukra:  { english: "Venus",   sanskrit: "Shukra",  glyph: "♀", gem: "diamond"         },
-  shani:   { english: "Saturn",  sanskrit: "Shani",   glyph: "♄", gem: "blue-sapphire"   },
-  rahu:    { english: "Rahu",    sanskrit: "Rahu",    glyph: "☊", gem: "hessonite"       },
-  ketu:    { english: "Ketu",    sanskrit: "Ketu",    glyph: "☋", gem: "cats-eye"        },
+  surya:   { english: "Sun",     sanskrit: "Surya",   glyph: "☉", accent: "#F2A04C" },
+  chandra: { english: "Moon",    sanskrit: "Chandra", glyph: "☽", accent: "#E8E5D4" },
+  mangal:  { english: "Mars",    sanskrit: "Mangala", glyph: "♂", accent: "#E97A2B" },
+  budha:   { english: "Mercury", sanskrit: "Budha",   glyph: "☿", accent: "#7CC8A5" },
+  guru:    { english: "Jupiter", sanskrit: "Guru",    glyph: "♃", accent: "#F4B942" },
+  shukra:  { english: "Venus",   sanskrit: "Shukra",  glyph: "♀", accent: "#F2C8D8" },
+  shani:   { english: "Saturn",  sanskrit: "Shani",   glyph: "♄", accent: "#9DA8AC" },
+  rahu:    { english: "Rahu",    sanskrit: "Rahu",    glyph: "☊", accent: "#9B7CB7" },
+  ketu:    { english: "Ketu",    sanskrit: "Ketu",    glyph: "☋", accent: "#C5A88A" },
 } as const;
 
 type PlanetId = keyof typeof PLANETS;
@@ -159,12 +163,8 @@ export async function buildHeroCardSvg(data: HeroCardData): Promise<string> {
   const h = data.house_number;
   if (!HOUSE[h]) throw new Error(`Unknown house_number: ${h}`);
 
-  const lagnaIconPath  = path.join(PUBLIC_DIR, "zodiac-icons",  `${lagna.zodiac}.webp`);
-  const planetIconPath = path.join(PUBLIC_DIR, "gemstones",     `${planet.gem}.webp`);
-  const [lagnaDataUri, planetDataUri] = await Promise.all([
-    fileToPngDataUri(lagnaIconPath),
-    fileToPngDataUri(planetIconPath),
-  ]);
+  const lagnaIconPath = path.join(PUBLIC_DIR, "zodiac-icons", `${lagna.zodiac}.webp`);
+  const lagnaDataUri = await fileToPngDataUri(lagnaIconPath);
 
   // Sign number at each house = ((lagna.num - 1 + h - 1) % 12) + 1.
   // House 1 carries the lagna's sign; subsequent houses carry the next
@@ -220,27 +220,59 @@ export async function buildHeroCardSvg(data: HeroCardData): Promise<string> {
   const caption =
     `${planet.english.toUpperCase()} · ${HOUSE_ORDINAL[h]} HOUSE · ${signInHouseLabel.toUpperCase()}`;
 
-  // Five trait bullets. The teal panel content area runs roughly
-  // x=60..510 (450px usable). Georgia 17pt averages ~9px/char, so
-  // we cap each trait at ~46 chars so it always fits without
-  // bleeding onto the cream panel where light text becomes
-  // invisible.
-  const TRAIT_MAX_CHARS = 46;
-  const traits = (data.key_traits ?? []).slice(0, 5).map((t) => {
-    const s = String(t ?? "").trim();
-    return s.length > TRAIT_MAX_CHARS ? s.slice(0, TRAIT_MAX_CHARS - 1).trimEnd() + "…" : s;
-  });
-  while (traits.length < 5) traits.push("");
-  const traitYs = [752, 802, 852, 902, 952];
-  const traitsBlock = traits
-    .map((t, i) => {
-      const safe = escapeXml(t);
-      return (
-        `      <g transform="translate(0, ${traitYs[i]})">\n` +
-        `        <text font-size="16" fill="#F2A04C" y="-2">✦</text>\n` +
-        `        <text x="26" font-size="17">${safe}</text>\n` +
-        `      </g>`
-      );
+  // KEY TRAITS: word-wrap onto a second line when needed instead of
+  // ellipsis-truncating. Teal panel content area runs x=60..510
+  // (~450px usable). Georgia 16pt averages ~8.4px/char in the
+  // text area starting at x=86, so each line fits ~50 chars.
+  const TRAIT_MAX_LINE_CHARS = 50;
+  const TRAIT_FONT_SIZE = 16;
+  const TRAIT_LINE_HEIGHT = 21;
+  const TRAIT_BLOCK_GAP = 12;
+  const TRAIT_START_Y = 740;
+
+  function wrapText(s: string, maxChars: number): string[] {
+    const words = String(s ?? "").trim().split(/\s+/).filter(Boolean);
+    if (words.length === 0) return [""];
+    const lines: string[] = [];
+    let cur = "";
+    for (const w of words) {
+      const candidate = cur ? cur + " " + w : w;
+      if (candidate.length <= maxChars) {
+        cur = candidate;
+      } else if (cur === "") {
+        // Single word longer than the line — push as-is.
+        lines.push(w);
+      } else {
+        lines.push(cur);
+        cur = w;
+      }
+      if (lines.length >= 2) break; // hard cap at 2 lines
+    }
+    if (cur && lines.length < 2) lines.push(cur);
+    return lines.length === 0 ? [""] : lines;
+  }
+
+  const rawTraits = (data.key_traits ?? []).slice(0, 5);
+  while (rawTraits.length < 5) rawTraits.push("");
+  let cursor = TRAIT_START_Y;
+  const traitsBlock = rawTraits
+    .map((t) => {
+      const lines = wrapText(t, TRAIT_MAX_LINE_CHARS);
+      const startY = cursor;
+      const linesXml = lines
+        .map(
+          (line, i) =>
+            `        <text x="26" y="${i * TRAIT_LINE_HEIGHT}" font-size="${TRAIT_FONT_SIZE}">${escapeXml(line)}</text>`,
+        )
+        .join("\n");
+      const block =
+        `      <g transform="translate(0, ${startY})">\n` +
+        `        <text font-size="14" fill="#F2A04C" y="-2">✦</text>\n` +
+        linesXml +
+        `\n      </g>`;
+      cursor =
+        startY + (lines.length * TRAIT_LINE_HEIGHT) + TRAIT_BLOCK_GAP;
+      return block;
     })
     .join("\n");
 
@@ -396,11 +428,10 @@ ${planetMarker}
         <text x="0" y="-86" font-family="'Helvetica Neue', Arial, sans-serif"
               font-size="11" fill="#E0BF7C" letter-spacing="2.6"
               text-anchor="middle">PLANET</text>
-        <circle r="66" fill="#013F47" stroke="#E0BF7C" stroke-width="1.8"/>
-        <image xlink:href="${planetDataUri}"
-               x="-60" y="-60" width="120" height="120"
-               clip-path="url(#iconClipR)"
-               preserveAspectRatio="xMidYMid slice"/>
+        <circle r="66" fill="#012E34" stroke="#E0BF7C" stroke-width="1.8"/>
+        <circle r="58" fill="none" stroke="${planet.accent}" stroke-width="0.8" opacity="0.45"/>
+        <text y="22" font-family="Georgia, 'Times New Roman', serif" font-size="78"
+              fill="${planet.accent}" text-anchor="middle" font-weight="500">${planet.glyph}</text>
         <circle r="64" fill="none" stroke="#B8893E" stroke-width="1" opacity="0.5"/>
       </g>
       <text x="340" y="170" font-family="Georgia, serif" font-size="20"
