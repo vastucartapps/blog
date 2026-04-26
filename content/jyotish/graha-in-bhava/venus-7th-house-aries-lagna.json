@@ -500,30 +500,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Venus marked in the seventh house of Mesh",
-      "planet": "Shukra",
-      "house": 7,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "saffron",
-          "text": "Shukra in Yuvati Bhava, highlighted in crystal white"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "teal",
-          "text": "Bottom rhombus is the 7th house"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "venus-7th-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali highlighting Venus in the seventh house of Mesh",

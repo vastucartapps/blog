@@ -510,30 +510,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Ketu marked in the seventh house of Mesh",
-      "planet": "Ketu",
-      "house": 7,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "saffron",
-          "text": "Ketu in Kalatra Bhava in friendly Tula, marked in smoky violet"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "teal",
-          "text": "Lower-right diamond is the 7th house of marriage"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "ketu-7th-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Ketu in the seventh house of Mesh",

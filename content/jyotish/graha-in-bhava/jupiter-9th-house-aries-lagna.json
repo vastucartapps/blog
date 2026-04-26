@@ -501,30 +501,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Jupiter marked in the ninth house of Mesh",
-      "planet": "Guru",
-      "house": 9,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "saffron",
-          "text": "Guru in Dharma Bhava, highlighted in gold"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "teal",
-          "text": "Lower-left square is the 9th house"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "jupiter-9th-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali highlighting Jupiter placed in the ninth house of Mesh",

@@ -529,30 +529,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Ketu marked in the tenth house of Mesh",
-      "planet": "Ketu",
-      "house": 10,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "saffron",
-          "text": "Ketu in Karma Bhava in Makara, marked in smoky violet"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "teal",
-          "text": "Upper diamond is the 10th house of career"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "ketu-10th-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Ketu in the tenth house of Mesh in Makara",

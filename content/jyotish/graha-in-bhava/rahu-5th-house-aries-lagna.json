@@ -529,30 +529,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Rahu marked in the fifth house of Mesh",
-      "planet": "Rahu",
-      "house": 5,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "saffron",
-          "text": "Rahu in Putra Bhava in Sun's Simha, marked in smoky indigo"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "teal",
-          "text": "Fifth house is the seat of creativity and children"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "rahu-5th-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Rahu in the fifth house of Mesh in Simha",

@@ -526,30 +526,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Mars marked in the ninth house of Mesh",
-      "planet": "Mangal",
-      "house": 9,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "saffron",
-          "text": "Mangal in Dharma Bhava, marked in warm saffron"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "teal",
-          "text": "Right-lower diamond is the 9th house of dharma"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "mars-9th-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Mars placed in the ninth house of Mesh",

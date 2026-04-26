@@ -510,30 +510,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Rahu marked in the seventh house of Mesh",
-      "planet": "Rahu",
-      "house": 7,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "saffron",
-          "text": "Rahu in Kalatra Bhava in friendly Tula, marked in smoky indigo"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "teal",
-          "text": "Lower-right diamond is the 7th house of marriage"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "rahu-7th-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Rahu in the seventh house of Mesh",

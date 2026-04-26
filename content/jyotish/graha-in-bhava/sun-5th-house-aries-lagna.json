@@ -501,30 +501,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Sun marked in the fifth house of Mesh",
-      "planet": "Surya",
-      "house": 5,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "saffron",
-          "text": "Surya in Putra Bhava, highlighted in gold"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "teal",
-          "text": "Lower-left corner triangle is the 5th house"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "sun-5th-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Sun placed in the fifth house of Mesh",

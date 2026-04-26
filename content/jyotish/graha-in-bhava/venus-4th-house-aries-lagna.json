@@ -540,30 +540,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Venus marked in the fourth house of Mesh",
-      "planet": "Shukra",
-      "house": 4,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "saffron",
-          "text": "Shukra in Sukha Bhava at digbala, marked in pearl-rose"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "teal",
-          "text": "Lower-central diamond is the 4th house of Karka"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "venus-4th-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Venus in the fourth house of Mesh",

@@ -538,30 +538,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Mercury marked in the fourth house of Mesh",
-      "planet": "Budha",
-      "house": 4,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "teal",
-          "text": "Budha in Sukha Sthana in Karka, marked in emerald"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "saffron",
-          "text": "Fourth house is the seat of mother and home"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "mercury-4th-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Mercury in the fourth house of Mesh in Karka",

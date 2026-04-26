@@ -539,30 +539,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Sun marked in the fourth house of Mesh",
-      "planet": "Surya",
-      "house": 4,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "saffron",
-          "text": "Surya in Sukha Bhava in friendly Karka, marked in radiant saffron"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "teal",
-          "text": "Lower-central diamond is the 4th house of home"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "sun-4th-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Sun in the fourth house of Mesh in Karka",

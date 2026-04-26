@@ -510,30 +510,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Ketu marked in the ninth house of Mesh",
-      "planet": "Ketu",
-      "house": 9,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "saffron",
-          "text": "Ketu in Dharma Bhava in friendly Dhanu, marked in smoky violet"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "teal",
-          "text": "Upper-left diamond is the 9th house of dharma"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "ketu-9th-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Ketu in the ninth house of Mesh in Dhanu",

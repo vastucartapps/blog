@@ -503,30 +503,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Mars marked in the third house of Mesh",
-      "planet": "Mangal",
-      "house": 3,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "rose",
-          "text": "Mangal in Parakrama Bhava, marked in bright crimson"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "teal",
-          "text": "Left-central diamond is the 3rd house"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "mars-3rd-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Mars placed in the third house of Mesh",

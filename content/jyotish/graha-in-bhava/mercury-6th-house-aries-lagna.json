@@ -540,30 +540,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Mercury marked exalted in the sixth house of Mesh",
-      "planet": "Budha",
-      "house": 6,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "saffron",
-          "text": "Budha exalted in Ripu Bhava, marked in emerald"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "teal",
-          "text": "Right-central diamond is the 6th house of Kanya"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "mercury-6th-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Mercury exalted in the sixth house of Mesh",

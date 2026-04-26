@@ -531,30 +531,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Moon marked in the second house of Mesh",
-      "planet": "Chandra",
-      "house": 2,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "teal",
-          "text": "Chandra exalted in Dhana Bhava in Vrishabha, marked in teal"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "saffron",
-          "text": "Second house is the seat of wealth and speech"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "moon-2nd-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Moon exalted in the second house of Mesh in Vrishabha",

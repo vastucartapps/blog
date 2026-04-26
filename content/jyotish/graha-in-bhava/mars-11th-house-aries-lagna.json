@@ -503,30 +503,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Mars marked in the eleventh house of Mesh",
-      "planet": "Mangal",
-      "house": 11,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "saffron",
-          "text": "Mangal in Labha Bhava, marked in crimson"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "teal",
-          "text": "Top-left diamond is the 11th house of gains"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "mars-11th-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Mars placed in the eleventh house of Mesh",

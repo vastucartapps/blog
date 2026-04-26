@@ -533,30 +533,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Saturn marked in the second house of Mesh",
-      "planet": "Shani",
-      "house": 2,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "saffron",
-          "text": "Shani in Dhana Bhava, marked in deep indigo"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "teal",
-          "text": "Upper-left diamond is the 2nd house"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "saturn-2nd-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Saturn placed in the second house of Mesh",

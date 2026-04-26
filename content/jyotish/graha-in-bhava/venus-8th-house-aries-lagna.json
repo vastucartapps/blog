@@ -558,30 +558,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Venus marked in the eighth house of Mesh",
-      "planet": "Shukra",
-      "house": 8,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "rose",
-          "text": "Shukra in Randhra Bhava in Vrishchika, marked in rose"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "saffron",
-          "text": "Eighth house is the seat of transformation"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "venus-8th-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Venus in the eighth house of Mesh in Vrishchika",

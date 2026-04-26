@@ -504,30 +504,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Mars marked in the sixth house of Mesh",
-      "planet": "Mangal",
-      "house": 6,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "rose",
-          "text": "Mangal in Ripu Bhava, marked in deep crimson"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "teal",
-          "text": "Left-lower diamond is the 6th house of enemies"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "mars-6th-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Mars placed in the sixth house of Mesh",

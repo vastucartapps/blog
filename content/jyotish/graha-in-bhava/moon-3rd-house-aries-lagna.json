@@ -562,30 +562,6 @@
       "gem": "teal"
     },
     {
-      "type": "kundali-visual",
-      "eyebrow": "Kundali visual",
-      "heading": "Moon marked in the third house of Mesh",
-      "planet": "Chandra",
-      "house": 3,
-      "lagna": "Mesh",
-      "legend": [
-        {
-          "color": "teal",
-          "text": "Chandra in Parakrama Bhava in Mithuna, marked in silver"
-        },
-        {
-          "color": "white",
-          "text": "12 houses in North Indian format"
-        },
-        {
-          "color": "saffron",
-          "text": "Third house is the seat of courage and short travel"
-        }
-      ],
-      "cta_label": "Get your free Kundali",
-      "cta_url": "https://www.vastucart.in/tools/kundli"
-    },
-    {
       "type": "image-figure",
       "filename": "moon-3rd-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Moon in the third house of Mesh in Mithuna",
