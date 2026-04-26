@@ -21,7 +21,7 @@ export function CTABand({ data }: Props) {
         marginTop: "4rem",
         marginBottom: "4rem",
         borderRadius: 22,
-        padding: "3.5rem 2.5rem",
+        padding: "clamp(2rem, 5vw, 3.5rem) clamp(1.25rem, 4vw, 2.5rem)",
         textAlign: "center",
         boxShadow: "0 28px 80px -32px rgba(1,63,71,0.45)",
       }}

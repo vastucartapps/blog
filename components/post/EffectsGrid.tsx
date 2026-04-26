@@ -102,7 +102,7 @@ export function EffectsGrid({
         style={{
           display: "grid",
           gap: 16,
-          gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))",
+          gridTemplateColumns: "repeat(auto-fit, minmax(min(100%, 220px), 1fr))",
         }}
       >
         {cols.map((c) => (

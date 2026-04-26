@@ -9,7 +9,7 @@ interface Props {
 export function FeaturedPosts({ posts }: Props) {
   return (
     <section style={{ background: "var(--cream-2)" }}>
-      <div className="wrap-wide" style={{ paddingTop: "5rem", paddingBottom: "5rem" }}>
+      <div className="wrap-wide" style={{ paddingTop: "clamp(2.5rem, 6vw, 5rem)", paddingBottom: "clamp(2.5rem, 6vw, 5rem)" }}>
         <div
           style={{
             display: "flex",

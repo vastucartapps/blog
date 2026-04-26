@@ -93,13 +93,7 @@ export function RelatedPosts({ eyebrow, heading, posts }: Props) {
         </motion.h2>
       ) : null}
 
-      <div
-        style={{
-          display: "grid",
-          gap: 18,
-          gridTemplateColumns: `repeat(${Math.min(posts.length, 3)}, minmax(0, 1fr))`,
-        }}
-      >
+      <div className="related-posts-grid">
         {posts.map((p, i) => {
           const ico = iconMap[p.icon_variant ?? "generic"];
           return (

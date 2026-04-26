@@ -63,7 +63,7 @@ export default function GlossaryPage() {
       <main>
         <section
           className="diamond-bg relative overflow-hidden"
-          style={{ paddingBlock: "3.5rem" }}
+          style={{ paddingBlock: "clamp(2rem, 5vw, 3.5rem)" }}
         >
           <div className="wrap-hero-lg relative z-10">
             <nav
@@ -131,7 +131,7 @@ export default function GlossaryPage() {
           </div>
         </section>
 
-        <section className="wrap-article" style={{ paddingBlock: "4rem" }}>
+        <section className="wrap-article" style={{ paddingBlock: "clamp(2.25rem, 5vw, 4rem)" }}>
           <div style={{ display: "grid", gap: 14 }}>
             {sorted.map((t) => (
               <article

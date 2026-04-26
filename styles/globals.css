@@ -311,10 +311,199 @@ strong { font-weight: 600; }
   border-color: var(--teal) !important;
   color: var(--teal) !important;
 }
-.yantra-card { transition: border-color .2s, box-shadow .2s; }
+.yantra-card {
+  transition: border-color .2s, box-shadow .2s;
+  grid-template-columns: 1fr;
+}
+@media (min-width: 640px) {
+  .yantra-card { grid-template-columns: minmax(0, 280px) minmax(0, 1fr); }
+}
 .yantra-card:hover {
   border-color: var(--teal-light) !important;
   box-shadow: 0 30px 80px -32px rgba(1,63,71,0.40) !important;
+}
+/* ── FOOTER LAYOUT — three explicit breakpoints, dense and balanced.
+   Mobile (<640px):  brand stacked, each link section is a 2-col list so
+                     8-item Network compresses to 4 rows instead of 8.
+   Tablet (640-1023): brand spans full width on top, then 3 link
+                     columns side-by-side; lists collapse to 1-col since
+                     each section is already only ~200px wide.
+   Desktop (≥1024):  classic 4-col footer, brand wider on the left,
+                     three single-column lists on the right.
+*/
+.footer-pad { padding-top: 3rem; padding-bottom: 2.5rem; }
+.footer-grid {
+  display: grid;
+  gap: 36px 32px;
+  grid-template-columns: 1fr;
+}
+.footer-col p { margin: 0; }
+.footer-list {
+  margin: 16px 0 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px 20px;
+  font-size: 13px;
+}
+.footer-bottom {
+  margin-top: 2.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid rgba(255,255,255,0.10);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+}
+@media (min-width: 640px) {
+  .footer-pad { padding-top: 3.5rem; padding-bottom: 3rem; }
+  .footer-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 36px 40px;
+  }
+  .footer-brand { grid-column: 1 / -1; max-width: 540px; }
+  .footer-list { grid-template-columns: 1fr; gap: 10px; }
+  .footer-bottom { flex-direction: row; align-items: center; justify-content: space-between; gap: 16px; }
+}
+@media (min-width: 1024px) {
+  .footer-pad { padding-top: 4rem; padding-bottom: 3.5rem; }
+  .footer-grid {
+    grid-template-columns: 1.5fr 1fr 1fr 1fr;
+    gap: 48px;
+  }
+  .footer-brand { grid-column: auto; max-width: none; }
+}
+
+/* ── RESPONSIVE PATTERN LIBRARY — single source of truth.
+   Every multi-column card / grid / table on the site uses one of these.
+   Three breakpoints across the system: 0, 640px, 1024px.
+   Mobile is the default; larger viewports add columns on top.
+*/
+
+/* Split card: image (or SVG) on the left, body on the right at desktop;
+   stacks vertically on mobile. The image side becomes a top banner with
+   a sane height instead of dominating the screen. */
+.split-card { display: grid; grid-template-columns: 1fr; }
+.split-card > .split-media { min-width: 0; min-height: 200px; }
+.split-card > .split-body  { min-width: 0; }
+@media (min-width: 640px) {
+  .split-card[data-media="240"] { grid-template-columns: minmax(0, 240px) minmax(0, 1fr); }
+  .split-card[data-media="280"] { grid-template-columns: minmax(0, 280px) minmax(0, 1fr); }
+  .split-card[data-media="420"] { grid-template-columns: minmax(0, 420px) minmax(0, 1fr); }
+  .split-card[data-media="ratio"] { grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); }
+  .split-card > .split-media { min-height: 0; }
+}
+
+/* Inline KV row: fixed label width on desktop, stacks on mobile. */
+.kv-row { display: grid; grid-template-columns: 1fr; gap: 2px; }
+@media (min-width: 480px) {
+  .kv-row { grid-template-columns: 120px 1fr; gap: 0; align-items: baseline; }
+}
+
+/* N-up cell grid that scales 1 → 2 → N. Use data-cols to pick the desktop count. */
+.cell-grid { display: grid; grid-template-columns: 1fr; gap: 14px; }
+@media (min-width: 480px) {
+  .cell-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (min-width: 640px) {
+  .cell-grid[data-cols="3"] { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .cell-grid[data-cols="4"] { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (min-width: 1024px) {
+  .cell-grid[data-cols="4"] { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
+
+/* Three-column "row table" (label | meaning | context). On mobile each row
+   becomes a stacked card with inline mini-labels (same playbook as .dasha-row). */
+.row-table { width: 100%; }
+.row-table .row-table-head { display: none; }
+.row-table .row-table-row {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 6px;
+  padding: 16px 18px;
+  border-bottom: 1px solid var(--cream-3);
+}
+.row-table .row-table-row:last-child { border-bottom: none; }
+.row-table .row-label { font-size: 9.5px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.14em; color: var(--on-light-4); margin-bottom: 2px; }
+@media (min-width: 768px) {
+  .row-table .row-table-head {
+    display: grid;
+    grid-template-columns: 200px 1fr 1fr;
+    gap: 16px;
+    padding: 16px 22px;
+    background: var(--cream-2);
+    border-bottom: 1px solid var(--border);
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--on-light-3);
+  }
+  .row-table .row-table-row {
+    grid-template-columns: 200px 1fr 1fr;
+    gap: 16px;
+    padding: 18px 22px;
+    align-items: start;
+  }
+  .row-table .row-label { display: none; }
+}
+
+/* Author card (in-post). Mobile: avatar on top, body below full width.
+   Desktop: avatar left + body right. Avatar size held constant; only the
+   axis flips. Chips/meta inside body wrap inline at every breakpoint. */
+.author-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 18px;
+  padding: 1.5rem 1.25rem;
+}
+.author-card > .author-card-body { width: 100%; min-width: 0; }
+@media (min-width: 640px) {
+  .author-card { flex-direction: row; align-items: flex-start; gap: 28px; padding: 2rem; }
+  .author-card > .author-card-body { flex: 1 1 0%; width: auto; }
+}
+
+/* Author profile hero (full page). Same pattern, larger avatar, centred
+   on desktop because the bio is short next to a 156px portrait. */
+.author-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 22px;
+}
+.author-hero > .author-hero-body { width: 100%; min-width: 0; }
+@media (min-width: 640px) {
+  .author-hero { flex-direction: row; align-items: center; gap: 36px; }
+  .author-hero > .author-hero-body { flex: 1 1 0%; width: auto; }
+}
+
+/* ── RELATED POSTS GRID — explicit breakpoints, predictable stacking.
+   Mobile (<640):    1 col, cards full width, titles wrap normally
+   Tablet (640-1023): 2 cols
+   Desktop (≥1024):   3 cols
+*/
+.related-posts-grid {
+  display: grid;
+  gap: 18px;
+  grid-template-columns: 1fr;
+}
+@media (min-width: 640px) {
+  .related-posts-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (min-width: 1024px) {
+  .related-posts-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; }
+}
+
+/* Yantra body must allow long words to break inside narrow columns. */
+.yantra-body { min-width: 0; }
+.yantra-body p, .yantra-body div { overflow-wrap: anywhere; }
+.yantra-kv { min-width: 0; }
+@media (max-width: 639px) {
+  .yantra-body { padding: 1.5rem 1.25rem !important; }
+  .yantra-card .diamond-bg { min-height: 200px !important; padding: 1.75rem 1rem !important; }
 }
 .hero-tag-link:hover {
   background: rgba(232,132,10,0.20) !important;

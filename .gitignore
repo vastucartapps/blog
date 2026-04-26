@@ -70,6 +70,9 @@ next-env.d.ts
 # Local screenshots from QA passes
 /screenshots/
 
+# Local issue triage — screenshots, repro notes from QA passes
+/issues/
+
 # Reference template — local only design references
 /reference/
 

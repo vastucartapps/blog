@@ -206,7 +206,7 @@ export default function ClassicalSourcesPage() {
         <section className="diamond-bg relative overflow-hidden">
           <div
             className="wrap-hero-lg relative z-10"
-            style={{ paddingBlock: "3.5rem" }}
+            style={{ paddingBlock: "clamp(2rem, 5vw, 3.5rem)" }}
           >
             <nav
               aria-label="Breadcrumb"
@@ -276,7 +276,7 @@ export default function ClassicalSourcesPage() {
           </div>
         </section>
 
-        <section className="wrap-article" style={{ paddingBlock: "4rem" }}>
+        <section className="wrap-article" style={{ paddingBlock: "clamp(2.25rem, 5vw, 4rem)" }}>
           {DOMAINS.map((domain) => (
             <div key={domain} style={{ marginBottom: "3.5rem" }}>
               <p

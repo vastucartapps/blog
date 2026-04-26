@@ -126,7 +126,7 @@ export function LagnaPillarHero({
   return (
     <section
       className="diamond-bg relative overflow-hidden"
-      style={{ backgroundColor: theme.heroBg, paddingBottom: "3.5rem" }}
+      style={{ backgroundColor: theme.heroBg, paddingBottom: "clamp(2rem, 5vw, 3.5rem)" }}
     >
       <span
         aria-hidden
@@ -214,7 +214,7 @@ export function LagnaPillarHero({
           style={{
             marginTop: 30,
             display: "grid",
-            gridTemplateColumns: "repeat(auto-fit, minmax(120px, 1fr))",
+            gridTemplateColumns: "repeat(auto-fit, minmax(min(100%, 120px), 1fr))",
             gap: 16,
             padding: "1.25rem 1rem",
             borderRadius: 18,
@@ -290,7 +290,7 @@ export function LagnaPillarHero({
           <div
             style={{
               display: "grid",
-              gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))",
+              gridTemplateColumns: "repeat(auto-fill, minmax(min(100%, 260px), 1fr))",
               gap: 14,
             }}
           >

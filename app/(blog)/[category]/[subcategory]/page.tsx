@@ -116,7 +116,7 @@ export default async function SubcategoryPage({
         />
         <div
           className="wrap-wide"
-          style={{ paddingTop: "3.5rem", paddingBottom: "4rem" }}
+          style={{ paddingTop: "clamp(2rem, 5vw, 3.5rem)", paddingBottom: "clamp(2.25rem, 5vw, 4rem)" }}
         >
           <div style={{ marginBottom: "2.5rem" }}>
             <SubcategoryChips

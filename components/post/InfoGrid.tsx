@@ -60,7 +60,7 @@ export function InfoGrid({ eyebrow, heading, cards }: Props) {
         style={{
           display: "grid",
           gap: 18,
-          gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))",
+          gridTemplateColumns: "repeat(auto-fit, minmax(min(100%, 280px), 1fr))",
         }}
       >
         {cards.map((c, i) => (
@@ -145,7 +145,8 @@ export function InfoGrid({ eyebrow, heading, cards }: Props) {
                     style={{
                       fontWeight: 600,
                       textAlign: "right",
-                      maxWidth: "60%",
+                      minWidth: 0,
+                      overflowWrap: "anywhere",
                       color:
                         kv.tone === "good"
                           ? "#1a6b2a"

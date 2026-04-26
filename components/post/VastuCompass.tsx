@@ -77,9 +77,9 @@ export function VastuCompass({
       <SectionHeader eyebrow={eyebrow} heading={heading} accentColor={theme.accentDeep} />
 
       <div
+        className="split-card"
+        data-media="420"
         style={{
-          display: "grid",
-          gridTemplateColumns: "minmax(0, 420px) minmax(0, 1fr)",
           gap: 36,
           padding: "2rem",
           borderRadius: 18,
@@ -89,10 +89,11 @@ export function VastuCompass({
         }}
       >
         <svg
+          className="split-media"
           width="100%"
           viewBox="0 0 400 400"
           aria-label={`Vastu compass diagram highlighting ${DIR_NAMES[highlight_direction]}`}
-          style={{ maxWidth: 420 }}
+          style={{ maxWidth: 420, height: "auto" }}
         >
           {/* Outer circle */}
           <circle cx={cx} cy={cy} r={radius} fill="var(--cream-2)" stroke="var(--border-mid)" strokeWidth="1.5" />
@@ -182,7 +183,7 @@ export function VastuCompass({
           </text>
         </svg>
 
-        <div style={{ minWidth: 0 }}>
+        <div className="split-body">
           {highlightZone ? (
             <div
               style={{
@@ -216,12 +217,9 @@ export function VastuCompass({
                 {highlightZone.direction}
               </div>
               <div
-                style={{
-                  marginTop: 12,
-                  display: "grid",
-                  gridTemplateColumns: "repeat(3, minmax(0, 1fr))",
-                  gap: 14,
-                }}
+                className="cell-grid"
+                data-cols="3"
+                style={{ marginTop: 12, gap: 14 }}
               >
                 <KV label="Deity" value={highlightZone.deity} />
                 <KV label="Element" value={highlightZone.element} />
@@ -245,9 +243,8 @@ export function VastuCompass({
             {zones.map((z) => (
               <li
                 key={z.direction}
+                className="kv-row"
                 style={{
-                  display: "grid",
-                  gridTemplateColumns: "120px 1fr",
                   padding: "9px 0",
                   borderBottom: "1px solid var(--cream-3)",
                   fontSize: 12.5,

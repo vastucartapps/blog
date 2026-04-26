@@ -118,7 +118,7 @@ export default async function CategoryPage({
         />
         <div
           className="wrap-wide"
-          style={{ paddingTop: "3.5rem", paddingBottom: "4rem" }}
+          style={{ paddingTop: "clamp(2rem, 5vw, 3.5rem)", paddingBottom: "clamp(2.25rem, 5vw, 4rem)" }}
         >
           <div style={{ marginBottom: "2rem" }}>
             <a
@@ -157,7 +157,7 @@ export default async function CategoryPage({
               id="faq"
               style={{
                 marginTop: "5rem",
-                paddingTop: "3rem",
+                paddingTop: "clamp(1.75rem, 4vw, 3rem)",
                 borderTop: "1px solid var(--border)",
               }}
             >

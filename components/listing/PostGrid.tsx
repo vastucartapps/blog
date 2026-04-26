@@ -34,7 +34,7 @@ export function PostGrid({ posts, categoryLabel, emptyTitle, emptySub }: Props) 
           style={{
             display: "grid",
             gap: 18,
-            gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))",
+            gridTemplateColumns: "repeat(auto-fit, minmax(min(100%, 280px), 1fr))",
           }}
         >
           {rest.map((p) => (
@@ -57,8 +57,6 @@ function FeaturedPostCard({
     <Link
       href={`/${post.category}/${post.subcategory}/${post.slug}`}
       style={{
-        display: "grid",
-        gridTemplateColumns: "minmax(0, 1.1fr) minmax(0, 1fr)",
         overflow: "hidden",
         borderRadius: 18,
         border: "1px solid var(--border)",
@@ -66,12 +64,13 @@ function FeaturedPostCard({
         textDecoration: "none",
         boxShadow: "0 24px 60px -28px rgba(1,63,71,0.30)",
       }}
-      className="featured-card group"
+      className="featured-card split-card group"
+      data-media="ratio"
     >
       <div
-        className="diamond-bg relative"
+        className="diamond-bg split-media relative"
         style={{
-          minHeight: 320,
+          minHeight: 240,
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
@@ -110,6 +109,7 @@ function FeaturedPostCard({
       </div>
 
       <div
+        className="split-body"
         style={{
           display: "flex",
           flexDirection: "column",

@@ -103,8 +103,8 @@ export function HomeHero({ totalPosts, totalCategories }: Props) {
             style={{
               display: "inline-flex",
               alignItems: "center",
-              gap: "3rem",
-              padding: "1rem 2rem",
+              gap: "clamp(1rem, 4vw, 3rem)",
+              padding: "1rem clamp(1rem, 3vw, 2rem)",
               borderRadius: 14,
               border: "1px solid rgba(255,255,255,0.15)",
               background: "rgba(255,255,255,0.08)",

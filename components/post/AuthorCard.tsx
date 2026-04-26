@@ -26,18 +26,14 @@ export function AuthorCard({ author }: Props) {
       whileInView="visible"
       viewport={inViewConfig}
       variants={fadeInUp}
+      className="author-card"
       style={{
         marginTop: "4rem",
         marginBottom: "4rem",
-        display: "flex",
-        gap: 28,
-        alignItems: "flex-start",
-        padding: "2rem 2rem",
         borderRadius: 22,
         background: "#ffffff",
         border: "1px solid var(--border)",
         boxShadow: "0 22px 60px -32px rgba(1,63,71,0.25)",
-        flexWrap: "wrap",
       }}
     >
       <div
@@ -75,7 +71,7 @@ export function AuthorCard({ author }: Props) {
           profile.initials
         )}
       </div>
-      <div style={{ flex: 1, minWidth: 0 }}>
+      <div className="author-card-body">
         <div
           style={{
             fontFamily: "var(--font-display)",

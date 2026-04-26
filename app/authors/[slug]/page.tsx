@@ -120,14 +120,7 @@ export default async function AuthorPage({
               <span style={{ color: "rgba(255,255,255,0.75)" }}>{author.name}</span>
             </nav>
 
-            <div
-              style={{
-                display: "grid",
-                gridTemplateColumns: "auto 1fr",
-                gap: 36,
-                alignItems: "center",
-              }}
-            >
+            <div className="author-hero">
               <div
                 style={{
                   width: 156,
@@ -164,7 +157,7 @@ export default async function AuthorPage({
                   author.initials
                 )}
               </div>
-              <div style={{ minWidth: 0 }}>
+              <div className="author-hero-body">
                 <span
                   style={{
                     display: "inline-flex",
@@ -248,7 +241,7 @@ export default async function AuthorPage({
         </section>
 
         {/* Specialisation + recent posts */}
-        <section className="wrap-wide" style={{ paddingTop: "4rem", paddingBottom: "5rem" }}>
+        <section className="wrap-wide" style={{ paddingTop: "clamp(2.25rem, 5vw, 4rem)", paddingBottom: "clamp(2.5rem, 6vw, 5rem)" }}>
           <div style={{ marginBottom: "2rem" }}>
             <p
               style={{
@@ -326,7 +319,7 @@ export default async function AuthorPage({
                   borderRadius: 16,
                   border: "1px dashed var(--border-mid)",
                   background: "var(--cream-2)",
-                  padding: "3rem 2rem",
+                  padding: "clamp(1.75rem, 4vw, 3rem) clamp(1.25rem, 3vw, 2rem)",
                   textAlign: "center",
                   color: "var(--on-light-3)",
                   fontSize: 14,

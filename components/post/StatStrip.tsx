@@ -24,7 +24,7 @@ export function StatStrip({ cells, category }: Props) {
         marginTop: "2.5rem",
         marginBottom: "2.5rem",
         display: "grid",
-        gridTemplateColumns: "repeat(auto-fit, minmax(140px, 1fr))",
+        gridTemplateColumns: "repeat(auto-fit, minmax(min(100%, 140px), 1fr))",
         overflow: "hidden",
         borderRadius: 16,
         border: "1px solid var(--border)",

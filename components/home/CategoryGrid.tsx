@@ -31,7 +31,7 @@ const accentByColor: Record<string, { bg: string; border: string; ico: string }>
 
 export function CategoryGrid({ postCounts }: Props) {
   return (
-    <section className="wrap-wide" style={{ paddingTop: "5.5rem", paddingBottom: "5.5rem" }}>
+    <section className="wrap-wide" style={{ paddingTop: "clamp(2.5rem, 6vw, 5.5rem)", paddingBottom: "clamp(2.5rem, 6vw, 5.5rem)" }}>
       <div style={{ marginBottom: "2.5rem", textAlign: "center" }}>
         <p
           style={{
@@ -73,7 +73,7 @@ export function CategoryGrid({ postCounts }: Props) {
         style={{
           display: "grid",
           gap: 22,
-          gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))",
+          gridTemplateColumns: "repeat(auto-fit, minmax(min(100%, 260px), 1fr))",
         }}
       >
         {CATEGORIES.map((c) => {

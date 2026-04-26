@@ -78,7 +78,7 @@ export function GemstoneSection({
         style={{
           display: "grid",
           gap: 18,
-          gridTemplateColumns: "repeat(auto-fit, minmax(240px, 1fr))",
+          gridTemplateColumns: "repeat(auto-fit, minmax(min(100%, 240px), 1fr))",
         }}
       >
         {cards.map((card, i) => {

@@ -69,7 +69,7 @@ export function RudrakshaSection({ eyebrow, heading, introHtml, beads }: Props) 
         style={{
           display: "grid",
           gap: 16,
-          gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))",
+          gridTemplateColumns: "repeat(auto-fit, minmax(min(100%, 280px), 1fr))",
         }}
       >
         {beads.map((b) => (

@@ -51,7 +51,7 @@ export async function MuhurtaTimeline({
         <div
           style={{
             display: "grid",
-            gridTemplateColumns: "repeat(auto-fit, minmax(140px, 1fr))",
+            gridTemplateColumns: "repeat(auto-fit, minmax(min(100%, 140px), 1fr))",
             gap: 18,
             marginBottom: 26,
             paddingBottom: 22,

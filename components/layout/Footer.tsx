@@ -11,18 +11,31 @@ const SOCIALS = [
   { label: "Etsy", url: "https://vastucart.etsy.com" },
 ];
 
+const EDITORIAL = [
+  { label: "Authors", href: "/authors" },
+  { label: "Pt. Raghav Sharma", href: "/authors/pt-raghav-sharma" },
+  { label: "VastuCart Editorial", href: "/authors/vastucart-editorial" },
+  { label: "Editorial Standards", href: "/editorial-standards" },
+  { label: "Classical Sources", href: "/classical-sources" },
+];
+
+const linkStyle = { color: "var(--on-dark-3)" } as const;
+
+const headingStyle = {
+  fontSize: 10,
+  fontWeight: 700,
+  letterSpacing: "0.14em",
+  textTransform: "uppercase",
+  color: "var(--saffron-light)",
+  margin: 0,
+} as const;
+
 export function Footer() {
   return (
     <footer className="diamond-bg" style={{ marginTop: "6rem" }}>
-      <div className="wrap-page" style={{ paddingTop: "3.5rem", paddingBottom: "3.5rem" }}>
-        <div
-          style={{
-            display: "grid",
-            gap: 48,
-            gridTemplateColumns: "repeat(auto-fit, minmax(240px, 1fr))",
-          }}
-        >
-          <div>
+      <div className="wrap-page footer-pad">
+        <div className="footer-grid">
+          <div className="footer-brand">
             <Link href="/" style={{ display: "inline-flex", alignItems: "center", gap: 10 }}>
               <Image
                 src="/VastuCartLogo.png"
@@ -46,7 +59,7 @@ export function Footer() {
               className="verse"
               style={{
                 marginTop: 16,
-                maxWidth: 280,
+                maxWidth: 320,
                 fontSize: 13,
                 lineHeight: 1.65,
                 color: "var(--on-dark-2)",
@@ -56,35 +69,12 @@ export function Footer() {
             </p>
           </div>
 
-          <div>
-            <p
-              style={{
-                fontSize: 10,
-                fontWeight: 700,
-                letterSpacing: "0.14em",
-                textTransform: "uppercase",
-                color: "var(--saffron-light)",
-              }}
-            >
-              Explore
-            </p>
-            <ul
-              style={{
-                marginTop: 16,
-                display: "grid",
-                gridTemplateColumns: "1fr 1fr",
-                gap: "8px 24px",
-                fontSize: 13,
-                listStyle: "none",
-              }}
-            >
+          <div className="footer-col">
+            <p style={headingStyle}>Explore</p>
+            <ul className="footer-list">
               {CATEGORIES.map((c) => (
                 <li key={c.id}>
-                  <Link
-                    href={`/${c.slug}`}
-                    style={{ color: "var(--on-dark-3)" }}
-                    className="hover:text-white"
-                  >
+                  <Link href={`/${c.slug}`} style={linkStyle} className="hover:text-white">
                     {c.label}
                   </Link>
                 </li>
@@ -92,35 +82,12 @@ export function Footer() {
             </ul>
           </div>
 
-          <div>
-            <p
-              style={{
-                fontSize: 10,
-                fontWeight: 700,
-                letterSpacing: "0.14em",
-                textTransform: "uppercase",
-                color: "var(--saffron-light)",
-              }}
-            >
-              VastuCart Network
-            </p>
-            <ul
-              style={{
-                marginTop: 16,
-                display: "flex",
-                flexDirection: "column",
-                gap: 8,
-                fontSize: 13,
-                listStyle: "none",
-              }}
-            >
+          <div className="footer-col">
+            <p style={headingStyle}>VastuCart Network</p>
+            <ul className="footer-list">
               {Object.values(VASTUCART_NETWORK).slice(0, 8).map((node) => (
                 <li key={node.domain}>
-                  <Link
-                    href={node.url}
-                    style={{ color: "var(--on-dark-3)" }}
-                    className="hover:text-white"
-                  >
+                  <Link href={node.url} style={linkStyle} className="hover:text-white">
                     {node.label}
                   </Link>
                 </li>
@@ -128,90 +95,22 @@ export function Footer() {
             </ul>
           </div>
 
-          <div>
-            <p
-              style={{
-                fontSize: 10,
-                fontWeight: 700,
-                letterSpacing: "0.14em",
-                textTransform: "uppercase",
-                color: "var(--saffron-light)",
-              }}
-            >
-              Editorial Trust
-            </p>
-            <ul
-              style={{
-                marginTop: 16,
-                display: "flex",
-                flexDirection: "column",
-                gap: 8,
-                fontSize: 13,
-                listStyle: "none",
-              }}
-            >
-              <li>
-                <Link
-                  href="/authors"
-                  style={{ color: "var(--on-dark-3)" }}
-                  className="hover:text-white"
-                >
-                  Authors
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/authors/pt-raghav-sharma"
-                  style={{ color: "var(--on-dark-3)" }}
-                  className="hover:text-white"
-                >
-                  Pt. Raghav Sharma
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/authors/vastucart-editorial"
-                  style={{ color: "var(--on-dark-3)" }}
-                  className="hover:text-white"
-                >
-                  VastuCart Editorial
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/editorial-standards"
-                  style={{ color: "var(--on-dark-3)" }}
-                  className="hover:text-white"
-                >
-                  Editorial Standards
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/classical-sources"
-                  style={{ color: "var(--on-dark-3)" }}
-                  className="hover:text-white"
-                >
-                  Classical Sources
-                </Link>
-              </li>
+          <div className="footer-col">
+            <p style={headingStyle}>Editorial Trust</p>
+            <ul className="footer-list">
+              {EDITORIAL.map((e) => (
+                <li key={e.href}>
+                  <Link href={e.href} style={linkStyle} className="hover:text-white">
+                    {e.label}
+                  </Link>
+                </li>
+              ))}
             </ul>
           </div>
         </div>
 
-        <div
-          style={{
-            marginTop: "3rem",
-            paddingTop: "1.5rem",
-            borderTop: "1px solid rgba(255,255,255,0.10)",
-            display: "flex",
-            flexWrap: "wrap",
-            gap: 16,
-            alignItems: "center",
-            justifyContent: "space-between",
-          }}
-        >
-          <p style={{ fontSize: 11, color: "var(--on-dark-4)" }}>
+        <div className="footer-bottom">
+          <p style={{ fontSize: 11, color: "var(--on-dark-4)", margin: 0 }}>
             &copy; {new Date().getFullYear()} VastuCart. All rights reserved. Educational purposes only.
           </p>
           <ul
@@ -221,6 +120,8 @@ export function Footer() {
               gap: 16,
               fontSize: 11,
               listStyle: "none",
+              margin: 0,
+              padding: 0,
             }}
           >
             {SOCIALS.map((s) => (
@@ -229,7 +130,7 @@ export function Footer() {
                   href={s.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  style={{ color: "var(--on-dark-3)" }}
+                  style={linkStyle}
                   className="hover:text-white"
                 >
                   {s.label}

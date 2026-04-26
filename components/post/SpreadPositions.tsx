@@ -31,6 +31,7 @@ export function SpreadPositions({
       <SectionHeader eyebrow={eyebrow} heading={heading} accentColor={theme.accentDeep} />
 
       <div
+        className="row-table"
         style={{
           overflow: "hidden",
           borderRadius: 18,
@@ -39,21 +40,7 @@ export function SpreadPositions({
           boxShadow: "0 22px 60px -32px rgba(1,63,71,0.30)",
         }}
       >
-        <div
-          style={{
-            display: "grid",
-            gridTemplateColumns: "200px 1fr 1fr",
-            padding: "16px 22px",
-            background: "var(--cream-2)",
-            borderBottom: "1px solid var(--border)",
-            fontSize: 10,
-            fontWeight: 700,
-            textTransform: "uppercase",
-            letterSpacing: "0.12em",
-            color: "var(--on-light-3)",
-            gap: 16,
-          }}
-        >
+        <div className="row-table-head">
           <div>Position</div>
           <div>What this card means here</div>
           <div>Context</div>
@@ -61,32 +48,33 @@ export function SpreadPositions({
         {positions.map((p, i) => (
           <div
             key={`${p.name}-${i}`}
-            style={{
-              display: "grid",
-              gridTemplateColumns: "200px 1fr 1fr",
-              padding: "18px 22px",
-              borderBottom:
-                i === positions.length - 1 ? "none" : "1px solid var(--cream-3)",
-              fontSize: 13.5,
-              alignItems: "start",
-              gap: 16,
-            }}
+            className="row-table-row"
+            style={{ fontSize: 13.5 }}
           >
-            <div
-              style={{
-                fontFamily: "var(--font-display)",
-                fontSize: 16,
-                fontWeight: 600,
-                color: "var(--on-light-1)",
-              }}
-            >
-              {p.name}
+            <div>
+              <div className="row-label">Position</div>
+              <div
+                style={{
+                  fontFamily: "var(--font-display)",
+                  fontSize: 16,
+                  fontWeight: 600,
+                  color: "var(--on-light-1)",
+                }}
+              >
+                {p.name}
+              </div>
             </div>
-            <div style={{ color: "var(--on-light-2)", lineHeight: 1.6 }}>
-              {p.meaning}
+            <div>
+              <div className="row-label">What this card means here</div>
+              <div style={{ color: "var(--on-light-2)", lineHeight: 1.6 }}>
+                {p.meaning}
+              </div>
             </div>
-            <div style={{ color: "var(--on-light-3)", lineHeight: 1.6, fontSize: 12.5 }}>
-              {p.context}
+            <div>
+              <div className="row-label">Context</div>
+              <div style={{ color: "var(--on-light-3)", lineHeight: 1.6, fontSize: 12.5 }}>
+                {p.context}
+              </div>
             </div>
           </div>
         ))}

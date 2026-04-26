@@ -63,7 +63,6 @@ export function YantraSection({ eyebrow, heading, yantra }: Props) {
           background: "#ffffff",
           boxShadow: "0 22px 60px -32px rgba(1,63,71,0.30)",
           display: "grid",
-          gridTemplateColumns: "minmax(0, 280px) minmax(0, 1fr)",
         }}
         className="yantra-card"
       >
@@ -103,13 +102,14 @@ export function YantraSection({ eyebrow, heading, yantra }: Props) {
             <Icon name="yantra" size={160} />
           </div>
         </div>
-        <div style={{ padding: "2rem 2rem" }}>
+        <div className="yantra-body" style={{ padding: "2rem 2rem", minWidth: 0 }}>
           <div
             style={{
               fontFamily: "var(--font-display)",
               fontSize: 24,
               fontWeight: 600,
               color: "var(--on-light-1)",
+              overflowWrap: "anywhere",
             }}
           >
             {yantra.name}
@@ -130,10 +130,11 @@ export function YantraSection({ eyebrow, heading, yantra }: Props) {
             {yantra.description}
           </p>
           <div
+            className="yantra-kv"
             style={{
               marginTop: 20,
               display: "grid",
-              gridTemplateColumns: "repeat(auto-fit, minmax(140px, 1fr))",
+              gridTemplateColumns: "repeat(auto-fit, minmax(min(100%, 140px), 1fr))",
               gap: 16,
               padding: "16px 18px",
               borderRadius: 14,

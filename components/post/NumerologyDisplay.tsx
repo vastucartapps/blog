@@ -33,7 +33,7 @@ export function NumerologyDisplay({
       <div
         className="diamond-bg relative overflow-hidden"
         style={{
-          padding: "3rem 2.5rem",
+          padding: "clamp(2rem, 4vw, 3rem) clamp(1.25rem, 3vw, 2.5rem)",
           borderRadius: 22,
           backgroundColor: theme.heroBg,
           boxShadow: "0 28px 72px -32px rgba(1,63,71,0.40)",
@@ -85,7 +85,7 @@ export function NumerologyDisplay({
           <div
             style={{
               fontFamily: "var(--font-display)",
-              fontSize: 140,
+              fontSize: "clamp(80px, 22vw, 140px)",
               lineHeight: 1,
               fontWeight: 600,
               color: theme.accentColor,
@@ -111,12 +111,12 @@ export function NumerologyDisplay({
         </div>
 
         <div
+          className="cell-grid"
+          data-cols="4"
           style={{
             position: "relative",
             zIndex: 1,
             marginTop: 38,
-            display: "grid",
-            gridTemplateColumns: "repeat(4, minmax(0, 1fr))",
             gap: 16,
             paddingTop: 28,
             borderTop: "1px solid rgba(255,255,255,0.10)",

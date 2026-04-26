@@ -32,10 +32,9 @@ export function TarotCardVisual({
       <SectionHeader eyebrow={eyebrow} heading={heading} accentColor={theme.accentDeep} />
 
       <div
-        className="diamond-bg relative overflow-hidden"
+        className="split-card diamond-bg relative overflow-hidden"
+        data-media="240"
         style={{
-          display: "grid",
-          gridTemplateColumns: "minmax(0, 240px) minmax(0, 1fr)",
           gap: 36,
           padding: "2.5rem",
           borderRadius: 22,
@@ -56,6 +55,7 @@ export function TarotCardVisual({
           }}
         />
         <div
+          className="split-media"
           style={{
             position: "relative",
             zIndex: 1,
@@ -84,7 +84,7 @@ export function TarotCardVisual({
               <div
                 style={{
                   fontFamily: "var(--font-display)",
-                  fontSize: 60,
+                  fontSize: "clamp(44px, 12vw, 60px)",
                   fontWeight: 600,
                   lineHeight: 1,
                 }}
@@ -117,7 +117,7 @@ export function TarotCardVisual({
           )}
         </div>
 
-        <div style={{ position: "relative", zIndex: 1, minWidth: 0 }}>
+        <div className="split-body" style={{ position: "relative", zIndex: 1 }}>
           <KeywordBlock
             label="Upright meaning"
             color={theme.accentColor}

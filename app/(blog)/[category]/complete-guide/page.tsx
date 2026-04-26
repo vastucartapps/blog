@@ -102,7 +102,7 @@ export default async function CategoryPillarPage({
       <main>
         <section
           className="diamond-bg relative overflow-hidden"
-          style={{ paddingBlock: "3.5rem" }}
+          style={{ paddingBlock: "clamp(2rem, 5vw, 3.5rem)" }}
         >
           <div className="wrap-hero-lg relative z-10">
             <nav
@@ -190,7 +190,7 @@ export default async function CategoryPillarPage({
           </div>
         </section>
 
-        <section className="wrap-article" style={{ paddingBlock: "4rem" }}>
+        <section className="wrap-article" style={{ paddingBlock: "clamp(2.25rem, 5vw, 4rem)" }}>
           {cat.subcategories.map((sub) => {
             const subPosts = posts.filter((p) => p.subcategory === sub.slug);
             if (subPosts.length === 0) return null;

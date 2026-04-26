@@ -155,7 +155,7 @@ export default async function PostPage({
             category={post.category}
           />
         )}
-        <main className="wrap-article" style={{ paddingBottom: "5rem" }}>
+        <main className="wrap-article" style={{ paddingBottom: "clamp(2.5rem, 6vw, 5rem)" }}>
           <BlockRenderer blocks={renderableContent} category={post.category} slug={post.slug} />
         </main>
       </article>

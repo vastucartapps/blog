@@ -88,7 +88,7 @@ export function AstroGlossary({
           margin: 0,
           padding: 0,
           display: "grid",
-          gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))",
+          gridTemplateColumns: "repeat(auto-fit, minmax(min(100%, 280px), 1fr))",
           gap: "12px 24px",
         }}
       >

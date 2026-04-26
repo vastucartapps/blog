@@ -54,16 +54,16 @@ export function CTAInline({ data }: Props) {
           display: "flex",
           flexWrap: "wrap",
           alignItems: "center",
-          gap: 28,
-          padding: "1.75rem 2rem",
+          gap: "clamp(16px, 2.5vw, 28px)",
+          padding: "clamp(1.25rem, 3vw, 1.75rem) clamp(1.25rem, 3vw, 2rem)",
         }}
       >
         <div
           style={{
             display: "flex",
             alignItems: "center",
-            gap: 20,
-            flex: "1 1 320px",
+            gap: "clamp(12px, 2vw, 20px)",
+            flex: "1 1 min(100%, 280px)",
             minWidth: 0,
           }}
         >

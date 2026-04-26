@@ -83,7 +83,7 @@ export default function AuthorsIndexPage() {
       <Header />
       <main>
         <section className="diamond-bg relative overflow-hidden">
-          <div className="wrap-hero-lg relative z-10" style={{ paddingBlock: "3.5rem" }}>
+          <div className="wrap-hero-lg relative z-10" style={{ paddingBlock: "clamp(2rem, 5vw, 3.5rem)" }}>
             <nav
               aria-label="Breadcrumb"
               style={{
@@ -160,7 +160,7 @@ export default function AuthorsIndexPage() {
           </div>
         </section>
 
-        <section className="wrap-wide" style={{ paddingBlock: "4rem" }}>
+        <section className="wrap-wide" style={{ paddingBlock: "clamp(2.25rem, 5vw, 4rem)" }}>
           <div
             style={{
               display: "grid",

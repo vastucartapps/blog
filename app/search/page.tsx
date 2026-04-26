@@ -84,7 +84,7 @@ export default async function SearchPage({
       <main>
         <section
           className="diamond-bg relative overflow-hidden"
-          style={{ paddingBlock: "3rem" }}
+          style={{ paddingBlock: "clamp(1.75rem, 4vw, 3rem)" }}
         >
           <div className="wrap-hero-lg relative z-10">
             <nav
@@ -135,7 +135,7 @@ export default async function SearchPage({
           </div>
         </section>
 
-        <section className="wrap-wide" style={{ paddingBlock: "3rem" }}>
+        <section className="wrap-wide" style={{ paddingBlock: "clamp(1.75rem, 4vw, 3rem)" }}>
           {q ? (
             hits.length > 0 ? (
               <>
@@ -212,7 +212,7 @@ export default async function SearchPage({
             ) : (
               <div
                 style={{
-                  padding: "3rem",
+                  padding: "clamp(1.5rem, 4vw, 3rem)",
                   textAlign: "center",
                   borderRadius: 14,
                   border: "1px dashed var(--border-mid)",
