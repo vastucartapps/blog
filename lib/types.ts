@@ -345,6 +345,13 @@ export type ContentBlock =
       credit?: string;
     }
   | {
+      type: "astro-glossary";
+      eyebrow?: string;
+      heading?: string;
+      intro_html?: string;
+      terms: { term: string; meaning: string }[];
+    }
+  | {
       type: "pull-quote";
       variant?: GemTone;
       text: string;

@@ -304,7 +304,31 @@
       "type": "prose",
       "eyebrow": "At a glance",
       "heading": "Mars in 9th house for Mesh Lagna, the quick reference",
-      "html": "<p>Mars in 9th house for Mesh Lagna is the classical Kshatriya dharma placement of the Aries ascendant catalogue. The ninth house from Mesh is Dhanu (Sagittarius), Guru's sign, and Mangal in Dhanu sits in a friendly sign because Jupiter is a classical friend of Mars, unlike the enemy-sign positions in Mithuna, Tula, Kumbha, or Kanya that the other Mars placements had to overcome. Two structural features define this combination. First, the 9th is a trikona (trine of dharma), and classical Parashara tradition treats any planet in a trine as carrying a blessing signature, particularly when the lagna lord itself occupies the trikona. Second, Mangal as the lagna lord in Dharma Bhava produces a native whose core identity is wired directly into dharmic effort, father relationship, foreign travel, higher learning, and the pursuit of righteousness through action. For Mesh specifically, there is a third layer to watch, Mangal is also the 8th lord, and 8L sitting in the 9H can occasionally affect the father's health or longevity which the practitioner must verify through secondary factors. This guide reads every layer of Mars in 9th house for Mesh Lagna natives: the trikona blessing, the Kshatriya dharma channel, the father signature, foreign travel outcomes, and the red coral protocol that works without hesitation for this placement.</p>"
+      "html": "<p>Mars in 9th house for Mesh Lagna is the classical Kshatriya dharma placement of the Aries ascendant catalogue. The ninth house from Mesh is Dhanu (Sagittarius), Guru's sign, and Mangal in Dhanu sits in a friendly sign because Jupiter is a classical friend of Mars, unlike the enemy-sign positions in Mithuna, Tula, Kumbha, or Kanya that the other Mars placements had to overcome. Two structural features define this combination. First, the 9th is a trikona (trine of dharma), and classical Parashara tradition treats any planet in a trine as carrying a blessing signature, particularly when the lagna lord itself occupies the trikona. Second, Mangal as the lagna lord in Dharma Bhava produces a native whose core identity is wired directly into dharmic effort, father relationship, foreign travel, higher learning, and the pursuit of righteousness through action. For Mesh specifically, there is a third layer to watch, Mangal is also the 8th lord, and <strong>lord of the 8th house</strong> (also called the 8L) sitting in the 9H can occasionally affect the father's health or longevity which the practitioner must verify through secondary factors. This guide reads every layer of Mars in 9th house for Mesh Lagna natives: the trikona blessing, the Kshatriya dharma channel, the father signature, foreign travel outcomes, and the red coral protocol that works without hesitation for this placement.</p>"
+    },
+    {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "8L",
+          "meaning": "Lord of the 8th house (Randhra Bhava). The planet that rules whichever sign sits in your 8th house, governing transformation, occult, and joint finances."
+        },
+        {
+          "term": "9H",
+          "meaning": "The 9th house, called Dharma Bhava, the seat of father, philosophy, and higher learning."
+        }
+      ]
     },
     {
       "type": "prose",

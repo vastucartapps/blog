@@ -301,11 +301,11 @@
       "type": "scannable-prose",
       "eyebrow": "At a glance",
       "heading": "Mercury in 8th house for Mesh Lagna, the quick reference",
-      "lead_html": "<p>Carrying <strong>Budha in the eighth house</strong> of a Mesh chart? You hold a complex but often productive placement that classical tradition reads through the occult-research lens. The 8H itself is hidden knowledge territory, and Mercury's analytical capacity meets that territory in a way that converts difficulty into investigative mastery for natives who accept the depth.</p>",
+      "lead_html": "<p>Carrying <strong>Budha in the eighth house</strong> of a Mesh chart? You hold a complex but often productive placement that classical tradition reads through the occult-research lens. The <strong>8th house</strong> (called <em>Randhra Bhava</em>, the house of transformation, occult, and joint finances) itself is hidden knowledge territory, and Mercury's analytical capacity meets that territory in a way that converts difficulty into investigative mastery for natives who accept the depth.</p>",
       "subsections": [
         {
           "h3": "Why the dual 3L and 6L matters",
-          "html": "<p>For Aries natives Budha rules <em>Mithuna (3rd)</em> and <em>Kanya (6th)</em>. Mercury is therefore both the <strong>3L upachaya lord</strong> and the <strong>6L dushthana lord</strong> for Mesh. Both rulerships arrive in the placement together.</p><ul><li><strong>3L contribution:</strong> auspicious upachaya, communication, courage, authorship.</li><li><strong>6L contribution:</strong> dushthana, service, debts, daily obligation.</li><li><strong>8H placement:</strong> transformation, hidden matters, joint resources, in-laws.</li></ul><p>The 3L upachaya support partly compensates for the 6L difficulty, and the 8H itself is a moksha trikona that converts intellectual work into research depth.</p>"
+          "html": "<p>For Aries natives Budha rules <em>Mithuna (3rd)</em> and <em>Kanya (6th)</em>. Mercury is therefore both the <strong><strong>lord of the 3rd house</strong> (also called the 3L) upachaya lord</strong> and the <strong><strong>lord of the 6th house</strong> (also called the 6L) dushthana lord</strong> for Mesh. Both rulerships arrive in the placement together.</p><ul><li><strong>3L contribution:</strong> auspicious upachaya, communication, courage, authorship.</li><li><strong>6L contribution:</strong> dushthana, service, debts, daily obligation.</li><li><strong>8H placement:</strong> transformation, hidden matters, joint resources, in-laws.</li></ul><p>The 3L upachaya support partly compensates for the 6L difficulty, and the 8H itself is a moksha trikona that converts intellectual work into research depth.</p>"
         },
         {
           "h3": "Why the Vrishchika sign reading matters",
@@ -321,6 +321,34 @@
       "type": "pull-quote",
       "variant": "rose",
       "text": "When the analytical lord sits in the transformation house of the scorpion's sign, the native does not lose their intelligence. They send it underground. The mind learns to read what other minds refuse to look at."
+    },
+    {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "3L",
+          "meaning": "Lord of the 3rd house (Parakrama Bhava). The planet that rules whichever sign sits in your 3rd house, governing courage, effort, and younger siblings."
+        },
+        {
+          "term": "6L",
+          "meaning": "Lord of the 6th house (Ripu Bhava). The planet that rules whichever sign sits in your 6th house, governing enemies, debts, disease, and service."
+        },
+        {
+          "term": "8H",
+          "meaning": "The 8th house, called Randhra Bhava, the seat of transformation, occult, and joint finances."
+        }
+      ]
     },
     {
       "type": "image-figure",

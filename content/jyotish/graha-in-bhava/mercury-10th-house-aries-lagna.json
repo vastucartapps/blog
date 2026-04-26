@@ -302,7 +302,39 @@
       "type": "prose",
       "eyebrow": "At a glance",
       "heading": "Mercury in 10th house for Mesh Lagna, the quick reference",
-      "html": "<p>If you carry Budha in the tenth house of a Mesh chart, you hold one of the cleanest professional Mercury placements in the entire Aries ascendant catalogue, because the placement combines two structural strengths that both work in the same direction. The tenth house from Mesh is Makara (Capricorn), ruled by Shani, and the Mercury-Saturn relationship is classical friendship. Both planets share a fundamental orientation toward structure, system, and discipline that other planetary pairs do not match, and a Mercury in Saturn's sign expresses through the Saturnian operating system without internal friction. The friendly Makara sign therefore gives the placement comfortable functional output. The tenth house is also Karma Bhava, the strongest of the four kendras and the seat of career, public reputation, professional authority, and the visible result of the native's life in the world.</p><p>The second structural feature is the dual lordship Mercury carries for Mesh Lagna. Budha rules both Mithuna (3rd house) and Kanya (6th house), so any Mercury placement for Mesh natives carries a 3L plus 6L double role. Placing this dual-role planet in the 10H wires both the parakrama (self-effort, communication) signature of the third house and the service-and-routine signature of the sixth into the career zenith, and the practical effect is that the native's professional identity is built around both the assertive verbal output of the 3L and the disciplined daily service of the 6L simultaneously. Note that this is NOT Pancha Mahapurusha Bhadra Yoga, which requires Mercury exalted or in own sign in a kendra. Makara is friendly but neither own sign nor exaltation, so even though the placement sits in the strongest kendra, the named yoga does not form. The placement is structurally one of the strongest non-Bhadra Mercury configurations possible. This guide reads every layer of Mercury in 10th house for Mesh Lagna natives: the Mercury-Saturn friendship, the 3L plus 6L dual lordship in the career angle, the Saturnian speech vocation, and the emerald protocol that applies here with high confidence.</p>"
+      "html": "<p>If you carry Budha in the tenth house of a Mesh chart, you hold one of the cleanest professional Mercury placements in the entire Aries ascendant catalogue, because the placement combines two structural strengths that both work in the same direction. The tenth house from Mesh is Makara (Capricorn), ruled by Shani, and the Mercury-Saturn relationship is classical friendship. Both planets share a fundamental orientation toward structure, system, and discipline that other planetary pairs do not match, and a Mercury in Saturn's sign expresses through the Saturnian operating system without internal friction. The friendly Makara sign therefore gives the placement comfortable functional output. The tenth house is also Karma Bhava, the strongest of the four kendras and the seat of career, public reputation, professional authority, and the visible result of the native's life in the world.</p><p>The second structural feature is the dual lordship Mercury carries for Mesh Lagna. Budha rules both Mithuna (3rd house) and Kanya (6th house), so any Mercury placement for Mesh natives carries a <strong>lord of the 3rd house</strong> (also called the 3L) plus <strong>lord of the 6th house</strong> (also called the 6L) double role. Placing this dual-role planet in the 10H wires both the parakrama (self-effort, communication) signature of the third house and the service-and-routine signature of the sixth into the career zenith, and the practical effect is that the native's professional identity is built around both the assertive verbal output of the 3L and the disciplined daily service of the 6L simultaneously. Note that this is NOT Pancha Mahapurusha Bhadra Yoga, which requires Mercury exalted or in own sign in a kendra. Makara is friendly but neither own sign nor exaltation, so even though the placement sits in the strongest kendra, the named yoga does not form. The placement is structurally one of the strongest non-Bhadra Mercury configurations possible. This guide reads every layer of Mercury in 10th house for Mesh Lagna natives: the Mercury-Saturn friendship, the 3L plus 6L dual lordship in the career angle, the Saturnian speech vocation, and the emerald protocol that applies here with high confidence.</p>"
+    },
+    {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "3L",
+          "meaning": "Lord of the 3rd house (Parakrama Bhava). The planet that rules whichever sign sits in your 3rd house, governing courage, effort, and younger siblings."
+        },
+        {
+          "term": "4H",
+          "meaning": "The 4th house, called Sukha Sthana, the seat of mother, home, and emotional foundation."
+        },
+        {
+          "term": "6L",
+          "meaning": "Lord of the 6th house (Ripu Bhava). The planet that rules whichever sign sits in your 6th house, governing enemies, debts, disease, and service."
+        },
+        {
+          "term": "10H",
+          "meaning": "The 10th house, called Karma Bhava, the seat of career, public reputation, and authority."
+        }
+      ]
     },
     {
       "type": "prose",

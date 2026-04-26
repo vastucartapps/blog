@@ -302,7 +302,31 @@
       "type": "prose",
       "eyebrow": "At a glance",
       "heading": "Sun in 8th house for Mesh Lagna, the quick reference",
-      "html": "<p>If you carry Surya in the eighth house of a Mesh chart, you hold one of the more interpretively subtle Sun placements in the Aries ascendant catalogue because the reading balances a dushthana reduction against two structural strengths that classical practitioners should recognise. The eighth house from Mesh is Vrishchika (Scorpio), ruled by Mangal, and the Sun-Mars relationship is classical friendship. Both planets share the fire-warrior temperament, and Mars as the Mesh lagna lord is the native's own chart ruler, so placing the Sun in a friendly sign ruled by the lagna lord produces a specific compound benefit: the Sun's expression is welcomed by the sign, and the dispositor (Mars) also strengthens the chart's overall foundation. The 8th house is a classical dushthana of transformation, inheritance, hidden matters, and the death-and-rebirth themes, and the house-category rule does apply a baseline reduction, but the friendly sign softens it considerably from the fear-mongering version popular astrology produces.</p><p>The second structural feature is that Surya is the 5L for Mesh Lagna (he rules Simha, the 5th house). Placing the 5L trikona lord in the 8H dushthana creates a specific configuration classical texts describe with unusual care: the lord of creativity, purva-punya, and dharmic intelligence occupies the house of transformation, hidden knowledge, and research. Unlike the trikona-to-kendra raja yoga patterns (5L in 1, 4, 7, or 10), this trikona-in-dushthana placement does not produce the clean raja yoga reading, but it does produce a specific vocational signature: the native's creative intelligence finds its natural home in research, investigation, hidden-knowledge work, and the transformative vocations the 8th house rules. Classical texts do not describe this as a weakness. They describe it as a redirection of the 5L creative gifts into the specific territory the 8th house governs. This guide reads every layer of Sun in 8th house for Mesh Lagna natives: the Mars-dispositor friendliness, the 5L trikona-in-dushthana vocation, the hidden strengths pattern, and the ruby protocol that applies here with reasonable confidence once the dushthana softening is understood.</p>"
+      "html": "<p>If you carry Surya in the eighth house of a Mesh chart, you hold one of the more interpretively subtle Sun placements in the Aries ascendant catalogue because the reading balances a dushthana reduction against two structural strengths that classical practitioners should recognise. The eighth house from Mesh is Vrishchika (Scorpio), ruled by Mangal, and the Sun-Mars relationship is classical friendship. Both planets share the fire-warrior temperament, and Mars as the Mesh lagna lord is the native's own chart ruler, so placing the Sun in a friendly sign ruled by the lagna lord produces a specific compound benefit: the Sun's expression is welcomed by the sign, and the dispositor (Mars) also strengthens the chart's overall foundation. The 8th house is a classical dushthana of transformation, inheritance, hidden matters, and the death-and-rebirth themes, and the house-category rule does apply a baseline reduction, but the friendly sign softens it considerably from the fear-mongering version popular astrology produces.</p><p>The second structural feature is that Surya is the 5L for Mesh Lagna (he rules Simha, the 5th house). Placing the 5L trikona lord in the 8H dushthana creates a specific configuration classical texts describe with unusual care: the lord of creativity, purva-punya, and dharmic intelligence occupies the house of transformation, hidden knowledge, and research. Unlike the trikona-to-kendra raja yoga patterns (<strong>lord of the 5th house</strong> (also called the 5L) in 1, 4, 7, or 10), this trikona-in-dushthana placement does not produce the clean raja yoga reading, but it does produce a specific vocational signature: the native's creative intelligence finds its natural home in research, investigation, hidden-knowledge work, and the transformative vocations the 8th house rules. Classical texts do not describe this as a weakness. They describe it as a redirection of the 5L creative gifts into the specific territory the 8th house governs. This guide reads every layer of Sun in 8th house for Mesh Lagna natives: the Mars-dispositor friendliness, the 5L trikona-in-dushthana vocation, the hidden strengths pattern, and the ruby protocol that applies here with reasonable confidence once the dushthana softening is understood.</p>"
+    },
+    {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "5L",
+          "meaning": "Lord of the 5th house (Putra Bhava). The planet that rules whichever sign sits in your 5th house, governing creativity, children, and merit."
+        },
+        {
+          "term": "8H",
+          "meaning": "The 8th house, called Randhra Bhava, the seat of transformation, occult, and joint finances."
+        }
+      ]
     },
     {
       "type": "prose",

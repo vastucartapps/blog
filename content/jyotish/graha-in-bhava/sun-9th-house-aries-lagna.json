@@ -303,7 +303,31 @@
       "type": "prose",
       "eyebrow": "At a glance",
       "heading": "Sun in 9th house for Mesh Lagna, the quick reference",
-      "html": "<p>If you carry Surya in the ninth house of a Mesh chart, you hold one of the cleanest dharmic placements in the entire Aries ascendant catalogue, because three structural strengths converge here in the same direction. The ninth house from Mesh is Dhanu (Sagittarius), ruled by Guru, and Jupiter is Sun's classical friend. By sign relationship the placement is comfortable, neither exalted nor debilitated, holding mid-strength functional status that the friendly relationship supports throughout the chart. The ninth house is also Dharma Bhava, the trikona of dharma, father, teacher, long journeys, classical learning, purva punya (past life merit), and the inner orientation toward truth that the trikona houses collectively rule. Placing the soul karaka in the dharma trikona produces a native whose entire identity is wired toward the dharmic dimension of life from a young age, and the wiring is visible in the personality long before the native develops conscious philosophy about it.</p><p>The second structural feature is the trine-to-trine raja yoga the placement creates. For Mesh Lagna, Surya rules Simha (5th house) and is therefore the 5L. Placing the 5L in the 9H connects the two trikonas of dharma directly, because both the 5th and the 9th are trikona (trine) houses, and a trikona lord in another trikona house is one of the named raja yoga configurations classical texts call Lakshmi Yoga in some lineages and trine-to-trine raja yoga in others. The two trikonas reinforce each other rather than compete, and the result is a native whose creative intelligence (5L) flows directly into dharmic expression (9H), producing teachers, scholars, dharmic leaders, and creative practitioners whose work carries an unmistakable wisdom signature even when the technical craft is what other people notice first. This guide reads every layer of Sun in 9th house for Mesh Lagna natives: the friendly sign comfort, the trine-to-trine raja yoga, the father-as-teacher signature, and the ruby protocol that applies here with high confidence.</p>"
+      "html": "<p>If you carry Surya in the ninth house of a Mesh chart, you hold one of the cleanest dharmic placements in the entire Aries ascendant catalogue, because three structural strengths converge here in the same direction. The ninth house from Mesh is Dhanu (Sagittarius), ruled by Guru, and Jupiter is Sun's classical friend. By sign relationship the placement is comfortable, neither exalted nor debilitated, holding mid-strength functional status that the friendly relationship supports throughout the chart. The ninth house is also Dharma Bhava, the trikona of dharma, father, teacher, long journeys, classical learning, purva punya (past life merit), and the inner orientation toward truth that the trikona houses collectively rule. Placing the soul karaka in the dharma trikona produces a native whose entire identity is wired toward the dharmic dimension of life from a young age, and the wiring is visible in the personality long before the native develops conscious philosophy about it.</p><p>The second structural feature is the trine-to-trine raja yoga the placement creates. For Mesh Lagna, Surya rules Simha (5th house) and is therefore the 5L. Placing the 5L in the 9H connects the two trikonas of dharma directly, because both the 5th and the 9th are trikona (trine) houses, and a trikona lord in another trikona house is one of the named raja yoga configurations classical texts call Lakshmi Yoga in some lineages and trine-to-trine raja yoga in others. The two trikonas reinforce each other rather than compete, and the result is a native whose creative intelligence (<strong>lord of the 5th house</strong> (also called the 5L)) flows directly into dharmic expression (<strong>9th house</strong> (called <em>Dharma Bhava</em>, the house of father, philosophy, and higher learning)), producing teachers, scholars, dharmic leaders, and creative practitioners whose work carries an unmistakable wisdom signature even when the technical craft is what other people notice first. This guide reads every layer of Sun in 9th house for Mesh Lagna natives: the friendly sign comfort, the trine-to-trine raja yoga, the father-as-teacher signature, and the ruby protocol that applies here with high confidence.</p>"
+    },
+    {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "5L",
+          "meaning": "Lord of the 5th house (Putra Bhava). The planet that rules whichever sign sits in your 5th house, governing creativity, children, and merit."
+        },
+        {
+          "term": "9H",
+          "meaning": "The 9th house, called Dharma Bhava, the seat of father, philosophy, and higher learning."
+        }
+      ]
     },
     {
       "type": "prose",

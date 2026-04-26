@@ -310,7 +310,7 @@
         },
         {
           "h3": "Why the 4L in 6H is heavy but workable",
-          "html": "<p>For Aries natives Chandra is the <strong>4L kendra lord</strong> (she rules Karka, the 4th). Placing this kendra lord in the 6H dushthana is structurally heavy because the kendra rulership wants stability and the dushthana provides difficulty.</p><p>The mother and home rulership of the 4L lands in the seat of service, debts, and disease. Many natives report that their mother served in healthcare, social work, or community-care roles, and that emotional life involved early caregiving responsibilities.</p><p>The 6H is also classically an upachaya growth house. Like all upachaya placements, the difficulty becomes mastery across decades. The native who accepts the care vocation early finds their footing by the thirties; the native who resists it stays exhausted longer.</p>"
+          "html": "<p>For Aries natives Chandra is the <strong><strong>lord of the 4th house</strong> (also called the 4L) kendra lord</strong> (she rules Karka, the 4th). Placing this kendra lord in the 6H dushthana is structurally heavy because the kendra rulership wants stability and the dushthana provides difficulty.</p><p>The mother and home rulership of the 4L lands in the seat of service, debts, and disease. Many natives report that their mother served in healthcare, social work, or community-care roles, and that emotional life involved early caregiving responsibilities.</p><p>The <strong>6th house</strong> (called <em>Ripu Bhava</em>, the house of enemies, debts, disease, and service) is also classically an upachaya growth house. Like all upachaya placements, the difficulty becomes mastery across decades. The native who accepts the care vocation early finds their footing by the thirties; the native who resists it stays exhausted longer.</p>"
         },
         {
           "h3": "What this placement is not",
@@ -322,6 +322,30 @@
       "type": "pull-quote",
       "variant": "teal",
       "text": "When the home-and-mother lord sits in the service house of her friend's sign, the native learns care as a profession before they learn it as comfort. The healing vocation arrives because the chart was built to give it."
+    },
+    {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "4L",
+          "meaning": "Lord of the 4th house (Sukha Sthana). The planet that rules whichever sign sits in your 4th house, governing mother, home, and emotional foundation."
+        },
+        {
+          "term": "6H",
+          "meaning": "The 6th house, called Ripu Bhava, the seat of enemies, debts, disease, and service."
+        }
+      ]
     },
     {
       "type": "image-figure",

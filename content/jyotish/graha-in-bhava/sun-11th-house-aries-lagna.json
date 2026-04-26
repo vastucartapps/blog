@@ -302,7 +302,31 @@
       "type": "prose",
       "eyebrow": "At a glance",
       "heading": "Sun in 11th house for Mesh Lagna, the quick reference",
-      "html": "<p>If you carry Surya in the eleventh house of a Mesh chart, you hold a placement that combines two opposing structural forces in the same reading, and practitioners need to hold both to describe the placement accurately. The eleventh house from Mesh is Kumbha (Aquarius), ruled by Shani, and the Sun-Saturn relationship is classical enmity rooted in the Vivasvan-Yama myth. A Sun in Saturn's own sign expresses through a medium that is temperamentally opposed to its core nature, and classical texts treat the result as a sign-weakened placement where the solar warmth and authoritative register run through an unfriendly Saturnian operating system. However, the 11th house is also Labha Bhava, an upachaya growth house where malefic and hot planets strengthen over time rather than fading, and the house is the specific seat of gains, friend networks, elder siblings, and the fulfilment of worldly desire. The upachaya rule partially offsets the enemy sign reduction, and the net functional output is mid-strength rather than weak, with a specific pacing where the native's solar expression builds across decades rather than peaking early.</p><p>The second structural feature is the 5L in 11H configuration. For Mesh Lagna, Surya rules Simha and is therefore the 5L, the lord of the trikona of creativity, past life merit, children, and mantra siddhi. Placing this trikona lord in the 11H upachaya house creates a specific pattern classical texts describe as the creative-income combination: the native earns gains (11H) through their creative intelligence (5L), and the income arrives specifically through friend networks, group contexts, and the larger community rather than through solitary achievement. This is NOT the cleanest trikona-kendra raja yoga because the 11th is not a kendra, but it is a recognised trikona-to-upachaya pattern that compounds across decades. This guide reads every layer of Sun in 11th house for Mesh Lagna natives: the enemy sign vs upachaya tension, the 5L creative lord in the gain house, the friends and elder-brother pattern, and the ruby protocol that still applies here despite the sign dignity.</p>"
+      "html": "<p>If you carry Surya in the eleventh house of a Mesh chart, you hold a placement that combines two opposing structural forces in the same reading, and practitioners need to hold both to describe the placement accurately. The eleventh house from Mesh is Kumbha (Aquarius), ruled by Shani, and the Sun-Saturn relationship is classical enmity rooted in the Vivasvan-Yama myth. A Sun in Saturn's own sign expresses through a medium that is temperamentally opposed to its core nature, and classical texts treat the result as a sign-weakened placement where the solar warmth and authoritative register run through an unfriendly Saturnian operating system. However, the 11th house is also Labha Bhava, an upachaya growth house where malefic and hot planets strengthen over time rather than fading, and the house is the specific seat of gains, friend networks, elder siblings, and the fulfilment of worldly desire. The upachaya rule partially offsets the enemy sign reduction, and the net functional output is mid-strength rather than weak, with a specific pacing where the native's solar expression builds across decades rather than peaking early.</p><p>The second structural feature is the 5L in <strong>11th house</strong> (called <em>Labha Bhava</em>, the house of gains, networks, and elder siblings) configuration. For Mesh Lagna, Surya rules Simha and is therefore the 5L, the lord of the trikona of creativity, past life merit, children, and mantra siddhi. Placing this trikona lord in the 11H upachaya house creates a specific pattern classical texts describe as the creative-income combination: the native earns gains (11H) through their creative intelligence (<strong>lord of the 5th house</strong> (also called the 5L)), and the income arrives specifically through friend networks, group contexts, and the larger community rather than through solitary achievement. This is NOT the cleanest trikona-kendra raja yoga because the 11th is not a kendra, but it is a recognised trikona-to-upachaya pattern that compounds across decades. This guide reads every layer of Sun in 11th house for Mesh Lagna natives: the enemy sign vs upachaya tension, the 5L creative lord in the gain house, the friends and elder-brother pattern, and the ruby protocol that still applies here despite the sign dignity.</p>"
+    },
+    {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "5L",
+          "meaning": "Lord of the 5th house (Putra Bhava). The planet that rules whichever sign sits in your 5th house, governing creativity, children, and merit."
+        },
+        {
+          "term": "11H",
+          "meaning": "The 11th house, called Labha Bhava, the seat of gains, networks, and elder siblings."
+        }
+      ]
     },
     {
       "type": "prose",

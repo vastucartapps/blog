@@ -302,7 +302,35 @@
       "type": "prose",
       "eyebrow": "At a glance",
       "heading": "Moon in 8th house for Mesh Lagna, the quick reference",
-      "html": "<p>If you carry Chandra in the eighth house of a Mesh chart, you hold one of the most interpretively demanding Moon placements in the entire Aries ascendant catalogue because three weakness layers compound in the same reading. The eighth house from Mesh is Vrishchika (Scorpio), ruled by Mangal, and Vrishchika is the exact sign of Moon's debilitation (neecha) with the deep debility point at 3 degrees of Vrishchika. Debilitation is the lowest dignity any planet can hold, and classical texts describe the result as the full karakatva range expressing at reduced functional strength. The 8th house is also Ayush Bhava, a classical dushthana of transformation, hidden matters, chronic illness, inheritance, occult knowledge, and the death-and-rebirth themes that define the house. Benefic planets in dushthanas experience a reduction from the house category, and the Moon's dual role as 4L for Mesh further complicates the reading because the mother and home karakatvas are affected by the debility at the same time. Paksha is the additional variable: krishna paksha (waning) natives experience the weakness more intensely than shukla paksha (waxing) natives.</p><p>The single most important interpretive move is the neecha bhanga check. Classical Parashari tradition treats debilitation as provisional, and specific rescue conditions can cancel the debility and flip the reading into Neecha Bhanga Raja Yoga, a reversal pattern classical texts treat as one of the most powerful in the catalogue. The primary rescue for Moon debilitated in Vrishchika is that Mars (the lord of Vrishchika) must be well placed, and since Mars is the lagna lord for Mesh, his placement is always structurally significant. Mars in a kendra from the lagna or from the Moon cancels the debility cleanly. Mars is also the lagna lord of Mesh, and his own strength directly affects the native's chart regardless of this placement. This guide reads every layer of Moon in 8th house for Mesh Lagna natives: the debility mechanics, the Mars-dispositor neecha bhanga check, the 4L in 8H mother-and-transformation reading, the paksha compounding effect, and the pearl protocol that applies only after both the rescue and the paksha check are confirmed.</p>"
+      "html": "<p>If you carry Chandra in the eighth house of a Mesh chart, you hold one of the most interpretively demanding Moon placements in the entire Aries ascendant catalogue because three weakness layers compound in the same reading. The eighth house from Mesh is Vrishchika (Scorpio), ruled by Mangal, and Vrishchika is the exact sign of Moon's debilitation (neecha) with the deep debility point at 3 degrees of Vrishchika. Debilitation is the lowest dignity any planet can hold, and classical texts describe the result as the full karakatva range expressing at reduced functional strength. The 8th house is also Ayush Bhava, a classical dushthana of transformation, hidden matters, chronic illness, inheritance, occult knowledge, and the death-and-rebirth themes that define the house. Benefic planets in dushthanas experience a reduction from the house category, and the Moon's dual role as <strong>lord of the 4th house</strong> (also called the 4L) for Mesh further complicates the reading because the mother and home karakatvas are affected by the debility at the same time. Paksha is the additional variable: krishna paksha (waning) natives experience the weakness more intensely than shukla paksha (waxing) natives.</p><p>The single most important interpretive move is the neecha bhanga check. Classical Parashari tradition treats debilitation as provisional, and specific rescue conditions can cancel the debility and flip the reading into Neecha Bhanga Raja Yoga, a reversal pattern classical texts treat as one of the most powerful in the catalogue. The primary rescue for Moon debilitated in Vrishchika is that Mars (the lord of Vrishchika) must be well placed, and since Mars is the lagna lord for Mesh, his placement is always structurally significant. Mars in a kendra from the lagna or from the Moon cancels the debility cleanly. Mars is also the lagna lord of Mesh, and his own strength directly affects the native's chart regardless of this placement. This guide reads every layer of Moon in 8th house for Mesh Lagna natives: the debility mechanics, the Mars-dispositor neecha bhanga check, the 4L in <strong>8th house</strong> (called <em>Randhra Bhava</em>, the house of transformation, occult, and joint finances) mother-and-transformation reading, the paksha compounding effect, and the pearl protocol that applies only after both the rescue and the paksha check are confirmed.</p>"
+    },
+    {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "4L",
+          "meaning": "Lord of the 4th house (Sukha Sthana). The planet that rules whichever sign sits in your 4th house, governing mother, home, and emotional foundation."
+        },
+        {
+          "term": "8H",
+          "meaning": "The 8th house, called Randhra Bhava, the seat of transformation, occult, and joint finances."
+        },
+        {
+          "term": "10H",
+          "meaning": "The 10th house, called Karma Bhava, the seat of career, public reputation, and authority."
+        }
+      ]
     },
     {
       "type": "prose",

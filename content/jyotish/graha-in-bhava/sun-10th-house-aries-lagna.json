@@ -306,10 +306,34 @@
       "html": "<p>If you carry Surya in the tenth house of a Mesh Lagna chart, you hold one of the most interpretively interesting Sun placements in the Aries ascendant catalogue because it forces two opposing structural facts into the same reading. The tenth house from Mesh is Makara (Capricorn), ruled by Shani, whose relationship with Surya is classical enmity rooted in the Vivasvan-Yama myth. By sign dignity, a Sun in Makara is a Sun in the house of an adversary, and classical texts describe the result as constrained or slow to ripen. However, the tenth house is also the specific house where Surya holds digbala, the directional strength that Parashara awards to a planet at its strongest point on the wheel. Directional strength is not a sentiment, it is a measurable Shadbala component that adds to the planet's functional output regardless of sign.</p><p>The result is a reading where your solar signature is powerful and visible but arrives through a Saturnian medium. Ambition is cold, patient, and methodical rather than hot, impulsive, and dramatic. Authority is earned through discipline, not claimed through birthright. Add to this that Surya is the 5th lord for Mesh Lagna (he owns Simha, the fifth), and placing the 5L in the 10H creates a trine-to-kendra raja yoga that classical texts treat as one of the clean career-elevation yogas. This guide reads every layer of the placement: the enemy sign vs digbala tension, the raja yoga, the Saturnian authority pattern, and the ruby protocol that still applies here despite the sign dignity.</p>"
     },
     {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "5L",
+          "meaning": "Lord of the 5th house (Putra Bhava). The planet that rules whichever sign sits in your 5th house, governing creativity, children, and merit."
+        },
+        {
+          "term": "10H",
+          "meaning": "The 10th house, called Karma Bhava, the seat of career, public reputation, and authority."
+        }
+      ]
+    },
+    {
       "type": "prose",
       "eyebrow": "Understanding the placement",
       "heading": "Why enemy sign and digbala do not cancel each other",
-      "html": "<p>Students new to this placement often ask whether the enemy sign weakness and the directional strength simply cancel each other and produce an average Sun. They do not. The two factors operate in different registers and compound rather than average. Sign dignity tells you about the quality of the planet's expression, the warmth or coldness of its native atmosphere, and whether the planet feels at home or in foreign territory. Directional strength tells you about the functional output, the measurable brightness of the result the planet produces in the chart's visible house system. A Sun in Makara in the tenth is both cold in quality and bright in output. Natives experience an ambition that feels austere, restrained, almost dutiful, and a public result that is nonetheless significant and visible to the world at large.</p><p>The 5L in 10H configuration is the second structural feature that deserves careful attention. For Mesh Lagna, Surya rules Simha, which falls on the fifth house, the trikona of dharma, creativity, progeny, and purva punya (past life merit). Placing this trikona lord in the tenth, which is the strongest of the four kendras, creates a clean trikona-kendra raja yoga. Classical texts name trikona-kendra combinations as one of the three cleanest raja yoga patterns in Jyotish, and the effect is that the native's past life merit, creative intelligence, and dharmic current flow directly into the public career and reputation. The third layer is aspect. From the tenth, Surya aspects the fourth house, the domain of home, mother, and emotional foundation, with his full seventh aspect. The aspect is classical solar and tends to bring strict discipline to the home atmosphere. Fathers of these natives often carried authority in ways the native absorbed structurally even when the personal relationship felt distant.</p>"
+      "html": "<p>Students new to this placement often ask whether the enemy sign weakness and the directional strength simply cancel each other and produce an average Sun. They do not. The two factors operate in different registers and compound rather than average. Sign dignity tells you about the quality of the planet's expression, the warmth or coldness of its native atmosphere, and whether the planet feels at home or in foreign territory. Directional strength tells you about the functional output, the measurable brightness of the result the planet produces in the chart's visible house system. A Sun in Makara in the tenth is both cold in quality and bright in output. Natives experience an ambition that feels austere, restrained, almost dutiful, and a public result that is nonetheless significant and visible to the world at large.</p><p>The <strong>lord of the 5th house</strong> (also called the 5L) in <strong>10th house</strong> (called <em>Karma Bhava</em>, the house of career, public reputation, and authority) configuration is the second structural feature that deserves careful attention. For Mesh Lagna, Surya rules Simha, which falls on the fifth house, the trikona of dharma, creativity, progeny, and purva punya (past life merit). Placing this trikona lord in the tenth, which is the strongest of the four kendras, creates a clean trikona-kendra raja yoga. Classical texts name trikona-kendra combinations as one of the three cleanest raja yoga patterns in Jyotish, and the effect is that the native's past life merit, creative intelligence, and dharmic current flow directly into the public career and reputation. The third layer is aspect. From the tenth, Surya aspects the fourth house, the domain of home, mother, and emotional foundation, with his full seventh aspect. The aspect is classical solar and tends to bring strict discipline to the home atmosphere. Fathers of these natives often carried authority in ways the native absorbed structurally even when the personal relationship felt distant.</p>"
     },
     {
       "type": "pull-quote",

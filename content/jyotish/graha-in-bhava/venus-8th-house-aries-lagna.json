@@ -306,7 +306,7 @@
       "subsections": [
         {
           "h3": "Why the 2L and 7L in 8H is structurally heavy",
-          "html": "<p>For Aries natives Shukra rules <em>Vrishabha (Taurus, the 2nd)</em> and <em>Tula (Libra, the 7th)</em>. That makes Venus the <strong>2L and 7L marakas</strong> for Mesh. Both rulerships are classically maraka because they govern wealth and partnership, the two areas where karmic accounts close.</p><ul><li><strong>2L rulership:</strong> family wealth, accumulated resources, speech.</li><li><strong>7L rulership:</strong> spouse, partnership, public-facing relationships.</li><li><strong>8H placement:</strong> transformation, joint finances, in-laws, hidden matters.</li></ul><p>Placing both marakas in Randhra Bhava is not an accident in the chart. It signals that the native's most important growth happens through relationship, inheritance, and joint enterprise rather than solo accumulation.</p>"
+          "html": "<p>For Aries natives Shukra rules <em>Vrishabha (Taurus, the 2nd)</em> and <em>Tula (Libra, the 7th)</em>. That makes Venus the <strong><strong>lord of the 2nd house</strong> (also called the 2L) and <strong>lord of the 7th house</strong> (also called the 7L) marakas</strong> for Mesh. Both rulerships are classically maraka because they govern wealth and partnership, the two areas where karmic accounts close.</p><ul><li><strong>2L rulership:</strong> family wealth, accumulated resources, speech.</li><li><strong>7L rulership:</strong> spouse, partnership, public-facing relationships.</li><li><strong><strong>8th house</strong> (called <em>Randhra Bhava</em>, the house of transformation, occult, and joint finances) placement:</strong> transformation, joint finances, in-laws, hidden matters.</li></ul><p>Placing both marakas in Randhra Bhava is not an accident in the chart. It signals that the native's most important growth happens through relationship, inheritance, and joint enterprise rather than solo accumulation.</p>"
         },
         {
           "h3": "Why the Vrishchika sign reading matters",
@@ -322,6 +322,34 @@
       "type": "pull-quote",
       "variant": "rose",
       "text": "When the partnership lord and the wealth lord both sit in the transformation house, the native is not punished. They are asked to grow through intimacy. The marriage that survives this placement is the marriage that earned its weight."
+    },
+    {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "2L",
+          "meaning": "Lord of the 2nd house (Dhana Bhava). The planet that rules whichever sign sits in your 2nd house, governing wealth, family, and speech."
+        },
+        {
+          "term": "7L",
+          "meaning": "Lord of the 7th house (Yuvati Bhava). The planet that rules whichever sign sits in your 7th house, governing marriage, partnership, and contracts."
+        },
+        {
+          "term": "8H",
+          "meaning": "The 8th house, called Randhra Bhava, the seat of transformation, occult, and joint finances."
+        }
+      ]
     },
     {
       "type": "image-figure",

@@ -301,7 +301,31 @@
       "type": "prose",
       "eyebrow": "At a glance",
       "heading": "Venus in 1st house for Mesh Lagna, the quick reference",
-      "html": "<p>If you carry Shukra at the lagna of a Mesh chart, you hold one of the most personally significant Venus placements in the entire Aries ascendant catalogue, because Venus at the first house literally becomes the body it occupies. The first house from Mesh is Mesha, ruled by Mangal, and the Mars-Venus relationship is classical neutrality (neither friend nor enemy), which means the placement neither benefits from nor suffers under the sign's lordship in the way that friend or enemy sign placements would. Venus in martial Mesha expresses the refined planet through the warrior sign, producing a native who carries Aries directness combined with Venusian beauty in a way that distinguishes them from every other Mesh placement. The functional output is mid-strength rather than peak, but the personal nature of the lagna position amplifies the placement's emotional and physical impact regardless of the quantitative strength reading.</p><p>The second structural feature is the dual lordship Venus carries for Mesh Lagna. Shukra rules both Vrishabha (2nd house) and Tula (7th house), so any Venus placement for Mesh natives carries a 2L plus 7L double role. Placing this dual-role planet at the lagna means the body itself becomes the carrier of both the wealth-and-family signature of the second house and the marriage-and-partnership signature of the seventh, and the native's identity is built around the simultaneous expression of both. The body becomes the vehicle for accumulated resources, family inheritance, refined speech (in the 2L family-tradition sense), and the marriage drive that the chart specifically wires into the personality from birth. Note that this is NOT Pancha Mahapurusha Malavya Yoga, which requires Venus exalted or in own sign in a kendra. Mesha is neither, so even though the placement sits in the strongest kendra, the named yoga does not form. This guide reads every layer of Venus in 1st house for Mesh Lagna natives: the martial Mesha sign, the 2L plus 7L dual lordship, the body-as-refinement-vessel signature, and the diamond protocol that applies here with confidence despite the neutral sign relationship.</p>"
+      "html": "<p>If you carry Shukra at the lagna of a Mesh chart, you hold one of the most personally significant Venus placements in the entire Aries ascendant catalogue, because Venus at the first house literally becomes the body it occupies. The first house from Mesh is Mesha, ruled by Mangal, and the Mars-Venus relationship is classical neutrality (neither friend nor enemy), which means the placement neither benefits from nor suffers under the sign's lordship in the way that friend or enemy sign placements would. Venus in martial Mesha expresses the refined planet through the warrior sign, producing a native who carries Aries directness combined with Venusian beauty in a way that distinguishes them from every other Mesh placement. The functional output is mid-strength rather than peak, but the personal nature of the lagna position amplifies the placement's emotional and physical impact regardless of the quantitative strength reading.</p><p>The second structural feature is the dual lordship Venus carries for Mesh Lagna. Shukra rules both Vrishabha (2nd house) and Tula (7th house), so any Venus placement for Mesh natives carries a <strong>lord of the 2nd house</strong> (also called the 2L) plus <strong>lord of the 7th house</strong> (also called the 7L) double role. Placing this dual-role planet at the lagna means the body itself becomes the carrier of both the wealth-and-family signature of the second house and the marriage-and-partnership signature of the seventh, and the native's identity is built around the simultaneous expression of both. The body becomes the vehicle for accumulated resources, family inheritance, refined speech (in the 2L family-tradition sense), and the marriage drive that the chart specifically wires into the personality from birth. Note that this is NOT Pancha Mahapurusha Malavya Yoga, which requires Venus exalted or in own sign in a kendra. Mesha is neither, so even though the placement sits in the strongest kendra, the named yoga does not form. This guide reads every layer of Venus in 1st house for Mesh Lagna natives: the martial Mesha sign, the 2L plus 7L dual lordship, the body-as-refinement-vessel signature, and the diamond protocol that applies here with confidence despite the neutral sign relationship.</p>"
+    },
+    {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "2L",
+          "meaning": "Lord of the 2nd house (Dhana Bhava). The planet that rules whichever sign sits in your 2nd house, governing wealth, family, and speech."
+        },
+        {
+          "term": "7L",
+          "meaning": "Lord of the 7th house (Yuvati Bhava). The planet that rules whichever sign sits in your 7th house, governing marriage, partnership, and contracts."
+        }
+      ]
     },
     {
       "type": "prose",

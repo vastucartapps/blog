@@ -301,7 +301,35 @@
       "type": "prose",
       "eyebrow": "At a glance",
       "heading": "Mercury in 11th house for Mesh Lagna, the quick reference",
-      "html": "<p>If you carry Budha in the eleventh house of a Mesh chart, you hold one of the cleanest gain-through-speech Mercury placements in the Aries ascendant catalogue because the placement combines three structural features that all work in the same direction. The eleventh house from Mesh is Kumbha (Aquarius), ruled by Shani, and the Mercury-Saturn relationship is classical friendship rooted in their common commitment to structure, system, accuracy, and long-horizon work. Both planets share the temperamental affinity for detail and sustained effort that other planetary pairs do not match, and a Mercury in Saturn's own sign expresses through a medium that welcomes the planet's karakatva range without friction. The friendly Kumbha sign therefore gives the placement comfortable functional output.</p><p>The second structural feature is the 11th house itself. The eleventh house is Labha Bhava, the upachaya house of gains, income, friend networks, elder siblings, and the fulfilment of desires. Upachaya houses grow all planets over time rather than reducing them, and Mercury's communication and commerce karakatvas align directly with the gain and network themes the house rules. The third feature is the dual lordship Mercury carries for Mesh Lagna. Budha rules both Mithuna (3rd house) and Kanya (6th house), so any Mercury placement for Mesh natives carries a 3L plus 6L double role. Placing this dual-role planet in the 11H wires both the parakrama (self-effort, communication) signature of the third house and the service-and-discipline signature of the sixth into the gain angle, and the practical effect is that the native's income compounds through communicative and service work that reaches specific friend networks rather than through mainstream markets. This guide reads every layer of Mercury in 11th house for Mesh Lagna natives: the Mercury-Saturn friendship, the upachaya gain pattern, the 3L plus 6L dual lordship in Labha Bhava, the speech-through-networks signature, and the emerald protocol that applies here with confidence.</p>"
+      "html": "<p>If you carry Budha in the eleventh house of a Mesh chart, you hold one of the cleanest gain-through-speech Mercury placements in the Aries ascendant catalogue because the placement combines three structural features that all work in the same direction. The eleventh house from Mesh is Kumbha (Aquarius), ruled by Shani, and the Mercury-Saturn relationship is classical friendship rooted in their common commitment to structure, system, accuracy, and long-horizon work. Both planets share the temperamental affinity for detail and sustained effort that other planetary pairs do not match, and a Mercury in Saturn's own sign expresses through a medium that welcomes the planet's karakatva range without friction. The friendly Kumbha sign therefore gives the placement comfortable functional output.</p><p>The second structural feature is the 11th house itself. The eleventh house is Labha Bhava, the upachaya house of gains, income, friend networks, elder siblings, and the fulfilment of desires. Upachaya houses grow all planets over time rather than reducing them, and Mercury's communication and commerce karakatvas align directly with the gain and network themes the house rules. The third feature is the dual lordship Mercury carries for Mesh Lagna. Budha rules both Mithuna (3rd house) and Kanya (6th house), so any Mercury placement for Mesh natives carries a <strong>lord of the 3rd house</strong> (also called the 3L) plus <strong>lord of the 6th house</strong> (also called the 6L) double role. Placing this dual-role planet in the 11H wires both the parakrama (self-effort, communication) signature of the third house and the service-and-discipline signature of the sixth into the gain angle, and the practical effect is that the native's income compounds through communicative and service work that reaches specific friend networks rather than through mainstream markets. This guide reads every layer of Mercury in 11th house for Mesh Lagna natives: the Mercury-Saturn friendship, the upachaya gain pattern, the 3L plus 6L dual lordship in Labha Bhava, the speech-through-networks signature, and the emerald protocol that applies here with confidence.</p>"
+    },
+    {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "3L",
+          "meaning": "Lord of the 3rd house (Parakrama Bhava). The planet that rules whichever sign sits in your 3rd house, governing courage, effort, and younger siblings."
+        },
+        {
+          "term": "6L",
+          "meaning": "Lord of the 6th house (Ripu Bhava). The planet that rules whichever sign sits in your 6th house, governing enemies, debts, disease, and service."
+        },
+        {
+          "term": "11H",
+          "meaning": "The 11th house, called Labha Bhava, the seat of gains, networks, and elder siblings."
+        }
+      ]
     },
     {
       "type": "prose",

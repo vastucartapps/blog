@@ -302,7 +302,31 @@
       "type": "prose",
       "eyebrow": "At a glance",
       "heading": "Moon in 12th house for Mesh Lagna, the quick reference",
-      "html": "<p>If you carry Chandra in the twelfth house of a Mesh chart, you hold one of the more interpretively nuanced Moon placements in the Aries ascendant catalogue because the friendly sign softens what popular astrology often treats as a flat dushthana reduction. The twelfth house from Mesh is Meena (Pisces), ruled by Guru, and Jupiter-Moon relationship is classically neutral but practically favourable because both planets share temperamental affinities around contemplation, emotional depth, and the dissolution themes the 12th house rules. Meena is specifically a water sign and the Moon is classically a water planet, which means the sign provides a medium the Moon's nature actually welcomes even though the technical rule treats the relationship as neutral. The net reading is a placement that softens considerably from the fear-mongering version popular astrology produces, though the dushthana reduction still applies at a structural level.</p><p>The second structural feature is the 4L in 12H configuration. For Mesh Lagna, Chandra rules Karka and is therefore the 4L, the lord of home, mother, emotional foundation, and inner sukha. Placing this 4L in the 12H creates a specific configuration where the mother becomes structurally tied to the moksha, foreign, and dissolution themes the 12th house rules. Classical texts treat 4L in 12H with practitioner nuance rather than with fear: the mother is often geographically distant, spiritually oriented, or structurally tied to the native's moksha pedagogy in a way that other Moon placements do not produce. Home also tends to be foreign or temporary for significant portions of the native's adult life, and the emotional foundation runs through dissolution rather than through the grounded attachment that Moon-in-4th natives experience. This guide reads every layer of Moon in 12th house for Mesh Lagna natives: the friendly Meena sign, the 4L in 12H mother-as-moksha signature, the sleep and dream significance, the foreign home pattern, and the pearl protocol that applies here with confidence once the paksha check is run.</p>"
+      "html": "<p>If you carry Chandra in the twelfth house of a Mesh chart, you hold one of the more interpretively nuanced Moon placements in the Aries ascendant catalogue because the friendly sign softens what popular astrology often treats as a flat dushthana reduction. The twelfth house from Mesh is Meena (Pisces), ruled by Guru, and Jupiter-Moon relationship is classically neutral but practically favourable because both planets share temperamental affinities around contemplation, emotional depth, and the dissolution themes the 12th house rules. Meena is specifically a water sign and the Moon is classically a water planet, which means the sign provides a medium the Moon's nature actually welcomes even though the technical rule treats the relationship as neutral. The net reading is a placement that softens considerably from the fear-mongering version popular astrology produces, though the dushthana reduction still applies at a structural level.</p><p>The second structural feature is the 4L in <strong>12th house</strong> (called <em>Vyaya Bhava</em>, the house of loss, expenses, foreign lands, and moksha) configuration. For Mesh Lagna, Chandra rules Karka and is therefore the 4L, the lord of home, mother, emotional foundation, and inner sukha. Placing this <strong>lord of the 4th house</strong> (also called the 4L) in the 12H creates a specific configuration where the mother becomes structurally tied to the moksha, foreign, and dissolution themes the 12th house rules. Classical texts treat 4L in 12H with practitioner nuance rather than with fear: the mother is often geographically distant, spiritually oriented, or structurally tied to the native's moksha pedagogy in a way that other Moon placements do not produce. Home also tends to be foreign or temporary for significant portions of the native's adult life, and the emotional foundation runs through dissolution rather than through the grounded attachment that Moon-in-4th natives experience. This guide reads every layer of Moon in 12th house for Mesh Lagna natives: the friendly Meena sign, the 4L in 12H mother-as-moksha signature, the sleep and dream significance, the foreign home pattern, and the pearl protocol that applies here with confidence once the paksha check is run.</p>"
+    },
+    {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "4L",
+          "meaning": "Lord of the 4th house (Sukha Sthana). The planet that rules whichever sign sits in your 4th house, governing mother, home, and emotional foundation."
+        },
+        {
+          "term": "12H",
+          "meaning": "The 12th house, called Vyaya Bhava, the seat of loss, expenses, foreign lands, and moksha."
+        }
+      ]
     },
     {
       "type": "prose",

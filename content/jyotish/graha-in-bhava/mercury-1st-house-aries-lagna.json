@@ -302,7 +302,31 @@
       "type": "prose",
       "eyebrow": "At a glance",
       "heading": "Mercury in 1st house for Mesh Lagna, the quick reference",
-      "html": "<p>If you carry Budha at the lagna of a Mesh chart, you hold one of the most interpretively dense Mercury placements in the Aries ascendant catalogue because it forces two opposing structural facts into the same reading. The first house from Mesh is Mesha, ruled by Mangal, and the Mars-Mercury relationship is classical enmity: Mars treats Mercury as adversary because Mercury's son Soma eloped with Tara according to the Brihaspati myth, and the rivalry runs deep enough that classical texts treat Mercury in Mesha as a sign-weakened placement by dignity. However, the first house is also the specific seat where Budha holds digbala, the directional strength awarded to Mercury at the body angle. Mercury and Jupiter both claim the lagna as their digbala seat because the body is the natural domain of intelligence and wisdom, and the directional strength is a measurable Shadbala component that adds to the planet's functional output regardless of sign.</p><p>The second structural feature is the dual lordship Mercury carries for Mesh Lagna. Budha rules both Mithuna (3rd house) and Kanya (6th house), so any Mercury placement for Mesh natives carries a 3L plus 6L double role. Placing this dual-role planet at the lagna means the body itself becomes the carrier of both the parakrama (self-effort) signature of the third house and the service-and-routine signature of the sixth, and the native's identity is built around the simultaneous expression of both. Note that this is NOT Pancha Mahapurusha Bhadra Yoga, which requires Mercury exalted or in own sign in a kendra. Mesha is neither Mercury's exaltation nor his own sign, so even though the placement sits in the strongest kendra, the named yoga does not form. This guide reads every layer of Mercury in 1st house for Mesh Lagna natives: the enemy sign vs digbala tension, the 3L plus 6L dual lordship, the speech-driven identity, and the emerald protocol that still applies despite the sign dignity.</p>"
+      "html": "<p>If you carry Budha at the lagna of a Mesh chart, you hold one of the most interpretively dense Mercury placements in the Aries ascendant catalogue because it forces two opposing structural facts into the same reading. The first house from Mesh is Mesha, ruled by Mangal, and the Mars-Mercury relationship is classical enmity: Mars treats Mercury as adversary because Mercury's son Soma eloped with Tara according to the Brihaspati myth, and the rivalry runs deep enough that classical texts treat Mercury in Mesha as a sign-weakened placement by dignity. However, the first house is also the specific seat where Budha holds digbala, the directional strength awarded to Mercury at the body angle. Mercury and Jupiter both claim the lagna as their digbala seat because the body is the natural domain of intelligence and wisdom, and the directional strength is a measurable Shadbala component that adds to the planet's functional output regardless of sign.</p><p>The second structural feature is the dual lordship Mercury carries for Mesh Lagna. Budha rules both Mithuna (3rd house) and Kanya (6th house), so any Mercury placement for Mesh natives carries a <strong>lord of the 3rd house</strong> (also called the 3L) plus <strong>lord of the 6th house</strong> (also called the 6L) double role. Placing this dual-role planet at the lagna means the body itself becomes the carrier of both the parakrama (self-effort) signature of the third house and the service-and-routine signature of the sixth, and the native's identity is built around the simultaneous expression of both. Note that this is NOT Pancha Mahapurusha Bhadra Yoga, which requires Mercury exalted or in own sign in a kendra. Mesha is neither Mercury's exaltation nor his own sign, so even though the placement sits in the strongest kendra, the named yoga does not form. This guide reads every layer of Mercury in 1st house for Mesh Lagna natives: the enemy sign vs digbala tension, the 3L plus 6L dual lordship, the speech-driven identity, and the emerald protocol that still applies despite the sign dignity.</p>"
+    },
+    {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "3L",
+          "meaning": "Lord of the 3rd house (Parakrama Bhava). The planet that rules whichever sign sits in your 3rd house, governing courage, effort, and younger siblings."
+        },
+        {
+          "term": "6L",
+          "meaning": "Lord of the 6th house (Ripu Bhava). The planet that rules whichever sign sits in your 6th house, governing enemies, debts, disease, and service."
+        }
+      ]
     },
     {
       "type": "prose",

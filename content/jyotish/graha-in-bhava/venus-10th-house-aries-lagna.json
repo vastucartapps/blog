@@ -301,7 +301,39 @@
       "type": "prose",
       "eyebrow": "At a glance",
       "heading": "Venus in 10th house for Mesh Lagna, the quick reference",
-      "html": "<p>If you carry Shukra in the tenth house of a Mesh chart, you hold one of the cleanest career Venus placements in the entire Aries ascendant catalogue, because the placement combines two structural strengths that both support the refined public vocation the chart specifically produces. The tenth house from Mesh is Makara (Capricorn), ruled by Shani, and the Venus-Saturn relationship is classical friendship. Both planets share a temperamental commitment to structure, proportion, long-horizon work, and the aesthetic discipline that institutional refinement requires, and a Venus in Saturn's sign expresses through a medium that welcomes its full karakatva range without friction. The friendly Makara sign therefore gives the placement comfortable functional output. The tenth house is also Karma Bhava, the strongest of the four kendras and the seat of career, public reputation, professional authority, and the visible result of the native's life in the world.</p><p>The second structural feature is the dual lordship Venus carries for Mesh Lagna. Shukra rules both Vrishabha (2nd house) and Tula (7th house), so any Venus placement for Mesh natives carries a 2L plus 7L double role. Placing this dual-role planet in the 10H wires both the wealth-and-family signature of the second house and the marriage-and-partnership signature of the seventh into the career angle, and the practical effect is that the native's professional identity is structurally built around refined public work, partnership-based enterprise, and the family-wealth dimension of career all at once. This is NOT Pancha Mahapurusha Malavya Yoga because Makara is neither Venus's own sign nor exaltation, but the structural strength of friendly sign plus dual lordship in the strongest kendra produces one of the cleanest non-Malavya Venus configurations possible. This guide reads every layer of Venus in 10th house for Mesh Lagna natives: the Venus-Saturn friendship, the 2L plus 7L dual lordship in the career angle, the refined public vocation signature, and the diamond protocol that applies here with confidence.</p>"
+      "html": "<p>If you carry Shukra in the tenth house of a Mesh chart, you hold one of the cleanest career Venus placements in the entire Aries ascendant catalogue, because the placement combines two structural strengths that both support the refined public vocation the chart specifically produces. The tenth house from Mesh is Makara (Capricorn), ruled by Shani, and the Venus-Saturn relationship is classical friendship. Both planets share a temperamental commitment to structure, proportion, long-horizon work, and the aesthetic discipline that institutional refinement requires, and a Venus in Saturn's sign expresses through a medium that welcomes its full karakatva range without friction. The friendly Makara sign therefore gives the placement comfortable functional output. The tenth house is also Karma Bhava, the strongest of the four kendras and the seat of career, public reputation, professional authority, and the visible result of the native's life in the world.</p><p>The second structural feature is the dual lordship Venus carries for Mesh Lagna. Shukra rules both Vrishabha (2nd house) and Tula (7th house), so any Venus placement for Mesh natives carries a <strong>lord of the 2nd house</strong> (also called the 2L) plus <strong>lord of the 7th house</strong> (also called the 7L) double role. Placing this dual-role planet in the 10H wires both the wealth-and-family signature of the second house and the marriage-and-partnership signature of the seventh into the career angle, and the practical effect is that the native's professional identity is structurally built around refined public work, partnership-based enterprise, and the family-wealth dimension of career all at once. This is NOT Pancha Mahapurusha Malavya Yoga because Makara is neither Venus's own sign nor exaltation, but the structural strength of friendly sign plus dual lordship in the strongest kendra produces one of the cleanest non-Malavya Venus configurations possible. This guide reads every layer of Venus in 10th house for Mesh Lagna natives: the Venus-Saturn friendship, the 2L plus 7L dual lordship in the career angle, the refined public vocation signature, and the diamond protocol that applies here with confidence.</p>"
+    },
+    {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "2L",
+          "meaning": "Lord of the 2nd house (Dhana Bhava). The planet that rules whichever sign sits in your 2nd house, governing wealth, family, and speech."
+        },
+        {
+          "term": "4H",
+          "meaning": "The 4th house, called Sukha Sthana, the seat of mother, home, and emotional foundation."
+        },
+        {
+          "term": "7L",
+          "meaning": "Lord of the 7th house (Yuvati Bhava). The planet that rules whichever sign sits in your 7th house, governing marriage, partnership, and contracts."
+        },
+        {
+          "term": "10H",
+          "meaning": "The 10th house, called Karma Bhava, the seat of career, public reputation, and authority."
+        }
+      ]
     },
     {
       "type": "prose",

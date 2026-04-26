@@ -307,7 +307,7 @@
       "subsections": [
         {
           "h3": "Why the trikona-in-dushthana works",
-          "html": "<p>For Mesh natives Surya is the <strong>5L trikona lord</strong> (he rules Simha, the 5th). The 6th is a <em>dushthana bhava (difficulty house)</em> ruling enemies, debts, disease, and daily service.</p><p>Placing a dharmic trikona lord into a difficulty house creates the <strong>trikona-in-dushthana pattern</strong>. The trikona's auspiciousness converts the dushthana themes into mastery rather than suffering.</p><ul><li><strong>Enemies:</strong> the native typically prevails through sustained dignity.</li><li><strong>Debts:</strong> manageable; the chart rewards careful daily discipline.</li><li><strong>Disease:</strong> health concerns surface but rarely persist; recovery is reliable.</li><li><strong>Service:</strong> daily disciplined work becomes vocational competence rather than burden.</li></ul>"
+          "html": "<p>For Mesh natives Surya is the <strong><strong>lord of the 5th house</strong> (also called the 5L) trikona lord</strong> (he rules Simha, the 5th). The 6th is a <em>dushthana bhava (difficulty house)</em> ruling enemies, debts, disease, and daily service.</p><p>Placing a dharmic trikona lord into a difficulty house creates the <strong>trikona-in-dushthana pattern</strong>. The trikona's auspiciousness converts the dushthana themes into mastery rather than suffering.</p><ul><li><strong>Enemies:</strong> the native typically prevails through sustained dignity.</li><li><strong>Debts:</strong> manageable; the chart rewards careful daily discipline.</li><li><strong>Disease:</strong> health concerns surface but rarely persist; recovery is reliable.</li><li><strong>Service:</strong> daily disciplined work becomes vocational competence rather than burden.</li></ul>"
         },
         {
           "h3": "Why the friend-sign Kanya helps",
@@ -323,6 +323,30 @@
       "type": "pull-quote",
       "variant": "saffron",
       "text": "When the dharmic trikona lord sits in the house of enemies, the native is not punished. They are equipped. Every adversary becomes the material that builds the reputation; every disease becomes the discipline that builds the body."
+    },
+    {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "5L",
+          "meaning": "Lord of the 5th house (Putra Bhava). The planet that rules whichever sign sits in your 5th house, governing creativity, children, and merit."
+        },
+        {
+          "term": "6H",
+          "meaning": "The 6th house, called Ripu Bhava, the seat of enemies, debts, disease, and service."
+        }
+      ]
     },
     {
       "type": "image-figure",
@@ -469,7 +493,7 @@
       "subsections": [
         {
           "h3": "Medicine and healthcare leadership",
-          "html": "<p>The strongest single fit. The 6H is the classical seat of disease and healing, and Sun's authority gives natives the leadership presence that medical practice demands. Many natives build careers as <strong>physicians, surgeons, hospital administrators, or emergency response leaders</strong>.</p><ul><li><strong>Internal medicine:</strong> the Kanya analytical precision serves diagnostic work directly.</li><li><strong>Surgery:</strong> the Mars lagna lord adds the decisive dimension surgical authority requires.</li><li><strong>Hospital administration:</strong> the solar authority over service workers fits institutional leadership.</li></ul>"
+          "html": "<p>The strongest single fit. The <strong>6th house</strong> (called <em>Ripu Bhava</em>, the house of enemies, debts, disease, and service) is the classical seat of disease and healing, and Sun's authority gives natives the leadership presence that medical practice demands. Many natives build careers as <strong>physicians, surgeons, hospital administrators, or emergency response leaders</strong>.</p><ul><li><strong>Internal medicine:</strong> the Kanya analytical precision serves diagnostic work directly.</li><li><strong>Surgery:</strong> the Mars lagna lord adds the decisive dimension surgical authority requires.</li><li><strong>Hospital administration:</strong> the solar authority over service workers fits institutional leadership.</li></ul>"
         },
         {
           "h3": "Law, litigation, and judicial work",

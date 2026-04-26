@@ -89,6 +89,20 @@ content/{category}/{subcategory}/{slug}.json
 8. Emoji are banned.
 9. Sanskrit terms are italicised on first use, with English gloss in
    parens. After the first occurrence, use plain text.
+10. **Astrological shorthand abbreviations (2L, 7L, 4L, 5L, 6L, 8H,
+    9H, etc.) are FORBIDDEN on first use.** Always expand:
+    - First mention → "the **lord of the 2nd house** (called the 2L)"
+    - First mention → "the **8th house** (called Randhra Bhava, the
+      transformation house)"
+    - Subsequent uses → 2L / 8H is acceptable
+    - Validator hard-fails any post where "2L", "7L", "8H" etc.
+      appears before the long-form expansion. The reader is a curious
+      adult, not a Jyotishi student. Treat them like one.
+11. Every Jyotish post must include an `astro-glossary` content
+    block near the top (after the at-a-glance section) that defines
+    the abbreviations and Sanskrit terms used in that specific post.
+    The glossary is not a generic site-wide reference; it is curated
+    per post.
 
 ## 4. `tags` field
 

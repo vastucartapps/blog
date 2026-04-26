@@ -301,7 +301,35 @@
       "type": "prose",
       "eyebrow": "At a glance",
       "heading": "Saturn in 4th house for Mesh Lagna, the quick reference",
-      "html": "<p>Saturn in 4th house for Mesh Lagna is one of the most interpretively mixed Shani placements in the Aries ascendant catalogue. The fourth house from Mesh is Karka (Cancer), Chandra's sign, and Shani is classically inimical with Chandra at the planetary level. Shani in Karka sits in enemy sign territory which reduces his natural strength. However, the 4th house is a kendra (angular foundation house), and any planet in a kendra retains significant functional strength regardless of sign. Shani is also the 10L (Makara, tenth house) and the 11L (Kumbha, eleventh house) for Mesh Lagna, so placing this dual-role planet in the 4H creates a classical kendra-to-kendra configuration where the career lord and the gains lord jointly occupy the home house. The combination produces natives whose home and mother experience is shaped by discipline, austerity, and often late property acquisition, but whose career and wealth eventually find their full expression through the foundation the difficult home years built. This guide reads every layer of Saturn in 4th house for Mesh Lagna natives: the enemy sign reduction softened by kendra strength, the home and mother signature, late property timing, the 10L and 11L dual lordship weight, and the neelam protocol this specific combination demands.</p>"
+      "html": "<p>Saturn in 4th house for Mesh Lagna is one of the most interpretively mixed Shani placements in the Aries ascendant catalogue. The fourth house from Mesh is Karka (Cancer), Chandra's sign, and Shani is classically inimical with Chandra at the planetary level. Shani in Karka sits in enemy sign territory which reduces his natural strength. However, the 4th house is a kendra (angular foundation house), and any planet in a kendra retains significant functional strength regardless of sign. Shani is also the 10L (Makara, tenth house) and the 11L (Kumbha, eleventh house) for Mesh Lagna, so placing this dual-role planet in the 4H creates a classical kendra-to-kendra configuration where the career lord and the gains lord jointly occupy the home house. The combination produces natives whose home and mother experience is shaped by discipline, austerity, and often late property acquisition, but whose career and wealth eventually find their full expression through the foundation the difficult home years built. This guide reads every layer of Saturn in 4th house for Mesh Lagna natives: the enemy sign reduction softened by kendra strength, the home and mother signature, late property timing, the 10L and <strong>lord of the 11th house</strong> (also called the 11L) dual lordship weight, and the neelam protocol this specific combination demands.</p>"
+    },
+    {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "4H",
+          "meaning": "The 4th house, called Sukha Sthana, the seat of mother, home, and emotional foundation."
+        },
+        {
+          "term": "10L",
+          "meaning": "Lord of the 10th house (Karma Bhava). The planet that rules whichever sign sits in your 10th house, governing career, public reputation, and authority."
+        },
+        {
+          "term": "11L",
+          "meaning": "Lord of the 11th house (Labha Bhava). The planet that rules whichever sign sits in your 11th house, governing gains, networks, and elder siblings."
+        }
+      ]
     },
     {
       "type": "prose",

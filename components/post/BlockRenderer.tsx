@@ -30,6 +30,7 @@ import { SamagriList } from "./SamagriList";
 import { WearingRitual } from "./WearingRitual";
 import { ContraIndications } from "./ContraIndications";
 import { ImageFigure } from "./ImageFigure";
+import { AstroGlossary } from "./AstroGlossary";
 
 interface Props {
   blocks: ContentBlock[];
@@ -77,6 +78,16 @@ export function BlockRenderer({ blocks, category, slug }: Props) {
                 credit={block.credit}
               />
             ) : null;
+          case "astro-glossary":
+            return (
+              <AstroGlossary
+                key={i}
+                eyebrow={block.eyebrow}
+                heading={block.heading}
+                intro_html={block.intro_html}
+                terms={block.terms}
+              />
+            );
           case "pull-quote":
             return <PullQuote key={i} text={block.text} variant={block.variant} />;
           case "stat-strip":

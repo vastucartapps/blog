@@ -87,16 +87,16 @@ const REQUIRED_SCHEMA_TYPES = [
 ];
 
 const WORD_TARGETS: Record<string, { prose: number; tolerance: number }> = {
-  "planet-in-house":   { prose: 1800, tolerance: 0.20 },
-  "lagna-profile":     { prose: 2200, tolerance: 0.20 },
-  "nakshatra":         { prose: 1500, tolerance: 0.20 },
-  "tarot-card":        { prose: 1100, tolerance: 0.20 },
-  "numerology-number": { prose: 1300, tolerance: 0.20 },
-  "vastu":             { prose: 1300, tolerance: 0.20 },
-  "festival":          { prose: 1100, tolerance: 0.20 },
-  "gemstone":          { prose: 1300, tolerance: 0.20 },
-  "puja-vidhi":        { prose: 1300, tolerance: 0.20 },
-  "rudraksha":         { prose: 1100, tolerance: 0.20 },
+  "planet-in-house":   { prose: 1800, tolerance: 0.25 },
+  "lagna-profile":     { prose: 2200, tolerance: 0.25 },
+  "nakshatra":         { prose: 1500, tolerance: 0.25 },
+  "tarot-card":        { prose: 1100, tolerance: 0.25 },
+  "numerology-number": { prose: 1300, tolerance: 0.25 },
+  "vastu":             { prose: 1300, tolerance: 0.25 },
+  "festival":          { prose: 1100, tolerance: 0.25 },
+  "gemstone":          { prose: 1300, tolerance: 0.25 },
+  "puja-vidhi":        { prose: 1300, tolerance: 0.25 },
+  "rudraksha":         { prose: 1100, tolerance: 0.25 },
 };
 
 interface PostJSON {

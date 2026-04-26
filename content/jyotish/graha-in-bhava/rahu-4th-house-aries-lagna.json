@@ -304,6 +304,30 @@
       "html": "<p>If you carry Rahu in the fourth house of a Mesh chart, you hold one of the most commonly misread placements in popular astrology because the standard summary reduces this configuration to a fear-mongering sentence about mother problems, home loss, and emotional instability that misses the structural truth almost entirely. The honest practitioner answer is that the placement produces a specific set of tensions that the native has to work with consciously, but the tensions are pedagogical rather than punitive and the chart is describing a training ground rather than a curse. The fourth house from Mesh is Karka (Cancer), ruled by Chandra, and the Moon-Rahu relationship is classically treated as friction because the cool, emotional, nurturing Moon and the hungry, amplifying, destabilising Rahu pull in opposite directions. The sign is not a friend to Rahu and not quite an enemy, and the placement therefore expresses through a medium that gives the native specific structural work to do rather than easy expression.</p><p>The second important feature is the broader classical context. Rahu in the 4th is one of the placements classical Parashari texts discuss under the banner of matru-dosha (mother-affliction) because the Sukha Bhava is specifically the mother and home angle. But the classical reading treats matru-dosha as a pedagogical marker, not as a fate sealed from birth. The actual pattern the placement produces is a native whose relationship with mother, home, and emotional foundation carries a specific restlessness that requires conscious work across decades. The mother relationship may feel structurally distant even when both parties love each other. The home may move or change multiple times across the native's life. The emotional foundation may feel less settled than peers describe. Rahu also aspects the 10th house with his full 10th-aspect (counted from the 4th), which brings the amplification into the career angle and produces the unusual foreign-career or unconventional-career signature that distinguishes this placement from simpler 4th house readings. This guide reads every layer of Rahu in 4th house for Mesh Lagna natives: the Karka tension, the mother and home pedagogy, the 10H career amplification from the aspect, and the hessonite protocol that requires especially careful chart confirmation here.</p>"
     },
     {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "4L",
+          "meaning": "Lord of the 4th house (Sukha Sthana). The planet that rules whichever sign sits in your 4th house, governing mother, home, and emotional foundation."
+        },
+        {
+          "term": "10H",
+          "meaning": "The 10th house, called Karma Bhava, the seat of career, public reputation, and authority."
+        }
+      ]
+    },
+    {
       "type": "prose",
       "eyebrow": "Understanding the placement",
       "heading": "Why the mother and home tension is pedagogical rather than punitive",

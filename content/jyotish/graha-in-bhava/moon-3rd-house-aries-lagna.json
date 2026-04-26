@@ -311,11 +311,11 @@
         },
         {
           "h3": "Why the 4L in 3H is structurally sound",
-          "html": "<p>For Aries natives Chandra is the <strong>4L kendra lord</strong> (she rules Karka, the 4th). Placing this lord in the 3rd is a clean combination because the third is an <em>upachaya bhava (growth house)</em> that rewards exactly the kendra lords whose strength compounds across decades.</p><p>The mother and home rulership channels into communication, courage, and short-travel work. Many natives find that emotional intelligence itself becomes their vocational instrument by their thirties. The earlier decades feel slower than peers expect, then the curve bends sharply upward.</p><p>Practitioners can describe this confidently. Classical texts treat the kendra-in-upachaya pattern as one of the reliably productive combinations because the kendra supplies foundation and the upachaya supplies the growth runway.</p>"
+          "html": "<p>For Aries natives Chandra is the <strong><strong>lord of the 4th house</strong> (also called the 4L) kendra lord</strong> (she rules Karka, the 4th). Placing this lord in the 3rd is a clean combination because the third is an <em>upachaya bhava (growth house)</em> that rewards exactly the kendra lords whose strength compounds across decades.</p><p>The mother and home rulership channels into communication, courage, and short-travel work. Many natives find that emotional intelligence itself becomes their vocational instrument by their thirties. The earlier decades feel slower than peers expect, then the curve bends sharply upward.</p><p>Practitioners can describe this confidently. Classical texts treat the kendra-in-upachaya pattern as one of the reliably productive combinations because the kendra supplies foundation and the upachaya supplies the growth runway.</p>"
         },
         {
           "h3": "What this placement is not",
-          "html": "<p>Two cautions for the practitioner consultation. First, this is <strong>not a wealth yoga</strong> in the strict Dhana Yoga sense. The 4L in 3H produces compounded reputation through communication work, not direct wealth accumulation through wealth-house mechanics.</p><p>Second, the placement is <em>quiet</em>. It rewards patient effort, not dramatic gestures. Natives who chase big breaks in their twenties and thirties typically miss the structural offer the chart is making, which is slow craft mastery and earned audience trust.</p>"
+          "html": "<p>Two cautions for the practitioner consultation. First, this is <strong>not a wealth yoga</strong> in the strict Dhana Yoga sense. The 4L in <strong>3rd house</strong> (called <em>Parakrama Bhava</em>, the house of courage, effort, and younger siblings) produces compounded reputation through communication work, not direct wealth accumulation through wealth-house mechanics.</p><p>Second, the placement is <em>quiet</em>. It rewards patient effort, not dramatic gestures. Natives who chase big breaks in their twenties and thirties typically miss the structural offer the chart is making, which is slow craft mastery and earned audience trust.</p>"
         }
       ]
     },
@@ -323,6 +323,34 @@
       "type": "pull-quote",
       "variant": "teal",
       "text": "When the mother-and-home lord sits in the upachaya communication house, the native's own voice becomes the second home. Words carry the warmth that a lesser placement saves only for the family."
+    },
+    {
+      "type": "astro-glossary",
+      "eyebrow": "Quick reference",
+      "heading": "Astrology terms used in this article",
+      "intro_html": "<p>A short glossary so the structural reading lands clearly. We expand each term on first use and use the shorthand afterwards.</p>",
+      "terms": [
+        {
+          "term": "Lagna",
+          "meaning": "the rising sign at the moment of your birth — also called the ascendant. It anchors the whole chart."
+        },
+        {
+          "term": "Bhava",
+          "meaning": "Sanskrit for 'house' — one of the twelve life-area sectors in your birth chart."
+        },
+        {
+          "term": "3H",
+          "meaning": "The 3rd house, called Parakrama Bhava, the seat of courage, effort, and younger siblings."
+        },
+        {
+          "term": "3L",
+          "meaning": "Lord of the 3rd house (Parakrama Bhava). The planet that rules whichever sign sits in your 3rd house, governing courage, effort, and younger siblings."
+        },
+        {
+          "term": "4L",
+          "meaning": "Lord of the 4th house (Sukha Sthana). The planet that rules whichever sign sits in your 4th house, governing mother, home, and emotional foundation."
+        }
+      ]
     },
     {
       "type": "image-figure",
