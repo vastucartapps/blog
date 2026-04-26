@@ -23,6 +23,7 @@ import {
 } from "./service";
 import { buildPersonSchema } from "./person";
 import { buildProfilePageSchema } from "./profilePage";
+import { buildReviewerOrgSchema } from "./reviewer";
 import { SITE_URL } from "../utils";
 
 // ─────────────────────────────────────────────────────────────────
@@ -91,6 +92,12 @@ export function buildPostSchema(post: ArticlePost): SchemaEntity[] {
   if (person) entities.push(person);
   const profile = buildProfilePageSchema(post.author_id);
   if (profile) entities.push(profile);
+
+  // Reviewer Organization — emit when post declares a reviewer_id
+  if (post.reviewer_id) {
+    const reviewerOrg = buildReviewerOrgSchema(post.reviewer_id);
+    if (reviewerOrg) entities.push(reviewerOrg);
+  }
 
   // Defined terms (Sanskrit glossary)
   entities.push(...buildDefinedTermSchemas(extras.defined_terms));

@@ -6,40 +6,131 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Sun in 4th house", "Surya Karka", "Mesh Lagna", "Aries ascendant", "Sukha Bhava", "5L in 4H", "kendra trikona raja yoga", "Surya mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Sun in 4th house",
+    "Surya Karka",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Sukha Bhava",
+    "5L in 4H",
+    "kendra trikona raja yoga",
+    "Surya mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "surya",
   "house_number": 4,
   "lagna_id": "mesha",
   "meta": {
     "title": "Sun in 4th House Mesh Lagna, Father at Home Raja Yoga",
-    "description": "Sun in 4th house for Mesh Lagna, Surya in friendly Karka, the 5L in 4H kendra-trikona raja yoga read by Pt. Raghav Sharma.",
+    "description": "Sun in 4th house for Mesh Lagna, Surya in friendly Karka, the 5L in 4H kendra-trikona raja yoga by VastuCart Editorial.",
     "focus_keyword": "Sun in 4th house",
-    "secondary_keywords": ["Mesh Lagna", "Sukha Bhava", "Surya Karka", "Aries ascendant", "Kendra trikona yoga"],
-    "lsi_keywords": ["sukha bhava", "surya karka", "sun in cancer", "5th lord fourth", "surya mahadasha", "ruby manikya", "kendra trikona raja yoga", "father at home", "mother authority", "fire water tension"],
-    "keywords": ["Sun in 4th house Mesh Lagna", "Surya in Sukha Bhava", "Sun in Cancer", "Mesh lagna 4th Sun", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Sukha Bhava",
+      "Surya Karka",
+      "Aries ascendant",
+      "Kendra trikona yoga"
+    ],
+    "lsi_keywords": [
+      "sukha bhava",
+      "surya karka",
+      "sun in cancer",
+      "5th lord fourth",
+      "surya mahadasha",
+      "ruby manikya",
+      "kendra trikona raja yoga",
+      "father at home",
+      "mother authority",
+      "fire water tension"
+    ],
+    "keywords": [
+      "Sun in 4th house Mesh Lagna",
+      "Surya in Sukha Bhava",
+      "Sun in Cancer",
+      "Mesh lagna 4th Sun",
+      "Vedic astrology"
+    ],
     "og_title": "Sun in the 4th House of Mesh Lagna, Kendra-Trikona Raja Yoga",
     "og_description": "Surya in friendly Karka in the home angle for Aries natives, the father-at-home authority by a practising Jyotishi.",
     "og_image": "/og/sun-4th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-4th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Sun in 4th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-4th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Sun in 4th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-4th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Sun in 4th house",
-    "secondary_keywords": ["Mesh Lagna", "Sukha Bhava", "Surya Karka", "Aries ascendant", "Kendra trikona yoga"],
-    "lsi_terms": ["sukha bhava", "surya karka", "sun in cancer", "5th lord fourth", "surya mahadasha", "ruby manikya", "kendra trikona raja yoga", "father at home", "mother authority", "fire water tension"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Sukha Bhava",
+      "Surya Karka",
+      "Aries ascendant",
+      "Kendra trikona yoga"
+    ],
+    "lsi_terms": [
+      "sukha bhava",
+      "surya karka",
+      "sun in cancer",
+      "5th lord fourth",
+      "surya mahadasha",
+      "ruby manikya",
+      "kendra trikona raja yoga",
+      "father at home",
+      "mother authority",
+      "fire water tension"
+    ],
     "seed_queries": [
-      "sun in 4th house aries lagna", "surya in 4th house mesh lagna", "sun in cancer mesh ascendant", "surya karka aries lagna", "sun in sukha bhava mesh", "sun in 4th house career aries", "sun in cancer 4th aries", "surya sukha bhava mesh", "5l in 4h aries lagna raja yoga", "sun in 4th house remedies aries", "ruby for sun 4th aries", "manikya mesh lagna 4th", "surya mahadasha aries 4th", "sun in 4th house aries father", "sun in 4th house aries home", "is sun good in 4th house aries", "sun in cancer aries ascendant career", "kendra trikona raja yoga sun", "father at home signature", "sun 4th house aries prediction", "sun in fourth house mesh lagna", "sun 4th house mesh ascendant", "surya in mesh lagna 4th", "sun karka lagna mesh chart", "sun 4th house mesh lagna dasha", "surya mesh lagna mother", "fire water tension sun 4th", "5th lord fourth house aries", "surya raja yoga mesh", "father authority aries"
+      "sun in 4th house aries lagna",
+      "surya in 4th house mesh lagna",
+      "sun in cancer mesh ascendant",
+      "surya karka aries lagna",
+      "sun in sukha bhava mesh",
+      "sun in 4th house career aries",
+      "sun in cancer 4th aries",
+      "surya sukha bhava mesh",
+      "5l in 4h aries lagna raja yoga",
+      "sun in 4th house remedies aries",
+      "ruby for sun 4th aries",
+      "manikya mesh lagna 4th",
+      "surya mahadasha aries 4th",
+      "sun in 4th house aries father",
+      "sun in 4th house aries home",
+      "is sun good in 4th house aries",
+      "sun in cancer aries ascendant career",
+      "kendra trikona raja yoga sun",
+      "father at home signature",
+      "sun 4th house aries prediction",
+      "sun in fourth house mesh lagna",
+      "sun 4th house mesh ascendant",
+      "surya in mesh lagna 4th",
+      "sun karka lagna mesh chart",
+      "sun 4th house mesh lagna dasha",
+      "surya mesh lagna mother",
+      "fire water tension sun 4th",
+      "5th lord fourth house aries",
+      "surya raja yoga mesh",
+      "father authority aries"
     ],
     "questions": [
       "Is Sun in the 4th house good for Mesh Lagna?",
@@ -49,36 +140,130 @@
       "Which gemstone should Mesh Lagna wear for Sun in 4th?"
     ],
     "lingual_variations": {
-      "surya": ["surya", "sun", "aditya", "ravi", "bhanu"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "surya": [
+        "surya",
+        "sun",
+        "aditya",
+        "ravi",
+        "bhanu"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["5L in 4H kendra-to-trikona raja yoga reading", "Father authority within home angle", "Fire-water tension between Sun and Karka"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "5L in 4H kendra-to-trikona raja yoga reading",
+      "Father authority within home angle",
+      "Fire-water tension between Sun and Karka"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "sun-4th-house-aries-lagna-hero.webp", "filename_og": "sun-4th-house-aries-lagna-og.png", "alt": "Radiant Surya in the fourth house of a Mesh Lagna kundali in Karka", "caption": "Surya sits in friendly Karka in the fourth house for Aries ascendant natives, the kendra-to-trikona raja yoga and the father-at-home authority signature.", "width": 1200, "height": 630, "format": "webp", "style": "luminous saffron-silver editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the fourth house glowing saffron with cool silver tones, a stylised Sun symbol over a small lotus and crab silhouette, traditional Vedic palette of saffron, silver, deep teal, refined manuscript style, no people.", "negative_prompt": "photorealistic sun, watermark, text, neon, cartoon" },
-    { "filename": "sun-4th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Sun in the fourth house of Mesh in Karka", "caption": "The North Indian birth chart with Surya marked in Karka on the fourth house Sukha Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the lower-central fourth house highlighted in saffron with a Surya symbol marked Su and small Karka glyph, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "sun-4th-house-aries-lagna-ruby.webp", "alt": "Natural Burmese ruby in gold ring, gemstone for Sun 4th house Mesh Lagna", "caption": "Ruby is the primary Surya ratna and works with high confidence here because the friendly sign and kendra placement together support the gemstone protocol.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural Burmese ruby set in a gold ring, deep pigeon blood red colour, cushion cut, on dark velvet with warm lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "sun-4th-house-aries-lagna-surya-kavacham.webp", "alt": "Surya Kavacham Sanskrit verse on parchment with solar disc and shield motif", "caption": "Surya Kavacham recitation strengthens the solar channel through the protective armour hymn that the home-angle Sun specifically benefits from.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Surya Kavacham, hand-painted on aged parchment with gold leaf borders, faint solar disc and shield motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "sun-4th-house-aries-lagna-hero.webp",
+      "filename_og": "sun-4th-house-aries-lagna-og.png",
+      "alt": "Radiant Surya in the fourth house of a Mesh Lagna kundali in Karka",
+      "caption": "Surya sits in friendly Karka in the fourth house for Aries ascendant natives, the kendra-to-trikona raja yoga and the father-at-home authority signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "luminous saffron-silver editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the fourth house glowing saffron with cool silver tones, a stylised Sun symbol over a small lotus and crab silhouette, traditional Vedic palette of saffron, silver, deep teal, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic sun, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "sun-4th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Sun in the fourth house of Mesh in Karka",
+      "caption": "The North Indian birth chart with Surya marked in Karka on the fourth house Sukha Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the lower-central fourth house highlighted in saffron with a Surya symbol marked Su and small Karka glyph, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "sun-4th-house-aries-lagna-ruby.webp",
+      "alt": "Natural Burmese ruby in gold ring, gemstone for Sun 4th house Mesh Lagna",
+      "caption": "Ruby is the primary Surya ratna and works with high confidence here because the friendly sign and kendra placement together support the gemstone protocol.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural Burmese ruby set in a gold ring, deep pigeon blood red colour, cushion cut, on dark velvet with warm lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "sun-4th-house-aries-lagna-surya-kavacham.webp",
+      "alt": "Surya Kavacham Sanskrit verse on parchment with solar disc and shield motif",
+      "caption": "Surya Kavacham recitation strengthens the solar channel through the protective armour hymn that the home-angle Sun specifically benefits from.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Surya Kavacham, hand-painted on aged parchment with gold leaf borders, faint solar disc and shield motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Sun in the 4th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Surya in Sukha Bhava for Aries ascendant natives. Sun in friendly Karka, the 5L in 4H kendra-to-trikona raja yoga, the father-at-home authority signature, and the fire-water tension that asks the native to soften the solar register at home.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Surya", "tone": "teal" },
-      { "label": "Sukha Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Friendly Karka" },
-      { "label": "5L in 4H" },
-      { "label": "Kendra trikona yoga" }
+      {
+        "label": "Surya",
+        "tone": "teal"
+      },
+      {
+        "label": "Sukha Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Friendly Karka"
+      },
+      {
+        "label": "5L in 4H"
+      },
+      {
+        "label": "Kendra trikona yoga"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +271,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Surya", "sub": "Sun", "icon": "sun" },
-        { "label": "Bhava", "value": "4th", "sub": "Sukha Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Very strong", "sub": "Kendra-trikona raja yoga", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Surya",
+          "sub": "Sun",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "4th",
+          "sub": "Sukha Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Very strong",
+          "sub": "Kendra-trikona raja yoga",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +310,103 @@
       "heading": "Why kendra-to-trikona connections are among the cleanest raja yogas",
       "html": "<p>Classical Parashari texts treat kendra-to-trikona raja yogas as one of the three cleanest raja yoga configurations in Vedic astrology, and the configuration appears here in mirror form to the more famous trikona-to-trikona pattern. When the lord of a trikona (1, 5, or 9) occupies a kendra house (1, 4, 7, 10), the dharmic blessing of the trikona enters the foundation angle and produces a native whose worldly stability is built directly on the dharmic strength the chart already supplies. The trikona supplies the meaning. The kendra supplies the form. The two work together rather than competing. For Mesh Lagna with Surya as 5L placed in the 4H, the 5L creative intelligence and past life merit flow into the 4L home and mother angle, which means the native's home life becomes the place where their dharmic inheritance gets expressed in concrete, lived form.</p><p>The Sun-as-5L specifically deserves attention here because the 5L for Mesh is unusually loaded. Surya rules Simha which falls on the 5th house, and the 5th house is the seat of past life merit (purva punya), creative intelligence, children, mantra siddhi, and dharmic creativity. Placing this lord in the 4th house puts the past life merit and creative intelligence directly into the home angle, and the practical effect is that the native arrives in this life with a relationship to home and family that is more dharmic than their peers experience. Children with this placement often display unusual maturity around the family role from a young age, take on responsibilities the family did not explicitly assign them, and grow into adults whose home life carries an authority that other people notice when they visit. The third interpretive layer is the father reading. Surya is the karaka of father, and his placement in the 4th house puts the father directly into the home angle, which produces a configuration where the father becomes the authority figure within the household rather than just outside it. Fathers of natives with this placement are typically present at home in ways that other fathers are not, and the native absorbs the father's presence as the formative emotional anchor of childhood.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "When the soul karaka sits in the home angle, the home becomes the chart's central sanctuary. The work is to honour the warmth without letting the solar register burn the very people the placement was meant to nourish." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "When the soul karaka sits in the home angle, the home becomes the chart's central sanctuary. The work is to honour the warmth without letting the solar register burn the very people the placement was meant to nourish."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Surya, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Surya, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Soul, father, authority, vitality" },
-            { "k": "Own sign", "v": "Simha (Leo)" },
-            { "k": "Uchha (exaltation)", "v": "Mesha at 10 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Tula at 10 degrees", "tone": "bad" },
-            { "k": "Sign state here", "v": "Friendly Karka", "tone": "good" },
-            { "k": "Friends", "v": "Moon, Mars, Jupiter" },
-            { "k": "Element", "v": "Fire (Agni Tattva)" },
-            { "k": "Role for Mesh", "v": "5th lord (Simha)" }
+            {
+              "k": "Karakatva",
+              "v": "Soul, father, authority, vitality"
+            },
+            {
+              "k": "Own sign",
+              "v": "Simha (Leo)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Mesha at 10 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Tula at 10 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Friendly Karka",
+              "tone": "good"
+            },
+            {
+              "k": "Friends",
+              "v": "Moon, Mars, Jupiter"
+            },
+            {
+              "k": "Element",
+              "v": "Fire (Agni Tattva)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "5th lord (Simha)"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Sukha Bhava, house profile", "subtitle": "4th house significance",
+          "icon": "triangle-house",
+          "title": "Sukha Bhava, house profile",
+          "subtitle": "4th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Sukha, Bandhu Bhava" },
-            { "k": "Rules over", "v": "Home, mother, vehicles, education, contentment" },
-            { "k": "Natural sign", "v": "Karka (Cancer) for Mesh" },
-            { "k": "Natural ruler", "v": "Chandra (Moon)" },
-            { "k": "Body part", "v": "Chest, heart, lungs" },
-            { "k": "Classical nature", "v": "Kendra" },
-            { "k": "Vedic quality", "v": "5L in 4H kendra-trikona raja yoga", "tone": "good" },
-            { "k": "Special effect", "v": "Father becomes home authority", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Sukha, Bandhu Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Home, mother, vehicles, education, contentment"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Karka (Cancer) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Chandra (Moon)"
+            },
+            {
+              "k": "Body part",
+              "v": "Chest, heart, lungs"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Kendra"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "5L in 4H kendra-trikona raja yoga",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Father becomes home authority",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +448,48 @@
       "heading": "Where the home-anchored vocation plays out",
       "html": "<p>Career paths cluster around fields where home and family values translate directly into vocational structure, and the strongest single fit is family business leadership and inheritance. The 5L Sun placed in the 4L home angle produces a native whose vocational instinct is to take an existing family enterprise and grow it into the next generation's expression. Many natives step into family business roles in their twenties or thirties even when they had originally pursued a different career. Real estate, property, and land development work the chart productively because the 4L is the property karaka and natives instinctively understand land as long-term family assets.</p><p>Education leadership at school or college level suits the chart because the 5L creative intelligence combined with the 4L Karka produces a leader whose mode is unusually attuned to the emotional dimension of learning. Hospitality and traditional guest-house work fit because the native instinctively knows how to make other people feel at home. Cultural preservation and heritage work suit natives whose vocational pull is more historical. Home-based or family-anchored creative practice rounds out the list. Surya mahadasha is when the dharmic vocation crystallises, often through a family event (an inheritance, a parent's transition, a property decision) that opens the next phase of the working life.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Surya in Sukha Bhava placement", "subtitle": "Generate your free Kundali to see the kendra-trikona raja yoga in your chart.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Sun marked in the fourth house of Mesh", "planet": "Surya", "house": 4, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Surya in Sukha Bhava in friendly Karka, marked in radiant saffron" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Lower-central diamond is the 4th house of home" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Surya in Sukha Bhava placement",
+        "subtitle": "Generate your free Kundali to see the kendra-trikona raja yoga in your chart.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Sun marked in the fourth house of Mesh",
+      "planet": "Surya",
+      "house": 4,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Surya in Sukha Bhava in friendly Karka, marked in radiant saffron"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Lower-central diamond is the 4th house of home"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The father-at-home authority and the fire-water tension",
@@ -194,13 +502,45 @@
       "heading": "When Sun in 4th delivers its Sukha Bhava chapter",
       "intro_html": "<p>Surya mahadasha is the defining window for this placement and arrives with the home and family vocation crystallising into recognised authority.</p>",
       "rows": [
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "The Sukha Bhava activation window. Family business or property responsibilities crystallise, father themes peak, the 5L creative intelligence finds visible home expression.", "intensity": "Very high", "intensity_bar_width": 92, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Chandra (Moon)", "duration": "10 years", "themes": "Lord of the sign Karka and friend of Sun. The placement reaches its fullest expression, mother themes peak, home stabilises into lifelong asset.", "intensity": "Very high", "intensity_bar_width": 90, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord and friend of Sun. Bold home and family commitments, decisive property moves, family business leadership steps.", "intensity": "Very good", "intensity_bar_width": 82, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "Friend of Sun and natural karaka of children. Wisdom about the family role arrives, teaching extension within the home, the dharmic dimension of family life crystallises.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "The Sukha Bhava activation window. Family business or property responsibilities crystallise, father themes peak, the 5L creative intelligence finds visible home expression.",
+          "intensity": "Very high",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Chandra (Moon)",
+          "duration": "10 years",
+          "themes": "Lord of the sign Karka and friend of Sun. The placement reaches its fullest expression, mother themes peak, home stabilises into lifelong asset.",
+          "intensity": "Very high",
+          "intensity_bar_width": 90,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord and friend of Sun. Bold home and family commitments, decisive property moves, family business leadership steps.",
+          "intensity": "Very good",
+          "intensity_bar_width": 82,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "Friend of Sun and natural karaka of children. Wisdom about the family role arrives, teaching extension within the home, the dharmic dimension of family life crystallises.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +559,140 @@
       "heading": "Gemstones for Sun in 4th house Mesh Lagna",
       "intro_html": "<p>Ruby is the primary recommendation here because the friendly sign and kendra placement together support the gemstone protocol with high confidence.</p>",
       "cards": [
-        { "name": "Manikya (Ruby)", "role": "primary", "sub": "Surya-strengthening stone for friendly-sign Sun", "icon_variant": "ruby", "image_slug": "ruby", "items": [ { "k": "Metal", "v": "Gold (22 or 24 carat)" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Sunday, sunrise" }, { "k": "Min weight", "v": "3 to 5 Ratti" } ] },
-        { "name": "Red Garnet (alt)", "role": "secondary", "sub": "Milder Sun-aligned alternative", "icon_variant": "red-coral", "image_slug": "red-coral", "items": [ { "k": "Metal", "v": "Gold or copper" }, { "k": "Finger", "v": "Ring finger" }, { "k": "Day to wear", "v": "Sunday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Manikya", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Manikya (Ruby)",
+          "role": "primary",
+          "sub": "Surya-strengthening stone for friendly-sign Sun",
+          "icon_variant": "ruby",
+          "image_slug": "ruby",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold (22 or 24 carat)"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Sunday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "3 to 5 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Red Garnet (alt)",
+          "role": "secondary",
+          "sub": "Milder Sun-aligned alternative",
+          "icon_variant": "red-coral",
+          "image_slug": "red-coral",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold or copper"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Sunday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Manikya",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Ruby for friendly-sign Sun in the kendra is a clean recommendation, but always consult a practising Jyotishi before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Sun in 4th house",
       "intro_html": "<p>The Surya-aligned rudraksha is the Ek Mukhi, the rarest bead and the one directly ruled by the Sun.</p>",
       "beads": [
-        { "mukhi": 1, "name": "Ek Mukhi Rudraksha", "sub": "Ruled by Surya, the classical Sun bead", "benefit": "The rarest and most revered rudraksha and the primary bead for any Sun strengthening protocol. Amplifies the friendly-sign Sun in the home angle, supports the father-at-home authority signature, and is specifically recommended for natives stepping into family business or inherited leadership roles." },
-        { "mukhi": 2, "name": "Do Mukhi Rudraksha", "sub": "Ruled by Chandra, the dispositor of Sun here", "benefit": "The Moon bead serves as secondary support for this placement because the dispositor of Sun here is Chandra (Moon rules Karka, the sign Sun occupies). Wearing the Do Mukhi alongside the Ek Mukhi compounds the placement's strength by honouring both planet and sign-lord, and softens the solar register at home." }
+        {
+          "mukhi": 1,
+          "name": "Ek Mukhi Rudraksha",
+          "sub": "Ruled by Surya, the classical Sun bead",
+          "benefit": "The rarest and most revered rudraksha and the primary bead for any Sun strengthening protocol. Amplifies the friendly-sign Sun in the home angle, supports the father-at-home authority signature, and is specifically recommended for natives stepping into family business or inherited leadership roles."
+        },
+        {
+          "mukhi": 2,
+          "name": "Do Mukhi Rudraksha",
+          "sub": "Ruled by Chandra, the dispositor of Sun here",
+          "benefit": "The Moon bead serves as secondary support for this placement because the dispositor of Sun here is Chandra (Moon rules Karka, the sign Sun occupies). Wearing the Do Mukhi alongside the Ek Mukhi compounds the placement's strength by honouring both planet and sign-lord, and softens the solar register at home."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Surya Yantra for the home Sun", "yantra": { "name": "Surya Yantra", "sanskrit": "सूर्य यन्त्र", "description": "The Surya Yantra is the geometric form of the solar channel. For Surya in the Mesh home angle install it on the east wall of the family puja space or main living room. Sunday at sunrise in Surya hora is the installation window, and the yantra should be consecrated with Surya Kavacham recitation and a copper water libation.", "direction": "East wall (puja space or living room)", "install_day": "Sunday sunrise, Surya hora preferred", "material": "Copper or gold (brass acceptable)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Surya in friendly Karka", "stotra": { "eyebrow": "Surya Kavacham", "title": "Shri Surya Kavacham", "sub": "Protective armour hymn for the Sun, classical solar containment recitation", "verse": "Yajna devo dharma devo bhuvi devo divakarah<br>Tasmai namo mahadeva dharmadhwaja namostu te<br>Adityasya namaskaram ye kurvanti dine dine<br>Jamantara sahasreshu dauridryam nopajayate<br>Akala mrityu haranam sarva vyadhi nivaranam<br>Surya pada jalam pitva sapta janma agha nashanam", "translation": "The deity of sacrifice, the deity of dharma, the deity of the world, the maker of day. Salutations to that great deity, salutations to the dharma-bannered one. Those who offer salutations to Aditya day after day do not face poverty for thousands of births. The Sun's foot-water removed, all diseases healed, sins of seven births destroyed when the Surya-pada water is drunk. The Surya Kavacham is the protective armour hymn for the Sun and is the classical recitation for natives who need to contain the solar register at home while preserving the authority outside it.", "url": "https://stotra.vastucart.in/stotra/surya-kavacham" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Surya Yantra for the home Sun",
+      "yantra": {
+        "name": "Surya Yantra",
+        "sanskrit": "सूर्य यन्त्र",
+        "description": "The Surya Yantra is the geometric form of the solar channel. For Surya in the Mesh home angle install it on the east wall of the family puja space or main living room. Sunday at sunrise in Surya hora is the installation window, and the yantra should be consecrated with Surya Kavacham recitation and a copper water libation.",
+        "direction": "East wall (puja space or living room)",
+        "install_day": "Sunday sunrise, Surya hora preferred",
+        "material": "Copper or gold (brass acceptable)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Surya in friendly Karka",
+      "stotra": {
+        "eyebrow": "Surya Kavacham",
+        "title": "Shri Surya Kavacham",
+        "sub": "Protective armour hymn for the Sun, classical solar containment recitation",
+        "verse": "Yajna devo dharma devo bhuvi devo divakarah<br>Tasmai namo mahadeva dharmadhwaja namostu te<br>Adityasya namaskaram ye kurvanti dine dine<br>Jamantara sahasreshu dauridryam nopajayate<br>Akala mrityu haranam sarva vyadhi nivaranam<br>Surya pada jalam pitva sapta janma agha nashanam",
+        "translation": "The deity of sacrifice, the deity of dharma, the deity of the world, the maker of day. Salutations to that great deity, salutations to the dharma-bannered one. Those who offer salutations to Aditya day after day do not face poverty for thousands of births. The Sun's foot-water removed, all diseases healed, sins of seven births destroyed when the Surya-pada water is drunk. The Surya Kavacham is the protective armour hymn for the Sun and is the classical recitation for natives who need to contain the solar register at home while preserving the authority outside it.",
+        "url": "https://stotra.vastucart.in/stotra/surya-kavacham"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +700,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your fourth house Sun and kendra-trikona raja yoga", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Griha pravesh muhurta", "sub": "Auspicious dates for entering a new home", "url": "https://muhurta.vastucart.in/griha-pravesh-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Marriage muhurta", "sub": "Auspicious dates for the family-anchored marriage", "url": "https://muhurta.vastucart.in/marriage-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Surya Kavacham", "sub": "Protective armour hymn for the Sun", "url": "https://stotra.vastucart.in/stotra/surya-kavacham", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Aditya Hridayam", "sub": "Classical Surya hymn from the Ramayana", "url": "https://stotra.vastucart.in/stotra/aditya-hridayam", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Surya Hridayam", "sub": "Heart of the Sun recitation", "url": "https://stotra.vastucart.in/stotra/surya-hridayam", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Surya Ashtakam", "sub": "Eight-verse solar hymn", "url": "https://stotra.vastucart.in/stotra/surya-ashtakam", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Surya Chalisa", "sub": "Forty-verse devotional hymn to Surya", "url": "https://stotra.vastucart.in/stotra/surya-chalisa", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Ruby and gemstone source", "sub": "Certified Manikya for the Sun", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Surya yantra store", "sub": "Copper Surya yantra for the puja space", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Kendra-trikona analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your fourth house Sun and kendra-trikona raja yoga",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Griha pravesh muhurta",
+            "sub": "Auspicious dates for entering a new home",
+            "url": "https://muhurta.vastucart.in/griha-pravesh-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Marriage muhurta",
+            "sub": "Auspicious dates for the family-anchored marriage",
+            "url": "https://muhurta.vastucart.in/marriage-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Surya Kavacham",
+            "sub": "Protective armour hymn for the Sun",
+            "url": "https://stotra.vastucart.in/stotra/surya-kavacham",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aditya Hridayam",
+            "sub": "Classical Surya hymn from the Ramayana",
+            "url": "https://stotra.vastucart.in/stotra/aditya-hridayam",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Surya Hridayam",
+            "sub": "Heart of the Sun recitation",
+            "url": "https://stotra.vastucart.in/stotra/surya-hridayam",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Surya Ashtakam",
+            "sub": "Eight-verse solar hymn",
+            "url": "https://stotra.vastucart.in/stotra/surya-ashtakam",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Surya Chalisa",
+            "sub": "Forty-verse devotional hymn to Surya",
+            "url": "https://stotra.vastucart.in/stotra/surya-chalisa",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Ruby and gemstone source",
+            "sub": "Certified Manikya for the Sun",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Surya yantra store",
+            "sub": "Copper Surya yantra for the puja space",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Kendra-trikona analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +800,130 @@
         "title": "Is your Sukha Bhava Sun carrying the kendra-trikona raja yoga?",
         "subtitle": "Get a full personalised analysis of your fourth house Surya, the father-at-home pattern, and the family vocation timing.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Surya Kavacham", "url": "https://stotra.vastucart.in/stotra/surya-kavacham", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Surya Kavacham",
+            "url": "https://stotra.vastucart.in/stotra/surya-kavacham",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Sun in 4th house, Mesh Lagna",
       "items": [
-        { "q": "Is Sun in the 4th house good for Mesh Lagna?", "a": "Yes, and structurally it is one of the strongest dharmic Sun placements in the Aries ascendant catalogue. Three structural strengths converge: Karka is a friendly sign for Surya through the Sun-Moon relationship, the 4th house is the strongest of the four kendras, and Surya is the 5L for Mesh which makes this a 5L-in-4H kendra-to-trikona raja yoga that classical texts treat as one of the cleanest career-and-family configurations. The result is a native whose creative intelligence and dharmic inheritance flow directly into home and family life, producing fathers who become household authorities and natives whose vocation is anchored in the family angle." },
-        { "q": "What does the 5L in 4H raja yoga produce for Aries ascendant?", "a": "When the lord of a trikona occupies a kendra, the dharmic blessing of the trikona enters the foundation angle and produces a native whose worldly stability is built directly on the dharmic strength the chart already supplies. For Mesh Lagna, the 5L Sun in the 4H Karka means the past life merit and creative intelligence flow into the home and mother angle. The native arrives in this life with a dharmic relationship to family, displays unusual maturity around the family role from a young age, and grows into an adult whose home life carries an authority that other people notice when they visit." },
-        { "q": "Does Sun in 4th house create father-at-home authority?", "a": "Yes, almost without exception in clinical reports. When the karaka of father (Surya) sits in the karaka house of home (the 4th), the father becomes a presence within the household rather than just a provider from outside it. Fathers of natives with this placement eat meals at home, take active roles in the children's upbringing, and become visible authority figures the native absorbs as the formative emotional anchor of childhood. The pattern is consistent enough that practitioners can usually predict the father-presence signature before the native confirms it." },
-        { "q": "How does Sun in friendly Karka manage the fire-water tension?", "a": "The friendly Sun-Moon relationship contains the tension but does not eliminate it. The practical effect is that the native's home life carries a specific dynamic where the solar warmth and the lunar emotional water occasionally meet in ways that produce mild friction: moments of conflict between authoritative tone and family sensitivity, periods of mood patterns where the native's energy heats the home faster than the family can absorb. The remedy is the deliberate practice of softening the solar voice at home, choosing tone, listening before responding, and making explicit room for the watery emotional climate the family carries." },
-        { "q": "Which gemstone should Mesh Lagna wear for Sun in 4th?", "a": "Ruby (Manikya) is the primary gemstone and is recommended with high confidence here because the friendly sign and kendra placement together support the gemstone protocol cleanly. Wear a natural Burmese or African ruby of minimum three ratti set in gold on the ring finger of the right hand on a Sunday at sunrise after Surya mantra recitation. This is one of the cleanest gemstone recommendations in the Mesh cluster because all the structural conditions for Sun strengthening are in place. Always consult a practising Jyotishi before permanent wearing." }
+        {
+          "q": "Is Sun in the 4th house good for Mesh Lagna?",
+          "a": "Yes, and structurally it is one of the strongest dharmic Sun placements in the Aries ascendant catalogue. Three structural strengths converge: Karka is a friendly sign for Surya through the Sun-Moon relationship, the 4th house is the strongest of the four kendras, and Surya is the 5L for Mesh which makes this a 5L-in-4H kendra-to-trikona raja yoga that classical texts treat as one of the cleanest career-and-family configurations. The result is a native whose creative intelligence and dharmic inheritance flow directly into home and family life, producing fathers who become household authorities and natives whose vocation is anchored in the family angle."
+        },
+        {
+          "q": "What does the 5L in 4H raja yoga produce for Aries ascendant?",
+          "a": "When the lord of a trikona occupies a kendra, the dharmic blessing of the trikona enters the foundation angle and produces a native whose worldly stability is built directly on the dharmic strength the chart already supplies. For Mesh Lagna, the 5L Sun in the 4H Karka means the past life merit and creative intelligence flow into the home and mother angle. The native arrives in this life with a dharmic relationship to family, displays unusual maturity around the family role from a young age, and grows into an adult whose home life carries an authority that other people notice when they visit."
+        },
+        {
+          "q": "Does Sun in 4th house create father-at-home authority?",
+          "a": "Yes, almost without exception in clinical reports. When the karaka of father (Surya) sits in the karaka house of home (the 4th), the father becomes a presence within the household rather than just a provider from outside it. Fathers of natives with this placement eat meals at home, take active roles in the children's upbringing, and become visible authority figures the native absorbs as the formative emotional anchor of childhood. The pattern is consistent enough that practitioners can usually predict the father-presence signature before the native confirms it."
+        },
+        {
+          "q": "How does Sun in friendly Karka manage the fire-water tension?",
+          "a": "The friendly Sun-Moon relationship contains the tension but does not eliminate it. The practical effect is that the native's home life carries a specific dynamic where the solar warmth and the lunar emotional water occasionally meet in ways that produce mild friction: moments of conflict between authoritative tone and family sensitivity, periods of mood patterns where the native's energy heats the home faster than the family can absorb. The remedy is the deliberate practice of softening the solar voice at home, choosing tone, listening before responding, and making explicit room for the watery emotional climate the family carries."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Sun in 4th?",
+          "a": "Ruby (Manikya) is the primary gemstone and is recommended with high confidence here because the friendly sign and kendra placement together support the gemstone protocol cleanly. Wear a natural Burmese or African ruby of minimum three ratti set in gold on the ring finger of the right hand on a Sunday at sunrise after Surya mantra recitation. This is one of the cleanest gemstone recommendations in the Mesh cluster because all the structural conditions for Sun strengthening are in place. Always consult a practising Jyotishi before permanent wearing."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Raja yoga reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Surya in the fifth, swakshetra Simha", "sub": "Sun own sign in the trikona of past life merit", "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Surya in the ninth, friendly Dhanu", "sub": "Sun in the dharma trikona, the trine-to-trine raja yoga parallel", "href": "/jyotish/graha-in-bhava/sun-9th-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Chandra in the fourth, swakshetra Karka", "sub": "Moon own sign in the same home angle, the dispositor parallel", "href": "/jyotish/graha-in-bhava/moon-4th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Surya in the fifth, swakshetra Simha",
+          "sub": "Sun own sign in the trikona of past life merit",
+          "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Surya in the ninth, friendly Dhanu",
+          "sub": "Sun in the dharma trikona, the trine-to-trine raja yoga parallel",
+          "href": "/jyotish/graha-in-bhava/sun-9th-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Chandra in the fourth, swakshetra Karka",
+          "sub": "Moon own sign in the same home angle, the dispositor parallel",
+          "href": "/jyotish/graha-in-bhava/moon-4th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

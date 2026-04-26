@@ -6,40 +6,131 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Sun in 8th house", "Surya Vrishchika", "Mesh Lagna", "Aries ascendant", "Ayush Bhava", "5L in 8H", "research vocation", "Surya mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Sun in 8th house",
+    "Surya Vrishchika",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Ayush Bhava",
+    "5L in 8H",
+    "research vocation",
+    "Surya mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "surya",
   "house_number": 8,
   "lagna_id": "mesha",
   "meta": {
     "title": "Sun in 8th House Mesh Lagna, Trikona in Dushthana Guide",
-    "description": "Sun in 8th house for Mesh Lagna, Surya in friendly Vrishchika, the 5L in 8H research vocation read by Pt. Raghav Sharma.",
+    "description": "Sun in 8th house for Mesh Lagna, Surya in friendly Vrishchika, the 5L in 8H research vocation by VastuCart Editorial.",
     "focus_keyword": "Sun in 8th house",
-    "secondary_keywords": ["Mesh Lagna", "Ayush Bhava", "Surya Vrishchika", "Aries ascendant", "5L in 8H"],
-    "lsi_keywords": ["ayush bhava", "surya vrishchika", "sun in scorpio", "5th lord eighth", "surya mahadasha", "ruby manikya", "trikona in dushthana", "research vocation", "hidden strengths", "transformation karaka"],
-    "keywords": ["Sun in 8th house Mesh Lagna", "Surya in Ayush Bhava", "Sun in Scorpio", "Mesh lagna 8th Sun", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Ayush Bhava",
+      "Surya Vrishchika",
+      "Aries ascendant",
+      "5L in 8H"
+    ],
+    "lsi_keywords": [
+      "ayush bhava",
+      "surya vrishchika",
+      "sun in scorpio",
+      "5th lord eighth",
+      "surya mahadasha",
+      "ruby manikya",
+      "trikona in dushthana",
+      "research vocation",
+      "hidden strengths",
+      "transformation karaka"
+    ],
+    "keywords": [
+      "Sun in 8th house Mesh Lagna",
+      "Surya in Ayush Bhava",
+      "Sun in Scorpio",
+      "Mesh lagna 8th Sun",
+      "Vedic astrology"
+    ],
     "og_title": "Sun in the 8th House of Mesh Lagna, Research and Transformation",
     "og_description": "Surya in friendly Vrishchika in the 8th house for Aries natives, the trikona-in-dushthana vocation by a practising Jyotishi.",
     "og_image": "/og/sun-8th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-8th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Sun in 8th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-8th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Sun in 8th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-8th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Sun in 8th house",
-    "secondary_keywords": ["Mesh Lagna", "Ayush Bhava", "Surya Vrishchika", "Aries ascendant", "5L in 8H"],
-    "lsi_terms": ["ayush bhava", "surya vrishchika", "sun in scorpio", "5th lord eighth", "surya mahadasha", "ruby manikya", "trikona in dushthana", "research vocation", "hidden strengths", "transformation karaka"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Ayush Bhava",
+      "Surya Vrishchika",
+      "Aries ascendant",
+      "5L in 8H"
+    ],
+    "lsi_terms": [
+      "ayush bhava",
+      "surya vrishchika",
+      "sun in scorpio",
+      "5th lord eighth",
+      "surya mahadasha",
+      "ruby manikya",
+      "trikona in dushthana",
+      "research vocation",
+      "hidden strengths",
+      "transformation karaka"
+    ],
     "seed_queries": [
-      "sun in 8th house aries lagna", "surya in 8th house mesh lagna", "sun in scorpio mesh ascendant", "surya vrishchika aries lagna", "sun in ayush bhava mesh", "sun in 8th house career aries", "sun in scorpio 8th aries", "surya ayush bhava mesh", "5l in 8h aries lagna", "sun in 8th house remedies aries", "ruby for sun 8th aries", "manikya mesh lagna 8th", "surya mahadasha aries 8th", "sun in 8th house aries father", "sun in 8th house aries research", "is sun good in 8th house aries", "sun in scorpio aries ascendant career", "trikona in dushthana", "research vocation aries", "sun 8th house aries prediction", "sun in eighth house mesh lagna", "sun 8th house mesh ascendant", "surya in mesh lagna 8th", "sun vrishchika lagna mesh chart", "sun 8th house mesh lagna dasha", "surya mesh lagna transformation", "hidden strengths sun", "5th lord eighth house aries", "surya raja yoga mesh", "occult sun aries"
+      "sun in 8th house aries lagna",
+      "surya in 8th house mesh lagna",
+      "sun in scorpio mesh ascendant",
+      "surya vrishchika aries lagna",
+      "sun in ayush bhava mesh",
+      "sun in 8th house career aries",
+      "sun in scorpio 8th aries",
+      "surya ayush bhava mesh",
+      "5l in 8h aries lagna",
+      "sun in 8th house remedies aries",
+      "ruby for sun 8th aries",
+      "manikya mesh lagna 8th",
+      "surya mahadasha aries 8th",
+      "sun in 8th house aries father",
+      "sun in 8th house aries research",
+      "is sun good in 8th house aries",
+      "sun in scorpio aries ascendant career",
+      "trikona in dushthana",
+      "research vocation aries",
+      "sun 8th house aries prediction",
+      "sun in eighth house mesh lagna",
+      "sun 8th house mesh ascendant",
+      "surya in mesh lagna 8th",
+      "sun vrishchika lagna mesh chart",
+      "sun 8th house mesh lagna dasha",
+      "surya mesh lagna transformation",
+      "hidden strengths sun",
+      "5th lord eighth house aries",
+      "surya raja yoga mesh",
+      "occult sun aries"
     ],
     "questions": [
       "Is Sun in the 8th house bad for Mesh Lagna?",
@@ -49,36 +140,130 @@
       "Which gemstone should Mesh Lagna wear for Sun in 8th?"
     ],
     "lingual_variations": {
-      "surya": ["surya", "sun", "aditya", "ravi", "bhanu"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "surya": [
+        "surya",
+        "sun",
+        "aditya",
+        "ravi",
+        "bhanu"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["5L trikona in 8H dushthana reading", "Research-and-transformation vocation signature", "Hidden strengths through the Mars dispositor"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "5L trikona in 8H dushthana reading",
+      "Research-and-transformation vocation signature",
+      "Hidden strengths through the Mars dispositor"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "sun-8th-house-aries-lagna-hero.webp", "filename_og": "sun-8th-house-aries-lagna-og.png", "alt": "Radiant Surya in the eighth house of a Mesh Lagna kundali in Vrishchika", "caption": "Surya sits in friendly Vrishchika in the eighth house for Aries ascendant natives, the 5L trikona lord in the transformation dushthana producing the research vocation signature.", "width": 1200, "height": 630, "format": "webp", "style": "luminous saffron-crimson editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the eighth house glowing saffron and deep crimson, a stylised Sun symbol above a small scorpion Vrishchika silhouette, traditional Vedic palette of saffron, deep crimson, gold, refined manuscript style, no people.", "negative_prompt": "photorealistic sun, watermark, text, neon, cartoon" },
-    { "filename": "sun-8th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Sun in the eighth house of Mesh in Vrishchika", "caption": "The North Indian birth chart with Surya marked in Vrishchika on the eighth house Ayush Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the eighth house highlighted in saffron with a Surya symbol marked Su and small scorpion Vrishchika glyph, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "sun-8th-house-aries-lagna-ruby.webp", "alt": "Natural Burmese ruby in gold ring, gemstone for Sun 8th house Mesh Lagna", "caption": "Ruby is the primary Surya ratna and works with confidence here because the friendly Mars sign and trikona lord status together support the gemstone protocol.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural Burmese ruby set in a gold ring, deep pigeon blood red colour, cushion cut, on dark velvet with warm lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "sun-8th-house-aries-lagna-surya-chalisa.webp", "alt": "Surya Chalisa Sanskrit verse on parchment with solar disc motif", "caption": "Surya Chalisa recitation strengthens the solar channel through the forty-verse devotional hymn specifically suited to the 8th house hidden register.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Surya Chalisa, hand-painted on aged parchment with gold leaf borders, faint solar disc and lotus motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "sun-8th-house-aries-lagna-hero.webp",
+      "filename_og": "sun-8th-house-aries-lagna-og.png",
+      "alt": "Radiant Surya in the eighth house of a Mesh Lagna kundali in Vrishchika",
+      "caption": "Surya sits in friendly Vrishchika in the eighth house for Aries ascendant natives, the 5L trikona lord in the transformation dushthana producing the research vocation signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "luminous saffron-crimson editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the eighth house glowing saffron and deep crimson, a stylised Sun symbol above a small scorpion Vrishchika silhouette, traditional Vedic palette of saffron, deep crimson, gold, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic sun, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "sun-8th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Sun in the eighth house of Mesh in Vrishchika",
+      "caption": "The North Indian birth chart with Surya marked in Vrishchika on the eighth house Ayush Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the eighth house highlighted in saffron with a Surya symbol marked Su and small scorpion Vrishchika glyph, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "sun-8th-house-aries-lagna-ruby.webp",
+      "alt": "Natural Burmese ruby in gold ring, gemstone for Sun 8th house Mesh Lagna",
+      "caption": "Ruby is the primary Surya ratna and works with confidence here because the friendly Mars sign and trikona lord status together support the gemstone protocol.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural Burmese ruby set in a gold ring, deep pigeon blood red colour, cushion cut, on dark velvet with warm lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "sun-8th-house-aries-lagna-surya-chalisa.webp",
+      "alt": "Surya Chalisa Sanskrit verse on parchment with solar disc motif",
+      "caption": "Surya Chalisa recitation strengthens the solar channel through the forty-verse devotional hymn specifically suited to the 8th house hidden register.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Surya Chalisa, hand-painted on aged parchment with gold leaf borders, faint solar disc and lotus motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Sun in the 8th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Surya in Ayush Bhava for Aries ascendant natives. Sun in friendly Vrishchika, the 5L trikona lord in the 8H dushthana, the research-and-transformation vocation, and the hidden strengths pattern that distinguishes this placement from the solo-authority Sun positions.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Surya", "tone": "teal" },
-      { "label": "Ayush Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Friendly Vrishchika" },
-      { "label": "5L in 8H" },
-      { "label": "Research vocation" }
+      {
+        "label": "Surya",
+        "tone": "teal"
+      },
+      {
+        "label": "Ayush Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Friendly Vrishchika"
+      },
+      {
+        "label": "5L in 8H"
+      },
+      {
+        "label": "Research vocation"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +271,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Surya", "sub": "Sun", "icon": "sun" },
-        { "label": "Bhava", "value": "8th", "sub": "Ayush Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Mixed", "sub": "Trikona lord in dushthana", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Surya",
+          "sub": "Sun",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "8th",
+          "sub": "Ayush Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Mixed",
+          "sub": "Trikona lord in dushthana",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +310,103 @@
       "heading": "Why the trikona-lord reading softens the dushthana reduction",
       "html": "<p>Students often ask whether Sun in the 8th is inherently weak, and the honest practitioner answer is that the reading depends on whether the chart carries the trikona lord signature at this position. For most natives, the 8th house is a dushthana that reduces the expression of any planet occupying it. For Mesh natives specifically, Sun is the 5L trikona lord of the chart, and classical texts give trikona lords a specific protection when they occupy dushthana houses: the reduction is softened because the dharmic current of the trikona lord partially offsets the challenges of the dushthana category. The placement is not transformed into a raja yoga (the trikona-to-kendra combinations are what produce raja yoga specifically), but the reduction is significantly lighter than it would be for a non-trikona-lord planet in the same position, and the specific vocational redirection the placement produces is genuinely productive rather than purely difficult.</p><p>The research-and-transformation vocation is the second specific feature that clinical reports for this placement consistently show. The 8th house rules hidden matters, research, investigation, occult knowledge, and the uncovering of what is not immediately visible. When the 5L Sun (the creative-intelligence lord) occupies this house, the native's creative gifts naturally express through research, investigation, and the work of finding what others miss rather than through the public-visibility performance that other Sun placements produce. Many natives with this placement become the quiet researcher whose work colleagues depend on, the historian whose archival investigations reshape understanding, the physician whose diagnostic accuracy comes from seeing what other doctors overlook, the scholar whose specialty is uncovering sources the field forgot. The vocation is structurally hidden rather than publicly visible, and the native's recognition usually arrives late in career when the accumulated depth of the work finally becomes impossible to ignore. The third interpretive layer is the father reading. Surya is the karaka of father, and his placement in the 8th house often indicates that the father carries some form of hidden karma, chronic health concern, or transformative life pattern that shapes the native's childhood atmosphere in ways the family may not always articulate. Practitioners should ask about this in consultation because the pattern is reliable enough to be predictive.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "When the creative-intelligence lord sits in the house of hidden matters, the native's work happens where other people are not looking. The recognition is slow, the depth is unusual, and the integrity of the hidden effort eventually becomes the chart's specific kind of visibility." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "When the creative-intelligence lord sits in the house of hidden matters, the native's work happens where other people are not looking. The recognition is slow, the depth is unusual, and the integrity of the hidden effort eventually becomes the chart's specific kind of visibility."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Surya, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Surya, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Soul, father, authority, vitality" },
-            { "k": "Own sign", "v": "Simha (Leo)" },
-            { "k": "Uchha (exaltation)", "v": "Mesha at 10 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Tula at 10 degrees", "tone": "bad" },
-            { "k": "Sign state here", "v": "Friendly Vrishchika", "tone": "good" },
-            { "k": "Friends", "v": "Moon, Mars, Jupiter" },
-            { "k": "Element", "v": "Fire (Agni Tattva)" },
-            { "k": "Role for Mesh", "v": "5th lord (Simha)" }
+            {
+              "k": "Karakatva",
+              "v": "Soul, father, authority, vitality"
+            },
+            {
+              "k": "Own sign",
+              "v": "Simha (Leo)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Mesha at 10 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Tula at 10 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Friendly Vrishchika",
+              "tone": "good"
+            },
+            {
+              "k": "Friends",
+              "v": "Moon, Mars, Jupiter"
+            },
+            {
+              "k": "Element",
+              "v": "Fire (Agni Tattva)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "5th lord (Simha)"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Ayush Bhava, house profile", "subtitle": "8th house significance",
+          "icon": "triangle-house",
+          "title": "Ayush Bhava, house profile",
+          "subtitle": "8th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Ayush, Randhra Bhava" },
-            { "k": "Rules over", "v": "Longevity, transformation, hidden matters, research" },
-            { "k": "Natural sign", "v": "Vrishchika (Scorpio) for Mesh" },
-            { "k": "Natural ruler", "v": "Mangal (Mars)" },
-            { "k": "Body part", "v": "Reproductive organs, chronic illness region" },
-            { "k": "Classical nature", "v": "Dushthana, transformation" },
-            { "k": "Vedic quality", "v": "5L trikona lord softens dushthana", "tone": "good" },
-            { "k": "Special effect", "v": "Research-and-transformation vocation", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Ayush, Randhra Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Longevity, transformation, hidden matters, research"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Vrishchika (Scorpio) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Mangal (Mars)"
+            },
+            {
+              "k": "Body part",
+              "v": "Reproductive organs, chronic illness region"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Dushthana, transformation"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "5L trikona lord softens dushthana",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Research-and-transformation vocation",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +448,48 @@
       "heading": "Where the research-through-depth vocation plays out",
       "html": "<p>Career paths cluster around fields that reward the native's instinct for hidden material. Research, scholarship, and archival investigation are the strongest single fit. Many natives spend years in research roles before their work is recognised publicly, and the recognition usually arrives through a single specific piece of work (a book, a paper, a case) that the field cannot ignore. Forensic medicine, surgery, and pathology fit the chart because the medical investigation work the 8th house rules matches the native's natural capacity for depth.</p><p>Occult studies and esoteric scholarship are specific niches because the 8th house directly rules the occult, and many natives build careers in Vedic astrology, classical scripture study, or traditional medicine. Investigative journalism and documentary production fit natives whose vocational pull is more public-facing. Psychology, psychiatry, and depth counselling work because the 8th house rules the psychological depths. Inheritance law and estate planning round out the list because the 8th house rules these matters directly. Surya mahadasha is when the research vocation crystallises into recognised form, often through a specific major project that establishes the native's reputation.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Surya in Ayush Bhava placement", "subtitle": "Generate your free Kundali to see your eighth house Sun.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Sun marked in the eighth house of Mesh", "planet": "Surya", "house": 8, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Surya in Ayush Bhava in friendly Vrishchika, marked in saffron" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Eighth house is the seat of transformation" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Surya in Ayush Bhava placement",
+        "subtitle": "Generate your free Kundali to see your eighth house Sun.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Sun marked in the eighth house of Mesh",
+      "planet": "Surya",
+      "house": 8,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Surya in Ayush Bhava in friendly Vrishchika, marked in saffron"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Eighth house is the seat of transformation"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The 5L trikona in dushthana and the father-karma reading",
@@ -194,13 +502,45 @@
       "heading": "When Sun in 8th delivers its Ayush Bhava chapter",
       "intro_html": "<p>Surya mahadasha is the defining window for this placement and arrives with research-and-transformation work crystallising into recognised form.</p>",
       "rows": [
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "The Ayush Bhava activation window. Research vocation crystallises, hidden work finds its first major recognition, father themes reach resolution, transformation events arrive.", "intensity": "Very high", "intensity_bar_width": 88, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Chandra (Moon)", "duration": "10 years", "themes": "Fourth lord and friend of Sun. Emotional support for the depth work, home stabilises around the research pattern, mother offers practical grounding.", "intensity": "Good", "intensity_bar_width": 78, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord, dispositor of Sun here, and friend. The most aligned planet for this placement. Bold commitments to the research vocation, decisive transformation work.", "intensity": "Very high", "intensity_bar_width": 90, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "Friend of Sun and natural karaka of wisdom. Dharmic refinement of the research work, teaching extension, the depth becomes transmissible to students.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "The Ayush Bhava activation window. Research vocation crystallises, hidden work finds its first major recognition, father themes reach resolution, transformation events arrive.",
+          "intensity": "Very high",
+          "intensity_bar_width": 88,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Chandra (Moon)",
+          "duration": "10 years",
+          "themes": "Fourth lord and friend of Sun. Emotional support for the depth work, home stabilises around the research pattern, mother offers practical grounding.",
+          "intensity": "Good",
+          "intensity_bar_width": 78,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord, dispositor of Sun here, and friend. The most aligned planet for this placement. Bold commitments to the research vocation, decisive transformation work.",
+          "intensity": "Very high",
+          "intensity_bar_width": 90,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "Friend of Sun and natural karaka of wisdom. Dharmic refinement of the research work, teaching extension, the depth becomes transmissible to students.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +559,140 @@
       "heading": "Gemstones for Sun in 8th house Mesh Lagna",
       "intro_html": "<p>Ruby is the primary recommendation here because the friendly Mars sign and the 5L trikona lord status together support the gemstone protocol despite the dushthana placement.</p>",
       "cards": [
-        { "name": "Manikya (Ruby)", "role": "primary", "sub": "Surya-strengthening stone for friendly-sign Sun", "icon_variant": "ruby", "image_slug": "ruby", "items": [ { "k": "Metal", "v": "Gold (22 or 24 carat)" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Sunday, sunrise" }, { "k": "Min weight", "v": "3 to 5 Ratti" } ] },
-        { "name": "Red Garnet (alt)", "role": "secondary", "sub": "Milder Sun-aligned alternative", "icon_variant": "red-coral", "image_slug": "red-coral", "items": [ { "k": "Metal", "v": "Gold or copper" }, { "k": "Finger", "v": "Ring finger" }, { "k": "Day to wear", "v": "Sunday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Manikya", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Manikya (Ruby)",
+          "role": "primary",
+          "sub": "Surya-strengthening stone for friendly-sign Sun",
+          "icon_variant": "ruby",
+          "image_slug": "ruby",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold (22 or 24 carat)"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Sunday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "3 to 5 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Red Garnet (alt)",
+          "role": "secondary",
+          "sub": "Milder Sun-aligned alternative",
+          "icon_variant": "red-coral",
+          "image_slug": "red-coral",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold or copper"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Sunday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Manikya",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Ruby in a dushthana house still benefits from the trikona-lord softening, but always consult a qualified Jyotishi for chart confirmation before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Sun in 8th house",
       "intro_html": "<p>The Surya-aligned rudraksha is the Ek Mukhi, the rarest bead and the one directly ruled by the Sun.</p>",
       "beads": [
-        { "mukhi": 1, "name": "Ek Mukhi Rudraksha", "sub": "Ruled by Surya, the classical Sun bead", "benefit": "The rarest and most revered rudraksha and the primary bead for any Sun strengthening protocol. Supports the research-and-depth vocation, amplifies the 5L trikona lord signature, and is specifically recommended for natives building careers in research, scholarship, forensic medicine, or occult studies." },
-        { "mukhi": 3, "name": "Teen Mukhi Rudraksha", "sub": "Ruled by Mars, the dispositor of Sun here", "benefit": "The Mars bead serves as secondary support for this placement because the dispositor of Sun here is Mangal (Mars rules Vrishchika) and because Mars is also the lagna lord for Mesh. Wearing the Teen Mukhi alongside the Ek Mukhi honours both planet and sign-lord and the chart's overall foundation simultaneously." }
+        {
+          "mukhi": 1,
+          "name": "Ek Mukhi Rudraksha",
+          "sub": "Ruled by Surya, the classical Sun bead",
+          "benefit": "The rarest and most revered rudraksha and the primary bead for any Sun strengthening protocol. Supports the research-and-depth vocation, amplifies the 5L trikona lord signature, and is specifically recommended for natives building careers in research, scholarship, forensic medicine, or occult studies."
+        },
+        {
+          "mukhi": 3,
+          "name": "Teen Mukhi Rudraksha",
+          "sub": "Ruled by Mars, the dispositor of Sun here",
+          "benefit": "The Mars bead serves as secondary support for this placement because the dispositor of Sun here is Mangal (Mars rules Vrishchika) and because Mars is also the lagna lord for Mesh. Wearing the Teen Mukhi alongside the Ek Mukhi honours both planet and sign-lord and the chart's overall foundation simultaneously."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Surya Yantra for the 8th house Sun", "yantra": { "name": "Surya Yantra", "sanskrit": "सूर्य यन्त्र", "description": "The Surya Yantra is the geometric form of the solar channel. For Surya in the Mesh 8th house install it on the east wall of the research or library space. Sunday at sunrise in Surya hora is the installation window, and the yantra should be consecrated with Surya Chalisa recitation and a copper water libation.", "direction": "East wall (research or library space)", "install_day": "Sunday sunrise, Surya hora preferred", "material": "Copper or gold (brass acceptable)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Surya in friendly Vrishchika", "stotra": { "eyebrow": "Surya Chalisa", "title": "Shri Surya Chalisa", "sub": "Forty-verse devotional hymn to Surya, suited to the 8th house sustained practice", "verse": "Jai jai jai ravi aditya ravana<br>Jagata ghoona kara aghamocha karana<br>Tava prabhava jana jagata mahan<br>Karata kamala bhajata tava dhyana<br>Shree sarvesh dayalu ravi bhaskara<br>Karata paada seva taro samsara", "translation": "Victory to the sun, the destroyer of demons. Remover of sins and ignorance from the world. Your influence makes the whole world great. The lotus awakens by meditating on you. O lord of all, compassionate Ravi Bhaskara, by serving at your feet I cross the ocean of worldly existence. The Surya Chalisa is the forty-verse devotional hymn to the Sun and is the specific recitation recommended for a chart where Surya sits in the 8th house and requires sustained daily practice to honour the depth the placement asks for.", "url": "https://stotra.vastucart.in/stotra/surya-chalisa" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Surya Yantra for the 8th house Sun",
+      "yantra": {
+        "name": "Surya Yantra",
+        "sanskrit": "सूर्य यन्त्र",
+        "description": "The Surya Yantra is the geometric form of the solar channel. For Surya in the Mesh 8th house install it on the east wall of the research or library space. Sunday at sunrise in Surya hora is the installation window, and the yantra should be consecrated with Surya Chalisa recitation and a copper water libation.",
+        "direction": "East wall (research or library space)",
+        "install_day": "Sunday sunrise, Surya hora preferred",
+        "material": "Copper or gold (brass acceptable)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Surya in friendly Vrishchika",
+      "stotra": {
+        "eyebrow": "Surya Chalisa",
+        "title": "Shri Surya Chalisa",
+        "sub": "Forty-verse devotional hymn to Surya, suited to the 8th house sustained practice",
+        "verse": "Jai jai jai ravi aditya ravana<br>Jagata ghoona kara aghamocha karana<br>Tava prabhava jana jagata mahan<br>Karata kamala bhajata tava dhyana<br>Shree sarvesh dayalu ravi bhaskara<br>Karata paada seva taro samsara",
+        "translation": "Victory to the sun, the destroyer of demons. Remover of sins and ignorance from the world. Your influence makes the whole world great. The lotus awakens by meditating on you. O lord of all, compassionate Ravi Bhaskara, by serving at your feet I cross the ocean of worldly existence. The Surya Chalisa is the forty-verse devotional hymn to the Sun and is the specific recitation recommended for a chart where Surya sits in the 8th house and requires sustained daily practice to honour the depth the placement asks for.",
+        "url": "https://stotra.vastucart.in/stotra/surya-chalisa"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +700,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your eighth house Sun placement", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Education muhurta", "sub": "Auspicious dates for research or scholarship start", "url": "https://muhurta.vastucart.in/education-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Business muhurta", "sub": "Auspicious dates for investigative or transformative work", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Surya Chalisa", "sub": "Forty-verse devotional hymn to Surya", "url": "https://stotra.vastucart.in/stotra/surya-chalisa", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Aditya Hridayam", "sub": "Classical Surya hymn from the Ramayana", "url": "https://stotra.vastucart.in/stotra/aditya-hridayam", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Surya Ashtakam", "sub": "Eight-verse solar hymn", "url": "https://stotra.vastucart.in/stotra/surya-ashtakam", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Surya Kavacham", "sub": "Protective armour stotra for Surya", "url": "https://stotra.vastucart.in/stotra/surya-kavacham", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Hanuman Chalisa", "sub": "Mars-dispositor support stotra", "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Ruby and gemstone source", "sub": "Certified Manikya for the Sun", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Surya yantra store", "sub": "Copper Surya yantra for the library wall", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Ayush Bhava Sun analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your eighth house Sun placement",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Education muhurta",
+            "sub": "Auspicious dates for research or scholarship start",
+            "url": "https://muhurta.vastucart.in/education-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Business muhurta",
+            "sub": "Auspicious dates for investigative or transformative work",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Surya Chalisa",
+            "sub": "Forty-verse devotional hymn to Surya",
+            "url": "https://stotra.vastucart.in/stotra/surya-chalisa",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aditya Hridayam",
+            "sub": "Classical Surya hymn from the Ramayana",
+            "url": "https://stotra.vastucart.in/stotra/aditya-hridayam",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Surya Ashtakam",
+            "sub": "Eight-verse solar hymn",
+            "url": "https://stotra.vastucart.in/stotra/surya-ashtakam",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Surya Kavacham",
+            "sub": "Protective armour stotra for Surya",
+            "url": "https://stotra.vastucart.in/stotra/surya-kavacham",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Hanuman Chalisa",
+            "sub": "Mars-dispositor support stotra",
+            "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Ruby and gemstone source",
+            "sub": "Certified Manikya for the Sun",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Surya yantra store",
+            "sub": "Copper Surya yantra for the library wall",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Ayush Bhava Sun analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +800,130 @@
         "title": "Is your Ayush Bhava Sun carrying the research vocation signature?",
         "subtitle": "Get a full personalised analysis of your eighth house Surya, the 5L trikona softening, and the father-karma reading the chart carries.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Surya Chalisa", "url": "https://stotra.vastucart.in/stotra/surya-chalisa", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Surya Chalisa",
+            "url": "https://stotra.vastucart.in/stotra/surya-chalisa",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Sun in 8th house, Mesh Lagna",
       "items": [
-        { "q": "Is Sun in the 8th house bad for Mesh Lagna?", "a": "No, the popular reading that frames Sun in the 8th as exclusively negative is overstated. Two structural features soften the dushthana reduction considerably. First, Vrishchika is a friendly sign for the Sun through the Sun-Mars classical friendship. Second, Surya is the 5L trikona lord for Mesh, and classical texts give trikona lords specific protection when they occupy dushthana houses. The combination produces a native whose creative intelligence expresses through research, investigation, and hidden-knowledge work rather than through the public-authority register other Sun placements produce. The reading is pedagogical rather than punitive." },
-        { "q": "What does the 5L in 8H produce for Aries natives?", "a": "It produces the trikona-in-dushthana pattern where the creative-intelligence lord's gifts get redirected from public performance into the research-and-depth vocation the 8th house rules. This is not a raja yoga (raja yogas require trikona-kendra or trikona-trikona connections specifically) but it is a structural redirection that classical texts describe as productive rather than purely weakened. The native becomes the quiet researcher, the patient scholar, the physician whose diagnostic depth reaches what others miss, the investigator whose work requires years of accumulation before it becomes visible." },
-        { "q": "Does Sun in 8th house make the native a researcher?", "a": "Yes, almost without exception in clinical reports for this placement. The 8th house rules hidden matters, research, investigation, and the uncovering of knowledge that is not immediately visible. When the 5L Sun occupies this house, the native's creative gifts naturally express through research and depth work rather than through visible performance. Many natives become the quiet researcher whose work colleagues depend on, the historian whose archival investigations reshape understanding, or the scholar whose specialty is uncovering sources the field forgot. The vocation is structurally hidden rather than publicly visible." },
-        { "q": "How does Sun in friendly Vrishchika soften the dushthana?", "a": "Vrishchika is Mars's own sign and Mars is a classical friend of the Sun, so the sign relationship is comfortable. More significantly for Mesh natives, Mars is also the lagna lord of Mesh, so the dispositor of Sun here is the chart's own ruler. When Mars is well placed, his strength simultaneously strengthens the Sun's expression and the chart's overall foundation, producing a compound benefit other lagnas cannot access in the same way. The friendly sign softens the dushthana category reduction, and the trikona lord status softens it further." },
-        { "q": "Which gemstone should Mesh Lagna wear for Sun in 8th?", "a": "Ruby (Manikya) is the primary gemstone and is recommended here with reasonable confidence because the friendly Mars sign and the 5L trikona lord status together support the gemstone protocol despite the dushthana placement. Wear a natural Burmese or African ruby of minimum three ratti set in gold on the ring finger of the right hand on a Sunday at sunrise after Surya mantra recitation. Natives with significant other 8th house afflictions should consult a practising Jyotishi before permanent wearing because the 8th house placement still carries baseline sensitivity that responds to the broader chart context." }
+        {
+          "q": "Is Sun in the 8th house bad for Mesh Lagna?",
+          "a": "No, the popular reading that frames Sun in the 8th as exclusively negative is overstated. Two structural features soften the dushthana reduction considerably. First, Vrishchika is a friendly sign for the Sun through the Sun-Mars classical friendship. Second, Surya is the 5L trikona lord for Mesh, and classical texts give trikona lords specific protection when they occupy dushthana houses. The combination produces a native whose creative intelligence expresses through research, investigation, and hidden-knowledge work rather than through the public-authority register other Sun placements produce. The reading is pedagogical rather than punitive."
+        },
+        {
+          "q": "What does the 5L in 8H produce for Aries natives?",
+          "a": "It produces the trikona-in-dushthana pattern where the creative-intelligence lord's gifts get redirected from public performance into the research-and-depth vocation the 8th house rules. This is not a raja yoga (raja yogas require trikona-kendra or trikona-trikona connections specifically) but it is a structural redirection that classical texts describe as productive rather than purely weakened. The native becomes the quiet researcher, the patient scholar, the physician whose diagnostic depth reaches what others miss, the investigator whose work requires years of accumulation before it becomes visible."
+        },
+        {
+          "q": "Does Sun in 8th house make the native a researcher?",
+          "a": "Yes, almost without exception in clinical reports for this placement. The 8th house rules hidden matters, research, investigation, and the uncovering of knowledge that is not immediately visible. When the 5L Sun occupies this house, the native's creative gifts naturally express through research and depth work rather than through visible performance. Many natives become the quiet researcher whose work colleagues depend on, the historian whose archival investigations reshape understanding, or the scholar whose specialty is uncovering sources the field forgot. The vocation is structurally hidden rather than publicly visible."
+        },
+        {
+          "q": "How does Sun in friendly Vrishchika soften the dushthana?",
+          "a": "Vrishchika is Mars's own sign and Mars is a classical friend of the Sun, so the sign relationship is comfortable. More significantly for Mesh natives, Mars is also the lagna lord of Mesh, so the dispositor of Sun here is the chart's own ruler. When Mars is well placed, his strength simultaneously strengthens the Sun's expression and the chart's overall foundation, producing a compound benefit other lagnas cannot access in the same way. The friendly sign softens the dushthana category reduction, and the trikona lord status softens it further."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Sun in 8th?",
+          "a": "Ruby (Manikya) is the primary gemstone and is recommended here with reasonable confidence because the friendly Mars sign and the 5L trikona lord status together support the gemstone protocol despite the dushthana placement. Wear a natural Burmese or African ruby of minimum three ratti set in gold on the ring finger of the right hand on a Sunday at sunrise after Surya mantra recitation. Natives with significant other 8th house afflictions should consult a practising Jyotishi before permanent wearing because the 8th house placement still carries baseline sensitivity that responds to the broader chart context."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Research reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Surya in the fifth, swakshetra Simha", "sub": "Sun own sign in the creative trikona, the visible contrast", "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Mangal in the eighth, lagna lord in Ayush Bhava", "sub": "Mars in the same transformation house, the dispositor parallel", "href": "/jyotish/graha-in-bhava/mars-8th-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Chandra in the eighth, debilitated with neecha bhanga", "sub": "Moon debilitated in the same house, the parallel debility study", "href": "/jyotish/graha-in-bhava/moon-8th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Surya in the fifth, swakshetra Simha",
+          "sub": "Sun own sign in the creative trikona, the visible contrast",
+          "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Mangal in the eighth, lagna lord in Ayush Bhava",
+          "sub": "Mars in the same transformation house, the dispositor parallel",
+          "href": "/jyotish/graha-in-bhava/mars-8th-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Chandra in the eighth, debilitated with neecha bhanga",
+          "sub": "Moon debilitated in the same house, the parallel debility study",
+          "href": "/jyotish/graha-in-bhava/moon-8th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

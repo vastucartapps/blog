@@ -1,5 +1,6 @@
 import type { ContentBlock } from "@/lib/types";
 import { ProseBlock } from "./ProseBlock";
+import { ScannableProse } from "./ScannableProse";
 import { PullQuote } from "./PullQuote";
 import { StatStrip } from "./StatStrip";
 import { InfoGrid } from "./InfoGrid";
@@ -47,6 +48,16 @@ export function BlockRenderer({ blocks, category }: Props) {
                 eyebrow={block.eyebrow}
                 heading={block.heading}
                 html={block.html}
+              />
+            );
+          case "scannable-prose":
+            return (
+              <ScannableProse
+                key={i}
+                eyebrow={block.eyebrow}
+                heading={block.heading}
+                lead_html={block.lead_html}
+                subsections={block.subsections}
               />
             );
           case "pull-quote":

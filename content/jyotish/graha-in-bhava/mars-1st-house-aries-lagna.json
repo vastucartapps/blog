@@ -7,7 +7,7 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 10,
   "status": "ready",
   "published_at": "2026-04-12T00:00:00.000Z",
@@ -22,7 +22,6 @@
     "Manglik",
     "Hanuman Chalisa",
     "red coral",
-    "Pt Raghav Sharma",
     "graha in bhava"
   ],
   "planet_id": "mangal",
@@ -30,7 +29,7 @@
   "lagna_id": "mesha",
   "meta": {
     "title": "Mars in 1st House for Mesh Lagna, Effects and Remedies",
-    "description": "Mars in 1st house for Mesh Lagna, the lagna lord in its own sign. Personality, career, marriage, manglik dosha, dasha and remedies by Pt. Raghav Sharma.",
+    "description": "Mars in 1st house for Mesh Lagna, the lagna lord in its own sign. Personality, career, marriage, manglik dosha, dasha and remedies by VastuCart Editorial.",
     "focus_keyword": "Mars in 1st house",
     "secondary_keywords": [
       "Mesh Lagna",
@@ -63,10 +62,22 @@
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-1st-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Mars in 1st House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-1st-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Mars in 1st House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-1st-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
@@ -129,9 +140,27 @@
       "What career suits Mars in 1st house Mesh Lagna natives?"
     ],
     "lingual_variations": {
-      "mangal": ["mangal", "mangala", "mars", "kuja", "bhaumya", "angaraka"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "mangal": [
+        "mangal",
+        "mangala",
+        "mars",
+        "kuja",
+        "bhaumya",
+        "angaraka"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
     "content_gaps": [
       "Manglik dosha exact cancellation rules for Mars in own sign",
@@ -197,18 +226,45 @@
     "title_html": "Mars in the 1st house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner-level study of Mangal in Pratham Bhava for Aries ascendant natives. The lagna lord in its own sign,body, character, career, marriage, dasha activation, and remedies.",
     "meta": [
-      { "icon": "clock", "value": "10 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "10 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Mangal", "tone": "teal" },
-      { "label": "Pratham Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Swakshetra" },
-      { "label": "Lagna lord in lagna" },
-      { "label": "Manglik check" }
+      {
+        "label": "Mangal",
+        "tone": "teal"
+      },
+      {
+        "label": "Pratham Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Swakshetra"
+      },
+      {
+        "label": "Lagna lord in lagna"
+      },
+      {
+        "label": "Manglik check"
+      }
     ]
   },
   "schema": {},
@@ -216,10 +272,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet",   "value": "Mangal", "sub": "Mars",        "icon": "mars" },
-        { "label": "Bhava",    "value": "1st",    "sub": "Tanu Bhava",  "icon": "triangle-house" },
-        { "label": "Lagna",    "value": "Mesh",   "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Strong", "sub": "Swakshetra",  "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Mangal",
+          "sub": "Mars",
+          "icon": "mars"
+        },
+        {
+          "label": "Bhava",
+          "value": "1st",
+          "sub": "Tanu Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Strong",
+          "sub": "Swakshetra",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -247,14 +324,41 @@
           "title": "Mangal, planet profile",
           "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Energy, courage, brothers, surgery" },
-            { "k": "Own sign", "v": "Mesh (Aries) and Vrishchika (Scorpio)" },
-            { "k": "Uchha (exaltation)", "v": "Makar at 28 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Karka at 28 degrees", "tone": "bad" },
-            { "k": "Friends", "v": "Sun, Moon, Jupiter" },
-            { "k": "Enemies", "v": "Mercury", "tone": "bad" },
-            { "k": "Element", "v": "Fire (Agni Tattva)" },
-            { "k": "Day", "v": "Tuesday" }
+            {
+              "k": "Karakatva",
+              "v": "Energy, courage, brothers, surgery"
+            },
+            {
+              "k": "Own sign",
+              "v": "Mesh (Aries) and Vrishchika (Scorpio)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Makar at 28 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Karka at 28 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Moon, Jupiter"
+            },
+            {
+              "k": "Enemies",
+              "v": "Mercury",
+              "tone": "bad"
+            },
+            {
+              "k": "Element",
+              "v": "Fire (Agni Tattva)"
+            },
+            {
+              "k": "Day",
+              "v": "Tuesday"
+            }
           ]
         },
         {
@@ -262,19 +366,48 @@
           "title": "Pratham Bhava, house profile",
           "subtitle": "1st house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Tanu, Lagna Bhava" },
-            { "k": "Rules over", "v": "Body, vitality, fame, first impression" },
-            { "k": "Natural sign", "v": "Mesh (Aries)" },
-            { "k": "Natural ruler", "v": "Mangal (Mars)" },
-            { "k": "Body part", "v": "Head, brain, face, blood" },
-            { "k": "Kendra house", "v": "Yes, angular, most powerful", "tone": "good" },
-            { "k": "Trikona house", "v": "Yes, dharma trikona", "tone": "good" },
-            { "k": "Vedic quality", "v": "Kendra plus Trikona (rajyoga)" }
+            {
+              "k": "Sanskrit name",
+              "v": "Tanu, Lagna Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Body, vitality, fame, first impression"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Mesh (Aries)"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Mangal (Mars)"
+            },
+            {
+              "k": "Body part",
+              "v": "Head, brain, face, blood"
+            },
+            {
+              "k": "Kendra house",
+              "v": "Yes, angular, most powerful",
+              "tone": "good"
+            },
+            {
+              "k": "Trikona house",
+              "v": "Yes, dharma trikona",
+              "tone": "good"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Kendra plus Trikona (rajyoga)"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -326,7 +459,10 @@
         "button_variant": "saffron"
       }
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "kundali-visual",
       "eyebrow": "Kundali visual",
@@ -335,14 +471,26 @@
       "house": 1,
       "lagna": "Mesh",
       "legend": [
-        { "color": "saffron", "text": "Mangal in Lagna, highlighted in crimson" },
-        { "color": "white", "text": "12 houses in North Indian format" },
-        { "color": "teal", "text": "Central square is the 1st house (Tanu Bhava)" }
+        {
+          "color": "saffron",
+          "text": "Mangal in Lagna, highlighted in crimson"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Central square is the 1st house (Tanu Bhava)"
+        }
       ],
       "cta_label": "Get your free Kundali",
       "cta_url": "https://www.vastucart.in/tools/kundli"
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -390,7 +538,10 @@
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Manglik dosha and marriage",
@@ -416,10 +567,22 @@
           "icon_variant": "ruby",
           "image_slug": "red-coral",
           "items": [
-            { "k": "Metal", "v": "Copper or panchdhatu" },
-            { "k": "Finger", "v": "Ring finger, right hand" },
-            { "k": "Day to wear", "v": "Tuesday, sunrise" },
-            { "k": "Min weight", "v": "5 to 7 Ratti" }
+            {
+              "k": "Metal",
+              "v": "Copper or panchdhatu"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Tuesday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
           ]
         },
         {
@@ -429,23 +592,38 @@
           "icon_variant": "saphire",
           "image_slug": "yellow-sapphire",
           "items": [
-            { "k": "Metal", "v": "Gold" },
-            { "k": "Finger", "v": "Index finger, right hand" },
-            { "k": "Day to wear", "v": "Thursday, Guru hora" },
-            { "k": "Min weight", "v": "3 to 5 Ratti" }
+            {
+              "k": "Metal",
+              "v": "Gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Index finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Thursday, Guru hora"
+            },
+            {
+              "k": "Min weight",
+              "v": "3 to 5 Ratti"
+            }
           ]
         },
         {
           "name": "Consult before wearing Moonga",
           "role": "shop",
-          "sub": "1-on-1 chart review by Pt. Raghav Sharma",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
           "shop_label": "Book a consultation",
           "shop_url": "https://store.vastucart.in/consultations"
         }
       ],
       "disclaimer": "Always consult a qualified Jyotishi who has reviewed your full birth chart before wearing any gemstone. Effects vary based on chart strength, dasha periods, and individual constitution."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
@@ -476,7 +654,10 @@
         "button_variant": "teal"
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "yantra",
       "eyebrow": "Yantra",
@@ -492,7 +673,10 @@
         "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
       }
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "stotra",
       "eyebrow": "Stotra and Mantra",
@@ -506,7 +690,10 @@
         "url": "https://stotra.vastucart.in/stotra/mangal-stotram"
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -514,15 +701,69 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Free Kundali generator", "sub": "Generate your full birth chart, free", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Lagna (Ascendant) calculator", "sub": "Confirm your Mesh Lagna with Lahiri ayanamsa", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Marriage matching (Guna Milan)", "sub": "Critical check for Manglik dosha", "url": "https://www.vastucart.in/tools/marriage-matching", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Mesh Rashi daily horoscope", "sub": "Today's prediction for Aries natives", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Mangal Stotram", "sub": "Classical stotra to Lord Mars", "url": "https://stotra.vastucart.in/stotra/mangal-stotram", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Mangal Dosh Nivaran Stotram", "sub": "Cancellation stotra for Manglik dosha", "url": "https://stotra.vastucart.in/stotra/mangal-dosh-nivaran-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Rudraksha malas at the store", "sub": "Authentic prayer beads and rosaries", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Yantras for prosperity & protection", "sub": "Mangal yantra, navagraha", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal Jyotish consultation", "sub": "1-on-1 chart review with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Free Kundali generator",
+            "sub": "Generate your full birth chart, free",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Lagna (Ascendant) calculator",
+            "sub": "Confirm your Mesh Lagna with Lahiri ayanamsa",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Marriage matching (Guna Milan)",
+            "sub": "Critical check for Manglik dosha",
+            "url": "https://www.vastucart.in/tools/marriage-matching",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Mesh Rashi daily horoscope",
+            "sub": "Today's prediction for Aries natives",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Mangal Stotram",
+            "sub": "Classical stotra to Lord Mars",
+            "url": "https://stotra.vastucart.in/stotra/mangal-stotram",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Mangal Dosh Nivaran Stotram",
+            "sub": "Cancellation stotra for Manglik dosha",
+            "url": "https://stotra.vastucart.in/stotra/mangal-dosh-nivaran-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Rudraksha malas at the store",
+            "sub": "Authentic prayer beads and rosaries",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Yantras for prosperity & protection",
+            "sub": "Mangal yantra, navagraha",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal Jyotish consultation",
+            "sub": "1-on-1 chart review with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -532,13 +773,28 @@
         "title": "Is Mars this powerful in your own chart?",
         "subtitle": "Get a complete personalised analysis of your Mangal placement, current dasha strength, and Manglik dosha cancellation rules for your full chart.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Mangal Stotram & Kavacham", "url": "https://stotra.vastucart.in/stotra/mangal-stotram", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Mangal Stotram & Kavacham",
+            "url": "https://stotra.vastucart.in/stotra/mangal-stotram",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
@@ -566,35 +822,75 @@
         }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Muhurta specialist", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "Mesh Lagna complete profile (pillar)", "sub": "The pillar guide for every Aries ascendant native", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Sun in 1st house, Mesh Lagna", "sub": "Surya in Pratham Bhava for Aries", "href": "/jyotish/graha-in-bhava/sun-1st-house-aries-lagna", "icon_variant": "sun" },
-        { "title": "Mars in 2nd house, Mesh Lagna", "sub": "Wealth, family, speech under Mars", "href": "/jyotish/graha-in-bhava/mars-2nd-house-aries-lagna", "icon_variant": "rose" }
+        {
+          "title": "Mesh Lagna complete profile (pillar)",
+          "sub": "The pillar guide for every Aries ascendant native",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Sun in 1st house, Mesh Lagna",
+          "sub": "Surya in Pratham Bhava for Aries",
+          "href": "/jyotish/graha-in-bhava/sun-1st-house-aries-lagna",
+          "icon_variant": "sun"
+        },
+        {
+          "title": "Mars in 2nd house, Mesh Lagna",
+          "sub": "Wealth, family, speech under Mars",
+          "href": "/jyotish/graha-in-bhava/mars-2nd-house-aries-lagna",
+          "icon_variant": "rose"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

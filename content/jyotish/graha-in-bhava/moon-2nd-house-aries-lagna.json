@@ -6,40 +6,131 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Moon in 2nd house", "Chandra exaltation", "Mesh Lagna", "Aries ascendant", "Dhana Bhava", "4L in 2H", "uchha Chandra", "Chandra mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Moon in 2nd house",
+    "Chandra exaltation",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Dhana Bhava",
+    "4L in 2H",
+    "uchha Chandra",
+    "Chandra mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "chandra",
   "house_number": 2,
   "lagna_id": "mesha",
   "meta": {
     "title": "Moon in 2nd House Mesh Lagna, Exaltation Dhana Yoga",
-    "description": "Moon in 2nd house for Mesh Lagna, Chandra uchha in Vrishabha, the 4L exalted in Dhana Bhava read by Pt. Raghav Sharma.",
+    "description": "Moon in 2nd house for Mesh Lagna, Chandra uchha in Vrishabha, the 4L exalted in Dhana Bhava by VastuCart Editorial.",
     "focus_keyword": "Moon in 2nd house",
-    "secondary_keywords": ["Mesh Lagna", "Dhana Bhava", "Chandra exaltation", "Aries ascendant", "4L in 2H"],
-    "lsi_keywords": ["dhana bhava", "chandra vrishabha", "moon in taurus", "4th lord second", "chandra mahadasha", "pearl mukta", "kendra lord dhana", "mother wealth", "exaltation yoga", "devotional speech"],
-    "keywords": ["Moon in 2nd house Mesh Lagna", "Chandra uchha in Dhana Bhava", "Moon in Taurus", "Mesh lagna 2nd Moon", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dhana Bhava",
+      "Chandra exaltation",
+      "Aries ascendant",
+      "4L in 2H"
+    ],
+    "lsi_keywords": [
+      "dhana bhava",
+      "chandra vrishabha",
+      "moon in taurus",
+      "4th lord second",
+      "chandra mahadasha",
+      "pearl mukta",
+      "kendra lord dhana",
+      "mother wealth",
+      "exaltation yoga",
+      "devotional speech"
+    ],
+    "keywords": [
+      "Moon in 2nd house Mesh Lagna",
+      "Chandra uchha in Dhana Bhava",
+      "Moon in Taurus",
+      "Mesh lagna 2nd Moon",
+      "Vedic astrology"
+    ],
     "og_title": "Moon in the 2nd House of Mesh Lagna, Exaltation Dhana Yoga",
     "og_description": "Chandra exalted in Vrishabha in the Dhana Bhava for Aries natives, by a practising Jyotishi.",
     "og_image": "/og/moon-2nd-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/moon-2nd-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Moon in 2nd House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/moon-2nd-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Moon in 2nd House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/moon-2nd-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Moon in 2nd house",
-    "secondary_keywords": ["Mesh Lagna", "Dhana Bhava", "Chandra exaltation", "Aries ascendant", "4L in 2H"],
-    "lsi_terms": ["dhana bhava", "chandra vrishabha", "moon in taurus", "4th lord second", "chandra mahadasha", "pearl mukta", "kendra lord dhana", "mother wealth", "exaltation yoga", "devotional speech"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dhana Bhava",
+      "Chandra exaltation",
+      "Aries ascendant",
+      "4L in 2H"
+    ],
+    "lsi_terms": [
+      "dhana bhava",
+      "chandra vrishabha",
+      "moon in taurus",
+      "4th lord second",
+      "chandra mahadasha",
+      "pearl mukta",
+      "kendra lord dhana",
+      "mother wealth",
+      "exaltation yoga",
+      "devotional speech"
+    ],
     "seed_queries": [
-      "moon in 2nd house aries lagna", "chandra in 2nd house mesh lagna", "moon in taurus mesh ascendant", "chandra vrishabha aries lagna", "moon in dhana bhava mesh", "moon in 2nd house wealth aries", "moon in taurus 2nd aries", "chandra dhana bhava mesh", "4l in 2h aries lagna", "moon in 2nd house remedies aries", "pearl for moon 2nd aries", "mukta mesh lagna 2nd", "chandra mahadasha aries 2nd", "moon in 2nd house aries family", "moon in 2nd house aries speech", "is moon good in 2nd house aries", "moon in taurus aries ascendant career", "exaltation dhana yoga", "moon exaltation wealth", "moon 2nd house aries prediction", "chandra uchha mesh lagna", "chandra exaltation 2nd aries", "chandra vrishabha lagna mesh chart", "moon 2nd house mesh lagna dasha", "chandra mesh lagna wealth", "lunar wealth signature", "4th lord second house aries", "chandra dhana yoga mesh", "moon venus neutral exalted", "kendra trikona dhana"
+      "moon in 2nd house aries lagna",
+      "chandra in 2nd house mesh lagna",
+      "moon in taurus mesh ascendant",
+      "chandra vrishabha aries lagna",
+      "moon in dhana bhava mesh",
+      "moon in 2nd house wealth aries",
+      "moon in taurus 2nd aries",
+      "chandra dhana bhava mesh",
+      "4l in 2h aries lagna",
+      "moon in 2nd house remedies aries",
+      "pearl for moon 2nd aries",
+      "mukta mesh lagna 2nd",
+      "chandra mahadasha aries 2nd",
+      "moon in 2nd house aries family",
+      "moon in 2nd house aries speech",
+      "is moon good in 2nd house aries",
+      "moon in taurus aries ascendant career",
+      "exaltation dhana yoga",
+      "moon exaltation wealth",
+      "moon 2nd house aries prediction",
+      "chandra uchha mesh lagna",
+      "chandra exaltation 2nd aries",
+      "chandra vrishabha lagna mesh chart",
+      "moon 2nd house mesh lagna dasha",
+      "chandra mesh lagna wealth",
+      "lunar wealth signature",
+      "4th lord second house aries",
+      "chandra dhana yoga mesh",
+      "moon venus neutral exalted",
+      "kendra trikona dhana"
     ],
     "questions": [
       "Is Moon in the 2nd house good for Mesh Lagna?",
@@ -49,36 +140,130 @@
       "Which gemstone should Mesh Lagna wear for exalted Moon in 2nd?"
     ],
     "lingual_variations": {
-      "chandra": ["chandra", "moon", "soma", "indu", "sheetanshu"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "chandra": [
+        "chandra",
+        "moon",
+        "soma",
+        "indu",
+        "sheetanshu"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Chandra exaltation in Dhana Bhava reading", "4L kendra lord exalted in 2H", "Mother wealth signature"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Chandra exaltation in Dhana Bhava reading",
+      "4L kendra lord exalted in 2H",
+      "Mother wealth signature"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "moon-2nd-house-aries-lagna-hero.webp", "filename_og": "moon-2nd-house-aries-lagna-og.png", "alt": "Silver exalted Chandra in the second house of a Mesh Lagna kundali in Vrishabha", "caption": "Chandra sits exalted in Vrishabha in the second house for Aries ascendant natives, the 4L kendra lord producing the exaltation Dhana Yoga signature.", "width": 1200, "height": 630, "format": "webp", "style": "luminous silver-emerald editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the second house glowing silver and deep emerald, a stylised crescent Moon symbol above a small bull Vrishabha silhouette, traditional Vedic palette of silver, emerald, soft gold, refined manuscript style, no people.", "negative_prompt": "photorealistic moon, watermark, text, neon, cartoon" },
-    { "filename": "moon-2nd-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Moon exalted in the second house of Mesh in Vrishabha", "caption": "The North Indian birth chart with Chandra marked in Vrishabha on the second house Dhana Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the second house highlighted in silver with a Chandra symbol marked Ch and Vrishabha bull glyph, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "moon-2nd-house-aries-lagna-pearl.webp", "alt": "Natural South Sea pearl in silver ring, gemstone for exalted Moon 2nd house Mesh Lagna", "caption": "Pearl is the primary Chandra ratna and is recommended with confidence because the exaltation Dhana yoga supports the full gemstone protocol.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural South Sea pearl set in a silver ring, creamy white lustre, round cabochon, on dark velvet with cool lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "moon-2nd-house-aries-lagna-chandra-kavacham.webp", "alt": "Chandra Kavacham Sanskrit verse on parchment with lunar crescent motif", "caption": "Chandra Kavacham recitation strengthens the lunar channel through the protective armour hymn for the Moon.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Chandra Kavacham, hand-painted on aged parchment with silver leaf borders, faint lunar crescent and lotus motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "moon-2nd-house-aries-lagna-hero.webp",
+      "filename_og": "moon-2nd-house-aries-lagna-og.png",
+      "alt": "Silver exalted Chandra in the second house of a Mesh Lagna kundali in Vrishabha",
+      "caption": "Chandra sits exalted in Vrishabha in the second house for Aries ascendant natives, the 4L kendra lord producing the exaltation Dhana Yoga signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "luminous silver-emerald editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the second house glowing silver and deep emerald, a stylised crescent Moon symbol above a small bull Vrishabha silhouette, traditional Vedic palette of silver, emerald, soft gold, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic moon, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "moon-2nd-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Moon exalted in the second house of Mesh in Vrishabha",
+      "caption": "The North Indian birth chart with Chandra marked in Vrishabha on the second house Dhana Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the second house highlighted in silver with a Chandra symbol marked Ch and Vrishabha bull glyph, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "moon-2nd-house-aries-lagna-pearl.webp",
+      "alt": "Natural South Sea pearl in silver ring, gemstone for exalted Moon 2nd house Mesh Lagna",
+      "caption": "Pearl is the primary Chandra ratna and is recommended with confidence because the exaltation Dhana yoga supports the full gemstone protocol.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural South Sea pearl set in a silver ring, creamy white lustre, round cabochon, on dark velvet with cool lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "moon-2nd-house-aries-lagna-chandra-kavacham.webp",
+      "alt": "Chandra Kavacham Sanskrit verse on parchment with lunar crescent motif",
+      "caption": "Chandra Kavacham recitation strengthens the lunar channel through the protective armour hymn for the Moon.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Chandra Kavacham, hand-painted on aged parchment with silver leaf borders, faint lunar crescent and lotus motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Moon in the 2nd house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Chandra exalted in Dhana Bhava for Aries ascendant natives. Moon uchha in Vrishabha, the 4L kendra lord in the wealth and speech house, and the exaltation Dhana Yoga signature that defines how the native's emotional intelligence and mother relationship compound into unusually stable family wealth.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Chandra", "tone": "teal" },
-      { "label": "Dhana Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Uchha Vrishabha" },
-      { "label": "4L in 2H" },
-      { "label": "Exaltation Dhana Yoga" }
+      {
+        "label": "Chandra",
+        "tone": "teal"
+      },
+      {
+        "label": "Dhana Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Uchha Vrishabha"
+      },
+      {
+        "label": "4L in 2H"
+      },
+      {
+        "label": "Exaltation Dhana Yoga"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +271,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Chandra", "sub": "Moon", "icon": "sun" },
-        { "label": "Bhava", "value": "2nd", "sub": "Dhana Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Exalted", "sub": "4L uchha in Dhana Bhava", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Chandra",
+          "sub": "Moon",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "2nd",
+          "sub": "Dhana Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Exalted",
+          "sub": "4L uchha in Dhana Bhava",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +310,103 @@
       "heading": "Why the exalted 4L in 2H produces mother-wealth abundance",
       "html": "<p>The classical reading for an exalted kendra lord in the dhana house is among the strongest wealth signatures Parashari tradition describes, and the mechanism is worth naming precisely. Vrishabha is the sign of Shukra, ruled by refined Venus aesthetics, and a Chandra in Vrishabha expresses through the most receptive and nurturing earth-sign environment possible. The fixed-earth stability of the sign gives the Moon a grounded continuity she never finds in cardinal or mutable placements, and the Venus ownership adds the aesthetic refinement that turns ordinary wealth into the kind of tasteful accumulated resources families remember across generations.</p><p>For Aries natives where Chandra is also the 4L, the exaltation compounds with the kendra lord Dhana Yoga to produce a specific wealth pattern. Mother is usually the central figure in the native's early financial life, whether through direct inheritance, introduction to the professional network, or simply the stable emotional base that lets the native take productive risks in their twenties. Home and landed property are reliable stores of value, and many natives end up owning the ancestral home or developing family land into an income-producing asset. Speech carries a specifically devotional sweetness that makes the native trusted in family and professional settings both. The reading is distinct from Rahu-in-2nd hunger or Budha-in-2nd cleverness: exalted Chandra here produces wealth through emotional integrity and the slow compounding of nurture rather than through ambition or analytical speed. Practitioners can describe this with complete confidence because the classical texts name this combination explicitly.</p>"
     },
-    { "type": "pull-quote", "variant": "teal", "text": "When the exalted mother-lord sits in the wealth house of her Venus dispositor, the native inherits more than money. They inherit the emotional composure that makes wealth grow across generations rather than dissipate within one lifetime." },
+    {
+      "type": "pull-quote",
+      "variant": "teal",
+      "text": "When the exalted mother-lord sits in the wealth house of her Venus dispositor, the native inherits more than money. They inherit the emotional composure that makes wealth grow across generations rather than dissipate within one lifetime."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Chandra, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Chandra, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Mind, mother, emotion, public" },
-            { "k": "Own sign", "v": "Karka (Cancer)" },
-            { "k": "Uchha (exaltation)", "v": "Vrishabha at 3 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Vrishchika at 3 degrees", "tone": "bad" },
-            { "k": "Sign state here", "v": "Exalted Vrishabha", "tone": "good" },
-            { "k": "Friends", "v": "Sun, Mercury" },
-            { "k": "Element", "v": "Water (Jala Tattva)" },
-            { "k": "Role for Mesh", "v": "4th lord (Karka)" }
+            {
+              "k": "Karakatva",
+              "v": "Mind, mother, emotion, public"
+            },
+            {
+              "k": "Own sign",
+              "v": "Karka (Cancer)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Vrishabha at 3 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Vrishchika at 3 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Exalted Vrishabha",
+              "tone": "good"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Mercury"
+            },
+            {
+              "k": "Element",
+              "v": "Water (Jala Tattva)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "4th lord (Karka)"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Dhana Bhava, house profile", "subtitle": "2nd house significance",
+          "icon": "triangle-house",
+          "title": "Dhana Bhava, house profile",
+          "subtitle": "2nd house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Dhana, Kutumba Bhava" },
-            { "k": "Rules over", "v": "Wealth, family, speech, face, food" },
-            { "k": "Natural sign", "v": "Vrishabha (Taurus) for Mesh" },
-            { "k": "Natural ruler", "v": "Shukra (Venus)" },
-            { "k": "Body part", "v": "Face, mouth, neck, speech apparatus" },
-            { "k": "Classical nature", "v": "Maraka, dhana" },
-            { "k": "Vedic quality", "v": "Exalted 4L kendra lord in wealth", "tone": "good" },
-            { "k": "Special effect", "v": "Exaltation Dhana Yoga", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Dhana, Kutumba Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Wealth, family, speech, face, food"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Vrishabha (Taurus) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Shukra (Venus)"
+            },
+            {
+              "k": "Body part",
+              "v": "Face, mouth, neck, speech apparatus"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Maraka, dhana"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Exalted 4L kendra lord in wealth",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Exaltation Dhana Yoga",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +448,48 @@
       "heading": "Where the exalted mother-wealth vocation plays out",
       "html": "<p>Career paths cluster around fields where emotional nurture, aesthetic refinement, and family-centred trust become the vocational asset. The strongest single fit is hospitality and the home lifestyle market because the chart literally joins the 4L home-and-comfort rulership with the 2nd house wealth structure. Many natives build careers in hotel management, boutique hospitality, wellness retreats, or home-product businesses where the sense of what makes a place feel like home is the commercial signature. Real estate and property development also fit strongly because the exaltation gives the native both the emotional intuition to know what buyers want and the Dhana Bhava rulership to convert that intuition into reliable income.</p><p>Food and refined cuisine businesses suit this placement particularly well because the 2nd rules the mouth and food directly and Vrishabha rules aesthetic refinement, so natives with a culinary pull often build careers as restaurateurs, speciality food producers, or organic farm entrepreneurs whose product carries the specifically nurtured quality the chart signature produces. Family business leadership works because the mother-wealth signature naturally places the native in a household where commercial tradition already exists, and the exalted Moon gives them the emotional intelligence to inherit and modernise the enterprise without rupture. Music and devotional performance suit artistic natives because the pleasant voice the placement gives is the vocational instrument. Psychology and counselling fit for nurture-pulled natives because the chart carries natural emotional attunement. Chandra mahadasha is the defining window, and it typically delivers the mother-wealth compounding most visibly.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Chandra exaltation in Dhana Bhava", "subtitle": "Generate your free Kundali to confirm your exalted 2nd house Moon.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "teal" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Moon marked in the second house of Mesh", "planet": "Chandra", "house": 2, "lagna": "Mesh", "legend": [ { "color": "teal", "text": "Chandra exalted in Dhana Bhava in Vrishabha, marked in teal" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "saffron", "text": "Second house is the seat of wealth and speech" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Chandra exaltation in Dhana Bhava",
+        "subtitle": "Generate your free Kundali to confirm your exalted 2nd house Moon.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Moon marked in the second house of Mesh",
+      "planet": "Chandra",
+      "house": 2,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "teal",
+          "text": "Chandra exalted in Dhana Bhava in Vrishabha, marked in teal"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "saffron",
+          "text": "Second house is the seat of wealth and speech"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The exaltation Dhana Yoga and the mother-wealth reading",
@@ -194,13 +502,45 @@
       "heading": "When Moon in 2nd delivers its Dhana Bhava chapter",
       "intro_html": "<p>Chandra mahadasha is the defining window for this placement and arrives with the exaltation Dhana Yoga crystallising into the stable family wealth the chart structurally promises.</p>",
       "rows": [
-        { "mahadasha": "Chandra (Moon)", "duration": "10 years", "themes": "The exaltation Dhana Yoga activation window. Mother-wealth signature peaks, family property appreciates, home-based ventures find recognition, refined speech vocation establishes reputation.", "intensity": "Peak", "intensity_bar_width": 95, "intensity_bar_color": "#338a95", "highlight": true },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord and friend of Moon. Bold wealth decisions on top of the exalted base, decisive family business moves, leadership in the refined enterprise.", "intensity": "Very good", "intensity_bar_width": 88, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Budha (Mercury)", "duration": "17 years", "themes": "Friend of Moon. Analytical refinement of the wealth structure, contract and document maturation for family property and hospitality ventures.", "intensity": "Very good", "intensity_bar_width": 82, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "Sign dispositor of Chandra here and the most aligned planet for remedial work. Aesthetic and relational dimensions of the wealth vocation peak, marriage supports accumulation.", "intensity": "Very high", "intensity_bar_width": 90, "intensity_bar_color": "#e8840a" }
+        {
+          "mahadasha": "Chandra (Moon)",
+          "duration": "10 years",
+          "themes": "The exaltation Dhana Yoga activation window. Mother-wealth signature peaks, family property appreciates, home-based ventures find recognition, refined speech vocation establishes reputation.",
+          "intensity": "Peak",
+          "intensity_bar_width": 95,
+          "intensity_bar_color": "#338a95",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord and friend of Moon. Bold wealth decisions on top of the exalted base, decisive family business moves, leadership in the refined enterprise.",
+          "intensity": "Very good",
+          "intensity_bar_width": 88,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Budha (Mercury)",
+          "duration": "17 years",
+          "themes": "Friend of Moon. Analytical refinement of the wealth structure, contract and document maturation for family property and hospitality ventures.",
+          "intensity": "Very good",
+          "intensity_bar_width": 82,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "Sign dispositor of Chandra here and the most aligned planet for remedial work. Aesthetic and relational dimensions of the wealth vocation peak, marriage supports accumulation.",
+          "intensity": "Very high",
+          "intensity_bar_width": 90,
+          "intensity_bar_color": "#e8840a"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +559,140 @@
       "heading": "Gemstones for Moon in 2nd house Mesh Lagna",
       "intro_html": "<p>Pearl is the primary recommendation because the Chandra exaltation in Vrishabha combined with the 4L kendra lord Dhana Yoga supports the full gemstone protocol with complete confidence.</p>",
       "cards": [
-        { "name": "Mukta (Pearl)", "role": "primary", "sub": "Chandra exaltation gemstone for exalted Moon", "icon_variant": "pearl", "image_slug": "pearl", "items": [ { "k": "Metal", "v": "Silver (pure)" }, { "k": "Finger", "v": "Little finger, right hand" }, { "k": "Day to wear", "v": "Monday, sunrise" }, { "k": "Min weight", "v": "4 to 6 Ratti" } ] },
-        { "name": "Moonstone (alt)", "role": "secondary", "sub": "Milder Moon-aligned alternative", "icon_variant": "pearl", "image_slug": "pearl", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Little finger" }, { "k": "Day to wear", "v": "Monday, sunrise" }, { "k": "Min weight", "v": "5 to 8 Ratti" } ] },
-        { "name": "Consult before wearing Mukta", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Mukta (Pearl)",
+          "role": "primary",
+          "sub": "Chandra exaltation gemstone for exalted Moon",
+          "icon_variant": "pearl",
+          "image_slug": "pearl",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver (pure)"
+            },
+            {
+              "k": "Finger",
+              "v": "Little finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Monday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "4 to 6 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Moonstone (alt)",
+          "role": "secondary",
+          "sub": "Milder Moon-aligned alternative",
+          "icon_variant": "pearl",
+          "image_slug": "pearl",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Little finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Monday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 8 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Mukta",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Pearl for exalted Moon in Dhana Bhava is among the cleanest gemstone recommendations in Parashari tradition, but always consult a practising Jyotishi before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Moon in 2nd house",
       "intro_html": "<p>The Chandra-aligned rudraksha is the Dwi Mukhi, the two-face bead classically ruled by the Moon.</p>",
       "beads": [
-        { "mukhi": 2, "name": "Dwi Mukhi Rudraksha", "sub": "Ruled by Chandra, the classical Moon bead", "benefit": "The Dwi Mukhi is the primary bead for Chandra strengthening protocols and is especially auspicious when the Moon is exalted because the chart structurally invites the full lunar consecration. Supports the mother-wealth signature, amplifies the exaltation Dhana Yoga, and is specifically recommended for natives building family wealth and hospitality careers." },
-        { "mukhi": 6, "name": "Chha Mukhi Rudraksha", "sub": "Ruled by Venus, the dispositor of Moon here", "benefit": "The Venus bead serves as secondary support because the dispositor of Chandra in Vrishabha is Shukra. Wearing the Chha Mukhi alongside the Dwi Mukhi compounds the placement's already strong signature by honouring both planet and sign-lord through the full cooperation the chart produces." }
+        {
+          "mukhi": 2,
+          "name": "Dwi Mukhi Rudraksha",
+          "sub": "Ruled by Chandra, the classical Moon bead",
+          "benefit": "The Dwi Mukhi is the primary bead for Chandra strengthening protocols and is especially auspicious when the Moon is exalted because the chart structurally invites the full lunar consecration. Supports the mother-wealth signature, amplifies the exaltation Dhana Yoga, and is specifically recommended for natives building family wealth and hospitality careers."
+        },
+        {
+          "mukhi": 6,
+          "name": "Chha Mukhi Rudraksha",
+          "sub": "Ruled by Venus, the dispositor of Moon here",
+          "benefit": "The Venus bead serves as secondary support because the dispositor of Chandra in Vrishabha is Shukra. Wearing the Chha Mukhi alongside the Dwi Mukhi compounds the placement's already strong signature by honouring both planet and sign-lord through the full cooperation the chart produces."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Chandra Yantra for the exalted Moon", "yantra": { "name": "Chandra Yantra", "sanskrit": "चन्द्र यन्त्र", "description": "The Chandra Yantra is the geometric form of the lunar channel. For Chandra exalted in the Mesh 2nd house install it on the north-west wall of the main home altar or drawing room where family members gather. Monday at sunrise in Chandra hora is the installation window, and the yantra should be consecrated with Chandra Kavacham recitation and a silver water libation.", "direction": "North-west wall (altar or drawing room)", "install_day": "Monday sunrise, Chandra hora preferred", "material": "Silver or copper", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for exalted Chandra in Vrishabha", "stotra": { "eyebrow": "Chandra Kavacham", "title": "Shri Chandra Kavacham", "sub": "Protective armour hymn for the Moon", "verse": "Om shram shrim shraum sah chandramase namah<br>Om sheetanshave vidmahe kalanathaya dhimahi<br>Tanno somah prachodayat<br>Shirah patu me chandro lalatam amritakarah<br>Netre patu me nisheshah shravane patu chandramah", "translation": "Om, salutations to the Moon with the sacred seed mantras. Om, may we know the cool-rayed one, let us meditate on the lord of digits, may Soma inspire us. May Chandra protect my head, the nectar-maker my forehead, the lord of night my eyes, and the Moon my ears. The Chandra Kavacham is the protective armour hymn for the Moon and is the daily recitation recommended for a chart where Chandra is exalted in the wealth house and the lunar signature is the native's primary asset.", "url": "https://stotra.vastucart.in/stotra/chandra-kavacham" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Chandra Yantra for the exalted Moon",
+      "yantra": {
+        "name": "Chandra Yantra",
+        "sanskrit": "चन्द्र यन्त्र",
+        "description": "The Chandra Yantra is the geometric form of the lunar channel. For Chandra exalted in the Mesh 2nd house install it on the north-west wall of the main home altar or drawing room where family members gather. Monday at sunrise in Chandra hora is the installation window, and the yantra should be consecrated with Chandra Kavacham recitation and a silver water libation.",
+        "direction": "North-west wall (altar or drawing room)",
+        "install_day": "Monday sunrise, Chandra hora preferred",
+        "material": "Silver or copper",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for exalted Chandra in Vrishabha",
+      "stotra": {
+        "eyebrow": "Chandra Kavacham",
+        "title": "Shri Chandra Kavacham",
+        "sub": "Protective armour hymn for the Moon",
+        "verse": "Om shram shrim shraum sah chandramase namah<br>Om sheetanshave vidmahe kalanathaya dhimahi<br>Tanno somah prachodayat<br>Shirah patu me chandro lalatam amritakarah<br>Netre patu me nisheshah shravane patu chandramah",
+        "translation": "Om, salutations to the Moon with the sacred seed mantras. Om, may we know the cool-rayed one, let us meditate on the lord of digits, may Soma inspire us. May Chandra protect my head, the nectar-maker my forehead, the lord of night my eyes, and the Moon my ears. The Chandra Kavacham is the protective armour hymn for the Moon and is the daily recitation recommended for a chart where Chandra is exalted in the wealth house and the lunar signature is the native's primary asset.",
+        "url": "https://stotra.vastucart.in/stotra/chandra-kavacham"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +700,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your exalted second house Moon", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Property muhurta", "sub": "Auspicious dates for property purchase", "url": "https://muhurta.vastucart.in/griha-pravesh-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Business muhurta", "sub": "Auspicious dates for family business launches", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Chandra Kavacham", "sub": "Protective armour hymn for the Moon", "url": "https://stotra.vastucart.in/stotra/chandra-kavacham", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Chandra Sahasranama", "sub": "Thousand names of the Moon", "url": "https://stotra.vastucart.in/stotra/chandra-sahasranama", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Chandra Stotram", "sub": "Classical Moon hymn", "url": "https://stotra.vastucart.in/stotra/chandra-stotram", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Annapurna Stotram", "sub": "Mother goddess hymn for the 4L signature", "url": "https://stotra.vastucart.in/stotra/annapurna-stotram", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Shri Suktam", "sub": "Lakshmi hymn for Venus dispositor", "url": "https://stotra.vastucart.in/stotra/shri-suktam", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Pearl and gemstone source", "sub": "Certified Mukta for exalted Chandra", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Chandra yantra store", "sub": "Silver Chandra yantra for the home altar", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Exaltation Dhana Yoga analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your exalted second house Moon",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Property muhurta",
+            "sub": "Auspicious dates for property purchase",
+            "url": "https://muhurta.vastucart.in/griha-pravesh-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Business muhurta",
+            "sub": "Auspicious dates for family business launches",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Chandra Kavacham",
+            "sub": "Protective armour hymn for the Moon",
+            "url": "https://stotra.vastucart.in/stotra/chandra-kavacham",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Chandra Sahasranama",
+            "sub": "Thousand names of the Moon",
+            "url": "https://stotra.vastucart.in/stotra/chandra-sahasranama",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Chandra Stotram",
+            "sub": "Classical Moon hymn",
+            "url": "https://stotra.vastucart.in/stotra/chandra-stotram",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Annapurna Stotram",
+            "sub": "Mother goddess hymn for the 4L signature",
+            "url": "https://stotra.vastucart.in/stotra/annapurna-stotram",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Shri Suktam",
+            "sub": "Lakshmi hymn for Venus dispositor",
+            "url": "https://stotra.vastucart.in/stotra/shri-suktam",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Pearl and gemstone source",
+            "sub": "Certified Mukta for exalted Chandra",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Chandra yantra store",
+            "sub": "Silver Chandra yantra for the home altar",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Exaltation Dhana Yoga analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +800,130 @@
         "title": "Is your Dhana Bhava Moon the exaltation Dhana Yoga?",
         "subtitle": "Get a full personalised analysis of your second house exalted Chandra, the mother-wealth pattern, and the Vrishabha uchha timing the chart produces.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Chandra Kavacham", "url": "https://stotra.vastucart.in/stotra/chandra-kavacham", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Chandra Kavacham",
+            "url": "https://stotra.vastucart.in/stotra/chandra-kavacham",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Moon in 2nd house, Mesh Lagna",
       "items": [
-        { "q": "Is Moon in the 2nd house good for Mesh Lagna?", "a": "Yes, and this is among the strongest placements in the entire Mesh Lagna cluster. Chandra is the 4L kendra lord for Mesh, and the second house from Aries is Vrishabha which is the sign of the Moon's exaltation. The placement combines three structural wealth signatures simultaneously: kendra lord in dhana house, exaltation of the functional benefic, and the Venus dispositor supplying aesthetic refinement. Classical Parashari texts describe this as one of the clean Dhana Yoga combinations, and practitioners can frame the reading with complete confidence because the chart produces unusually reliable material prosperity through mother-wealth, family property, and the nurture-centred vocational signature." },
-        { "q": "What does Chandra exalted in Dhana Bhava produce for Aries natives?", "a": "It produces the mother-wealth signature where the native's financial life compounds specifically through the mother figure, the family home, landed property, and the nurture-centred vocational fields. Mother is usually the central figure in early career, whether through direct inheritance, professional introduction, or the stable emotional support that lets the native take productive risks. Home and landed property reliably appreciate, and many natives end up owning the ancestral home or developing family land into an income asset. Career paths cluster around hospitality, food, real estate, family business, music, counselling, and the nurture-pulled professions where the exalted Moon signature becomes the vocational instrument." },
-        { "q": "Does Moon exaltation in 2nd house create Dhana Yoga?", "a": "Yes, explicitly and in multiple overlapping ways. A kendra lord placed in a dhana house is itself a recognised Dhana Yoga in Parashari tradition, the exaltation of a functional benefic in the wealth angle is a second independent wealth signature, and the specific combination of Chandra exalted as 4L in 2H is among the cleanest examples classical texts describe. The three structural features compound into a signature that practitioners can read with confidence. The wealth mechanism is specifically emotional rather than analytical, so the native accumulates through trust, nurture, and aesthetic refinement rather than through sharp analytical or speculative moves." },
-        { "q": "How does Moon in Vrishabha express through Venus sign?", "a": "The Moon-Venus relationship is classical neutrality, but Vrishabha is the specific sign of lunar exaltation, so the neutrality is overridden by the structural exaltation mechanism. A Chandra in Vrishabha expresses through the most receptive and nurturing earth-sign environment she can occupy, and the Venus rulership adds refined aesthetic sensibility to the already-strong lunar signature. The native acquires the specific combination of emotional warmth and tasteful refinement that makes them trusted in both family and professional contexts. Physical appearance is typically pleasing with lunar beauty, voice is naturally melodious, and the temperament carries steady emotional composure that other Moon placements rarely produce." },
-        { "q": "Which gemstone should Mesh Lagna wear for exalted Moon in 2nd?", "a": "Pearl (Mukta) is the primary gemstone and is recommended with complete confidence because the combination of Chandra exaltation and 4L kendra lord Dhana Yoga supports the full gemstone protocol without reservation. Wear a natural South Sea or Basra pearl of minimum four ratti set in pure silver on the little finger of the right hand on a Monday at sunrise after Chandra mantra recitation. The exaltation strength means the gemstone activation is unusually direct, and natives often report noticeable changes in their emotional composure, family harmony, and financial flow within the first few months of consistent wearing combined with Chandra Kavacham recitation." }
+        {
+          "q": "Is Moon in the 2nd house good for Mesh Lagna?",
+          "a": "Yes, and this is among the strongest placements in the entire Mesh Lagna cluster. Chandra is the 4L kendra lord for Mesh, and the second house from Aries is Vrishabha which is the sign of the Moon's exaltation. The placement combines three structural wealth signatures simultaneously: kendra lord in dhana house, exaltation of the functional benefic, and the Venus dispositor supplying aesthetic refinement. Classical Parashari texts describe this as one of the clean Dhana Yoga combinations, and practitioners can frame the reading with complete confidence because the chart produces unusually reliable material prosperity through mother-wealth, family property, and the nurture-centred vocational signature."
+        },
+        {
+          "q": "What does Chandra exalted in Dhana Bhava produce for Aries natives?",
+          "a": "It produces the mother-wealth signature where the native's financial life compounds specifically through the mother figure, the family home, landed property, and the nurture-centred vocational fields. Mother is usually the central figure in early career, whether through direct inheritance, professional introduction, or the stable emotional support that lets the native take productive risks. Home and landed property reliably appreciate, and many natives end up owning the ancestral home or developing family land into an income asset. Career paths cluster around hospitality, food, real estate, family business, music, counselling, and the nurture-pulled professions where the exalted Moon signature becomes the vocational instrument."
+        },
+        {
+          "q": "Does Moon exaltation in 2nd house create Dhana Yoga?",
+          "a": "Yes, explicitly and in multiple overlapping ways. A kendra lord placed in a dhana house is itself a recognised Dhana Yoga in Parashari tradition, the exaltation of a functional benefic in the wealth angle is a second independent wealth signature, and the specific combination of Chandra exalted as 4L in 2H is among the cleanest examples classical texts describe. The three structural features compound into a signature that practitioners can read with confidence. The wealth mechanism is specifically emotional rather than analytical, so the native accumulates through trust, nurture, and aesthetic refinement rather than through sharp analytical or speculative moves."
+        },
+        {
+          "q": "How does Moon in Vrishabha express through Venus sign?",
+          "a": "The Moon-Venus relationship is classical neutrality, but Vrishabha is the specific sign of lunar exaltation, so the neutrality is overridden by the structural exaltation mechanism. A Chandra in Vrishabha expresses through the most receptive and nurturing earth-sign environment she can occupy, and the Venus rulership adds refined aesthetic sensibility to the already-strong lunar signature. The native acquires the specific combination of emotional warmth and tasteful refinement that makes them trusted in both family and professional contexts. Physical appearance is typically pleasing with lunar beauty, voice is naturally melodious, and the temperament carries steady emotional composure that other Moon placements rarely produce."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for exalted Moon in 2nd?",
+          "a": "Pearl (Mukta) is the primary gemstone and is recommended with complete confidence because the combination of Chandra exaltation and 4L kendra lord Dhana Yoga supports the full gemstone protocol without reservation. Wear a natural South Sea or Basra pearl of minimum four ratti set in pure silver on the little finger of the right hand on a Monday at sunrise after Chandra mantra recitation. The exaltation strength means the gemstone activation is unusually direct, and natives often report noticeable changes in their emotional composure, family harmony, and financial flow within the first few months of consistent wearing combined with Chandra Kavacham recitation."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Exaltation Dhana Yoga reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Chandra in the fourth, swakshetra Karka", "sub": "Moon own sign in the home kendra", "href": "/jyotish/graha-in-bhava/moon-4th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Sun in the second, authoritative voice", "sub": "The 5L trikona lord in the same wealth angle", "href": "/jyotish/graha-in-bhava/sun-2nd-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Venus in the second, swakshetra Vrishabha", "sub": "Venus own sign in the same wealth angle, the dispositor parallel", "href": "/jyotish/graha-in-bhava/venus-2nd-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Chandra in the fourth, swakshetra Karka",
+          "sub": "Moon own sign in the home kendra",
+          "href": "/jyotish/graha-in-bhava/moon-4th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Sun in the second, authoritative voice",
+          "sub": "The 5L trikona lord in the same wealth angle",
+          "href": "/jyotish/graha-in-bhava/sun-2nd-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Venus in the second, swakshetra Vrishabha",
+          "sub": "Venus own sign in the same wealth angle, the dispositor parallel",
+          "href": "/jyotish/graha-in-bhava/venus-2nd-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

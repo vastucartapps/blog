@@ -6,40 +6,131 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Venus in 6th house", "Shukra debilitated", "Mesh Lagna", "Aries ascendant", "Ripu Bhava", "neecha bhanga", "2L 7L in 6H", "Shukra mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Venus in 6th house",
+    "Shukra debilitated",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Ripu Bhava",
+    "neecha bhanga",
+    "2L 7L in 6H",
+    "Shukra mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "shukra",
   "house_number": 6,
   "lagna_id": "mesha",
   "meta": {
     "title": "Venus in 6th House Mesh Lagna, Debilitated Shukra Guide",
-    "description": "Venus in 6th house for Mesh Lagna, Shukra debilitated in Kanya, the neecha bhanga check read by Pt. Raghav Sharma.",
+    "description": "Venus in 6th house for Mesh Lagna, Shukra debilitated in Kanya, the neecha bhanga check by VastuCart Editorial.",
     "focus_keyword": "Venus in 6th house",
-    "secondary_keywords": ["Mesh Lagna", "Ripu Bhava", "Venus debilitated", "Aries ascendant", "neecha bhanga"],
-    "lsi_keywords": ["ripu bhava", "shukra kanya", "venus debilitation", "2nd lord sixth", "7th lord sixth", "shukra mahadasha", "diamond heera", "neecha bhanga raja yoga", "dispositor rescue", "debilitated venus remedy"],
-    "keywords": ["Venus in 6th house Mesh Lagna", "Shukra in Ripu Bhava", "Venus debilitated Kanya", "Mesh lagna 6th Venus", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Ripu Bhava",
+      "Venus debilitated",
+      "Aries ascendant",
+      "neecha bhanga"
+    ],
+    "lsi_keywords": [
+      "ripu bhava",
+      "shukra kanya",
+      "venus debilitation",
+      "2nd lord sixth",
+      "7th lord sixth",
+      "shukra mahadasha",
+      "diamond heera",
+      "neecha bhanga raja yoga",
+      "dispositor rescue",
+      "debilitated venus remedy"
+    ],
+    "keywords": [
+      "Venus in 6th house Mesh Lagna",
+      "Shukra in Ripu Bhava",
+      "Venus debilitated Kanya",
+      "Mesh lagna 6th Venus",
+      "Vedic astrology"
+    ],
     "og_title": "Venus in the 6th House of Mesh Lagna, Debilitation and Neecha Bhanga",
     "og_description": "Shukra debilitated in Kanya for Aries natives, the neecha bhanga check read by a practising Jyotishi.",
     "og_image": "/og/venus-6th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/venus-6th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Venus in 6th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/venus-6th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Venus in 6th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/venus-6th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Venus in 6th house",
-    "secondary_keywords": ["Mesh Lagna", "Ripu Bhava", "Venus debilitated", "Aries ascendant", "neecha bhanga"],
-    "lsi_terms": ["ripu bhava", "shukra kanya", "venus debilitation", "2nd lord sixth", "7th lord sixth", "shukra mahadasha", "diamond heera", "neecha bhanga raja yoga", "dispositor rescue", "debilitated venus remedy"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Ripu Bhava",
+      "Venus debilitated",
+      "Aries ascendant",
+      "neecha bhanga"
+    ],
+    "lsi_terms": [
+      "ripu bhava",
+      "shukra kanya",
+      "venus debilitation",
+      "2nd lord sixth",
+      "7th lord sixth",
+      "shukra mahadasha",
+      "diamond heera",
+      "neecha bhanga raja yoga",
+      "dispositor rescue",
+      "debilitated venus remedy"
+    ],
     "seed_queries": [
-      "venus in 6th house aries lagna", "shukra in 6th house mesh lagna", "venus in virgo mesh ascendant", "shukra kanya aries lagna", "venus debilitated 6th house aries", "venus in 6th house career aries", "venus in virgo 6th aries", "shukra ripu bhava mesh", "2l in 6h aries lagna", "7l in 6h aries lagna", "venus in 6th house remedies aries", "diamond for venus 6th aries", "heera mesh lagna 6th", "shukra mahadasha aries 6th", "venus in 6th house aries marriage", "venus in 6th house aries health", "is venus bad in 6th house aries", "venus in virgo aries ascendant career", "neecha bhanga venus", "venus 6th house aries prediction", "venus in sixth house mesh lagna", "venus 6th house mesh ascendant", "shukra in mesh lagna 6th", "venus kanya lagna mesh chart", "venus 6th house mesh lagna dasha", "shukra mesh lagna debility", "debilitated venus remedy", "mercury dispositor venus", "2nd lord sixth house aries", "shukra remedy debilitation"
+      "venus in 6th house aries lagna",
+      "shukra in 6th house mesh lagna",
+      "venus in virgo mesh ascendant",
+      "shukra kanya aries lagna",
+      "venus debilitated 6th house aries",
+      "venus in 6th house career aries",
+      "venus in virgo 6th aries",
+      "shukra ripu bhava mesh",
+      "2l in 6h aries lagna",
+      "7l in 6h aries lagna",
+      "venus in 6th house remedies aries",
+      "diamond for venus 6th aries",
+      "heera mesh lagna 6th",
+      "shukra mahadasha aries 6th",
+      "venus in 6th house aries marriage",
+      "venus in 6th house aries health",
+      "is venus bad in 6th house aries",
+      "venus in virgo aries ascendant career",
+      "neecha bhanga venus",
+      "venus 6th house aries prediction",
+      "venus in sixth house mesh lagna",
+      "venus 6th house mesh ascendant",
+      "shukra in mesh lagna 6th",
+      "venus kanya lagna mesh chart",
+      "venus 6th house mesh lagna dasha",
+      "shukra mesh lagna debility",
+      "debilitated venus remedy",
+      "mercury dispositor venus",
+      "2nd lord sixth house aries",
+      "shukra remedy debilitation"
     ],
     "questions": [
       "Is Venus in the 6th house bad for Mesh Lagna?",
@@ -49,36 +140,130 @@
       "Which gemstone should Mesh Lagna wear for Venus in 6th?"
     ],
     "lingual_variations": {
-      "shukra": ["shukra", "venus", "bhargava", "kavi", "ushanas"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "shukra": [
+        "shukra",
+        "venus",
+        "bhargava",
+        "kavi",
+        "ushanas"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Debilitated Venus neecha bhanga check rules", "2L plus 7L weakness in dushthana", "Dispositor Mercury rescue conditions"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Debilitated Venus neecha bhanga check rules",
+      "2L plus 7L weakness in dushthana",
+      "Dispositor Mercury rescue conditions"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "venus-6th-house-aries-lagna-hero.webp", "filename_og": "venus-6th-house-aries-lagna-og.png", "alt": "Dimmed Shukra in the sixth house of a Mesh Lagna kundali in Kanya", "caption": "Shukra sits debilitated in Kanya in the sixth house for Aries ascendant natives, requiring the neecha bhanga check before the placement can be read as struggle or rescued raja yoga.", "width": 1200, "height": 630, "format": "webp", "style": "soft pearl-emerald editorial illustration with dimmed radiance", "generation_prompt": "An editorial illustration of a North Indian kundali with the sixth house glowing pale emerald and soft pearl in a dimmed register, a stylised Venus glyph over a small Kanya maiden silhouette, traditional Vedic palette of muted pearl, pale green, soft silver, refined manuscript style, no people.", "negative_prompt": "photorealistic venus, watermark, text, neon, cartoon" },
-    { "filename": "venus-6th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Venus debilitated in the sixth house of Mesh", "caption": "The North Indian birth chart with Shukra marked debilitated in Kanya on the sixth house Ripu Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the right-central sixth house highlighted in soft pearl with a Venus symbol marked Sh and a Kanya glyph indicating debility, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "venus-6th-house-aries-lagna-diamond.webp", "alt": "Natural diamond in platinum ring, gemstone for Venus 6th house Mesh Lagna", "caption": "Diamond is the primary Venus gemstone but is recommended here only after the neecha bhanga reading is confirmed by a practising Jyotishi.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural colourless diamond set in a platinum ring, brilliant cut, on dark velvet with cool lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "venus-6th-house-aries-lagna-lakshmi-sahasranama.webp", "alt": "Lakshmi Sahasranama Sanskrit verse on parchment with lotus and gold coin motif", "caption": "Lakshmi Sahasranama recitation strengthens the debilitated Venus channel through the thousand names of the refined abundance goddess.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Lakshmi Sahasranama, hand-painted on aged parchment with gold leaf borders, faint lotus and gold coin motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "venus-6th-house-aries-lagna-hero.webp",
+      "filename_og": "venus-6th-house-aries-lagna-og.png",
+      "alt": "Dimmed Shukra in the sixth house of a Mesh Lagna kundali in Kanya",
+      "caption": "Shukra sits debilitated in Kanya in the sixth house for Aries ascendant natives, requiring the neecha bhanga check before the placement can be read as struggle or rescued raja yoga.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "soft pearl-emerald editorial illustration with dimmed radiance",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the sixth house glowing pale emerald and soft pearl in a dimmed register, a stylised Venus glyph over a small Kanya maiden silhouette, traditional Vedic palette of muted pearl, pale green, soft silver, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic venus, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "venus-6th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Venus debilitated in the sixth house of Mesh",
+      "caption": "The North Indian birth chart with Shukra marked debilitated in Kanya on the sixth house Ripu Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the right-central sixth house highlighted in soft pearl with a Venus symbol marked Sh and a Kanya glyph indicating debility, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "venus-6th-house-aries-lagna-diamond.webp",
+      "alt": "Natural diamond in platinum ring, gemstone for Venus 6th house Mesh Lagna",
+      "caption": "Diamond is the primary Venus gemstone but is recommended here only after the neecha bhanga reading is confirmed by a practising Jyotishi.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural colourless diamond set in a platinum ring, brilliant cut, on dark velvet with cool lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "venus-6th-house-aries-lagna-lakshmi-sahasranama.webp",
+      "alt": "Lakshmi Sahasranama Sanskrit verse on parchment with lotus and gold coin motif",
+      "caption": "Lakshmi Sahasranama recitation strengthens the debilitated Venus channel through the thousand names of the refined abundance goddess.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Lakshmi Sahasranama, hand-painted on aged parchment with gold leaf borders, faint lotus and gold coin motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Venus in the 6th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Shukra debilitated in Kanya for Aries ascendant natives. Venus in his own debility sign in the Ripu Bhava, the 2L plus 7L in dushthana, and the neecha bhanga check that determines whether the placement reads as sustained struggle or as rescued raja yoga delivered later in life.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Shukra", "tone": "teal" },
-      { "label": "Ripu Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Debilitated Kanya" },
-      { "label": "2L plus 7L" },
-      { "label": "Neecha bhanga" }
+      {
+        "label": "Shukra",
+        "tone": "teal"
+      },
+      {
+        "label": "Ripu Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Debilitated Kanya"
+      },
+      {
+        "label": "2L plus 7L"
+      },
+      {
+        "label": "Neecha bhanga"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +271,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Shukra", "sub": "Venus", "icon": "sun" },
-        { "label": "Bhava", "value": "6th", "sub": "Ripu Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Debilitated", "sub": "Neecha bhanga check", "icon": "star", "tone": "bad" }
+        {
+          "label": "Planet",
+          "value": "Shukra",
+          "sub": "Venus",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "6th",
+          "sub": "Ripu Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Debilitated",
+          "sub": "Neecha bhanga check",
+          "icon": "star",
+          "tone": "bad"
+        }
       ]
     },
     {
@@ -104,39 +310,103 @@
       "heading": "Why the neecha bhanga check changes the entire reading",
       "html": "<p>Students often arrive at this placement carrying significant anxiety because popular astrology reduces debilitated placements to a flat weakness prediction, and the honest practitioner answer is that the popular reading is structurally incomplete. Classical Parashari texts describe multiple cancellation conditions for debilitation (neecha bhanga yoga), and when any of the conditions apply, the debilitated planet often produces unusually strong results in middle age even though the early life reading looks difficult. The conditions classical texts specifically list for neecha bhanga include the lord of the sign of debilitation being well placed, the planet of exaltation of the debilitated planet being in a kendra or aspecting, the debilitated planet itself being in a kendra from the Moon, and the dispositor being in a kendra from the lagna. Any one of these cancels the debility.</p><p>For Venus debilitated in Kanya in Mesh chart specifically, the primary rescue condition is Mercury (the lord of Kanya) well placed. Mercury is already significant for Mesh Lagna as the 3L plus 6L, and Mesh natives with Mercury in a kendra (1st, 4th, 7th, or 10th house) carry the neecha bhanga rescue automatically. The 6H Mercury-7H Venus mutual exchange (parivartana) is another variation that practitioners should check, though the specific structure differs. A secondary rescue condition is Jupiter (the planet of Venus's exaltation in Meena) being well placed, particularly in a kendra or trine. And the third condition is the Moon being in a kendra from the debilitated Venus, which depends on the specific chart. Practitioners reading this placement in consultation should always run the check explicitly rather than giving a blanket negative reading, because natives with the rescue condition often have one of the strongest hidden chart patterns in the catalogue. Without the rescue, the placement produces sustained 2L and 7L struggles: wealth that arrives through difficult work, marriage that carries adversarial dynamics, and a specific pattern where the native's refined Venus gifts are forced to express through the service and daily-labour register of the 6th house.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "Debilitated Venus in the enemy house without the rescue is the native learning to polish jewels in a workshop they did not choose. Debilitated Venus with the rescue is the same jewels eventually finding buyers who pay several times their weight in gold." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "Debilitated Venus in the enemy house without the rescue is the native learning to polish jewels in a workshop they did not choose. Debilitated Venus with the rescue is the same jewels eventually finding buyers who pay several times their weight in gold."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Shukra, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Shukra, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Love, beauty, marriage, refinement" },
-            { "k": "Own signs", "v": "Vrishabha, Tula" },
-            { "k": "Uchha (exaltation)", "v": "Meena at 27 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Kanya at 27 degrees", "tone": "bad" },
-            { "k": "Sign state here", "v": "Debilitated Kanya", "tone": "bad" },
-            { "k": "Rescue", "v": "Mercury in kendra cancels" },
-            { "k": "Friends", "v": "Mercury, Saturn" },
-            { "k": "Role for Mesh", "v": "2nd lord and 7th lord" }
+            {
+              "k": "Karakatva",
+              "v": "Love, beauty, marriage, refinement"
+            },
+            {
+              "k": "Own signs",
+              "v": "Vrishabha, Tula"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Meena at 27 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Kanya at 27 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Debilitated Kanya",
+              "tone": "bad"
+            },
+            {
+              "k": "Rescue",
+              "v": "Mercury in kendra cancels"
+            },
+            {
+              "k": "Friends",
+              "v": "Mercury, Saturn"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "2nd lord and 7th lord"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Ripu Bhava, house profile", "subtitle": "6th house significance",
+          "icon": "triangle-house",
+          "title": "Ripu Bhava, house profile",
+          "subtitle": "6th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Ripu, Roga, Shatru Bhava" },
-            { "k": "Rules over", "v": "Enemies, illness, debt, service" },
-            { "k": "Natural sign", "v": "Kanya (Virgo) for Mesh" },
-            { "k": "Natural ruler", "v": "Budha (Mercury)" },
-            { "k": "Body part", "v": "Stomach, intestines, digestion" },
-            { "k": "Classical nature", "v": "Dushthana, Upachaya" },
-            { "k": "Vedic quality", "v": "Debility in dushthana double reduction", "tone": "bad" },
-            { "k": "Special effect", "v": "Neecha bhanga can flip to raja yoga", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Ripu, Roga, Shatru Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Enemies, illness, debt, service"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Kanya (Virgo) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Budha (Mercury)"
+            },
+            {
+              "k": "Body part",
+              "v": "Stomach, intestines, digestion"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Dushthana, Upachaya"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Debility in dushthana double reduction",
+              "tone": "bad"
+            },
+            {
+              "k": "Special effect",
+              "v": "Neecha bhanga can flip to raja yoga",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +448,48 @@
       "heading": "Where the service-through-refinement vocation plays out",
       "html": "<p>Career paths cluster around fields that combine refined aesthetic or interpersonal skill with the 6th house service register. The strongest single fit is refined service work and craftsmanship where the native's Venusian gifts express through daily labour that accumulates quality over time. Many natives build careers in artisanal production, restoration, or traditional crafts where the work requires both aesthetic sense and patient repetition, and the compensation pattern follows the chart's specific rhythm of modest early-career income that compounds into genuine expertise by middle age. Healthcare, especially women's health, obstetrics, midwifery, and reproductive medicine, fits the chart because the Venus reproductive-fluid karakatva combined with the 6H medical rulership produces natives with unusual vocational alignment for caring-medical work.</p><p>Forensic work and quality auditing fit because the 6th house rules discrimination of the subtle, and debilitated Venus in Mercury's sign produces natives whose aesthetic eye combined with analytical care makes them unusually good at catching errors, fraud, or quality issues that others miss. Culinary arts and hospitality service work because Kanya is the earth sign of food and care, and natives often build careers in the service end of refined hospitality (chef, sommelier, service manager) where the Venus taste sense meets the 6H daily-labour discipline. Textile, garment, and artisanal production suit natives whose craft is tactile rather than abstract. Insurance, underwriting, and refined commerce round out the list because the 2L wealth combined with the 6H analytical register produces natives well-suited to financial fields where detail and risk-assessment are the actual work. Shukra mahadasha is when the vocation either crystallises into the rescue-pattern reversal (if the neecha bhanga applies) or settles into the sustained-service pattern (if it does not). Practitioners should always run the check before reading the dasha promises.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Shukra debility and neecha bhanga", "subtitle": "Generate your free Kundali and check whether Mercury is in a kendra to activate the rescue.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Venus marked in the sixth house of Mesh", "planet": "Shukra", "house": 6, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Shukra debilitated in Kanya in Ripu Bhava, marked in soft pearl" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Right-central diamond is the 6th house of service" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Shukra debility and neecha bhanga",
+        "subtitle": "Generate your free Kundali and check whether Mercury is in a kendra to activate the rescue.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Venus marked in the sixth house of Mesh",
+      "planet": "Shukra",
+      "house": 6,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Shukra debilitated in Kanya in Ripu Bhava, marked in soft pearl"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Right-central diamond is the 6th house of service"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The neecha bhanga mechanics and the reversal pattern",
@@ -194,13 +502,45 @@
       "heading": "When Venus in 6th delivers its Ripu Bhava chapter",
       "intro_html": "<p>Shukra mahadasha is the defining window for this placement and arrives either with the neecha bhanga reversal or with sustained service-life intensification depending on whether the rescue applies.</p>",
       "rows": [
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "The Ripu Bhava activation window. With rescue: dramatic reversal of income, marriage, and recognition. Without rescue: sustained service work, difficult marriage dynamics, continued modest returns.", "intensity": "Conditional", "intensity_bar_width": 75, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Fifth lord, neutral to Venus. Creative recognition in the service work, public visibility for the refined labour, dharmic dimension strengthens the patience.", "intensity": "Good", "intensity_bar_width": 72, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Chandra (Moon)", "duration": "10 years", "themes": "Fourth lord, neutral to Venus. Home and emotional foundation stabilise around the service life, mother offers practical support.", "intensity": "Good", "intensity_bar_width": 75, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Budha (Mercury)", "duration": "17 years", "themes": "Lord of the sign Kanya and the dispositor of Venus here. The most aligned planet for the placement. If Mercury is in a kendra this dasha delivers the rescue at its strongest; otherwise it stabilises the service-life with analytical clarity.", "intensity": "Very high", "intensity_bar_width": 90, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "The Ripu Bhava activation window. With rescue: dramatic reversal of income, marriage, and recognition. Without rescue: sustained service work, difficult marriage dynamics, continued modest returns.",
+          "intensity": "Conditional",
+          "intensity_bar_width": 75,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "Fifth lord, neutral to Venus. Creative recognition in the service work, public visibility for the refined labour, dharmic dimension strengthens the patience.",
+          "intensity": "Good",
+          "intensity_bar_width": 72,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Chandra (Moon)",
+          "duration": "10 years",
+          "themes": "Fourth lord, neutral to Venus. Home and emotional foundation stabilise around the service life, mother offers practical support.",
+          "intensity": "Good",
+          "intensity_bar_width": 75,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Budha (Mercury)",
+          "duration": "17 years",
+          "themes": "Lord of the sign Kanya and the dispositor of Venus here. The most aligned planet for the placement. If Mercury is in a kendra this dasha delivers the rescue at its strongest; otherwise it stabilises the service-life with analytical clarity.",
+          "intensity": "Very high",
+          "intensity_bar_width": 90,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +559,140 @@
       "heading": "Gemstones for Venus in 6th house Mesh Lagna",
       "intro_html": "<p>Diamond is the primary Venus gemstone but is recommended here only after the neecha bhanga rescue condition has been confirmed by a practising Jyotishi.</p>",
       "cards": [
-        { "name": "Heera (Diamond)", "role": "primary", "sub": "Venus stone, wear only after neecha bhanga check", "icon_variant": "diamond", "image_slug": "diamond", "items": [ { "k": "Metal", "v": "Platinum or white gold" }, { "k": "Finger", "v": "Small finger, right hand" }, { "k": "Day to wear", "v": "Friday, sunrise" }, { "k": "Min weight", "v": "0.5 to 1 carat" } ] },
-        { "name": "White Sapphire (alt)", "role": "secondary", "sub": "Accessible Venus alternative to diamond", "icon_variant": "diamond", "image_slug": "diamond", "items": [ { "k": "Metal", "v": "Silver or platinum" }, { "k": "Finger", "v": "Small finger" }, { "k": "Day to wear", "v": "Friday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Heera", "role": "shop", "sub": "1-on-1 neecha bhanga review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Heera (Diamond)",
+          "role": "primary",
+          "sub": "Venus stone, wear only after neecha bhanga check",
+          "icon_variant": "diamond",
+          "image_slug": "diamond",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Platinum or white gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Friday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "0.5 to 1 carat"
+            }
+          ]
+        },
+        {
+          "name": "White Sapphire (alt)",
+          "role": "secondary",
+          "sub": "Accessible Venus alternative to diamond",
+          "icon_variant": "diamond",
+          "image_slug": "diamond",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver or platinum"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Friday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Heera",
+          "role": "shop",
+          "sub": "1-on-1 neecha bhanga review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Debilitated Venus is the specific case where gemstone work should only follow a confirmed neecha bhanga reading. Always consult a qualified Jyotishi before wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Venus in 6th house",
       "intro_html": "<p>The Shukra-aligned rudraksha is the Chha Mukhi (Six Mukhi), the bead directly ruled by Venus and Kartikeya.</p>",
       "beads": [
-        { "mukhi": 6, "name": "Chha Mukhi Rudraksha", "sub": "Ruled by Shukra and Kartikeya", "benefit": "The classical Venus rudraksha and the primary bead for any Shukra strengthening protocol. Supports the debilitated Venus recovery, amplifies the neecha bhanga rescue when it applies, and is specifically recommended for natives in refined service work, healthcare, or artisanal craft." },
-        { "mukhi": 4, "name": "Char Mukhi Rudraksha", "sub": "Ruled by Mercury, the dispositor of Venus here", "benefit": "The Mercury bead serves as the specific rescue-supporting bead for this placement because the dispositor of Venus here is Budha and Mercury's strength is exactly what activates the neecha bhanga. Wearing the Char Mukhi alongside the Chha Mukhi compounds the rescue current and is strongly recommended for natives with confirmed Mercury-in-kendra charts." }
+        {
+          "mukhi": 6,
+          "name": "Chha Mukhi Rudraksha",
+          "sub": "Ruled by Shukra and Kartikeya",
+          "benefit": "The classical Venus rudraksha and the primary bead for any Shukra strengthening protocol. Supports the debilitated Venus recovery, amplifies the neecha bhanga rescue when it applies, and is specifically recommended for natives in refined service work, healthcare, or artisanal craft."
+        },
+        {
+          "mukhi": 4,
+          "name": "Char Mukhi Rudraksha",
+          "sub": "Ruled by Mercury, the dispositor of Venus here",
+          "benefit": "The Mercury bead serves as the specific rescue-supporting bead for this placement because the dispositor of Venus here is Budha and Mercury's strength is exactly what activates the neecha bhanga. Wearing the Char Mukhi alongside the Chha Mukhi compounds the rescue current and is strongly recommended for natives with confirmed Mercury-in-kendra charts."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Shukra Yantra for the debilitated Venus", "yantra": { "name": "Shukra Yantra", "sanskrit": "शुक्र यन्त्र", "description": "The Shukra Yantra is the geometric form of the Venus channel. For debilitated Venus in the 6th house install it in the south-east corner of the daily work or service space. Friday at sunrise in Shukra hora is the installation window, and the yantra should be consecrated with Lakshmi Sahasranama recitation and a white flower offering.", "direction": "South-east corner (work or service space)", "install_day": "Friday sunrise, Shukra hora preferred", "material": "Silver or platinum (white metal preferred)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for debilitated Shukra in Kanya", "stotra": { "eyebrow": "Lakshmi Sahasranama", "title": "Shri Lakshmi Sahasranama", "sub": "Thousand names of Lakshmi, the comprehensive hymn for refined abundance", "verse": "Nityagata anandashrish chandrananaa chaturbhujaa<br>Chandra roopaa indira indu shitala aahlada jananii<br>Pushti shiva paataa satyaa vimlam vishva janani<br>Tushti daridryanashiny preetih pushti karii shubhaa<br>Om ishwariye vidyayayai siddhi swaaha mahalakshmyai namah", "translation": "Eternally abiding, of the nature of bliss, moon-faced, four-armed. Of the form of the moon, Indira, cool as the moon, producer of joy. Nourisher, consort of Shiva, protector, truthful, pure, mother of the universe. Giver of contentment, destroyer of poverty, increaser of joy, bestower of auspiciousness. Salutations to the supreme goddess, the knowledge, accomplishment, Svaha, the great Lakshmi. The Lakshmi Sahasranama is the comprehensive thousand-name hymn to the goddess of refined abundance and is the specific recitation recommended for a chart where Venus is debilitated and the chart's refined gifts need the full length of the goddess's names to draw the rescue through.", "url": "https://stotra.vastucart.in/stotra/lakshmi-sahasranama" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Shukra Yantra for the debilitated Venus",
+      "yantra": {
+        "name": "Shukra Yantra",
+        "sanskrit": "शुक्र यन्त्र",
+        "description": "The Shukra Yantra is the geometric form of the Venus channel. For debilitated Venus in the 6th house install it in the south-east corner of the daily work or service space. Friday at sunrise in Shukra hora is the installation window, and the yantra should be consecrated with Lakshmi Sahasranama recitation and a white flower offering.",
+        "direction": "South-east corner (work or service space)",
+        "install_day": "Friday sunrise, Shukra hora preferred",
+        "material": "Silver or platinum (white metal preferred)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for debilitated Shukra in Kanya",
+      "stotra": {
+        "eyebrow": "Lakshmi Sahasranama",
+        "title": "Shri Lakshmi Sahasranama",
+        "sub": "Thousand names of Lakshmi, the comprehensive hymn for refined abundance",
+        "verse": "Nityagata anandashrish chandrananaa chaturbhujaa<br>Chandra roopaa indira indu shitala aahlada jananii<br>Pushti shiva paataa satyaa vimlam vishva janani<br>Tushti daridryanashiny preetih pushti karii shubhaa<br>Om ishwariye vidyayayai siddhi swaaha mahalakshmyai namah",
+        "translation": "Eternally abiding, of the nature of bliss, moon-faced, four-armed. Of the form of the moon, Indira, cool as the moon, producer of joy. Nourisher, consort of Shiva, protector, truthful, pure, mother of the universe. Giver of contentment, destroyer of poverty, increaser of joy, bestower of auspiciousness. Salutations to the supreme goddess, the knowledge, accomplishment, Svaha, the great Lakshmi. The Lakshmi Sahasranama is the comprehensive thousand-name hymn to the goddess of refined abundance and is the specific recitation recommended for a chart where Venus is debilitated and the chart's refined gifts need the full length of the goddess's names to draw the rescue through.",
+        "url": "https://stotra.vastucart.in/stotra/lakshmi-sahasranama"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +700,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your sixth house Venus and check for neecha bhanga", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Marriage matching tool", "sub": "Check kalatra compatibility carefully", "url": "https://www.vastucart.in/tools/marriage-matching", "icon": "kundali", "icon_variant": "rose" },
-          { "label": "Business muhurta", "sub": "Auspicious dates for service or commercial launches", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Lakshmi Sahasranama", "sub": "Thousand names of Lakshmi for debilitated Venus", "url": "https://stotra.vastucart.in/stotra/lakshmi-sahasranama", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Lakshmi Ashtakam", "sub": "Eight-verse Lakshmi hymn", "url": "https://stotra.vastucart.in/stotra/lakshmi-ashtakam", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Dhanalakshmi Stotram", "sub": "Wealth-goddess hymn for 2L support", "url": "https://stotra.vastucart.in/stotra/dhanalakshmi-stotram", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Shukra Sahasranama", "sub": "Thousand names of Shukra", "url": "https://stotra.vastucart.in/stotra/shukra-sahasranama", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Shri Suktam", "sub": "Vedic hymn to Lakshmi", "url": "https://stotra.vastucart.in/stotra/shri-suktam", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Diamond and white sapphire source", "sub": "Certified Heera and Safed Pukhraj", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Shukra yantra store", "sub": "Silver Shukra yantra for the service space", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Neecha bhanga analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your sixth house Venus and check for neecha bhanga",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Marriage matching tool",
+            "sub": "Check kalatra compatibility carefully",
+            "url": "https://www.vastucart.in/tools/marriage-matching",
+            "icon": "kundali",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Business muhurta",
+            "sub": "Auspicious dates for service or commercial launches",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Lakshmi Sahasranama",
+            "sub": "Thousand names of Lakshmi for debilitated Venus",
+            "url": "https://stotra.vastucart.in/stotra/lakshmi-sahasranama",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Lakshmi Ashtakam",
+            "sub": "Eight-verse Lakshmi hymn",
+            "url": "https://stotra.vastucart.in/stotra/lakshmi-ashtakam",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Dhanalakshmi Stotram",
+            "sub": "Wealth-goddess hymn for 2L support",
+            "url": "https://stotra.vastucart.in/stotra/dhanalakshmi-stotram",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Shukra Sahasranama",
+            "sub": "Thousand names of Shukra",
+            "url": "https://stotra.vastucart.in/stotra/shukra-sahasranama",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Shri Suktam",
+            "sub": "Vedic hymn to Lakshmi",
+            "url": "https://stotra.vastucart.in/stotra/shri-suktam",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Diamond and white sapphire source",
+            "sub": "Certified Heera and Safed Pukhraj",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Shukra yantra store",
+            "sub": "Silver Shukra yantra for the service space",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Neecha bhanga analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +800,130 @@
         "title": "Is your Ripu Bhava Venus carrying the neecha bhanga rescue?",
         "subtitle": "Get a full personalised analysis of your sixth house debilitated Shukra, the rescue conditions, and the reversal timing the chart may be preparing.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Lakshmi Sahasranama", "url": "https://stotra.vastucart.in/stotra/lakshmi-sahasranama", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Lakshmi Sahasranama",
+            "url": "https://stotra.vastucart.in/stotra/lakshmi-sahasranama",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Venus in 6th house, Mesh Lagna",
       "items": [
-        { "q": "Is Venus in the 6th house bad for Mesh Lagna?", "a": "It depends entirely on the neecha bhanga check. Without the rescue condition, the placement produces sustained struggle around 2L wealth and 7L marriage themes because Venus is debilitated in Kanya AND in the dushthana 6th house, producing a double reduction. With the rescue condition (primarily Mercury in a kendra from the lagna), the placement flips into Neecha Bhanga Raja Yoga, one of the most powerful reversal patterns in classical Jyotish. Practitioners should never give a reading for this placement without first running the check explicitly, because the two readings produce very different lives and popular astrology usually skips the check entirely." },
-        { "q": "What is the neecha bhanga rule for debilitated Venus?", "a": "Classical Parashari texts list several cancellation conditions. For Venus debilitated in Kanya, the primary rescue is that Mercury (the dispositor of Kanya) must be well placed, specifically in a kendra (1, 4, 7, 10) from the lagna or from the Moon. Secondary rescue is Jupiter (the planet of Venus's exaltation) being in a kendra or aspecting the debilitated Venus. A third variation is parivartana (sign exchange) between the 6L Mercury and the 6H Venus, which produces an even cleaner rescue pattern. Any one condition activates the cancellation, and when the cancellation applies, the placement often delivers dramatic reversal in middle age." },
-        { "q": "Does Venus in 6th house always produce marriage problems?", "a": "Without the neecha bhanga rescue, the placement typically produces marriage dynamics that carry adversarial or service-based elements because Venus is the 7L for Mesh and the debility affects the marriage karakatva directly. Partners may be demanding, relationships may involve significant compromise, and marriage timing is often delayed. With the rescue, the marriage pattern often looks difficult early (delayed, initially unsatisfying) but reverses in middle age into an unusually stable and rewarding partnership that compensates for earlier challenges. The two patterns are so different that practitioners should always run the check before making any marriage prediction for this placement." },
-        { "q": "How does Venus as 2L plus 7L in 6H express?", "a": "The dual lordship places both wealth (2L) and marriage (7L) karakatvas in the debility-plus-dushthana register, which means the native's material and relational life both run through the service-and-struggle pattern during the years before the rescue activates (if it does). Income arrives through refined service work rather than through easy commerce. Marriage involves significant compromise and often carries adversarial dynamics. Both domains compound through sustained patient effort rather than through the easy flow other Venus placements produce. The rescue, when it applies, transforms both domains simultaneously rather than one at a time." },
-        { "q": "Which gemstone should Mesh Lagna wear for Venus in 6th?", "a": "Diamond (Heera) is the primary Venus gemstone, but it is recommended here only after the neecha bhanga rescue condition has been confirmed by a practising Jyotishi. Wearing diamond on a debilitated Venus without the rescue can intensify the weakness rather than correcting it. When the rescue applies (especially Mercury in a kendra), wear a natural colourless diamond of minimum half a ratti set in platinum or white gold on the small finger of the right hand on a Friday at sunrise. White sapphire is the accessible substitute. When the rescue does not apply, practitioners often recommend delaying gemstone work and focusing on stotra practice, charity, and service." }
+        {
+          "q": "Is Venus in the 6th house bad for Mesh Lagna?",
+          "a": "It depends entirely on the neecha bhanga check. Without the rescue condition, the placement produces sustained struggle around 2L wealth and 7L marriage themes because Venus is debilitated in Kanya AND in the dushthana 6th house, producing a double reduction. With the rescue condition (primarily Mercury in a kendra from the lagna), the placement flips into Neecha Bhanga Raja Yoga, one of the most powerful reversal patterns in classical Jyotish. Practitioners should never give a reading for this placement without first running the check explicitly, because the two readings produce very different lives and popular astrology usually skips the check entirely."
+        },
+        {
+          "q": "What is the neecha bhanga rule for debilitated Venus?",
+          "a": "Classical Parashari texts list several cancellation conditions. For Venus debilitated in Kanya, the primary rescue is that Mercury (the dispositor of Kanya) must be well placed, specifically in a kendra (1, 4, 7, 10) from the lagna or from the Moon. Secondary rescue is Jupiter (the planet of Venus's exaltation) being in a kendra or aspecting the debilitated Venus. A third variation is parivartana (sign exchange) between the 6L Mercury and the 6H Venus, which produces an even cleaner rescue pattern. Any one condition activates the cancellation, and when the cancellation applies, the placement often delivers dramatic reversal in middle age."
+        },
+        {
+          "q": "Does Venus in 6th house always produce marriage problems?",
+          "a": "Without the neecha bhanga rescue, the placement typically produces marriage dynamics that carry adversarial or service-based elements because Venus is the 7L for Mesh and the debility affects the marriage karakatva directly. Partners may be demanding, relationships may involve significant compromise, and marriage timing is often delayed. With the rescue, the marriage pattern often looks difficult early (delayed, initially unsatisfying) but reverses in middle age into an unusually stable and rewarding partnership that compensates for earlier challenges. The two patterns are so different that practitioners should always run the check before making any marriage prediction for this placement."
+        },
+        {
+          "q": "How does Venus as 2L plus 7L in 6H express?",
+          "a": "The dual lordship places both wealth (2L) and marriage (7L) karakatvas in the debility-plus-dushthana register, which means the native's material and relational life both run through the service-and-struggle pattern during the years before the rescue activates (if it does). Income arrives through refined service work rather than through easy commerce. Marriage involves significant compromise and often carries adversarial dynamics. Both domains compound through sustained patient effort rather than through the easy flow other Venus placements produce. The rescue, when it applies, transforms both domains simultaneously rather than one at a time."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Venus in 6th?",
+          "a": "Diamond (Heera) is the primary Venus gemstone, but it is recommended here only after the neecha bhanga rescue condition has been confirmed by a practising Jyotishi. Wearing diamond on a debilitated Venus without the rescue can intensify the weakness rather than correcting it. When the rescue applies (especially Mercury in a kendra), wear a natural colourless diamond of minimum half a ratti set in platinum or white gold on the small finger of the right hand on a Friday at sunrise. White sapphire is the accessible substitute. When the rescue does not apply, practitioners often recommend delaying gemstone work and focusing on stotra practice, charity, and service."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Neecha bhanga reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Shukra in the twelfth, exaltation in Meena", "sub": "Venus at peak exaltation, the opposite dignity extreme", "href": "/jyotish/graha-in-bhava/venus-12th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Budha in the sixth, exalted swakshetra", "sub": "Mercury at peak dignity in the same sign, the dispositor parallel", "href": "/jyotish/graha-in-bhava/mercury-6th-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Surya in the seventh, debilitated with neecha bhanga", "sub": "Sun debilitated in Tula, the parallel neecha bhanga study", "href": "/jyotish/graha-in-bhava/sun-7th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Shukra in the twelfth, exaltation in Meena",
+          "sub": "Venus at peak exaltation, the opposite dignity extreme",
+          "href": "/jyotish/graha-in-bhava/venus-12th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Budha in the sixth, exalted swakshetra",
+          "sub": "Mercury at peak dignity in the same sign, the dispositor parallel",
+          "href": "/jyotish/graha-in-bhava/mercury-6th-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Surya in the seventh, debilitated with neecha bhanga",
+          "sub": "Sun debilitated in Tula, the parallel neecha bhanga study",
+          "href": "/jyotish/graha-in-bhava/sun-7th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

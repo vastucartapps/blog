@@ -6,40 +6,132 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 11,
   "status": "ready",
   "published_at": "2026-04-13T00:00:00.000Z",
   "updated_at": "2026-04-13T00:00:00.000Z",
-  "tags": ["Jupiter in 2nd house", "Guru", "Mesh Lagna", "Aries ascendant", "Dhana Bhava", "Vrishabha rashi", "ninth lord in 2nd", "honey-tongued speech", "Guru mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Jupiter in 2nd house",
+    "Guru",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Dhana Bhava",
+    "Vrishabha rashi",
+    "ninth lord in 2nd",
+    "honey-tongued speech",
+    "Guru mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "guru",
   "house_number": 2,
   "lagna_id": "mesha",
   "meta": {
     "title": "Jupiter in 2nd House Mesh Lagna, Wealth and Speech Guide",
-    "description": "Jupiter in 2nd house for Mesh Lagna, Guru in Dhana Bhava Vrishabha. Wealth, speech, family and remedies by Pt. Raghav Sharma.",
+    "description": "Jupiter in 2nd house for Mesh Lagna, Guru in Dhana Bhava Vrishabha. Wealth, speech, family and remedies by VastuCart Editorial.",
     "focus_keyword": "Jupiter in 2nd house",
-    "secondary_keywords": ["Mesh Lagna", "Dhana Bhava", "Guru Vrishabha", "Aries ascendant", "Guru"],
-    "lsi_keywords": ["dhana bhava guru", "guru vrishabha", "ninth lord second", "guru mahadasha", "yellow sapphire pukhraj", "honey-tongued speech", "family wealth", "cultured family", "teaching wealth", "sattvic food"],
-    "keywords": ["Jupiter in 2nd house Mesh Lagna", "Guru in Dhana Bhava", "Mesh lagna 2nd Jupiter", "Aries ascendant wealth speech", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dhana Bhava",
+      "Guru Vrishabha",
+      "Aries ascendant",
+      "Guru"
+    ],
+    "lsi_keywords": [
+      "dhana bhava guru",
+      "guru vrishabha",
+      "ninth lord second",
+      "guru mahadasha",
+      "yellow sapphire pukhraj",
+      "honey-tongued speech",
+      "family wealth",
+      "cultured family",
+      "teaching wealth",
+      "sattvic food"
+    ],
+    "keywords": [
+      "Jupiter in 2nd house Mesh Lagna",
+      "Guru in Dhana Bhava",
+      "Mesh lagna 2nd Jupiter",
+      "Aries ascendant wealth speech",
+      "Vedic astrology"
+    ],
     "og_title": "Jupiter in the 2nd House of Mesh Lagna, Honey-Tongued Guru",
     "og_description": "Guru in Dhana Bhava for Aries ascendant, the classical honey-tongued wealth placement by a practising Jyotishi.",
     "og_image": "/og/jupiter-2nd-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/jupiter-2nd-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Jupiter in 2nd House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/jupiter-2nd-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Jupiter in 2nd House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/jupiter-2nd-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Jupiter in 2nd house",
-    "secondary_keywords": ["Mesh Lagna", "Dhana Bhava", "Guru Vrishabha", "Aries ascendant", "Guru"],
-    "lsi_terms": ["dhana bhava guru", "guru vrishabha", "ninth lord second", "guru mahadasha", "yellow sapphire pukhraj", "honey-tongued speech", "family wealth", "cultured family", "teaching wealth", "sattvic food"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dhana Bhava",
+      "Guru Vrishabha",
+      "Aries ascendant",
+      "Guru"
+    ],
+    "lsi_terms": [
+      "dhana bhava guru",
+      "guru vrishabha",
+      "ninth lord second",
+      "guru mahadasha",
+      "yellow sapphire pukhraj",
+      "honey-tongued speech",
+      "family wealth",
+      "cultured family",
+      "teaching wealth",
+      "sattvic food"
+    ],
     "seed_queries": [
-      "jupiter in 2nd house aries lagna", "guru in 2nd house mesh lagna", "jupiter in vrishabha 2nd aries", "guru in dhana bhava mesh", "jupiter in 2nd house effects aries", "jupiter in taurus mesh lagna", "jupiter in 2nd house wealth aries", "jupiter in 2nd house speech aries", "jupiter in 2nd house family aries", "jupiter in 2nd house remedies", "yellow sapphire for jupiter 2nd aries", "pukhraj for mesh lagna 2nd", "guru mahadasha aries 2nd", "jupiter in 2nd house aries food", "jupiter in 2nd house aries inherited wealth", "jupiter in 2nd house aries teaching", "is jupiter good in 2nd house aries", "jupiter in taurus aries ascendant", "guru dhana bhava vrishabha", "jupiter 2nd house aries prediction", "jupiter in second house mesh lagna", "jupiter 2nd house mesh ascendant", "guru in mesh lagna 2nd", "jupiter vrishabha lagna mesh chart", "jupiter 2nd house mesh lagna dasha", "guru mesh lagna wealth", "jupiter in taurus aries ascendant family", "honey tongued speech aries", "ninth lord in second house aries", "family wealth jupiter aries"
+      "jupiter in 2nd house aries lagna",
+      "guru in 2nd house mesh lagna",
+      "jupiter in vrishabha 2nd aries",
+      "guru in dhana bhava mesh",
+      "jupiter in 2nd house effects aries",
+      "jupiter in taurus mesh lagna",
+      "jupiter in 2nd house wealth aries",
+      "jupiter in 2nd house speech aries",
+      "jupiter in 2nd house family aries",
+      "jupiter in 2nd house remedies",
+      "yellow sapphire for jupiter 2nd aries",
+      "pukhraj for mesh lagna 2nd",
+      "guru mahadasha aries 2nd",
+      "jupiter in 2nd house aries food",
+      "jupiter in 2nd house aries inherited wealth",
+      "jupiter in 2nd house aries teaching",
+      "is jupiter good in 2nd house aries",
+      "jupiter in taurus aries ascendant",
+      "guru dhana bhava vrishabha",
+      "jupiter 2nd house aries prediction",
+      "jupiter in second house mesh lagna",
+      "jupiter 2nd house mesh ascendant",
+      "guru in mesh lagna 2nd",
+      "jupiter vrishabha lagna mesh chart",
+      "jupiter 2nd house mesh lagna dasha",
+      "guru mesh lagna wealth",
+      "jupiter in taurus aries ascendant family",
+      "honey tongued speech aries",
+      "ninth lord in second house aries",
+      "family wealth jupiter aries"
     ],
     "questions": [
       "Is Jupiter in the 2nd house good for Mesh Lagna?",
@@ -49,36 +141,130 @@
       "Which gemstone should Mesh Lagna wear for Jupiter in 2nd?"
     ],
     "lingual_variations": {
-      "guru": ["guru", "jupiter", "brihaspati", "devaguru", "bhagavan"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "guru": [
+        "guru",
+        "jupiter",
+        "brihaspati",
+        "devaguru",
+        "bhagavan"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Jupiter-2 versus Mars-2 speech contrast", "Family wealth inheritance signature", "Sattvic food orientation and cultural refinement"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Jupiter-2 versus Mars-2 speech contrast",
+      "Family wealth inheritance signature",
+      "Sattvic food orientation and cultural refinement"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "jupiter-2nd-house-aries-lagna-hero.webp", "filename_og": "jupiter-2nd-house-aries-lagna-og.png", "alt": "Golden Guru blessing the second house of a Mesh Lagna kundali", "caption": "Guru sits in Dhana Bhava for Aries ascendant natives, the ninth lord in the wealth house producing the honey-tongued speech and family wealth signature.", "width": 1200, "height": 630, "format": "webp", "style": "warm gold editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the second house glowing warm gold, a stylised Jupiter symbol with a honey pot and lotus motif, traditional Vedic palette of gold, saffron, pale cream, refined manuscript style, no people.", "negative_prompt": "photorealistic jupiter planet, watermark, text, neon, cartoon" },
-    { "filename": "jupiter-2nd-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Jupiter placed in the second house of Mesh", "caption": "The North Indian birth chart with Guru marked in the second house Dhana Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the upper-left second house highlighted in gold with a Guru symbol marked Gu, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "jupiter-2nd-house-aries-lagna-yellow-sapphire.webp", "alt": "Natural yellow sapphire in gold ring, gemstone for Jupiter 2nd house Mesh Lagna", "caption": "Yellow sapphire is recommended with confidence for a Dhana Bhava Jupiter because the wealth house supports direct Guru amplification.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural Ceylon yellow sapphire set in a gold ring, warm honey-yellow colour, faceted emerald cut, on dark saffron velvet with warm lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "jupiter-2nd-house-aries-lagna-madhurashtakam.webp", "alt": "Madhurashtakam Sanskrit verse on parchment with honey pot and lotus motif", "caption": "Madhurashtakam is the hymn of sweetness and anchors the honey-tongued speech signature of Dhana Bhava Guru.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Madhurashtakam, hand-painted on aged parchment with gold leaf borders, faint honey pot and lotus motifs in the background, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "jupiter-2nd-house-aries-lagna-hero.webp",
+      "filename_og": "jupiter-2nd-house-aries-lagna-og.png",
+      "alt": "Golden Guru blessing the second house of a Mesh Lagna kundali",
+      "caption": "Guru sits in Dhana Bhava for Aries ascendant natives, the ninth lord in the wealth house producing the honey-tongued speech and family wealth signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "warm gold editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the second house glowing warm gold, a stylised Jupiter symbol with a honey pot and lotus motif, traditional Vedic palette of gold, saffron, pale cream, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic jupiter planet, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "jupiter-2nd-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Jupiter placed in the second house of Mesh",
+      "caption": "The North Indian birth chart with Guru marked in the second house Dhana Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the upper-left second house highlighted in gold with a Guru symbol marked Gu, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "jupiter-2nd-house-aries-lagna-yellow-sapphire.webp",
+      "alt": "Natural yellow sapphire in gold ring, gemstone for Jupiter 2nd house Mesh Lagna",
+      "caption": "Yellow sapphire is recommended with confidence for a Dhana Bhava Jupiter because the wealth house supports direct Guru amplification.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural Ceylon yellow sapphire set in a gold ring, warm honey-yellow colour, faceted emerald cut, on dark saffron velvet with warm lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "jupiter-2nd-house-aries-lagna-madhurashtakam.webp",
+      "alt": "Madhurashtakam Sanskrit verse on parchment with honey pot and lotus motif",
+      "caption": "Madhurashtakam is the hymn of sweetness and anchors the honey-tongued speech signature of Dhana Bhava Guru.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Madhurashtakam, hand-painted on aged parchment with gold leaf borders, faint honey pot and lotus motifs in the background, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Jupiter in the 2nd house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Guru in Dhana Bhava for Aries ascendant natives. The ninth lord in the wealth house, the honey-tongued speech signature, inherited family values and wealth, and the classical contrast with Mars in the 2nd that every Mesh Lagna reader should understand.",
     "meta": [
-      { "icon": "clock", "value": "11 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "11 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Guru", "tone": "teal" },
-      { "label": "Dhana Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Vrishabha rashi" },
-      { "label": "Ninth lord in second" },
-      { "label": "Honey-tongued" }
+      {
+        "label": "Guru",
+        "tone": "teal"
+      },
+      {
+        "label": "Dhana Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Vrishabha rashi"
+      },
+      {
+        "label": "Ninth lord in second"
+      },
+      {
+        "label": "Honey-tongued"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +272,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Guru", "sub": "Jupiter", "icon": "sun" },
-        { "label": "Bhava", "value": "2nd", "sub": "Dhana Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Strong", "sub": "Wealth house benefic", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Guru",
+          "sub": "Jupiter",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "2nd",
+          "sub": "Dhana Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Strong",
+          "sub": "Wealth house benefic",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +311,103 @@
       "heading": "Why the wisdom planet in the wealth house produces cultured abundance",
       "html": "<p>The second house is Dhana Bhava, the domain of accumulated wealth, speech, family of origin, face and mouth, food habits, memory, early learning, and the values the native inherits from the family before consciously choosing their own. Classical tradition also classifies it as a Marakasthana, a house associated with the activation of difficult karma during specific dasha windows, though this reading applies more strongly when malefics occupy the 2nd than when benefics do. A Jupiter in the 2nd house is classically treated as a clean positive placement because the wisdom karaka in the wealth house produces exactly the form of wealth that most dharmic traditions recommend, inherited, stable, supported by family institutions, and arriving through the native's voice and teaching rather than through aggressive transactions.</p><p>Vrishabha rashi adds the second layer, and the reading here is interesting because it inverts the common assumption about enemy-sign placements. Venus rules Vrishabha, and although Jupiter and Venus are classical enemies, the Vrishabha sign specifically emphasises stability, sensory refinement, cultural appreciation, and slow accumulation, all of which harmonise with the Jupiter benefic signature in unexpected ways. The native ends up with the Jupiter wisdom channelled through Venus-flavoured refinement, producing a cultured sensibility that most Jupiter placements cannot match. The third interpretive layer is the 9L-in-2H raja yoga. For Mesh Lagna, Guru owns Dhanu on the 9th, and placing the dharma lord in the wealth house creates a direct connection between inherited values and inherited resources. Classical texts describe this as the signature of a family that passes down not just money but wisdom, not just property but the ethical framework for using property, and natives with this combination usually grow up in households where the parents read, value education, and treat cultural refinement as a legitimate form of family wealth alongside material assets.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "Jupiter in Dhana Bhava does not hand the native wealth to spend, it hands them the cultured framework to use wealth as an instrument of dharma. The voice becomes the tool and the family becomes the foundation." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "Jupiter in Dhana Bhava does not hand the native wealth to spend, it hands them the cultured framework to use wealth as an instrument of dharma. The voice becomes the tool and the family becomes the foundation."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Guru, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Guru, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Wisdom, dharma, children, teachers" },
-            { "k": "Own signs", "v": "Dhanu (Sagittarius), Meena (Pisces)" },
-            { "k": "Uchha (exaltation)", "v": "Karka at 5 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Makara at 5 degrees", "tone": "bad" },
-            { "k": "Friends", "v": "Sun, Moon, Mars" },
-            { "k": "Enemies", "v": "Mercury, Venus", "tone": "bad" },
-            { "k": "Element", "v": "Ether (Akasha Tattva)" },
-            { "k": "Role for Mesh", "v": "9th lord and 12th lord" }
+            {
+              "k": "Karakatva",
+              "v": "Wisdom, dharma, children, teachers"
+            },
+            {
+              "k": "Own signs",
+              "v": "Dhanu (Sagittarius), Meena (Pisces)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Karka at 5 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Makara at 5 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Moon, Mars"
+            },
+            {
+              "k": "Enemies",
+              "v": "Mercury, Venus",
+              "tone": "bad"
+            },
+            {
+              "k": "Element",
+              "v": "Ether (Akasha Tattva)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "9th lord and 12th lord"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Dhana Bhava, house profile", "subtitle": "2nd house significance",
+          "icon": "triangle-house",
+          "title": "Dhana Bhava, house profile",
+          "subtitle": "2nd house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Dhana, Kutumba Bhava" },
-            { "k": "Rules over", "v": "Wealth, speech, family, face, food" },
-            { "k": "Natural sign", "v": "Vrishabha (Taurus) for Mesh" },
-            { "k": "Natural ruler", "v": "Shukra (Venus)" },
-            { "k": "Body part", "v": "Face, mouth, teeth, throat" },
-            { "k": "Classical nature", "v": "Marakasthana (mild)", "tone": "warn" },
-            { "k": "Vedic quality", "v": "9L in 2H dharma-wealth yoga", "tone": "good" },
-            { "k": "Manglik status", "v": "Not Manglik for Jupiter" }
+            {
+              "k": "Sanskrit name",
+              "v": "Dhana, Kutumba Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Wealth, speech, family, face, food"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Vrishabha (Taurus) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Shukra (Venus)"
+            },
+            {
+              "k": "Body part",
+              "v": "Face, mouth, teeth, throat"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Marakasthana (mild)",
+              "tone": "warn"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "9L in 2H dharma-wealth yoga",
+              "tone": "good"
+            },
+            {
+              "k": "Manglik status",
+              "v": "Not Manglik for Jupiter"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +449,48 @@
       "heading": "Where the honey-tongued wealth channel plays out",
       "html": "<p>Career paths cluster around fields where cultured speech and transmitted wisdom are the native's primary offering. Higher education and senior teaching are the strongest fit because the combination places the wisdom karaka in the house of accumulated wealth and speech, and natives often build substantial wealth through teaching across decades that their peers in more aggressive careers never match. University faculty roles, particularly in humanities, literature, religious studies, and classical philosophy, suit these natives remarkably well, and many rise to senior academic administration because their speech and judgement make them the natural candidates for institutional leadership. Publishing and authorship form the second cluster because the combination is fundamentally about turning wisdom into lasting form, and book authors, editors, and publishing executives with this placement typically achieve both commercial and critical success.</p><p>Voice work and broadcasting are a classical fit because the 2nd house rules the voice itself and Jupiter adds the dignified warmth that radio, audiobook narration, podcast hosting, and serious broadcast journalism reward consistently. Wealth advisory, particularly family office work where the native advises wealthy families on multi-generational planning, suits the combination because these families recognise the cultured Jupiter signature immediately and trust the native with sensitive succession conversations. Language, literature, and cultural work including translation, literary criticism, and classical language teaching fit the Vrishabha aesthetic and Jupiter wisdom pairing naturally. Religious and dharma teaching rounds out the list, and many natives with this combination eventually find themselves in informal or formal teaching roles within a tradition they value. Guru mahadasha is typically when the wealth accumulation reaches its visible peak, and the sixteen-year window often delivers the native's largest single income increases through steady compounding rather than any single breakthrough.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Dhana Bhava Jupiter strength", "subtitle": "Generate your free Kundali to see the 9L in the wealth house.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Jupiter marked in the second house of Mesh", "planet": "Guru", "house": 2, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Guru in Dhana Bhava, marked in warm gold" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Upper-left diamond is the 2nd house of wealth" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Dhana Bhava Jupiter strength",
+        "subtitle": "Generate your free Kundali to see the 9L in the wealth house.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Jupiter marked in the second house of Mesh",
+      "planet": "Guru",
+      "house": 2,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Guru in Dhana Bhava, marked in warm gold"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Upper-left diamond is the 2nd house of wealth"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The honey-tongued speech signature and the Mars-2 contrast",
@@ -194,13 +503,45 @@
       "heading": "When Jupiter in 2nd delivers its wealth chapter",
       "intro_html": "<p>Guru mahadasha is the defining window for this placement. Surya, Mangal and Shukra periods also shape the wealth and family story.</p>",
       "rows": [
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "The Dhana Bhava activation window. Family wealth events, teaching career peaks, speech-based recognition, publishing success.", "intensity": "Very high", "intensity_bar_width": 95, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "Sign lord of Vrishabha. Cultural and aesthetic career peaks, luxury brand advisory, family wealth consolidation through partnership.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "5th lord, friend of Jupiter. Creative breakthroughs, recognition, teaching authority moments.", "intensity": "Good", "intensity_bar_width": 78, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord, friend of Jupiter. Bold application of the wisdom, property purchases, family business leadership.", "intensity": "Good", "intensity_bar_width": 72, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "The Dhana Bhava activation window. Family wealth events, teaching career peaks, speech-based recognition, publishing success.",
+          "intensity": "Very high",
+          "intensity_bar_width": 95,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "Sign lord of Vrishabha. Cultural and aesthetic career peaks, luxury brand advisory, family wealth consolidation through partnership.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "5th lord, friend of Jupiter. Creative breakthroughs, recognition, teaching authority moments.",
+          "intensity": "Good",
+          "intensity_bar_width": 78,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord, friend of Jupiter. Bold application of the wisdom, property purchases, family business leadership.",
+          "intensity": "Good",
+          "intensity_bar_width": 72,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +560,140 @@
       "heading": "Gemstones for Jupiter in 2nd house Mesh Lagna",
       "intro_html": "<p>Yellow sapphire (Pukhraj) is the primary stone and can be recommended with confidence because the Dhana Bhava benefic blessing supports direct amplification.</p>",
       "cards": [
-        { "name": "Pukhraj (Yellow Sapphire)", "role": "primary", "sub": "Guru-strengthening stone", "icon_variant": "yellow-sapphire", "image_slug": "yellow-sapphire", "items": [ { "k": "Metal", "v": "Gold (22 or 24 carat)" }, { "k": "Finger", "v": "Index finger, right hand" }, { "k": "Day to wear", "v": "Thursday, sunrise" }, { "k": "Min weight", "v": "4 to 5 Ratti" } ] },
-        { "name": "Yellow Topaz (alt)", "role": "secondary", "sub": "Milder Jupiter-aligned alternative", "icon_variant": "yellow-sapphire", "image_slug": "yellow-sapphire", "items": [ { "k": "Metal", "v": "Gold" }, { "k": "Finger", "v": "Index finger" }, { "k": "Day to wear", "v": "Thursday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Pukhraj", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Pukhraj (Yellow Sapphire)",
+          "role": "primary",
+          "sub": "Guru-strengthening stone",
+          "icon_variant": "yellow-sapphire",
+          "image_slug": "yellow-sapphire",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold (22 or 24 carat)"
+            },
+            {
+              "k": "Finger",
+              "v": "Index finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Thursday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "4 to 5 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Yellow Topaz (alt)",
+          "role": "secondary",
+          "sub": "Milder Jupiter-aligned alternative",
+          "icon_variant": "yellow-sapphire",
+          "image_slug": "yellow-sapphire",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Index finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Thursday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Pukhraj",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Always consult a qualified Jyotishi who has reviewed your full birth chart before wearing any gemstone, even a well-supported one."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Jupiter in 2nd house",
       "intro_html": "<p>The Guru rudraksha is the Panch Mukhi, with the Chhah Mukhi as the Venus-sign-lord complement for this placement.</p>",
       "beads": [
-        { "mukhi": 5, "name": "Panch Mukhi Rudraksha", "sub": "Ruled by Guru, the Panchabrahma bead", "benefit": "The classical Jupiter rudraksha. Amplifies the Dhana Bhava benefic blessing, strengthens the wealth-speech channel, and is the primary bead for any benefic Jupiter placement. Worn after Thursday abhishek." },
-        { "mukhi": 6, "name": "Chhah Mukhi Rudraksha", "sub": "Ruled by Kartikeya with Venus resonance", "benefit": "The six-faced bead associated with Kartikeya and carrying Venus resonance. Honours Shukra as the sign lord of Vrishabha and softens the Jupiter-Venus sign tension while supporting the cultural refinement of this specific placement." }
+        {
+          "mukhi": 5,
+          "name": "Panch Mukhi Rudraksha",
+          "sub": "Ruled by Guru, the Panchabrahma bead",
+          "benefit": "The classical Jupiter rudraksha. Amplifies the Dhana Bhava benefic blessing, strengthens the wealth-speech channel, and is the primary bead for any benefic Jupiter placement. Worn after Thursday abhishek."
+        },
+        {
+          "mukhi": 6,
+          "name": "Chhah Mukhi Rudraksha",
+          "sub": "Ruled by Kartikeya with Venus resonance",
+          "benefit": "The six-faced bead associated with Kartikeya and carrying Venus resonance. Honours Shukra as the sign lord of Vrishabha and softens the Jupiter-Venus sign tension while supporting the cultural refinement of this specific placement."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Guru Yantra for the Dhana Bhava", "yantra": { "name": "Guru Yantra", "sanskrit": "गुरु यन्त्र", "description": "The Guru Yantra is the geometric form of the wisdom channel. For a Dhana Bhava Jupiter install it in the north-east wall of your home temple paired with a small Lakshmi image or Kubera yantra to honour the wealth dimension directly. Thursday sunrise in Guru hora is the ideal window.", "direction": "North-east wall", "install_day": "Thursday sunrise, Guru hora preferred", "material": "Gold or brass (copper acceptable)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Dhana Bhava Guru", "stotra": { "eyebrow": "Madhurashtakam", "title": "Shri Madhurashtakam", "sub": "The hymn of sweetness composed by Shri Vallabhacharya", "verse": "Adharam madhuram vadanam madhuram<br>Nayanam madhuram hasitam madhuram<br>Hridayam madhuram gamanam madhuram<br>Madhuradhipater akhilam madhuram", "translation": "Sweet are his lips, sweet is his face. Sweet are his eyes, sweet is his smile. Sweet is his heart, sweet is his gait. Everything about the lord of sweetness is sweet. The Madhurashtakam is the classical hymn of sweetness and is the signature recitation for any Dhana Bhava Jupiter placement because it aligns directly with the honey-tongued speech and cultured wealth signature the chart produces.", "url": "https://stotra.vastucart.in/stotra/madhurashtakam" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Guru Yantra for the Dhana Bhava",
+      "yantra": {
+        "name": "Guru Yantra",
+        "sanskrit": "गुरु यन्त्र",
+        "description": "The Guru Yantra is the geometric form of the wisdom channel. For a Dhana Bhava Jupiter install it in the north-east wall of your home temple paired with a small Lakshmi image or Kubera yantra to honour the wealth dimension directly. Thursday sunrise in Guru hora is the ideal window.",
+        "direction": "North-east wall",
+        "install_day": "Thursday sunrise, Guru hora preferred",
+        "material": "Gold or brass (copper acceptable)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Dhana Bhava Guru",
+      "stotra": {
+        "eyebrow": "Madhurashtakam",
+        "title": "Shri Madhurashtakam",
+        "sub": "The hymn of sweetness composed by Shri Vallabhacharya",
+        "verse": "Adharam madhuram vadanam madhuram<br>Nayanam madhuram hasitam madhuram<br>Hridayam madhuram gamanam madhuram<br>Madhuradhipater akhilam madhuram",
+        "translation": "Sweet are his lips, sweet is his face. Sweet are his eyes, sweet is his smile. Sweet is his heart, sweet is his gait. Everything about the lord of sweetness is sweet. The Madhurashtakam is the classical hymn of sweetness and is the signature recitation for any Dhana Bhava Jupiter placement because it aligns directly with the honey-tongued speech and cultured wealth signature the chart produces.",
+        "url": "https://stotra.vastucart.in/stotra/madhurashtakam"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +701,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your second house and Jupiter placement", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Vidyarambham muhurta", "sub": "Auspicious dates for education start", "url": "https://muhurta.vastucart.in/education-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Business muhurta", "sub": "Auspicious dates for wealth ventures", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Madhurashtakam", "sub": "Hymn of sweetness for honey-tongued Jupiter", "url": "https://stotra.vastucart.in/stotra/madhurashtakam", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Guru Stotram", "sub": "Core daily Jupiter recitation", "url": "https://stotra.vastucart.in/stotra/guru-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Vishnu Sahasranama", "sub": "Highest-order Jupiter hymn", "url": "https://stotra.vastucart.in/stotra/vishnu-sahasranama", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Vishnu Chalisa", "sub": "Forty-verse daily Vishnu hymn", "url": "https://stotra.vastucart.in/stotra/vishnu-chalisa", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Guru Graha Kavacham", "sub": "Protective armour for Jupiter", "url": "https://stotra.vastucart.in/stotra/guru-graha-kavacham", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Panch Mukhi rudraksha source", "sub": "The classical Jupiter rudraksha", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Guru yantra store", "sub": "Gold Guru yantra for Dhana Bhava", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "1-on-1 with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your second house and Jupiter placement",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Vidyarambham muhurta",
+            "sub": "Auspicious dates for education start",
+            "url": "https://muhurta.vastucart.in/education-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Business muhurta",
+            "sub": "Auspicious dates for wealth ventures",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Madhurashtakam",
+            "sub": "Hymn of sweetness for honey-tongued Jupiter",
+            "url": "https://stotra.vastucart.in/stotra/madhurashtakam",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Guru Stotram",
+            "sub": "Core daily Jupiter recitation",
+            "url": "https://stotra.vastucart.in/stotra/guru-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Vishnu Sahasranama",
+            "sub": "Highest-order Jupiter hymn",
+            "url": "https://stotra.vastucart.in/stotra/vishnu-sahasranama",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Vishnu Chalisa",
+            "sub": "Forty-verse daily Vishnu hymn",
+            "url": "https://stotra.vastucart.in/stotra/vishnu-chalisa",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Guru Graha Kavacham",
+            "sub": "Protective armour for Jupiter",
+            "url": "https://stotra.vastucart.in/stotra/guru-graha-kavacham",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Panch Mukhi rudraksha source",
+            "sub": "The classical Jupiter rudraksha",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Guru yantra store",
+            "sub": "Gold Guru yantra for Dhana Bhava",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "1-on-1 with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +801,130 @@
         "title": "Is your Dhana Bhava Jupiter producing the honey-tongued blessing?",
         "subtitle": "Get a full personalised analysis of your Guru placement, wealth trajectory, and speech signature.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Madhurashtakam", "url": "https://stotra.vastucart.in/stotra/madhurashtakam", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Madhurashtakam",
+            "url": "https://stotra.vastucart.in/stotra/madhurashtakam",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Jupiter in 2nd house, Mesh Lagna",
       "items": [
-        { "q": "Is Jupiter in the 2nd house good for Mesh Lagna?", "a": "Yes, and it is one of the classical positive wealth placements in the Aries ascendant catalogue. Although Vrishabha is technically Jupiter's enemy sign because Venus rules it, the house placement overrides the sign concern cleanly. The 2nd is Dhana Bhava and a benefic Jupiter in the wealth house produces the honey-tongued speech signature, inherited family wealth, cultured values, and the 9L-in-2H dharma-wealth raja yoga. Natives frequently grow up in educated households and carry that cultural refinement into their own adult wealth-building." },
-        { "q": "What does Jupiter in Vrishabha mean for an Aries ascendant?", "a": "It means the native's wisdom is filtered through Venus-ruled Vrishabha's aesthetic, slow-accumulation, sensorially-refined sign quality. Although Jupiter and Venus are classical enemies at the planetary level, Vrishabha itself is a stable earth sign that suits a wealth-house benefic beautifully, producing cultured sensibility, good taste in food and surroundings, and the willingness to accumulate slowly rather than chase aggressively. The combination is one of the cleanest expressions of tasteful wealth in the Mesh Lagna catalogue." },
-        { "q": "How does Jupiter in 2nd house affect speech?", "a": "Classical texts describe this placement as madhura bhashi (honey-tongued). The speech is sweet, measured, thoughtful, and unusually capable of de-escalating conflicts and delivering hard truths without wounding. This is the direct practitioner contrast with Mars in 2nd, which produces sharp and often brilliant but sometimes wounding speech. The Jupiter version of the 2nd house voice is the voice people come to when a difficult conversation needs to happen gracefully, and this becomes one of the native's most valuable professional and family assets." },
-        { "q": "Does Jupiter in 2nd house give inherited wealth?", "a": "Classical tradition associates this placement with inherited family wealth and cultured values passed down across generations. Natives typically grow up in households where the parents read, value education, and treat cultural refinement as a legitimate form of family wealth alongside material assets. The inheritance is not always purely monetary, it often includes access to education, introductions, property, and the ethical framework for using resources well. The chart rewards natives who honour the inheritance by continuing the cultural tradition rather than treating it only as financial windfall." },
-        { "q": "Which gemstone should Mesh Lagna wear for Jupiter in 2nd?", "a": "Yellow sapphire (Pukhraj) is the primary gemstone and can be recommended with confidence because the Dhana Bhava benefic blessing supports direct Guru amplification. Wear a natural Ceylon pukhraj of minimum four ratti set in gold on the index finger of the right hand on a Thursday at sunrise after Guru mantra recitation. Yellow topaz is the milder secondary option. Always consult a practising Jyotishi before permanent wearing." }
+        {
+          "q": "Is Jupiter in the 2nd house good for Mesh Lagna?",
+          "a": "Yes, and it is one of the classical positive wealth placements in the Aries ascendant catalogue. Although Vrishabha is technically Jupiter's enemy sign because Venus rules it, the house placement overrides the sign concern cleanly. The 2nd is Dhana Bhava and a benefic Jupiter in the wealth house produces the honey-tongued speech signature, inherited family wealth, cultured values, and the 9L-in-2H dharma-wealth raja yoga. Natives frequently grow up in educated households and carry that cultural refinement into their own adult wealth-building."
+        },
+        {
+          "q": "What does Jupiter in Vrishabha mean for an Aries ascendant?",
+          "a": "It means the native's wisdom is filtered through Venus-ruled Vrishabha's aesthetic, slow-accumulation, sensorially-refined sign quality. Although Jupiter and Venus are classical enemies at the planetary level, Vrishabha itself is a stable earth sign that suits a wealth-house benefic beautifully, producing cultured sensibility, good taste in food and surroundings, and the willingness to accumulate slowly rather than chase aggressively. The combination is one of the cleanest expressions of tasteful wealth in the Mesh Lagna catalogue."
+        },
+        {
+          "q": "How does Jupiter in 2nd house affect speech?",
+          "a": "Classical texts describe this placement as madhura bhashi (honey-tongued). The speech is sweet, measured, thoughtful, and unusually capable of de-escalating conflicts and delivering hard truths without wounding. This is the direct practitioner contrast with Mars in 2nd, which produces sharp and often brilliant but sometimes wounding speech. The Jupiter version of the 2nd house voice is the voice people come to when a difficult conversation needs to happen gracefully, and this becomes one of the native's most valuable professional and family assets."
+        },
+        {
+          "q": "Does Jupiter in 2nd house give inherited wealth?",
+          "a": "Classical tradition associates this placement with inherited family wealth and cultured values passed down across generations. Natives typically grow up in households where the parents read, value education, and treat cultural refinement as a legitimate form of family wealth alongside material assets. The inheritance is not always purely monetary, it often includes access to education, introductions, property, and the ethical framework for using resources well. The chart rewards natives who honour the inheritance by continuing the cultural tradition rather than treating it only as financial windfall."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Jupiter in 2nd?",
+          "a": "Yellow sapphire (Pukhraj) is the primary gemstone and can be recommended with confidence because the Dhana Bhava benefic blessing supports direct Guru amplification. Wear a natural Ceylon pukhraj of minimum four ratti set in gold on the index finger of the right hand on a Thursday at sunrise after Guru mantra recitation. Yellow topaz is the milder secondary option. Always consult a practising Jyotishi before permanent wearing."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Dhana Bhava reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Mangal in the second, Dhana Bhava Manglik", "sub": "Mars in Vrishabha, sharp-speech contrast", "href": "/jyotish/graha-in-bhava/mars-2nd-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Shukra in the second, own sign study", "sub": "Venus in Vrishabha, the wealth karaka at home", "href": "/jyotish/graha-in-bhava/venus-2nd-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Guru at the lagna, digbala study", "sub": "Jupiter at the ascendant with directional strength", "href": "/jyotish/graha-in-bhava/jupiter-1st-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Mangal in the second, Dhana Bhava Manglik",
+          "sub": "Mars in Vrishabha, sharp-speech contrast",
+          "href": "/jyotish/graha-in-bhava/mars-2nd-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Shukra in the second, own sign study",
+          "sub": "Venus in Vrishabha, the wealth karaka at home",
+          "href": "/jyotish/graha-in-bhava/venus-2nd-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Guru at the lagna, digbala study",
+          "sub": "Jupiter at the ascendant with directional strength",
+          "href": "/jyotish/graha-in-bhava/jupiter-1st-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

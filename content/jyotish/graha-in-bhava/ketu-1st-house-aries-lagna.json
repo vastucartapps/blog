@@ -6,40 +6,132 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Ketu in 1st house", "Ketu Mesha", "Mesh Lagna", "Aries ascendant", "Tanu Bhava", "south node lagna", "moksha karaka", "detachment signature", "Ketu mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Ketu in 1st house",
+    "Ketu Mesha",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Tanu Bhava",
+    "south node lagna",
+    "moksha karaka",
+    "detachment signature",
+    "Ketu mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "ketu",
   "house_number": 1,
   "lagna_id": "mesha",
   "meta": {
     "title": "Ketu in 1st House Mesh Lagna, South Node Lagna Guide",
-    "description": "Ketu in 1st house for Mesh Lagna, the south node in Mesha at the ascendant, the warrior-monk detachment signature read by Pt. Raghav Sharma.",
+    "description": "Ketu in 1st house for Mesh Lagna, the south node in Mesha at the ascendant, the warrior-monk detachment signature by VastuCart Editorial.",
     "focus_keyword": "Ketu in 1st house",
-    "secondary_keywords": ["Mesh Lagna", "Tanu Bhava", "Ketu Mesha", "Aries ascendant", "Ketu lagna"],
-    "lsi_keywords": ["tanu bhava", "ketu mesha", "south node aries", "ketu in lagna", "ketu mahadasha", "cats eye lehsunia", "moksha karaka", "warrior monk", "detachment lagna", "past life karma"],
-    "keywords": ["Ketu in 1st house Mesh Lagna", "Ketu in Tanu Bhava", "Ketu in Aries", "Mesh lagna 1st Ketu", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Tanu Bhava",
+      "Ketu Mesha",
+      "Aries ascendant",
+      "Ketu lagna"
+    ],
+    "lsi_keywords": [
+      "tanu bhava",
+      "ketu mesha",
+      "south node aries",
+      "ketu in lagna",
+      "ketu mahadasha",
+      "cats eye lehsunia",
+      "moksha karaka",
+      "warrior monk",
+      "detachment lagna",
+      "past life karma"
+    ],
+    "keywords": [
+      "Ketu in 1st house Mesh Lagna",
+      "Ketu in Tanu Bhava",
+      "Ketu in Aries",
+      "Mesh lagna 1st Ketu",
+      "Vedic astrology"
+    ],
     "og_title": "Ketu in the 1st House of Mesh Lagna, South Node at the Body",
     "og_description": "Ketu in Mesha at the ascendant for Aries natives, the warrior-monk detachment signature by a practising Jyotishi.",
     "og_image": "/og/ketu-1st-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/ketu-1st-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Ketu in 1st House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/ketu-1st-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Ketu in 1st House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/ketu-1st-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Ketu in 1st house",
-    "secondary_keywords": ["Mesh Lagna", "Tanu Bhava", "Ketu Mesha", "Aries ascendant", "Ketu lagna"],
-    "lsi_terms": ["tanu bhava", "ketu mesha", "south node aries", "ketu in lagna", "ketu mahadasha", "cats eye lehsunia", "moksha karaka", "warrior monk signature", "detachment", "past life completion"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Tanu Bhava",
+      "Ketu Mesha",
+      "Aries ascendant",
+      "Ketu lagna"
+    ],
+    "lsi_terms": [
+      "tanu bhava",
+      "ketu mesha",
+      "south node aries",
+      "ketu in lagna",
+      "ketu mahadasha",
+      "cats eye lehsunia",
+      "moksha karaka",
+      "warrior monk signature",
+      "detachment",
+      "past life completion"
+    ],
     "seed_queries": [
-      "ketu in 1st house aries lagna", "ketu in 1st house mesh lagna", "ketu in aries mesh ascendant", "ketu mesha aries lagna", "ketu in lagna mesh", "ketu in 1st house career aries", "ketu in aries 1st house effects", "ketu tanu bhava mesh", "south node aries lagna", "ketu in 1st house remedies aries", "cats eye for ketu 1st aries", "lehsunia mesh lagna 1st", "ketu mahadasha aries 1st", "ketu in 1st house aries personality", "ketu in 1st house aries spirituality", "is ketu good in 1st house aries", "ketu in aries aries ascendant career", "ketu warrior monk", "ketu detachment lagna", "ketu 1st house aries prediction", "ketu in first house mesh lagna", "ketu 1st house mesh ascendant", "south node in mesh lagna 1st", "ketu mesha lagna mesh chart", "ketu 1st house mesh lagna dasha", "ketu mesh lagna body", "moksha karaka in lagna", "ketu past life signature", "ketu aries ascendant scars", "ketu lagna mystic"
+      "ketu in 1st house aries lagna",
+      "ketu in 1st house mesh lagna",
+      "ketu in aries mesh ascendant",
+      "ketu mesha aries lagna",
+      "ketu in lagna mesh",
+      "ketu in 1st house career aries",
+      "ketu in aries 1st house effects",
+      "ketu tanu bhava mesh",
+      "south node aries lagna",
+      "ketu in 1st house remedies aries",
+      "cats eye for ketu 1st aries",
+      "lehsunia mesh lagna 1st",
+      "ketu mahadasha aries 1st",
+      "ketu in 1st house aries personality",
+      "ketu in 1st house aries spirituality",
+      "is ketu good in 1st house aries",
+      "ketu in aries aries ascendant career",
+      "ketu warrior monk",
+      "ketu detachment lagna",
+      "ketu 1st house aries prediction",
+      "ketu in first house mesh lagna",
+      "ketu 1st house mesh ascendant",
+      "south node in mesh lagna 1st",
+      "ketu mesha lagna mesh chart",
+      "ketu 1st house mesh lagna dasha",
+      "ketu mesh lagna body",
+      "moksha karaka in lagna",
+      "ketu past life signature",
+      "ketu aries ascendant scars",
+      "ketu lagna mystic"
     ],
     "questions": [
       "Is Ketu in the 1st house good for Mesh Lagna?",
@@ -49,36 +141,129 @@
       "Which gemstone should Mesh Lagna wear for Ketu in 1st?"
     ],
     "lingual_variations": {
-      "ketu": ["ketu", "south node", "shikhi", "dhwajagra"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "ketu": [
+        "ketu",
+        "south node",
+        "shikhi",
+        "dhwajagra"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["South node at the lagna interpretive signature", "Warrior-monk pattern from Ketu Mesha", "Past-life completion reading at the body angle"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "South node at the lagna interpretive signature",
+      "Warrior-monk pattern from Ketu Mesha",
+      "Past-life completion reading at the body angle"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "ketu-1st-house-aries-lagna-hero.webp", "filename_og": "ketu-1st-house-aries-lagna-og.png", "alt": "Smoky Ketu at the lagna of a Mesh Lagna kundali in Mesha", "caption": "Ketu sits in Mesha at the lagna for Aries ascendant natives, the south node at the body angle producing the warrior-monk detachment signature.", "width": 1200, "height": 630, "format": "webp", "style": "smoky grey-violet editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the first house glowing smoky violet, a stylised flag-on-staff Ketu glyph above a small ram silhouette, traditional Vedic palette of smoke grey, violet, deep saffron, refined manuscript style, no people.", "negative_prompt": "photorealistic ketu, watermark, text, neon, cartoon" },
-    { "filename": "ketu-1st-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Ketu in the first house of Mesh", "caption": "The North Indian birth chart with Ketu marked in Mesha on the first house Tanu Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the central first house highlighted in smoky violet with a Ketu flag glyph marked Ke, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "ketu-1st-house-aries-lagna-cats-eye.webp", "alt": "Natural chrysoberyl cat's eye in silver ring, gemstone for Ketu 1st house", "caption": "Cat's eye is the primary Ketu ratna and is recommended only after careful chart confirmation because Ketu's intensity varies sharply between natives.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural chrysoberyl cat's eye gemstone set in a silver ring, honey-yellow with bright white chatoyancy band, on dark velvet with low lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "ketu-1st-house-aries-lagna-ganesh-atharvashirsha.webp", "alt": "Ganesh Atharvashirsha Sanskrit verse on parchment with elephant-head and lotus motif", "caption": "Ganesh Atharvashirsha recitation strengthens the Ketu channel through Ganesha the classical patron deity of the south node.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Ganesh Atharvashirsha, hand-painted on aged parchment with gold leaf borders, faint elephant-head and lotus motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "ketu-1st-house-aries-lagna-hero.webp",
+      "filename_og": "ketu-1st-house-aries-lagna-og.png",
+      "alt": "Smoky Ketu at the lagna of a Mesh Lagna kundali in Mesha",
+      "caption": "Ketu sits in Mesha at the lagna for Aries ascendant natives, the south node at the body angle producing the warrior-monk detachment signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "smoky grey-violet editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the first house glowing smoky violet, a stylised flag-on-staff Ketu glyph above a small ram silhouette, traditional Vedic palette of smoke grey, violet, deep saffron, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic ketu, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "ketu-1st-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Ketu in the first house of Mesh",
+      "caption": "The North Indian birth chart with Ketu marked in Mesha on the first house Tanu Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the central first house highlighted in smoky violet with a Ketu flag glyph marked Ke, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "ketu-1st-house-aries-lagna-cats-eye.webp",
+      "alt": "Natural chrysoberyl cat's eye in silver ring, gemstone for Ketu 1st house",
+      "caption": "Cat's eye is the primary Ketu ratna and is recommended only after careful chart confirmation because Ketu's intensity varies sharply between natives.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural chrysoberyl cat's eye gemstone set in a silver ring, honey-yellow with bright white chatoyancy band, on dark velvet with low lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "ketu-1st-house-aries-lagna-ganesh-atharvashirsha.webp",
+      "alt": "Ganesh Atharvashirsha Sanskrit verse on parchment with elephant-head and lotus motif",
+      "caption": "Ganesh Atharvashirsha recitation strengthens the Ketu channel through Ganesha the classical patron deity of the south node.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Ganesh Atharvashirsha, hand-painted on aged parchment with gold leaf borders, faint elephant-head and lotus motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Ketu in the 1st house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Ketu at the ascendant of Mesh Lagna. The south node in Mesha at the body angle, the warrior-monk detachment signature, and the soul that has come back already half-finished with worldly engagement and looks for the exit before the entrance is fully open.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Ketu", "tone": "teal" },
-      { "label": "Tanu Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Mesha lagna" },
-      { "label": "Moksha karaka" },
-      { "label": "Warrior monk" }
+      {
+        "label": "Ketu",
+        "tone": "teal"
+      },
+      {
+        "label": "Tanu Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesha lagna"
+      },
+      {
+        "label": "Moksha karaka"
+      },
+      {
+        "label": "Warrior monk"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +271,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Ketu", "sub": "South node", "icon": "sun" },
-        { "label": "Bhava", "value": "1st", "sub": "Tanu Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Mystical", "sub": "Detachment signature", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Ketu",
+          "sub": "South node",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "1st",
+          "sub": "Tanu Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Mystical",
+          "sub": "Detachment signature",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +310,102 @@
       "heading": "Why Ketu at the lagna reshapes the whole personality",
       "html": "<p>Students often ask whether Ketu at the lagna is good or bad, and the honest practitioner answer is that the question does not quite apply to a shadow planet at the body angle. Ketu does not work on the good-bad spectrum the way the visible grahas do. He works on the engagement-disengagement spectrum, and his presence at the lagna of any chart shifts the native toward the disengagement end regardless of how the rest of the chart is arranged. The result is a personality that is not necessarily unhappy or unsuccessful but that does not relate to worldly engagement the way peers do. Where another Aries native chases promotions, recognition, romance, and visible markers of arrival, the Ketu-lagna native often watches those pursuits from a step removed, joining when the situation requires it and stepping back when it does not.</p><p>The second specific feature is the past-life completion signature classical texts assign to a strong Ketu at the lagna. The reading is that the soul comes into this incarnation already carrying significant karmic completion in the worldly domains and arrives with an inner orientation that resembles a meditation retreat in progress rather than a fresh beginning. Children with this placement often display an unusual seriousness, a quiet self-containment that does not match their age, and an early interest in mystical or contemplative themes that the family may or may not understand. The third interpretive layer is the scars and marks reading. Ketu is the planet of marks classical texts associate with the body, and natives with this placement often carry visible marks (birthmarks, scars from early childhood accidents, distinctive moles, or unusual features) at the head or face. These marks are interpretive signals to the practitioner: they confirm that the placement is functioning as the chart describes and that the native is the type who has lived this body's mystical layer rather than just inherited it on paper.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "Ketu at the lagna is a soul that arrives at the gate of life already glancing toward the exit. The work is not to talk the native out of the glance, but to help them honour the worldly journey that the body still has to walk." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "Ketu at the lagna is a soul that arrives at the gate of life already glancing toward the exit. The work is not to talk the native out of the glance, but to help them honour the worldly journey that the body still has to walk."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Ketu, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Ketu, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Moksha, detachment, past karma" },
-            { "k": "Own sign", "v": "None (shadow planet)" },
-            { "k": "Uchha (exaltation)", "v": "Vrishchika (some traditions)", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Vrishabha (some traditions)", "tone": "bad" },
-            { "k": "Sign state here", "v": "Mesha, Mars's fiery sign" },
-            { "k": "Friends", "v": "Mars, Venus, Saturn" },
-            { "k": "Element", "v": "Fire (shadow)" },
-            { "k": "Role for Mesh", "v": "No house lordship (shadow)" }
+            {
+              "k": "Karakatva",
+              "v": "Moksha, detachment, past karma"
+            },
+            {
+              "k": "Own sign",
+              "v": "None (shadow planet)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Vrishchika (some traditions)",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Vrishabha (some traditions)",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Mesha, Mars's fiery sign"
+            },
+            {
+              "k": "Friends",
+              "v": "Mars, Venus, Saturn"
+            },
+            {
+              "k": "Element",
+              "v": "Fire (shadow)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "No house lordship (shadow)"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Tanu Bhava, house profile", "subtitle": "1st house significance",
+          "icon": "triangle-house",
+          "title": "Tanu Bhava, house profile",
+          "subtitle": "1st house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Tanu, Lagna Bhava" },
-            { "k": "Rules over", "v": "Body, identity, vitality, head" },
-            { "k": "Natural sign", "v": "Mesha (Aries) for Mesh" },
-            { "k": "Natural ruler", "v": "Mangal (Mars)" },
-            { "k": "Body part", "v": "Head, brain, complexion, marks" },
-            { "k": "Classical nature", "v": "Kendra, Trikona" },
-            { "k": "Vedic quality", "v": "Body becomes moksha vessel", "tone": "good" },
-            { "k": "Special effect", "v": "Detachment infused into identity", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Tanu, Lagna Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Body, identity, vitality, head"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Mesha (Aries) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Mangal (Mars)"
+            },
+            {
+              "k": "Body part",
+              "v": "Head, brain, complexion, marks"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Kendra, Trikona"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Body becomes moksha vessel",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Detachment infused into identity",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +447,48 @@
       "heading": "Where the warrior-monk vocation plays out",
       "html": "<p>Career paths cluster around fields that allow meaningful work without the personal self-promotion other Aries placements thrive on. Research, mathematics, and theoretical sciences are the strongest single fit because they reward the depth of focus Ketu produces and do not require the native to perform charisma or build a personal brand. Many natives spend their working life in research roles where the work itself matters more than recognition, and they often become the quiet expert colleagues trust precisely because the native has no obvious agenda. Mysticism, spiritual teaching, and contemplative writing fit when the native commits explicitly to the contemplative path.</p><p>Healing arts, energy work, and alternative medicine work because Ketu rules the subtle body and natives often have unusual sensitivity to energetic dimensions of health. Backend technology and hidden infrastructure work suit the chart because Ketu is the planet of the unseen and natives often build careers in software architecture, cybersecurity, or systems administration where the work happens behind the scenes. Hospice and palliative care are the specific medical fits because the placement gives the native an unusual capacity to be present with dying. Solo creative practice (poetry, fine art, classical music) channels the detachment productively. Ketu mahadasha is when vocational direction crystallises, often through a sudden shift away from a conventional path the native had been forcing themselves to walk.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Ketu lagna placement", "subtitle": "Generate your free Kundali to see whether your south node sits at the body angle.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Ketu marked in the first house of Mesh", "planet": "Ketu", "house": 1, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Ketu at the lagna in Mesha, marked in smoky violet" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Central diamond is the 1st house of Tanu Bhava" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Ketu lagna placement",
+        "subtitle": "Generate your free Kundali to see whether your south node sits at the body angle.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Ketu marked in the first house of Mesh",
+      "planet": "Ketu",
+      "house": 1,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Ketu at the lagna in Mesha, marked in smoky violet"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Central diamond is the 1st house of Tanu Bhava"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The warrior-monk pattern and the past-life signature",
@@ -194,13 +501,45 @@
       "heading": "When Ketu in 1st delivers its Tanu Bhava chapter",
       "intro_html": "<p>Ketu mahadasha is the defining window for this placement and arrives with the spiritual deepening and worldly disengagement the chart specifically produces.</p>",
       "rows": [
-        { "mahadasha": "Ketu (South Node)", "duration": "7 years", "themes": "The Tanu Bhava activation window. Identity reshapes around the moksha signature, sudden withdrawal from conventional pursuits, mystical experiences, vocational direction shifts toward meaning over status.", "intensity": "Very high", "intensity_bar_width": 92, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "Friendly to Ketu in classical texts. Refined partnership and aesthetic life can flourish if the native commits to the worldly anchor. Marriage often arrives in this period.", "intensity": "Good", "intensity_bar_width": 78, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Fifth lord. Creative recognition for the contemplative gifts, dharmic authority moments, public visibility for the warrior-monk integration if the native has built one.", "intensity": "Moderate", "intensity_bar_width": 65, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord and shares martial nature with Ketu. The clearest Mars-Ketu integration window where the warrior-monk pattern becomes lived rather than potential.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Ketu (South Node)",
+          "duration": "7 years",
+          "themes": "The Tanu Bhava activation window. Identity reshapes around the moksha signature, sudden withdrawal from conventional pursuits, mystical experiences, vocational direction shifts toward meaning over status.",
+          "intensity": "Very high",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "Friendly to Ketu in classical texts. Refined partnership and aesthetic life can flourish if the native commits to the worldly anchor. Marriage often arrives in this period.",
+          "intensity": "Good",
+          "intensity_bar_width": 78,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "Fifth lord. Creative recognition for the contemplative gifts, dharmic authority moments, public visibility for the warrior-monk integration if the native has built one.",
+          "intensity": "Moderate",
+          "intensity_bar_width": 65,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord and shares martial nature with Ketu. The clearest Mars-Ketu integration window where the warrior-monk pattern becomes lived rather than potential.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +558,140 @@
       "heading": "Gemstones for Ketu in 1st house Mesh Lagna",
       "intro_html": "<p>Cat's eye is the primary Ketu gemstone but is recommended only after careful chart confirmation because of the south node's amplification effect.</p>",
       "cards": [
-        { "name": "Lehsunia (Cat's Eye)", "role": "primary", "sub": "Ketu-strengthening chrysoberyl", "icon_variant": "cats-eye", "image_slug": "cats-eye", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Small finger, right hand" }, { "k": "Day to wear", "v": "Wednesday or Tuesday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Hessonite (alt)", "role": "secondary", "sub": "Companion node stone for the Rahu-Ketu axis", "icon_variant": "hessonite", "image_slug": "hessonite", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Middle finger" }, { "k": "Day to wear", "v": "Saturday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Lehsunia", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Lehsunia (Cat's Eye)",
+          "role": "primary",
+          "sub": "Ketu-strengthening chrysoberyl",
+          "icon_variant": "cats-eye",
+          "image_slug": "cats-eye",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Wednesday or Tuesday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Hessonite (alt)",
+          "role": "secondary",
+          "sub": "Companion node stone for the Rahu-Ketu axis",
+          "icon_variant": "hessonite",
+          "image_slug": "hessonite",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Middle finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Saturday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Lehsunia",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Cat's eye amplifies whatever Ketu is currently expressing. Always consult a qualified Jyotishi before permanent wearing of any nodal gemstone."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Ketu in 1st house",
       "intro_html": "<p>The Ketu-aligned rudraksha is the Ashta Mukhi (Eight Mukhi), the bead directly ruled by Ganesha and the south node.</p>",
       "beads": [
-        { "mukhi": 8, "name": "Ashta Mukhi Rudraksha", "sub": "Ruled by Ganesha and Ketu", "benefit": "The classical Ketu rudraksha and the bead specifically associated with Ganesha as the patron deity of the south node. Removes obstacles to spiritual progress, supports the contemplative practice the placement asks for, and stabilises the inner orientation when the disengagement signature is strong." },
-        { "mukhi": 9, "name": "Nau Mukhi Rudraksha", "sub": "Ruled by Durga, complements the Ketu axis", "benefit": "The nine-mukhi bead is the Rahu node's bead and is worn alongside the Ashta Mukhi when the practitioner wants to balance the full nodal axis. Recommended for natives who experience strong axis events (sudden shifts, mystical breakthroughs, identity restructuring) during transit windows." }
+        {
+          "mukhi": 8,
+          "name": "Ashta Mukhi Rudraksha",
+          "sub": "Ruled by Ganesha and Ketu",
+          "benefit": "The classical Ketu rudraksha and the bead specifically associated with Ganesha as the patron deity of the south node. Removes obstacles to spiritual progress, supports the contemplative practice the placement asks for, and stabilises the inner orientation when the disengagement signature is strong."
+        },
+        {
+          "mukhi": 9,
+          "name": "Nau Mukhi Rudraksha",
+          "sub": "Ruled by Durga, complements the Ketu axis",
+          "benefit": "The nine-mukhi bead is the Rahu node's bead and is worn alongside the Ashta Mukhi when the practitioner wants to balance the full nodal axis. Recommended for natives who experience strong axis events (sudden shifts, mystical breakthroughs, identity restructuring) during transit windows."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Ketu Yantra for the lagna placement", "yantra": { "name": "Ketu Yantra", "sanskrit": "केतु यन्त्र", "description": "The Ketu Yantra is the geometric form of the south node channel. For Ketu at the Mesh lagna install it in a small contemplative corner of the home, ideally where the native sits for daily meditation. Wednesday or Tuesday at sunrise is the installation window, and the yantra should be consecrated with Ganesh Atharvashirsha recitation and a dub grass offering.", "direction": "Contemplative corner (meditation space)", "install_day": "Wednesday or Tuesday sunrise, Ketu hora preferred", "material": "Iron or panchaloha (mixed metal)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Ketu at the lagna", "stotra": { "eyebrow": "Ganesh Atharvashirsha", "title": "Shri Ganesh Atharvashirsha", "sub": "Upanishadic hymn to Ganesha the patron deity of Ketu", "verse": "Om namaste ganapataye<br>Tvameva pratyaksham tattvamasi<br>Tvameva kevalam karta asi<br>Tvameva kevalam dharta asi<br>Tvameva kevalam harta asi<br>Tvameva sarvam khalvidam brahmasi<br>Tvam sakshad atma asi nityam", "translation": "Om, salutations to Ganapati. You alone are the visible truth. You alone are the sole creator. You alone are the sole sustainer. You alone are the sole dissolver. You alone are truly all this Brahman. You are directly the eternal Self. The Ganesh Atharvashirsha is the most powerful single hymn for invoking Ganapati and through him the Ketu channel. The classical protocol is twenty-one recitations for forty-two days when the placement specifically asks for nodal stabilisation.", "url": "https://stotra.vastucart.in/stotra/ganesh-atharvashirsha" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Ketu Yantra for the lagna placement",
+      "yantra": {
+        "name": "Ketu Yantra",
+        "sanskrit": "केतु यन्त्र",
+        "description": "The Ketu Yantra is the geometric form of the south node channel. For Ketu at the Mesh lagna install it in a small contemplative corner of the home, ideally where the native sits for daily meditation. Wednesday or Tuesday at sunrise is the installation window, and the yantra should be consecrated with Ganesh Atharvashirsha recitation and a dub grass offering.",
+        "direction": "Contemplative corner (meditation space)",
+        "install_day": "Wednesday or Tuesday sunrise, Ketu hora preferred",
+        "material": "Iron or panchaloha (mixed metal)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Ketu at the lagna",
+      "stotra": {
+        "eyebrow": "Ganesh Atharvashirsha",
+        "title": "Shri Ganesh Atharvashirsha",
+        "sub": "Upanishadic hymn to Ganesha the patron deity of Ketu",
+        "verse": "Om namaste ganapataye<br>Tvameva pratyaksham tattvamasi<br>Tvameva kevalam karta asi<br>Tvameva kevalam dharta asi<br>Tvameva kevalam harta asi<br>Tvameva sarvam khalvidam brahmasi<br>Tvam sakshad atma asi nityam",
+        "translation": "Om, salutations to Ganapati. You alone are the visible truth. You alone are the sole creator. You alone are the sole sustainer. You alone are the sole dissolver. You alone are truly all this Brahman. You are directly the eternal Self. The Ganesh Atharvashirsha is the most powerful single hymn for invoking Ganapati and through him the Ketu channel. The classical protocol is twenty-one recitations for forty-two days when the placement specifically asks for nodal stabilisation.",
+        "url": "https://stotra.vastucart.in/stotra/ganesh-atharvashirsha"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +699,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your first house Ketu placement", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Education muhurta", "sub": "Auspicious dates for spiritual study start", "url": "https://muhurta.vastucart.in/education-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Travel muhurta", "sub": "Auspicious dates for retreat or pilgrimage", "url": "https://muhurta.vastucart.in/travel-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Ganesh Atharvashirsha", "sub": "Upanishadic Ganesha hymn for Ketu", "url": "https://stotra.vastucart.in/stotra/ganesh-atharvashirsha", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Ketu Stotram", "sub": "Classical south node hymn", "url": "https://stotra.vastucart.in/stotra/ketu-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Ketu Kavacham", "sub": "Protective armour stotra for Ketu", "url": "https://stotra.vastucart.in/stotra/ketu-kavacham", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Ketu Sahasranama", "sub": "Thousand names of Ketu", "url": "https://stotra.vastucart.in/stotra/ketu-sahasranama", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Ganesh Pancharatnam", "sub": "Five-jewel Ganesha hymn", "url": "https://stotra.vastucart.in/stotra/ganesh-pancharatnam", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Cat's eye source", "sub": "Certified Lehsunia chrysoberyl", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Ketu yantra store", "sub": "Iron Ketu yantra for the meditation corner", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Nodal analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your first house Ketu placement",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Education muhurta",
+            "sub": "Auspicious dates for spiritual study start",
+            "url": "https://muhurta.vastucart.in/education-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Travel muhurta",
+            "sub": "Auspicious dates for retreat or pilgrimage",
+            "url": "https://muhurta.vastucart.in/travel-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Ganesh Atharvashirsha",
+            "sub": "Upanishadic Ganesha hymn for Ketu",
+            "url": "https://stotra.vastucart.in/stotra/ganesh-atharvashirsha",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Ketu Stotram",
+            "sub": "Classical south node hymn",
+            "url": "https://stotra.vastucart.in/stotra/ketu-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Ketu Kavacham",
+            "sub": "Protective armour stotra for Ketu",
+            "url": "https://stotra.vastucart.in/stotra/ketu-kavacham",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Ketu Sahasranama",
+            "sub": "Thousand names of Ketu",
+            "url": "https://stotra.vastucart.in/stotra/ketu-sahasranama",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ganesh Pancharatnam",
+            "sub": "Five-jewel Ganesha hymn",
+            "url": "https://stotra.vastucart.in/stotra/ganesh-pancharatnam",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Cat's eye source",
+            "sub": "Certified Lehsunia chrysoberyl",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Ketu yantra store",
+            "sub": "Iron Ketu yantra for the meditation corner",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Nodal analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +799,130 @@
         "title": "Is your Tanu Bhava Ketu carrying the warrior-monk signature?",
         "subtitle": "Get a full personalised analysis of your lagna Ketu, the past-life karma marks, and the contemplative vocation pull.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Ganesh Atharvashirsha", "url": "https://stotra.vastucart.in/stotra/ganesh-atharvashirsha", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Ganesh Atharvashirsha",
+            "url": "https://stotra.vastucart.in/stotra/ganesh-atharvashirsha",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Ketu in 1st house, Mesh Lagna",
       "items": [
-        { "q": "Is Ketu in the 1st house good for Mesh Lagna?", "a": "The good-bad framing does not apply cleanly to a shadow planet at the lagna. Ketu does not work on the success-failure spectrum the visible grahas use. He works on the engagement-disengagement spectrum, and his presence at the body angle shifts the native toward disengagement regardless of how the rest of the chart is arranged. The result is a personality that may be successful in worldly terms but does not relate to that success the way peers do. For natives drawn to contemplative life, the placement is one of the most aligned starting points possible. For natives expecting conventional Aries dynamism, it can feel like a mismatch." },
-        { "q": "What does Ketu at the lagna in Mesha do to identity?", "a": "It produces the warrior-monk signature where the native carries Aries courage and martial energy without the standard Aries hunger for personal achievement. They fight, but for causes rather than promotions. They lead, but reluctantly. They look serious in childhood photographs and stay serious in ways family members find both impressive and worrying. The body itself becomes a vessel for the moksha karaka rather than for the worldly drives most lagna placements emphasise. Honesty is unfiltered, social hierarchies feel unimportant, and the inner orientation runs a step removed from the worldly pursuits that motivate peers." },
-        { "q": "Does Ketu in 1st house give spiritual detachment from a young age?", "a": "Yes, and this is one of the most consistent reports practitioners hear from natives with this placement. Children with strong Ketu at the lagna often display unusual seriousness, early interest in mystical or contemplative themes, a quiet self-containment that does not match their age, and a sense of being older than peers in ways that have nothing to do with chronology. Classical texts treat this as the past-life completion signature where the soul arrives in this body already carrying the inner orientation of a more advanced spiritual aspirant than the chronological age suggests." },
-        { "q": "How does Ketu in 1st house affect the body and appearance?", "a": "The face often holds a quiet, watchful, old-soul quality that strangers find arresting. Eyes are typically dark and deep-set. Birthmarks, distinctive moles, scars from early childhood accidents, and small irregular features at the head or face are common diagnostic markers, and many natives report a specific birthmark or scar that the family considered unusual before they knew about the placement. The body tends to be lean rather than muscular even with consistent exercise because Ketu's nature is to draw energy inward rather than build it outward. The marks are interpretive signals confirming the placement is active." },
-        { "q": "Which gemstone should Mesh Lagna wear for Ketu in 1st?", "a": "Cat's eye (Lehsunia, made from chrysoberyl) is the primary Ketu gemstone, but it is recommended only after careful chart confirmation by a practising Jyotishi because Ketu's intensity varies sharply between natives and the cat's eye amplifies whatever the placement is currently expressing. Wear a natural chrysoberyl cat's eye of minimum five ratti set in silver on the small finger of the right hand on a Wednesday or Tuesday at sunrise after Ketu mantra recitation. Hessonite is the companion node stone if the practitioner wants to work the full Rahu-Ketu axis. Never wear cat's eye without a confirmed reading." }
+        {
+          "q": "Is Ketu in the 1st house good for Mesh Lagna?",
+          "a": "The good-bad framing does not apply cleanly to a shadow planet at the lagna. Ketu does not work on the success-failure spectrum the visible grahas use. He works on the engagement-disengagement spectrum, and his presence at the body angle shifts the native toward disengagement regardless of how the rest of the chart is arranged. The result is a personality that may be successful in worldly terms but does not relate to that success the way peers do. For natives drawn to contemplative life, the placement is one of the most aligned starting points possible. For natives expecting conventional Aries dynamism, it can feel like a mismatch."
+        },
+        {
+          "q": "What does Ketu at the lagna in Mesha do to identity?",
+          "a": "It produces the warrior-monk signature where the native carries Aries courage and martial energy without the standard Aries hunger for personal achievement. They fight, but for causes rather than promotions. They lead, but reluctantly. They look serious in childhood photographs and stay serious in ways family members find both impressive and worrying. The body itself becomes a vessel for the moksha karaka rather than for the worldly drives most lagna placements emphasise. Honesty is unfiltered, social hierarchies feel unimportant, and the inner orientation runs a step removed from the worldly pursuits that motivate peers."
+        },
+        {
+          "q": "Does Ketu in 1st house give spiritual detachment from a young age?",
+          "a": "Yes, and this is one of the most consistent reports practitioners hear from natives with this placement. Children with strong Ketu at the lagna often display unusual seriousness, early interest in mystical or contemplative themes, a quiet self-containment that does not match their age, and a sense of being older than peers in ways that have nothing to do with chronology. Classical texts treat this as the past-life completion signature where the soul arrives in this body already carrying the inner orientation of a more advanced spiritual aspirant than the chronological age suggests."
+        },
+        {
+          "q": "How does Ketu in 1st house affect the body and appearance?",
+          "a": "The face often holds a quiet, watchful, old-soul quality that strangers find arresting. Eyes are typically dark and deep-set. Birthmarks, distinctive moles, scars from early childhood accidents, and small irregular features at the head or face are common diagnostic markers, and many natives report a specific birthmark or scar that the family considered unusual before they knew about the placement. The body tends to be lean rather than muscular even with consistent exercise because Ketu's nature is to draw energy inward rather than build it outward. The marks are interpretive signals confirming the placement is active."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Ketu in 1st?",
+          "a": "Cat's eye (Lehsunia, made from chrysoberyl) is the primary Ketu gemstone, but it is recommended only after careful chart confirmation by a practising Jyotishi because Ketu's intensity varies sharply between natives and the cat's eye amplifies whatever the placement is currently expressing. Wear a natural chrysoberyl cat's eye of minimum five ratti set in silver on the small finger of the right hand on a Wednesday or Tuesday at sunrise after Ketu mantra recitation. Hessonite is the companion node stone if the practitioner wants to work the full Rahu-Ketu axis. Never wear cat's eye without a confirmed reading."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Nodal reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Mangal at the lagna swakshetra", "sub": "Mars in his own sign Mesha, lagna lord at the body", "href": "/jyotish/graha-in-bhava/mars-1st-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Chandra at the lagna in friendly Mesha", "sub": "Moon in the first house, the emotional vessel contrast", "href": "/jyotish/graha-in-bhava/moon-1st-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Surya at the lagna in own sign", "sub": "Sun in the first house, the visible authority contrast", "href": "/jyotish/graha-in-bhava/sun-1st-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Mangal at the lagna swakshetra",
+          "sub": "Mars in his own sign Mesha, lagna lord at the body",
+          "href": "/jyotish/graha-in-bhava/mars-1st-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Chandra at the lagna in friendly Mesha",
+          "sub": "Moon in the first house, the emotional vessel contrast",
+          "href": "/jyotish/graha-in-bhava/moon-1st-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Surya at the lagna in own sign",
+          "sub": "Sun in the first house, the visible authority contrast",
+          "href": "/jyotish/graha-in-bhava/sun-1st-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

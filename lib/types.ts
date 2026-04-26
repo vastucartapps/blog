@@ -328,6 +328,13 @@ export type ContentBlock =
       html: string;
     }
   | {
+      type: "scannable-prose";
+      eyebrow?: string;
+      heading: string;
+      lead_html: string;
+      subsections: { h3: string; html: string }[];
+    }
+  | {
       type: "pull-quote";
       variant?: GemTone;
       text: string;
@@ -539,6 +546,12 @@ export interface ArticlePost {
   template: TemplateType;
   tags: string[];
   author_id: string;
+  /**
+   * Optional reviewer Organization slug, e.g.
+   * "vastucart-jyotish-review-panel". Emitted as `reviewedBy`
+   * on the BlogPosting schema and rendered in the hero meta strip.
+   */
+  reviewer_id?: string;
   reading_time_minutes: number;
   status: PostStatus;
   published_at: string;

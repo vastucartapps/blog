@@ -6,40 +6,132 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-13T00:00:00.000Z",
   "updated_at": "2026-04-13T00:00:00.000Z",
-  "tags": ["Jupiter in 5th house", "Guru", "Mesh Lagna", "Aries ascendant", "Putra Bhava", "ninth lord in fifth", "trine to trine yoga", "Guru mahadasha", "yellow sapphire pukhraj", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Jupiter in 5th house",
+    "Guru",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Putra Bhava",
+    "ninth lord in fifth",
+    "trine to trine yoga",
+    "Guru mahadasha",
+    "yellow sapphire pukhraj",
+    "graha in bhava"
+  ],
   "planet_id": "guru",
   "house_number": 5,
   "lagna_id": "mesha",
   "meta": {
     "title": "Jupiter in 5th House for Mesh Lagna, Wisdom and Children",
-    "description": "Jupiter in 5th house for Mesh Lagna, Guru as 9th lord in Putra Bhava. Dharma-Karmadhipati yoga seed, children, remedies by Pt. Raghav Sharma.",
+    "description": "Jupiter in 5th house for Mesh Lagna, Guru as 9th lord in Putra Bhava. Dharma-Karmadhipati yoga seed, children, remedies by VastuCart Editorial.",
     "focus_keyword": "Jupiter in 5th house",
-    "secondary_keywords": ["Mesh Lagna", "Putra Bhava", "Guru ninth lord", "Aries ascendant", "Guru"],
-    "lsi_keywords": ["putra bhava", "ninth lord fifth", "guru mahadasha", "yellow sapphire pukhraj", "dharma-karmadhipati", "trine to trine", "purva punya", "children karaka", "wisdom signature", "guru in dhanu"],
-    "keywords": ["Jupiter in 5th house Mesh Lagna", "Guru in Putra Bhava", "Mesh lagna 9th lord 5th", "Aries ascendant children", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Putra Bhava",
+      "Guru ninth lord",
+      "Aries ascendant",
+      "Guru"
+    ],
+    "lsi_keywords": [
+      "putra bhava",
+      "ninth lord fifth",
+      "guru mahadasha",
+      "yellow sapphire pukhraj",
+      "dharma-karmadhipati",
+      "trine to trine",
+      "purva punya",
+      "children karaka",
+      "wisdom signature",
+      "guru in dhanu"
+    ],
+    "keywords": [
+      "Jupiter in 5th house Mesh Lagna",
+      "Guru in Putra Bhava",
+      "Mesh lagna 9th lord 5th",
+      "Aries ascendant children",
+      "Vedic astrology"
+    ],
     "og_title": "Jupiter in the 5th House of Mesh Lagna, Wisdom Study",
     "og_description": "Guru in Putra Bhava for Aries ascendant, ninth lord in the trine of intelligence, by a practising Jyotishi.",
     "og_image": "/og/jupiter-5th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/jupiter-5th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Jupiter in 5th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/jupiter-5th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Jupiter in 5th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/jupiter-5th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Jupiter in 5th house",
-    "secondary_keywords": ["Mesh Lagna", "Putra Bhava", "Guru ninth lord", "Aries ascendant", "Guru"],
-    "lsi_terms": ["putra bhava", "ninth lord fifth", "guru mahadasha", "yellow sapphire pukhraj", "dharma-karmadhipati", "trine to trine", "purva punya", "children karaka", "wisdom signature", "guru in dhanu"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Putra Bhava",
+      "Guru ninth lord",
+      "Aries ascendant",
+      "Guru"
+    ],
+    "lsi_terms": [
+      "putra bhava",
+      "ninth lord fifth",
+      "guru mahadasha",
+      "yellow sapphire pukhraj",
+      "dharma-karmadhipati",
+      "trine to trine",
+      "purva punya",
+      "children karaka",
+      "wisdom signature",
+      "guru in dhanu"
+    ],
     "seed_queries": [
-      "jupiter in 5th house aries lagna", "guru in 5th house mesh lagna", "jupiter in putra bhava aries", "guru ninth lord fifth mesh", "jupiter in 5th house effects aries", "jupiter in 5th house children aries", "jupiter in 5th house wisdom aries", "jupiter in 5th house education aries", "jupiter in 5th house remedies", "yellow sapphire for jupiter 5th aries", "pukhraj for mesh lagna 5th", "guru 9th lord mesh", "guru mahadasha aries 5th", "jupiter in 5th house aries teaching", "jupiter in 5th house aries creativity", "jupiter in 5th house aries progeny", "is jupiter good in 5th house aries", "jupiter in dhanu aries ascendant", "jupiter in sagittarius mesh lagna", "guru putra bhava", "jupiter 5th house aries prediction", "jupiter in fifth house mesh lagna", "jupiter 5th house mesh ascendant", "guru in mesh lagna 5th", "jupiter dhanu lagna mesh chart", "jupiter 5th house mesh lagna dasha", "guru mesh lagna children", "jupiter in sagittarius aries ascendant", "dharma karmadhipati aries jupiter", "trine to trine yoga aries"
+      "jupiter in 5th house aries lagna",
+      "guru in 5th house mesh lagna",
+      "jupiter in putra bhava aries",
+      "guru ninth lord fifth mesh",
+      "jupiter in 5th house effects aries",
+      "jupiter in 5th house children aries",
+      "jupiter in 5th house wisdom aries",
+      "jupiter in 5th house education aries",
+      "jupiter in 5th house remedies",
+      "yellow sapphire for jupiter 5th aries",
+      "pukhraj for mesh lagna 5th",
+      "guru 9th lord mesh",
+      "guru mahadasha aries 5th",
+      "jupiter in 5th house aries teaching",
+      "jupiter in 5th house aries creativity",
+      "jupiter in 5th house aries progeny",
+      "is jupiter good in 5th house aries",
+      "jupiter in dhanu aries ascendant",
+      "jupiter in sagittarius mesh lagna",
+      "guru putra bhava",
+      "jupiter 5th house aries prediction",
+      "jupiter in fifth house mesh lagna",
+      "jupiter 5th house mesh ascendant",
+      "guru in mesh lagna 5th",
+      "jupiter dhanu lagna mesh chart",
+      "jupiter 5th house mesh lagna dasha",
+      "guru mesh lagna children",
+      "jupiter in sagittarius aries ascendant",
+      "dharma karmadhipati aries jupiter",
+      "trine to trine yoga aries"
     ],
     "questions": [
       "Is Jupiter in the 5th house good for Mesh Lagna?",
@@ -49,36 +141,130 @@
       "Which gemstone should Mesh Lagna wear for Jupiter in 5th?"
     ],
     "lingual_variations": {
-      "guru": ["guru", "jupiter", "brihaspati", "devaguru", "bhagavan"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "guru": [
+        "guru",
+        "jupiter",
+        "brihaspati",
+        "devaguru",
+        "bhagavan"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Dharma-Karmadhipati yoga specifics for Mesh Lagna", "Guru antardasha sequence during childhood", "Teaching and dharma career timing windows"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Dharma-Karmadhipati yoga specifics for Mesh Lagna",
+      "Guru antardasha sequence during childhood",
+      "Teaching and dharma career timing windows"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "jupiter-5th-house-aries-lagna-hero.webp", "filename_og": "jupiter-5th-house-aries-lagna-og.png", "alt": "Golden Guru blessing the fifth house of a Mesh Lagna kundali", "caption": "Guru sits in Putra Bhava for Aries ascendant natives, the ninth lord in the fifth producing the classical wisdom and progeny signature.", "width": 1200, "height": 630, "format": "webp", "style": "golden editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the fifth house glowing warm gold, a stylised Jupiter symbol with a sacred thread motif, traditional Vedic palette of gold, saffron, pale ivory, refined manuscript style, no people.", "negative_prompt": "photorealistic jupiter planet, watermark, text, neon, cartoon" },
-    { "filename": "jupiter-5th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Jupiter placed in the fifth house of Mesh", "caption": "The North Indian birth chart with Guru marked in the fifth house Putra Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the lower-left fifth house highlighted in gold with a Guru symbol marked Gu, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "jupiter-5th-house-aries-lagna-yellow-sapphire.webp", "alt": "Natural yellow sapphire pukhraj in gold ring, the gemstone for Jupiter 5th", "caption": "A certified natural Ceylon pukhraj set in gold, the Guru-strengthening stone for Aries natives with Jupiter in the trine of intelligence.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural Ceylon yellow sapphire set in a gold ring, warm honey-yellow colour, faceted emerald cut, on dark saffron velvet with warm lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "jupiter-5th-house-aries-lagna-guru-stotram.webp", "alt": "Guru Stotram Sanskrit verse on parchment with golden lotus motif", "caption": "Guru Stotram recitation on Thursday morning is the core practice for strengthening any Jupiter placement in the trines.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Guru Stotram, hand-painted on aged parchment with gold leaf borders, faint lotus motif in the background, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "jupiter-5th-house-aries-lagna-hero.webp",
+      "filename_og": "jupiter-5th-house-aries-lagna-og.png",
+      "alt": "Golden Guru blessing the fifth house of a Mesh Lagna kundali",
+      "caption": "Guru sits in Putra Bhava for Aries ascendant natives, the ninth lord in the fifth producing the classical wisdom and progeny signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "golden editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the fifth house glowing warm gold, a stylised Jupiter symbol with a sacred thread motif, traditional Vedic palette of gold, saffron, pale ivory, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic jupiter planet, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "jupiter-5th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Jupiter placed in the fifth house of Mesh",
+      "caption": "The North Indian birth chart with Guru marked in the fifth house Putra Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the lower-left fifth house highlighted in gold with a Guru symbol marked Gu, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "jupiter-5th-house-aries-lagna-yellow-sapphire.webp",
+      "alt": "Natural yellow sapphire pukhraj in gold ring, the gemstone for Jupiter 5th",
+      "caption": "A certified natural Ceylon pukhraj set in gold, the Guru-strengthening stone for Aries natives with Jupiter in the trine of intelligence.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural Ceylon yellow sapphire set in a gold ring, warm honey-yellow colour, faceted emerald cut, on dark saffron velvet with warm lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "jupiter-5th-house-aries-lagna-guru-stotram.webp",
+      "alt": "Guru Stotram Sanskrit verse on parchment with golden lotus motif",
+      "caption": "Guru Stotram recitation on Thursday morning is the core practice for strengthening any Jupiter placement in the trines.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Guru Stotram, hand-painted on aged parchment with gold leaf borders, faint lotus motif in the background, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Jupiter in the 5th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Guru in Putra Bhava for Aries ascendant natives. Jupiter as the ninth lord in the fifth house, the classical Dharma-Karmadhipati Yoga seed, wisdom, children, teaching ability, and purva punya that compounds across lifetimes.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Guru", "tone": "teal" },
-      { "label": "Putra Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Ninth lord in fifth" },
-      { "label": "Trine to trine" },
-      { "label": "Dharma-Karmadhipati" }
+      {
+        "label": "Guru",
+        "tone": "teal"
+      },
+      {
+        "label": "Putra Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Ninth lord in fifth"
+      },
+      {
+        "label": "Trine to trine"
+      },
+      {
+        "label": "Dharma-Karmadhipati"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +272,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Guru", "sub": "Jupiter", "icon": "sun" },
-        { "label": "Bhava", "value": "5th", "sub": "Putra Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Very strong", "sub": "Trine to trine yoga", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Guru",
+          "sub": "Jupiter",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "5th",
+          "sub": "Putra Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Very strong",
+          "sub": "Trine to trine yoga",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +311,103 @@
       "heading": "When the ninth lord brings dharma into the house of intelligence",
       "html": "<p>The fifth house is Putra Bhava, the trine of intelligence, children, creative self-expression, speculation, and purva punya (merit carried from previous lives). The ninth house is Dharma Bhava, the trine of higher wisdom, dharma, the father, long journeys, teachers, and the divine guidance that shapes a native's life path. In Vedic astrology the fifth and the ninth are the two trikona houses that together define the spiritual and creative spine of a chart, and any connection between them, whether by aspect, exchange, or house lordship, is treated as a benefic yoga. When the ninth lord himself travels to the fifth house and sits down, classical texts name it a trine-to-trine yoga and treat it as one of the clearest signatures of a life that carries inherent dharmic alignment.</p><p>For Mesh Lagna specifically, Guru owns Dhanu on the ninth and Meena on the twelfth. The twelfth lordship adds a moksha (liberation) overlay that this placement inherits by default, because the ninth lord is also the twelfth lord, and natives often carry a contemplative or spiritual quality from an early age that their peers do not share. Sitting in Simha on the fifth house gives Guru a warm, creative, recognition-friendly environment because the Sun is his friend and the fifth house is a benefic kendra-adjacent territory. The combination produces natives who are naturally teachers, natural parents, naturally drawn to philosophy and the sacred, and whose intelligence is warmed by a wisdom that does not have to be earned the hard way because previous lives have already laid the foundation. Classical Parashara reads this combination favourably without qualification.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "The ninth lord sitting in the fifth is not a placement the native has to work for. It is a placement the native was born already holding, and the work is to pass it forward to the next generation." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "The ninth lord sitting in the fifth is not a placement the native has to work for. It is a placement the native was born already holding, and the work is to pass it forward to the next generation."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Guru, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Guru, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Wisdom, dharma, children, teachers" },
-            { "k": "Own signs", "v": "Dhanu (Sagittarius), Meena (Pisces)" },
-            { "k": "Uchha (exaltation)", "v": "Karka at 5 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Makara at 5 degrees", "tone": "bad" },
-            { "k": "Friends", "v": "Sun, Moon, Mars" },
-            { "k": "Enemies", "v": "Mercury, Venus", "tone": "bad" },
-            { "k": "Element", "v": "Ether (Akasha Tattva)" },
-            { "k": "Role for Mesh", "v": "9th lord and 12th lord" }
+            {
+              "k": "Karakatva",
+              "v": "Wisdom, dharma, children, teachers"
+            },
+            {
+              "k": "Own signs",
+              "v": "Dhanu (Sagittarius), Meena (Pisces)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Karka at 5 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Makara at 5 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Moon, Mars"
+            },
+            {
+              "k": "Enemies",
+              "v": "Mercury, Venus",
+              "tone": "bad"
+            },
+            {
+              "k": "Element",
+              "v": "Ether (Akasha Tattva)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "9th lord and 12th lord"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Putra Bhava, house profile", "subtitle": "5th house significance",
+          "icon": "triangle-house",
+          "title": "Putra Bhava, house profile",
+          "subtitle": "5th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Putra, Vidya Bhava" },
-            { "k": "Rules over", "v": "Children, intelligence, creativity, past merit" },
-            { "k": "Natural sign", "v": "Simha (Leo) for Mesh" },
-            { "k": "Natural ruler", "v": "Surya (Sun)" },
-            { "k": "Body part", "v": "Heart, upper abdomen" },
-            { "k": "Trikona house", "v": "Yes, the second trikona", "tone": "good" },
-            { "k": "Vedic quality", "v": "Ninth lord sitting in a trine" },
-            { "k": "Special effect", "v": "Dharma-Karmadhipati yoga seed", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Putra, Vidya Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Children, intelligence, creativity, past merit"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Simha (Leo) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Surya (Sun)"
+            },
+            {
+              "k": "Body part",
+              "v": "Heart, upper abdomen"
+            },
+            {
+              "k": "Trikona house",
+              "v": "Yes, the second trikona",
+              "tone": "good"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Ninth lord sitting in a trine"
+            },
+            {
+              "k": "Special effect",
+              "v": "Dharma-Karmadhipati yoga seed",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +449,48 @@
       "heading": "Where the ninth-lord-in-fifth energy channels productively",
       "html": "<p>Career paths cluster around knowledge, counsel, and the transmission of wisdom. Higher education is the single strongest fit because the combination literally places the wisdom karaka in the house of intelligence. University teaching and research, especially in subjects that require long-horizon thinking (philosophy, history, law, economics, pure sciences), suits these natives remarkably well. Many become tenured faculty members who influence generations of students, and academic administration often follows naturally as the career matures. Coaching and mentorship form the second career cluster because the native's instinct to teach extends beyond formal institutions, and private consulting in education, executive coaching, or parenting advisory work often becomes a significant income channel even for natives whose day job is something else.</p><p>Publishing and writing are a classical fit. Jupiter is the karaka of the written word in its dharmic form, and the fifth house rules creative self-expression, so book authors, content platform founders, textbook writers, and religious or philosophical publishers show up frequently in this combination. Law and advisory practice work because the ninth-lord-in-fifth energy gives a natural judicial temperament, and natives often serve as family lawyers, senior counsel, or judicial officers later in life. Spiritual or philosophical work, whether as a formal path (ordination, ashram leadership, religious teaching) or as an informal practice woven into a conventional career, is common and fulfilling. Family office and legacy advisory roles also suit this placement because the fifth house rules the transmission of wisdom and wealth across generations, and the ninth-lord colour adds the dharmic framing. Guru mahadasha runs sixteen years and is typically the defining teaching and recognition window of the native's life.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Confirm your Jupiter placement in the fifth house", "subtitle": "Generate your free Kundali to check if your ninth lord carries this trine-to-trine yoga.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Jupiter marked in the fifth house of Mesh", "planet": "Guru", "house": 5, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Guru in Putra Bhava, highlighted in warm gold" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Lower-left triangle is the 5th house" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Confirm your Jupiter placement in the fifth house",
+        "subtitle": "Generate your free Kundali to check if your ninth lord carries this trine-to-trine yoga.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Jupiter marked in the fifth house of Mesh",
+      "planet": "Guru",
+      "house": 5,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Guru in Putra Bhava, highlighted in warm gold"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Lower-left triangle is the 5th house"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "Children and the Putra Bhava blessing",
@@ -194,13 +503,45 @@
       "heading": "When Jupiter in 5th fires most powerfully",
       "intro_html": "<p>Guru mahadasha is the central window for this placement. Surya, Mangal and Chandra periods also bring important supporting colours.</p>",
       "rows": [
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "The trine-to-trine activation window. Children, teaching recognition, higher education, publications, dharma alignment, wealth through knowledge.", "intensity": "Very high", "intensity_bar_width": 95, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Fifth house lord. Creative breakthroughs, recognition, children karaka peak, father-related events.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord, friend of Jupiter. Bold application of wisdom, courage in teaching, decisive career steps.", "intensity": "Good", "intensity_bar_width": 78, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Chandra (Moon)", "duration": "10 years", "themes": "Friend of Jupiter. Emotional flowering through family, home-based teaching or counselling, nurturing presence.", "intensity": "Good", "intensity_bar_width": 72, "intensity_bar_color": "#7aa8cc" }
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "The trine-to-trine activation window. Children, teaching recognition, higher education, publications, dharma alignment, wealth through knowledge.",
+          "intensity": "Very high",
+          "intensity_bar_width": 95,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "Fifth house lord. Creative breakthroughs, recognition, children karaka peak, father-related events.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord, friend of Jupiter. Bold application of wisdom, courage in teaching, decisive career steps.",
+          "intensity": "Good",
+          "intensity_bar_width": 78,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Chandra (Moon)",
+          "duration": "10 years",
+          "themes": "Friend of Jupiter. Emotional flowering through family, home-based teaching or counselling, nurturing presence.",
+          "intensity": "Good",
+          "intensity_bar_width": 72,
+          "intensity_bar_color": "#7aa8cc"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -225,29 +566,140 @@
       "heading": "Gemstones for Jupiter in 5th house Mesh Lagna",
       "intro_html": "<p>The primary stone for Guru is yellow sapphire (Pukhraj), one of the safest and most consistently beneficial stones in the Vedic system.</p>",
       "cards": [
-        { "name": "Pukhraj (Yellow Sapphire)", "role": "primary", "sub": "Guru-strengthening stone", "icon_variant": "yellow-sapphire", "image_slug": "yellow-sapphire", "items": [ { "k": "Metal", "v": "Gold (22 or 24 carat)" }, { "k": "Finger", "v": "Index finger, right hand" }, { "k": "Day to wear", "v": "Thursday, sunrise" }, { "k": "Min weight", "v": "4 to 5 Ratti" } ] },
-        { "name": "Yellow Topaz (alt)", "role": "secondary", "sub": "Milder Jupiter-aligned alternative", "icon_variant": "yellow-sapphire", "image_slug": "yellow-sapphire", "items": [ { "k": "Metal", "v": "Gold" }, { "k": "Finger", "v": "Index finger" }, { "k": "Day to wear", "v": "Thursday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Pukhraj", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Pukhraj (Yellow Sapphire)",
+          "role": "primary",
+          "sub": "Guru-strengthening stone",
+          "icon_variant": "yellow-sapphire",
+          "image_slug": "yellow-sapphire",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold (22 or 24 carat)"
+            },
+            {
+              "k": "Finger",
+              "v": "Index finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Thursday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "4 to 5 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Yellow Topaz (alt)",
+          "role": "secondary",
+          "sub": "Milder Jupiter-aligned alternative",
+          "icon_variant": "yellow-sapphire",
+          "image_slug": "yellow-sapphire",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Index finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Thursday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Pukhraj",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Even with a consistently beneficial stone like pukhraj, always consult a qualified Jyotishi who has reviewed your full birth chart before wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Jupiter in 5th house",
       "intro_html": "<p>The Guru-aligned rudraksha is the Panch Mukhi (five-faced), the most commonly worn rudraksha in the Vedic tradition and directly ruled by Jupiter.</p>",
       "beads": [
-        { "mukhi": 5, "name": "Panch Mukhi Rudraksha", "sub": "Ruled by Guru, the Panchabrahma bead", "benefit": "The classical Jupiter rudraksha. Brings calm clarity, supports wisdom and teaching roles, strengthens the trine-to-trine yoga, and is the single safest rudraksha for daily wear. Worn after Shiva abhishek on Thursday." },
-        { "mukhi": 2, "name": "Do Mukhi Rudraksha", "sub": "Ruled by Chandra, supports the Moon-Jupiter friendship", "benefit": "Secondary bead that strengthens the emotional channel alongside Jupiter. Useful for natives whose Moon is afflicted while the Jupiter is strong, as it balances the two benefics." }
+        {
+          "mukhi": 5,
+          "name": "Panch Mukhi Rudraksha",
+          "sub": "Ruled by Guru, the Panchabrahma bead",
+          "benefit": "The classical Jupiter rudraksha. Brings calm clarity, supports wisdom and teaching roles, strengthens the trine-to-trine yoga, and is the single safest rudraksha for daily wear. Worn after Shiva abhishek on Thursday."
+        },
+        {
+          "mukhi": 2,
+          "name": "Do Mukhi Rudraksha",
+          "sub": "Ruled by Chandra, supports the Moon-Jupiter friendship",
+          "benefit": "Secondary bead that strengthens the emotional channel alongside Jupiter. Useful for natives whose Moon is afflicted while the Jupiter is strong, as it balances the two benefics."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Guru Yantra for the ninth lord", "yantra": { "name": "Guru Yantra", "sanskrit": "गुरु यन्त्र", "description": "The Guru Yantra is the geometric form of the wisdom channel. Installing it in the north-east wall of your study or home temple stabilises the trine-to-trine yoga and amplifies the ninth lord's expression in the fifth. Best installed on a Thursday sunrise in Guru hora.", "direction": "North-east wall", "install_day": "Thursday sunrise, Guru hora preferred", "material": "Gold or brass (copper acceptable)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Guru", "stotra": { "eyebrow": "Guru Stotram", "title": "Guru Stotram", "sub": "The foundational salutation to the preceptor, recited on Thursday morning", "verse": "Gurur brahma gurur vishnuh guru devo maheshvarah<br>Gurur saakshaat para brahma tasmai shri gurave namah<br>Ajnaana timiraandhasya jnaananjana shalaakayaa<br>Chakshur unmeelitam yena tasmai shri gurave namah", "translation": "The Guru is Brahma, the Guru is Vishnu, the Guru is Lord Maheshwara. The Guru is verily the Supreme Brahman. Salutations to that revered Guru. I bow to that teacher who, by applying the collyrium of knowledge, has opened the eye that was blinded by the darkness of ignorance. The Guru Stotram is the core daily recitation for strengthening any Jupiter placement.", "url": "https://stotra.vastucart.in/stotra/guru-stotram" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Guru Yantra for the ninth lord",
+      "yantra": {
+        "name": "Guru Yantra",
+        "sanskrit": "गुरु यन्त्र",
+        "description": "The Guru Yantra is the geometric form of the wisdom channel. Installing it in the north-east wall of your study or home temple stabilises the trine-to-trine yoga and amplifies the ninth lord's expression in the fifth. Best installed on a Thursday sunrise in Guru hora.",
+        "direction": "North-east wall",
+        "install_day": "Thursday sunrise, Guru hora preferred",
+        "material": "Gold or brass (copper acceptable)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Guru",
+      "stotra": {
+        "eyebrow": "Guru Stotram",
+        "title": "Guru Stotram",
+        "sub": "The foundational salutation to the preceptor, recited on Thursday morning",
+        "verse": "Gurur brahma gurur vishnuh guru devo maheshvarah<br>Gurur saakshaat para brahma tasmai shri gurave namah<br>Ajnaana timiraandhasya jnaananjana shalaakayaa<br>Chakshur unmeelitam yena tasmai shri gurave namah",
+        "translation": "The Guru is Brahma, the Guru is Vishnu, the Guru is Lord Maheshwara. The Guru is verily the Supreme Brahman. Salutations to that revered Guru. I bow to that teacher who, by applying the collyrium of knowledge, has opened the eye that was blinded by the darkness of ignorance. The Guru Stotram is the core daily recitation for strengthening any Jupiter placement.",
+        "url": "https://stotra.vastucart.in/stotra/guru-stotram"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -255,18 +707,90 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your fifth house and Jupiter placement", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Vidyarambham muhurta", "sub": "Auspicious dates for education start", "url": "https://muhurta.vastucart.in/education-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Guru Stotram", "sub": "Core daily Jupiter recitation", "url": "https://stotra.vastucart.in/stotra/guru-stotram", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Guru Graha Kavacham", "sub": "Protective armour stotra for Jupiter", "url": "https://stotra.vastucart.in/stotra/guru-graha-kavacham", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Guru Ashtakam", "sub": "Eight-verse hymn to the preceptor", "url": "https://stotra.vastucart.in/stotra/guru-ashtakam", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Vishnu Sahasranama", "sub": "Thousand names of Vishnu, highest recitation for Guru", "url": "https://stotra.vastucart.in/stotra/vishnu-sahasranama", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Narayana Kavacham", "sub": "Vishnu's protective hymn, deity-level Jupiter remedy", "url": "https://stotra.vastucart.in/stotra/narayana-kavacham", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Panch Mukhi rudraksha source", "sub": "The classical Jupiter rudraksha bead", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Guru yantra store", "sub": "Gold or brass Guru yantra for the trine-to-trine", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "1-on-1 with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your fifth house and Jupiter placement",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Vidyarambham muhurta",
+            "sub": "Auspicious dates for education start",
+            "url": "https://muhurta.vastucart.in/education-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Guru Stotram",
+            "sub": "Core daily Jupiter recitation",
+            "url": "https://stotra.vastucart.in/stotra/guru-stotram",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Guru Graha Kavacham",
+            "sub": "Protective armour stotra for Jupiter",
+            "url": "https://stotra.vastucart.in/stotra/guru-graha-kavacham",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Guru Ashtakam",
+            "sub": "Eight-verse hymn to the preceptor",
+            "url": "https://stotra.vastucart.in/stotra/guru-ashtakam",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Vishnu Sahasranama",
+            "sub": "Thousand names of Vishnu, highest recitation for Guru",
+            "url": "https://stotra.vastucart.in/stotra/vishnu-sahasranama",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Narayana Kavacham",
+            "sub": "Vishnu's protective hymn, deity-level Jupiter remedy",
+            "url": "https://stotra.vastucart.in/stotra/narayana-kavacham",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Panch Mukhi rudraksha source",
+            "sub": "The classical Jupiter rudraksha bead",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Guru yantra store",
+            "sub": "Gold or brass Guru yantra for the trine-to-trine",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "1-on-1 with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -276,55 +800,130 @@
         "title": "Does the ninth lord carry your trine-to-trine yoga?",
         "subtitle": "Get a full personalised analysis of your Jupiter placement, teaching signature, and Guru mahadasha timing.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Guru Stotram", "url": "https://stotra.vastucart.in/stotra/guru-stotram", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Guru Stotram",
+            "url": "https://stotra.vastucart.in/stotra/guru-stotram",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Jupiter in 5th house, Mesh Lagna",
       "items": [
-        { "q": "Is Jupiter in the 5th house good for Mesh Lagna?", "a": "Yes, and it is one of the most consistently favourable placements in the Aries ascendant catalogue. Guru is the ninth lord for Mesh Lagna and sitting in the fifth creates the classical trine-to-trine yoga, which is the seed of the Dharma-Karmadhipati Yoga family. The combination brings wisdom, exceptional children, teaching ability, dharmic alignment from early life, and a purva punya buffer that protects the native across decades. Classical Parashara reads this combination favourably without qualification." },
-        { "q": "What does Jupiter as ninth lord in fifth mean for an Aries ascendant?", "a": "It means the native inherits a dharmic foundation from previous lives and expresses it through intelligence, teaching, and the next generation. The ninth house rules dharma, the father, and higher wisdom, and when its lord travels to the fifth house of intelligence and children, the native becomes the bridge between their parents' dharmic path and their children's future. This is classically called a trine-to-trine yoga, and it is one of the clearest markers of a life that carries inherent spiritual alignment." },
-        { "q": "How does Jupiter in 5th house affect children and wisdom?", "a": "Exceptionally well. Natives almost always have children, the children are typically marked by intellectual, artistic, or spiritual gifts that appear early, and the father-child relationship is close and formative in both directions. Timing is usually smooth, first children often arrive during a Guru antardasha, and pregnancy complications are rare unless the Moon or fifth lord is separately afflicted. On the wisdom side, natives become teachers, counsellors, writers, and mentors whose influence extends across generations of students." },
-        { "q": "When does Guru mahadasha activate for Mesh Lagna?", "a": "Guru mahadasha runs sixteen years and arrives at different points in different lives depending on the birth nakshatra. For natives carrying Jupiter in the fifth, the Guru mahadasha is typically the defining window of the chart, delivering teaching recognition, children-related events, higher education milestones, book publication, and dharma alignment peaks. Always verify the specific antardasha sequence with a practising astrologer before drawing conclusions about any specific year within the sixteen-year block." },
-        { "q": "Which gemstone should Mesh Lagna wear for Jupiter in 5th?", "a": "Yellow sapphire (Pukhraj) is the primary gemstone. Wear a natural Ceylon pukhraj of minimum four ratti set in gold on the index finger of the right hand on a Thursday at sunrise after Guru mantra recitation. Yellow sapphire is one of the safest and most consistently beneficial stones in the Vedic system, and this placement is one of the few where the stone can be recommended with unusual confidence. Yellow topaz is a milder secondary option. Always consult a qualified Jyotishi before permanent wearing." }
+        {
+          "q": "Is Jupiter in the 5th house good for Mesh Lagna?",
+          "a": "Yes, and it is one of the most consistently favourable placements in the Aries ascendant catalogue. Guru is the ninth lord for Mesh Lagna and sitting in the fifth creates the classical trine-to-trine yoga, which is the seed of the Dharma-Karmadhipati Yoga family. The combination brings wisdom, exceptional children, teaching ability, dharmic alignment from early life, and a purva punya buffer that protects the native across decades. Classical Parashara reads this combination favourably without qualification."
+        },
+        {
+          "q": "What does Jupiter as ninth lord in fifth mean for an Aries ascendant?",
+          "a": "It means the native inherits a dharmic foundation from previous lives and expresses it through intelligence, teaching, and the next generation. The ninth house rules dharma, the father, and higher wisdom, and when its lord travels to the fifth house of intelligence and children, the native becomes the bridge between their parents' dharmic path and their children's future. This is classically called a trine-to-trine yoga, and it is one of the clearest markers of a life that carries inherent spiritual alignment."
+        },
+        {
+          "q": "How does Jupiter in 5th house affect children and wisdom?",
+          "a": "Exceptionally well. Natives almost always have children, the children are typically marked by intellectual, artistic, or spiritual gifts that appear early, and the father-child relationship is close and formative in both directions. Timing is usually smooth, first children often arrive during a Guru antardasha, and pregnancy complications are rare unless the Moon or fifth lord is separately afflicted. On the wisdom side, natives become teachers, counsellors, writers, and mentors whose influence extends across generations of students."
+        },
+        {
+          "q": "When does Guru mahadasha activate for Mesh Lagna?",
+          "a": "Guru mahadasha runs sixteen years and arrives at different points in different lives depending on the birth nakshatra. For natives carrying Jupiter in the fifth, the Guru mahadasha is typically the defining window of the chart, delivering teaching recognition, children-related events, higher education milestones, book publication, and dharma alignment peaks. Always verify the specific antardasha sequence with a practising astrologer before drawing conclusions about any specific year within the sixteen-year block."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Jupiter in 5th?",
+          "a": "Yellow sapphire (Pukhraj) is the primary gemstone. Wear a natural Ceylon pukhraj of minimum four ratti set in gold on the index finger of the right hand on a Thursday at sunrise after Guru mantra recitation. Yellow sapphire is one of the safest and most consistently beneficial stones in the Vedic system, and this placement is one of the few where the stone can be recommended with unusual confidence. Yellow topaz is a milder secondary option. Always consult a qualified Jyotishi before permanent wearing."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Guru trine specialist", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Guru in the ninth, Hamsa Yoga", "sub": "Jupiter exalted in own sign Dhanu", "href": "/jyotish/graha-in-bhava/jupiter-9th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Guru in the fourth, Hamsa Yoga kendra", "sub": "Jupiter exalted in Karka, home blessing", "href": "/jyotish/graha-in-bhava/jupiter-4th-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Surya in the fifth, own sign study", "sub": "Sun in Putra Bhava Simha, the fifth house pillar post", "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Guru in the ninth, Hamsa Yoga",
+          "sub": "Jupiter exalted in own sign Dhanu",
+          "href": "/jyotish/graha-in-bhava/jupiter-9th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Guru in the fourth, Hamsa Yoga kendra",
+          "sub": "Jupiter exalted in Karka, home blessing",
+          "href": "/jyotish/graha-in-bhava/jupiter-4th-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Surya in the fifth, own sign study",
+          "sub": "Sun in Putra Bhava Simha, the fifth house pillar post",
+          "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

@@ -80,7 +80,8 @@ content/{category}/{subcategory}/{slug}.json
    `it is important to note`, `it is worth mentioning`,
    `in this article we will`, `in conclusion`, `furthermore`,
    `navigate the realm of`, `embark on a journey`, `let us explore`,
-   `at the end of the day`, `tap into`, `harness the power`.
+   `at the end of the day`, `tap into`, `harness the power`,
+   `crucial`, `ever-evolving landscape`, `it is important to note that`.
 4. Cut any section with less than 120 words of real content.
 5. Delete any paragraph that does not introduce a new fact.
 6. FAQ answers are one tight paragraph (~80 words), never two.
@@ -98,11 +99,14 @@ is the bridge between tags and clusters.
 
 ## 5. `meta` block
 
-- `meta.title` ≤ 60 characters. Focus keyword first, brand last.
-  Curiosity hook or benefit always present.
-- `meta.description` ≤ 155 characters. Focus keyword inside the
-  first 100 characters. Active verb. Soft call-to-action. Written
-  for click-through, not for keyword stuffing.
+- `meta.title` ≤ 60 characters. **Focus keyword first** (within
+  the first 30 characters), brand last. Curiosity hook or benefit
+  always present. Validator hard-fails when the focus keyword is
+  not at the front of the title.
+- `meta.description` **140–150 characters** (tight Rank Math sweet
+  spot). Focus keyword inside the first 100 characters. Active
+  verb. Soft call-to-action. Written for click-through, not for
+  keyword stuffing. Validator hard-fails on <140 or >150.
 - `meta.focus_keyword` — exactly one phrase the post targets.
 - `meta.secondary_keywords` — 4 to 6 supporting phrases including
   Romanised + English variants from `lib/keyword-variations.ts`.
@@ -129,8 +133,8 @@ is the bridge between tags and clusters.
   "description": "One sentence, ≤ 200 characters",
   "meta": [
     { "icon": "clock",         "value": "9 min read" },
-    { "icon": "check-circle",  "value": "Expert verified" },
-    { "icon": "user",          "value": "Pt. Raghav Sharma" },
+    { "icon": "check-circle",  "value": "Reviewed by VastuCart Jyotish Review Panel" },
+    { "icon": "user",          "value": "VastuCart Editorial" },
     { "icon": "calendar",      "value": "Updated April 2026" }
   ],
   "tags": [
@@ -340,15 +344,35 @@ way.
    body parts, specific street outcomes. Not "leadership qualities"
    but "teachers remember your name in school".
 3. Active voice everywhere.
-4. One idea per paragraph, ~60-90 words.
-5. Section headings are curiosity hooks, not labels. "Where command
+4. **Paragraph length: 2 to 3 sentences max.** No long flowing
+   blocks. The eye must move. The validator measures average
+   sentences-per-paragraph and hard-fails on >3.5.
+5. **High burstiness.** Drastically vary sentence length. Mix short
+   punchy sentences (2 to 5 words) with longer nuanced ones.
+   The validator measures sentence-length variance; low variance
+   reads like AI and is flagged.
+6. **8th to 9th grade reading level** measured on the English
+   narrative. Sanskrit terms italicised + immediate English gloss
+   in parens count as the gloss for reading-level purposes
+   (e.g., *trikona (auspicious dharmic angle)*).
+7. Section headings are curiosity hooks, not labels. "Where command
    meets institution" not "Career section".
-6. Click-worthy meta titles: focus keyword first, benefit + curiosity
+8. **Primary keyword in at least one H2** (block heading). LSI
+   keywords woven into H3 sub-section headings inside the new
+   `scannable-prose` block type.
+9. Click-worthy meta titles: focus keyword first, benefit + curiosity
    hook second.
-7. Sales-grade meta descriptions: focus keyword in first 100 chars,
-   benefit, soft CTA, written for the click.
-8. Conversational, not academic. The reader is a curious adult, not
-   a graduate student.
+10. Sales-grade meta descriptions: focus keyword in first 100 chars,
+    benefit, soft CTA, written for the click.
+11. Conversational, not academic. The reader is a curious adult,
+    not a graduate student.
+12. **Use bullets, numbered lists, and bold liberally.** Inside
+    prose HTML, `<ul>`, `<ol>`, and `<strong>` are encouraged for
+    scannability. Bullets carry entities and proper nouns; bold
+    carries the load-bearing claim of a paragraph.
+13. **Author byline is `VastuCart Editorial`.** No individual
+    practitioner persona. Posts are reviewed by the
+    `VastuCart Jyotish Review Panel` (Organization). See §15.
 
 ## 12. Pre-flight checklist (read before every post)
 
@@ -374,3 +398,168 @@ Phase order is:
 10. JSON write
 11. Validate (validate-post.ts must return score ≥ 90)
 12. Build verify (next build clean)
+
+---
+
+## 14. `scannable-prose` block — Rank Math friendly long-form
+
+A new content block type that renders 2-3 sentence paragraphs with
+optional H3 sub-sections, inline bullet lists, and bold key entities.
+Use this for sections where scan-pattern reading helps (intro,
+career, remedies, deep-dive interpretation). Existing `prose` block
+remains valid for narrative-heavy passages.
+
+### Shape
+
+```json
+{
+  "type": "scannable-prose",
+  "eyebrow": "Understanding the placement",
+  "heading": "Why the 5L in 2H produces creative-intelligence wealth",
+  "lead_html": "<p>One short opening paragraph, 2 to 3 sentences. Sets the search-intent answer immediately. Bold the primary entity once.</p>",
+  "subsections": [
+    {
+      "h3": "The Dhana Yoga mechanism",
+      "html": "<p>2 to 3 sentence paragraph.</p><ul><li><strong>Wealth source:</strong> creative output and teaching</li><li><strong>Speech signature:</strong> authoritative, presence-led</li></ul><p>Closing 2-sentence paragraph.</p>"
+    },
+    {
+      "h3": "Family inheritance pattern",
+      "html": "<p>...</p>"
+    }
+  ]
+}
+```
+
+### Rules
+
+- `eyebrow` is rendered above the H2.
+- `heading` becomes an `<h2>`. The primary keyword must appear in
+  at least one `scannable-prose` or `prose` block heading per post.
+- `lead_html` is required. One opening paragraph that answers the
+  search intent. Maximum 3 sentences.
+- `subsections` array: 2 to 4 items. Each has an `h3` and an `html`.
+- LSI keywords from `keyword_brief.lsi_keywords` must appear across
+  the H3 headings (validator checks coverage).
+- `html` inside subsections supports `<p>`, `<ul>`, `<ol>`,
+  `<strong>`, `<em>`, and inline `<a>` for entity links. No `<h2>`
+  inside a subsection (already rendered by `h3`).
+- 2-3 sentence paragraphs only. Validator measures.
+
+### When to use which block
+
+| Block               | Use for                                                    |
+|---------------------|------------------------------------------------------------|
+| `prose`             | Tight narrative passages where flow matters more than scan |
+| `scannable-prose`   | Default for intro, career, remedies, FAQ-adjacent prose    |
+| `pull-quote`        | One per post, mid-article emphasis                         |
+| `info-grid`         | Side-by-side entity profiles (planet + house)              |
+| `effects-grid`      | 3-column outcomes (positive / shadow / career)             |
+
+---
+
+## 15. Author + Reviewer — organisational E-E-A-T, no fabricated persona
+
+**Author byline (every post)**: `VastuCart Editorial`
+- `author_id: "vastucart-editorial"`
+- Schema: `Person` entity for author byline (Editorial Desk)
+  emitted by `lib/schema/person.ts`
+- Bio: collaborative editorial desk, no individual claims
+
+**Reviewer (every post)**: `VastuCart Jyotish Review Panel`
+- `reviewer_id: "vastucart-jyotish-review-panel"` (new field)
+- Schema: `reviewedBy` field on `BlogPosting` entity points to
+  the panel `Organization`
+- Visible in hero meta strip as
+  `Reviewed by VastuCart Jyotish Review Panel`
+- Visible in author block as a "Reviewed by" line under the
+  Editorial byline
+
+### Why no individual practitioner
+
+Google's E-E-A-T quality rater guidelines flag pseudonymous YMYL
+authors at scale. We chose Organization-level accountability over
+fabricated individual credentials. Honest, verifiable, scalable.
+
+### Forbidden in author/reviewer fields
+
+- Specific years-of-practice claims (e.g., "22 years")
+- Specific article-count claims (e.g., "400+ articles")
+- Educational credentials we cannot verify
+- Photo of any individual
+- Geographic specificity beyond the company HQ
+- Any personal name in the byline or `reviewedBy` schema field
+
+### Allowed
+
+- Organisation name, role, lineage label (collective)
+- Topical specialisation array (categories the desk writes for)
+- Company HQ city + region + country
+- Logo image
+- Link to canonical `/authors/{slug}` page
+- `sameAs` array of company social profiles only
+
+---
+
+## 16. External link whitelist — anti-spam, anti-competitor
+
+Posts may include 1 to 2 external links per post for E-E-A-T
+support. Allowed domains only:
+
+| Domain               | Use for                                          |
+|----------------------|--------------------------------------------------|
+| `en.wikipedia.org`   | entity definitions, classical texts, scholars    |
+| `vedabase.io`        | Sanskrit scripture references (free)             |
+| `wisdomlib.org`      | encyclopedic Vedic / Sanskrit definitions        |
+| `archive.org`        | primary classical text PDFs and historical docs  |
+
+### Rules
+
+- Anchor text MUST be the entity name. No generic "click here",
+  "read more", or "this article".
+- External link MUST be `target="_blank"` and `rel="noopener nofollow"`.
+- 1 to 2 external links total per post. Validator hard-fails on
+  more.
+- External links go inside prose / scannable-prose subsections.
+  Never in the `internal-links` block (that block is for VastuCart
+  network only).
+- Validator hard-fails any external URL outside the whitelist.
+
+---
+
+## 17. Image generation — SVG authoring, WebP delivery
+
+Every post ships with images that are real files on disk, not
+placeholders. The pipeline:
+
+1. **Author SVG inline** during post creation. Save as
+   `public/posts/{slug}/{slug}-{suffix}.svg`. SVG templates per
+   image type live in `docs/IMAGE_SOP.md` (hero, kundali chart,
+   yantra, gemstone vignette).
+2. **Convert SVG → WebP** via `scripts/svg-to-webp.ts`. Uses
+   `sharp` to render at the target dimensions and compress. Output
+   saved alongside the SVG: `public/posts/{slug}/{slug}-{suffix}.webp`.
+3. **Reference the WebP** in `image_manifest`. The renderer uses
+   `next/image` with explicit width/height for CLS prevention.
+4. **Backfill past posts** via `scripts/backfill-post-images.ts`.
+   This script walks every post's `image_manifest`, generates any
+   missing SVG using the documented templates, and runs the
+   conversion. Runs in a separate terminal so the primary author
+   loop is unblocked.
+
+### Image manifest contract
+
+Each entry must include:
+- `filename` (the WebP delivered file)
+- `alt` (8 to 15 word descriptive sentence, includes one keyword)
+- `caption` (editorial, plain text)
+- `width`, `height` (literal pixels)
+- `format: "webp"` (always)
+- `style` (one-line art-direction note for the SVG template)
+
+ImageObject schema entry is auto-generated by
+`lib/schema/imageObject.ts` from the manifest. Every image gets
+a license, creditText, and acquireLicensePage pointing to
+`https://blog.vastucart.in/license`.
+
+Full SVG templates and aspect-ratio reference live in
+`docs/IMAGE_SOP.md`.

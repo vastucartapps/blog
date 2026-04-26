@@ -6,40 +6,131 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Sun in 11th house", "Surya Kumbha", "Mesh Lagna", "Aries ascendant", "Labha Bhava", "5L in 11H", "enemy sign", "Surya mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Sun in 11th house",
+    "Surya Kumbha",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Labha Bhava",
+    "5L in 11H",
+    "enemy sign",
+    "Surya mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "surya",
   "house_number": 11,
   "lagna_id": "mesha",
   "meta": {
     "title": "Sun in 11th House Mesh Lagna, Enemy Sign Gain Pattern",
-    "description": "Sun in 11th house for Mesh Lagna, Surya in enemy Kumbha, the 5L in 11H upachaya pattern read by Pt. Raghav Sharma.",
+    "description": "Sun in 11th house for Mesh Lagna, Surya in enemy Kumbha, the 5L in 11H upachaya pattern by VastuCart Editorial.",
     "focus_keyword": "Sun in 11th house",
-    "secondary_keywords": ["Mesh Lagna", "Labha Bhava", "Surya Kumbha", "Aries ascendant", "Sun gains"],
-    "lsi_keywords": ["labha bhava", "surya kumbha", "sun in aquarius", "5th lord eleventh", "surya mahadasha", "ruby manikya", "trikona upachaya", "enemy sign gain", "friends elder brother", "creative income"],
-    "keywords": ["Sun in 11th house Mesh Lagna", "Surya in Labha Bhava", "Sun in Aquarius", "Mesh lagna 11th Sun", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Labha Bhava",
+      "Surya Kumbha",
+      "Aries ascendant",
+      "Sun gains"
+    ],
+    "lsi_keywords": [
+      "labha bhava",
+      "surya kumbha",
+      "sun in aquarius",
+      "5th lord eleventh",
+      "surya mahadasha",
+      "ruby manikya",
+      "trikona upachaya",
+      "enemy sign gain",
+      "friends elder brother",
+      "creative income"
+    ],
+    "keywords": [
+      "Sun in 11th house Mesh Lagna",
+      "Surya in Labha Bhava",
+      "Sun in Aquarius",
+      "Mesh lagna 11th Sun",
+      "Vedic astrology"
+    ],
     "og_title": "Sun in the 11th House of Mesh Lagna, Enemy Sign Gain Tension",
     "og_description": "Surya in enemy Kumbha in the gain house for Aries natives, the creative-income pattern by a practising Jyotishi.",
     "og_image": "/og/sun-11th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-11th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Sun in 11th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-11th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Sun in 11th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-11th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Sun in 11th house",
-    "secondary_keywords": ["Mesh Lagna", "Labha Bhava", "Surya Kumbha", "Aries ascendant", "Sun gains"],
-    "lsi_terms": ["labha bhava", "surya kumbha", "sun in aquarius", "5th lord eleventh", "surya mahadasha", "ruby manikya", "trikona upachaya", "enemy sign gain", "friends elder brother", "creative income"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Labha Bhava",
+      "Surya Kumbha",
+      "Aries ascendant",
+      "Sun gains"
+    ],
+    "lsi_terms": [
+      "labha bhava",
+      "surya kumbha",
+      "sun in aquarius",
+      "5th lord eleventh",
+      "surya mahadasha",
+      "ruby manikya",
+      "trikona upachaya",
+      "enemy sign gain",
+      "friends elder brother",
+      "creative income"
+    ],
     "seed_queries": [
-      "sun in 11th house aries lagna", "surya in 11th house mesh lagna", "sun in aquarius mesh ascendant", "surya kumbha aries lagna", "sun in labha bhava mesh", "sun in 11th house gains aries", "sun in aquarius 11th aries", "surya labha bhava mesh", "5l in 11h aries lagna", "sun in 11th house remedies aries", "ruby for sun 11th aries", "manikya mesh lagna 11th", "surya mahadasha aries 11th", "sun in 11th house aries friends", "sun in 11th house aries income", "is sun good in 11th house aries", "sun in aquarius aries ascendant career", "sun saturn enmity kumbha", "creative gain pattern", "sun 11th house aries prediction", "sun in eleventh house mesh lagna", "sun 11th house mesh ascendant", "surya in mesh lagna 11th", "sun kumbha lagna mesh chart", "sun 11th house mesh lagna dasha", "surya mesh lagna income", "elder brother sun 11th", "upachaya sun growth", "5th lord eleventh house aries", "surya raja yoga mesh"
+      "sun in 11th house aries lagna",
+      "surya in 11th house mesh lagna",
+      "sun in aquarius mesh ascendant",
+      "surya kumbha aries lagna",
+      "sun in labha bhava mesh",
+      "sun in 11th house gains aries",
+      "sun in aquarius 11th aries",
+      "surya labha bhava mesh",
+      "5l in 11h aries lagna",
+      "sun in 11th house remedies aries",
+      "ruby for sun 11th aries",
+      "manikya mesh lagna 11th",
+      "surya mahadasha aries 11th",
+      "sun in 11th house aries friends",
+      "sun in 11th house aries income",
+      "is sun good in 11th house aries",
+      "sun in aquarius aries ascendant career",
+      "sun saturn enmity kumbha",
+      "creative gain pattern",
+      "sun 11th house aries prediction",
+      "sun in eleventh house mesh lagna",
+      "sun 11th house mesh ascendant",
+      "surya in mesh lagna 11th",
+      "sun kumbha lagna mesh chart",
+      "sun 11th house mesh lagna dasha",
+      "surya mesh lagna income",
+      "elder brother sun 11th",
+      "upachaya sun growth",
+      "5th lord eleventh house aries",
+      "surya raja yoga mesh"
     ],
     "questions": [
       "Is Sun in the 11th house good for Mesh Lagna?",
@@ -49,36 +140,130 @@
       "Which gemstone should Mesh Lagna wear for Sun in 11th?"
     ],
     "lingual_variations": {
-      "surya": ["surya", "sun", "aditya", "ravi", "bhanu"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "surya": [
+        "surya",
+        "sun",
+        "aditya",
+        "ravi",
+        "bhanu"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Sun in enemy sign Kumbha reading", "5L trikona lord in upachaya house", "Creative gain through friends and groups"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Sun in enemy sign Kumbha reading",
+      "5L trikona lord in upachaya house",
+      "Creative gain through friends and groups"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "sun-11th-house-aries-lagna-hero.webp", "filename_og": "sun-11th-house-aries-lagna-og.png", "alt": "Radiant Surya in the eleventh house of a Mesh Lagna kundali in Kumbha", "caption": "Surya sits in enemy Kumbha in the eleventh house for Aries ascendant natives, the creative-gain pattern mediated through friend networks rather than solo achievement.", "width": 1200, "height": 630, "format": "webp", "style": "luminous saffron-iron editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the eleventh house glowing saffron with iron grey, a stylised Sun symbol above a small water-bearer Kumbha pot, traditional Vedic palette of saffron, iron grey, deep teal, refined manuscript style, no people.", "negative_prompt": "photorealistic sun, watermark, text, neon, cartoon" },
-    { "filename": "sun-11th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Sun in the eleventh house of Mesh in Kumbha", "caption": "The North Indian birth chart with Surya marked in Kumbha on the eleventh house Labha Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the upper-right eleventh house highlighted in saffron with a Surya symbol marked Su and small Kumbha pot, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "sun-11th-house-aries-lagna-ruby.webp", "alt": "Natural Burmese ruby in gold ring, gemstone for Sun 11th house Mesh Lagna", "caption": "Ruby is the primary Surya ratna and remains the correct recommendation despite the enemy sign because the 5L trikona status supports the gemstone protocol.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural Burmese ruby set in a gold ring, deep pigeon blood red colour, cushion cut, on dark velvet with warm lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "sun-11th-house-aries-lagna-surya-hridayam.webp", "alt": "Surya Hridayam Sanskrit verse on parchment with solar disc motif", "caption": "Surya Hridayam recitation strengthens the solar channel through the heart-of-the-Sun hymn.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Surya Hridayam, hand-painted on aged parchment with gold leaf borders, faint solar disc and lotus motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "sun-11th-house-aries-lagna-hero.webp",
+      "filename_og": "sun-11th-house-aries-lagna-og.png",
+      "alt": "Radiant Surya in the eleventh house of a Mesh Lagna kundali in Kumbha",
+      "caption": "Surya sits in enemy Kumbha in the eleventh house for Aries ascendant natives, the creative-gain pattern mediated through friend networks rather than solo achievement.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "luminous saffron-iron editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the eleventh house glowing saffron with iron grey, a stylised Sun symbol above a small water-bearer Kumbha pot, traditional Vedic palette of saffron, iron grey, deep teal, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic sun, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "sun-11th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Sun in the eleventh house of Mesh in Kumbha",
+      "caption": "The North Indian birth chart with Surya marked in Kumbha on the eleventh house Labha Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the upper-right eleventh house highlighted in saffron with a Surya symbol marked Su and small Kumbha pot, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "sun-11th-house-aries-lagna-ruby.webp",
+      "alt": "Natural Burmese ruby in gold ring, gemstone for Sun 11th house Mesh Lagna",
+      "caption": "Ruby is the primary Surya ratna and remains the correct recommendation despite the enemy sign because the 5L trikona status supports the gemstone protocol.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural Burmese ruby set in a gold ring, deep pigeon blood red colour, cushion cut, on dark velvet with warm lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "sun-11th-house-aries-lagna-surya-hridayam.webp",
+      "alt": "Surya Hridayam Sanskrit verse on parchment with solar disc motif",
+      "caption": "Surya Hridayam recitation strengthens the solar channel through the heart-of-the-Sun hymn.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Surya Hridayam, hand-painted on aged parchment with gold leaf borders, faint solar disc and lotus motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Sun in the 11th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Surya in Labha Bhava for Aries ascendant natives. Sun in enemy Kumbha, the 5L trikona lord in the upachaya gain house, and the creative-gain-through-friends pattern that distinguishes this placement from the solo-achievement Sun positions.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Surya", "tone": "teal" },
-      { "label": "Labha Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Enemy Kumbha" },
-      { "label": "5L in 11H" },
-      { "label": "Creative gain" }
+      {
+        "label": "Surya",
+        "tone": "teal"
+      },
+      {
+        "label": "Labha Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Enemy Kumbha"
+      },
+      {
+        "label": "5L in 11H"
+      },
+      {
+        "label": "Creative gain"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +271,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Surya", "sub": "Sun", "icon": "sun" },
-        { "label": "Bhava", "value": "11th", "sub": "Labha Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Growing", "sub": "Enemy sign in upachaya", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Surya",
+          "sub": "Sun",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "11th",
+          "sub": "Labha Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Growing",
+          "sub": "Enemy sign in upachaya",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +310,104 @@
       "heading": "Why enemy sign and upachaya work together rather than against each other",
       "html": "<p>Students often find this placement confusing because the enemy sign reading and the upachaya growth reading point in opposite directions, and popular astrology sometimes averages them into a neutral prediction that misses both halves of the truth. The honest practitioner reading holds both simultaneously. The enemy sign means the solar quality of the native's expression is filtered through a medium that does not welcome warmth, authority, or the usual Sun register. Natives with this placement rarely step into leadership with the confident directness that exalted or friendly-sign Suns produce. They often feel internally cold around matters of authority, self-assertion, and visible power, and the coldness is structural rather than temperamental. The upachaya house means the functional output of the placement grows across decades. The native who seems less authoritative than peers in their twenties often becomes the gathered elder in their fifties whose work and network have compounded into a recognised form that early peers could not have predicted.</p><p>The 5L in 11H pattern is the second specific feature practitioners need to read because it transforms the whole interpretation. Surya as 5L carries the native's purva-punya (past life merit) and creative intelligence, and placing this into the 11H channels both into the gain and network domains. The practical effect is that the native earns material income through their creative output rather than through solo achievement or institutional authority. Income flows from creative work (writing, teaching, art, research, innovative business models) that reaches the native through friend networks, groups, and community contexts rather than through single employer relationships or family inheritance. The 5L-11H link also produces the classical pattern where the native's children become channels for gain and where creative output in one decade compounds into income in subsequent decades. The third interpretive layer is the elder-brother reading. The 11th house rules elder siblings specifically, and Sun here places the father-karaka in the elder-sibling house, which often produces an elder brother (or elder-brother figure) who carries significant authority or fatherly responsibility in the native's life, sometimes replacing or complementing the biological father's role.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "When the soul karaka sits in the gain house of an enemy sign, the solar warmth arrives slowly through other people rather than directly from within. The friend network becomes the mirror in which the native finally sees their own light reflected back." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "When the soul karaka sits in the gain house of an enemy sign, the solar warmth arrives slowly through other people rather than directly from within. The friend network becomes the mirror in which the native finally sees their own light reflected back."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Surya, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Surya, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Soul, father, authority, vitality" },
-            { "k": "Own sign", "v": "Simha (Leo)" },
-            { "k": "Uchha (exaltation)", "v": "Mesha at 10 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Tula at 10 degrees", "tone": "bad" },
-            { "k": "Sign state here", "v": "Enemy Kumbha", "tone": "bad" },
-            { "k": "Upachaya factor", "v": "Grows across decades", "tone": "good" },
-            { "k": "Friends", "v": "Moon, Mars, Jupiter" },
-            { "k": "Role for Mesh", "v": "5th lord (Simha)" }
+            {
+              "k": "Karakatva",
+              "v": "Soul, father, authority, vitality"
+            },
+            {
+              "k": "Own sign",
+              "v": "Simha (Leo)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Mesha at 10 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Tula at 10 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Enemy Kumbha",
+              "tone": "bad"
+            },
+            {
+              "k": "Upachaya factor",
+              "v": "Grows across decades",
+              "tone": "good"
+            },
+            {
+              "k": "Friends",
+              "v": "Moon, Mars, Jupiter"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "5th lord (Simha)"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Labha Bhava, house profile", "subtitle": "11th house significance",
+          "icon": "triangle-house",
+          "title": "Labha Bhava, house profile",
+          "subtitle": "11th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Labha, Aya Bhava" },
-            { "k": "Rules over", "v": "Gains, income, friends, elder siblings, desires" },
-            { "k": "Natural sign", "v": "Kumbha (Aquarius) for Mesh" },
-            { "k": "Natural ruler", "v": "Shani (Saturn)" },
-            { "k": "Body part", "v": "Calves, ankles, left ear" },
-            { "k": "Classical nature", "v": "Upachaya, gain house" },
-            { "k": "Vedic quality", "v": "5L trikona lord in upachaya", "tone": "good" },
-            { "k": "Special effect", "v": "Upachaya offsets enemy sign", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Labha, Aya Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Gains, income, friends, elder siblings, desires"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Kumbha (Aquarius) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Shani (Saturn)"
+            },
+            {
+              "k": "Body part",
+              "v": "Calves, ankles, left ear"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Upachaya, gain house"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "5L trikona lord in upachaya",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Upachaya offsets enemy sign",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +449,48 @@
       "heading": "Where the creative-gain-through-friends vocation plays out",
       "html": "<p>Career paths cluster around fields where creative output reaches income through group or community channels rather than through solo authority or institutional ladder-climbing. The strongest single fit is group-based creative enterprise, where the native works within a collaborative structure producing creative output that the group collectively brings to market. Many natives with this placement build careers in creative agencies, collaborative publishing houses, research teams, or cooperative creative ventures where their contribution is significant but the income flows through the group's collective work rather than through solo visibility. Research and academic collaborations fit the chart because the scholarly world rewards the specific kind of group-embedded creative work the placement produces: journal publications with multiple authors, research grants for team projects, long-term academic collaborations that compound across decades.</p><p>Community leadership and nonprofit work suit the chart because the 11th house specifically rules community and groups, and natives often find their footing in nonprofit roles where the creative dimension (programme design, communications, strategy) intersects with community organising. Open-source technology and collective projects channel the combination productively for natives with technical skills. Teaching within cooperative institutions (collectively-run schools, teacher cooperatives, academic departments that reward collaboration) suits natives whose vocational pull is more educational. Public-sector creative work rounds out the list because government cultural institutions, public media, and civic creative programmes all reward sustained contribution within group structures rather than solo performance. Surya mahadasha is when the creative-gain pattern crystallises into recognised form, and the window often arrives through a specific friend or group connection that opens the decade of compound gain.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Surya in Labha Bhava placement", "subtitle": "Generate your free Kundali to see your eleventh house Sun.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Sun marked in the eleventh house of Mesh", "planet": "Surya", "house": 11, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Surya in Labha Bhava in enemy Kumbha, marked in saffron" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Upper-right diamond is the 11th house of gains" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Surya in Labha Bhava placement",
+        "subtitle": "Generate your free Kundali to see your eleventh house Sun.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Sun marked in the eleventh house of Mesh",
+      "planet": "Surya",
+      "house": 11,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Surya in Labha Bhava in enemy Kumbha, marked in saffron"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Upper-right diamond is the 11th house of gains"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The enemy sign vs upachaya tension and the elder-brother signature",
@@ -194,13 +503,45 @@
       "heading": "When Sun in 11th delivers its Labha Bhava chapter",
       "intro_html": "<p>Surya mahadasha is the defining window for this placement and arrives with the creative-gain pattern crystallising through friend-network channels.</p>",
       "rows": [
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "The Labha Bhava activation window. Creative-income pattern crystallises, friend networks deliver vocational opportunity, elder brother themes peak, the upachaya growth accelerates.", "intensity": "Very high", "intensity_bar_width": 92, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Chandra (Moon)", "duration": "10 years", "themes": "Fourth lord and friend of Sun. Home and emotional foundation stabilise around the group-embedded life, mother offers strategic support, creative work grounds itself.", "intensity": "Good", "intensity_bar_width": 78, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord and friend of Sun. Bold creative commitments, decisive group leadership steps, the slow-ripening creative signature finds its action phase.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "Ninth lord and friend of Sun. Dharmic refinement of the creative work, teaching extension of the group-based vocation, the network reaches its broadest form.", "intensity": "Very high", "intensity_bar_width": 90, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "The Labha Bhava activation window. Creative-income pattern crystallises, friend networks deliver vocational opportunity, elder brother themes peak, the upachaya growth accelerates.",
+          "intensity": "Very high",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Chandra (Moon)",
+          "duration": "10 years",
+          "themes": "Fourth lord and friend of Sun. Home and emotional foundation stabilise around the group-embedded life, mother offers strategic support, creative work grounds itself.",
+          "intensity": "Good",
+          "intensity_bar_width": 78,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord and friend of Sun. Bold creative commitments, decisive group leadership steps, the slow-ripening creative signature finds its action phase.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "Ninth lord and friend of Sun. Dharmic refinement of the creative work, teaching extension of the group-based vocation, the network reaches its broadest form.",
+          "intensity": "Very high",
+          "intensity_bar_width": 90,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +560,140 @@
       "heading": "Gemstones for Sun in 11th house Mesh Lagna",
       "intro_html": "<p>Ruby remains the primary recommendation here because the 5L trikona status outweighs the enemy sign reduction for gemstone purposes.</p>",
       "cards": [
-        { "name": "Manikya (Ruby)", "role": "primary", "sub": "Surya-strengthening stone for trikona Sun", "icon_variant": "ruby", "image_slug": "ruby", "items": [ { "k": "Metal", "v": "Gold (22 or 24 carat)" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Sunday, sunrise" }, { "k": "Min weight", "v": "3 to 5 Ratti" } ] },
-        { "name": "Red Garnet (alt)", "role": "secondary", "sub": "Milder Sun-aligned alternative", "icon_variant": "red-coral", "image_slug": "red-coral", "items": [ { "k": "Metal", "v": "Gold or copper" }, { "k": "Finger", "v": "Ring finger" }, { "k": "Day to wear", "v": "Sunday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Manikya", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Manikya (Ruby)",
+          "role": "primary",
+          "sub": "Surya-strengthening stone for trikona Sun",
+          "icon_variant": "ruby",
+          "image_slug": "ruby",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold (22 or 24 carat)"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Sunday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "3 to 5 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Red Garnet (alt)",
+          "role": "secondary",
+          "sub": "Milder Sun-aligned alternative",
+          "icon_variant": "red-coral",
+          "image_slug": "red-coral",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold or copper"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Sunday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Manikya",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Ruby in an enemy sign placement should still be reviewed by a qualified Jyotishi for chart confirmation before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Sun in 11th house",
       "intro_html": "<p>The Surya-aligned rudraksha is the Ek Mukhi, the rarest bead and the one directly ruled by the Sun.</p>",
       "beads": [
-        { "mukhi": 1, "name": "Ek Mukhi Rudraksha", "sub": "Ruled by Surya, the classical Sun bead", "benefit": "The rarest and most revered rudraksha and the primary bead for any Sun strengthening protocol. Supplies the solar warmth the enemy Saturnian sign otherwise dampens, amplifies the 5L creative signature, and is specifically recommended for natives building creative careers through group and community channels." },
-        { "mukhi": 7, "name": "Saat Mukhi Rudraksha", "sub": "Ruled by Saturn, the dispositor of Sun here", "benefit": "The Saturn bead serves as secondary support for this placement because the dispositor of Sun here is Shani (Saturn rules Kumbha). Wearing the Saat Mukhi alongside the Ek Mukhi honours both planet and sign-lord and softens the enemy-sign friction so the solar warmth and the Saturnian structure work together rather than against each other." }
+        {
+          "mukhi": 1,
+          "name": "Ek Mukhi Rudraksha",
+          "sub": "Ruled by Surya, the classical Sun bead",
+          "benefit": "The rarest and most revered rudraksha and the primary bead for any Sun strengthening protocol. Supplies the solar warmth the enemy Saturnian sign otherwise dampens, amplifies the 5L creative signature, and is specifically recommended for natives building creative careers through group and community channels."
+        },
+        {
+          "mukhi": 7,
+          "name": "Saat Mukhi Rudraksha",
+          "sub": "Ruled by Saturn, the dispositor of Sun here",
+          "benefit": "The Saturn bead serves as secondary support for this placement because the dispositor of Sun here is Shani (Saturn rules Kumbha). Wearing the Saat Mukhi alongside the Ek Mukhi honours both planet and sign-lord and softens the enemy-sign friction so the solar warmth and the Saturnian structure work together rather than against each other."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Surya Yantra for the gain-house Sun", "yantra": { "name": "Surya Yantra", "sanskrit": "सूर्य यन्त्र", "description": "The Surya Yantra is the geometric form of the solar channel. For Surya in the Mesh 11th house install it on the east wall of the creative or work space. Sunday at sunrise in Surya hora is the installation window, and the yantra should be consecrated with Surya Hridayam recitation and a copper water libation.", "direction": "East wall (creative or work space)", "install_day": "Sunday sunrise, Surya hora preferred", "material": "Copper or gold (brass acceptable)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Surya in enemy Kumbha", "stotra": { "eyebrow": "Surya Hridayam", "title": "Shri Surya Hridayam", "sub": "Heart of the Sun, the intimate hymn to Surya at his warmest register", "verse": "Namo namaste nalinendu kanti kanja balakaya namo namo astu<br>Namo namo yogi hrt padma natha namostu te lola lala ambarasya<br>Namo namas te sakala bhutartha karaya purna mahima gunaya<br>Namo namo bhukti vimukti daya namo namo maha bhava sodhanaya", "translation": "Salutations, salutations to you, O lotus-moon radiant, young as the lotus bud, salutations again and again. Salutations to the lord of the yogi's heart lotus, salutations to you whose flowing tongue is unbearable. Salutations to the one who makes the meanings of all beings, full of glorious qualities. Salutations to the giver of enjoyment and liberation, salutations to the purifier of great existence. The Surya Hridayam is the intimate heart of the Sun hymn and is the perfect daily recitation for a chart where the enemy sign dampens the solar register and the native needs explicit solar warmth to balance the placement.", "url": "https://stotra.vastucart.in/stotra/surya-hridayam" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Surya Yantra for the gain-house Sun",
+      "yantra": {
+        "name": "Surya Yantra",
+        "sanskrit": "सूर्य यन्त्र",
+        "description": "The Surya Yantra is the geometric form of the solar channel. For Surya in the Mesh 11th house install it on the east wall of the creative or work space. Sunday at sunrise in Surya hora is the installation window, and the yantra should be consecrated with Surya Hridayam recitation and a copper water libation.",
+        "direction": "East wall (creative or work space)",
+        "install_day": "Sunday sunrise, Surya hora preferred",
+        "material": "Copper or gold (brass acceptable)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Surya in enemy Kumbha",
+      "stotra": {
+        "eyebrow": "Surya Hridayam",
+        "title": "Shri Surya Hridayam",
+        "sub": "Heart of the Sun, the intimate hymn to Surya at his warmest register",
+        "verse": "Namo namaste nalinendu kanti kanja balakaya namo namo astu<br>Namo namo yogi hrt padma natha namostu te lola lala ambarasya<br>Namo namas te sakala bhutartha karaya purna mahima gunaya<br>Namo namo bhukti vimukti daya namo namo maha bhava sodhanaya",
+        "translation": "Salutations, salutations to you, O lotus-moon radiant, young as the lotus bud, salutations again and again. Salutations to the lord of the yogi's heart lotus, salutations to you whose flowing tongue is unbearable. Salutations to the one who makes the meanings of all beings, full of glorious qualities. Salutations to the giver of enjoyment and liberation, salutations to the purifier of great existence. The Surya Hridayam is the intimate heart of the Sun hymn and is the perfect daily recitation for a chart where the enemy sign dampens the solar register and the native needs explicit solar warmth to balance the placement.",
+        "url": "https://stotra.vastucart.in/stotra/surya-hridayam"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +701,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your eleventh house Sun and upachaya pattern", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Business muhurta", "sub": "Auspicious dates for creative enterprise launches", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Education muhurta", "sub": "Auspicious dates for teaching or study commitments", "url": "https://muhurta.vastucart.in/education-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Surya Hridayam", "sub": "Heart of the Sun hymn", "url": "https://stotra.vastucart.in/stotra/surya-hridayam", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Aditya Hridayam", "sub": "Classical Surya hymn from the Ramayana", "url": "https://stotra.vastucart.in/stotra/aditya-hridayam", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Surya Ashtakam", "sub": "Eight-verse solar hymn", "url": "https://stotra.vastucart.in/stotra/surya-ashtakam", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Surya Chalisa", "sub": "Forty-verse devotional hymn to Surya", "url": "https://stotra.vastucart.in/stotra/surya-chalisa", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Dwadash Aditya Stotram", "sub": "Twelve forms of Surya hymn", "url": "https://stotra.vastucart.in/stotra/dwadash-aditya-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Ruby and gemstone source", "sub": "Certified Manikya for the Sun", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Surya yantra store", "sub": "Copper Surya yantra for the creative space", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Labha Bhava Sun analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your eleventh house Sun and upachaya pattern",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Business muhurta",
+            "sub": "Auspicious dates for creative enterprise launches",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Education muhurta",
+            "sub": "Auspicious dates for teaching or study commitments",
+            "url": "https://muhurta.vastucart.in/education-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Surya Hridayam",
+            "sub": "Heart of the Sun hymn",
+            "url": "https://stotra.vastucart.in/stotra/surya-hridayam",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aditya Hridayam",
+            "sub": "Classical Surya hymn from the Ramayana",
+            "url": "https://stotra.vastucart.in/stotra/aditya-hridayam",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Surya Ashtakam",
+            "sub": "Eight-verse solar hymn",
+            "url": "https://stotra.vastucart.in/stotra/surya-ashtakam",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Surya Chalisa",
+            "sub": "Forty-verse devotional hymn to Surya",
+            "url": "https://stotra.vastucart.in/stotra/surya-chalisa",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Dwadash Aditya Stotram",
+            "sub": "Twelve forms of Surya hymn",
+            "url": "https://stotra.vastucart.in/stotra/dwadash-aditya-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Ruby and gemstone source",
+            "sub": "Certified Manikya for the Sun",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Surya yantra store",
+            "sub": "Copper Surya yantra for the creative space",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Labha Bhava Sun analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +801,130 @@
         "title": "Is your Labha Bhava Sun carrying the creative-gain pattern?",
         "subtitle": "Get a full personalised analysis of your eleventh house Surya, the friend-network timing, and the upachaya compound growth.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Surya Hridayam", "url": "https://stotra.vastucart.in/stotra/surya-hridayam", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Surya Hridayam",
+            "url": "https://stotra.vastucart.in/stotra/surya-hridayam",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Sun in 11th house, Mesh Lagna",
       "items": [
-        { "q": "Is Sun in the 11th house good for Mesh Lagna?", "a": "It is a mixed placement that requires holding both halves of the reading together. The enemy Saturnian sign Kumbha dampens the solar warmth and directness in quality terms, while the 11th house upachaya amplifies the functional output in quantity terms. Sun is also the 5L for Mesh, and placing the trikona lord in the gain house produces a creative-income pattern where the native earns through creative output that reaches them via friend networks and community channels. The net reading is a slow-ripening placement that builds steadily across decades and compounds into unusual late-career recognition." },
-        { "q": "Why is Surya in Kumbha classically problematic?", "a": "Because Kumbha is ruled by Shani (Saturn), and the Sun-Saturn relationship is classical enmity rooted in the Vivasvan-Yama myth. A Sun in Saturn's own sign expresses through a medium that is temperamentally opposed to its core nature, producing a solar expression that lacks the warmth and direct authority friendly-sign Suns naturally carry. However, the 11th house upachaya rule partially offsets this reduction because upachaya houses grow malefic and hot planets rather than fading them, and the net output is mid-strength rather than weak once the upachaya growth compounds." },
-        { "q": "What does the 5L in 11H produce for Aries natives?", "a": "It produces the creative-income pattern where the native's 5L creative intelligence and purva-punya flow directly into the 11H gain house. Income arrives through creative work (writing, teaching, art, research, innovative business models) that reaches the native through friend networks, groups, and community contexts rather than through solitary achievement or institutional authority. The 5L-11H link also produces the classical pattern where the native's own children become channels for gain, and where creative output in one decade compounds into income in subsequent decades. This is a recognised trikona-to-upachaya compound pattern." },
-        { "q": "How does Sun in 11th house affect friends and elder brothers?", "a": "The 11th house rules friends and elder siblings, and Sun here places the father-karaka in both domains at once. The elder brother often carries unusual fatherly responsibility within the family, sometimes replacing or complementing the biological father's role. Friends often function as chosen family with specific friends carrying roles that blood relatives usually hold in other charts. Practitioners should describe this explicitly because it helps natives understand why their friend relationships feel more central to their emotional life than family, which can otherwise produce guilt the native does not need to carry." },
-        { "q": "Which gemstone should Mesh Lagna wear for Sun in 11th?", "a": "Ruby (Manikya) is the primary gemstone and is recommended despite the enemy sign because the 5L trikona status outweighs the sign-dignity reduction for gemstone purposes. Wear a natural Burmese or African ruby of minimum three ratti set in gold on the ring finger of the right hand on a Sunday at sunrise after Surya mantra recitation. The cautionary rule about ruby in enemy signs applies specifically to debilitated or combust Suns, which is not this placement. Always consult a practising Jyotishi before permanent wearing because Sun in enemy sign interactions with other chart placements vary." }
+        {
+          "q": "Is Sun in the 11th house good for Mesh Lagna?",
+          "a": "It is a mixed placement that requires holding both halves of the reading together. The enemy Saturnian sign Kumbha dampens the solar warmth and directness in quality terms, while the 11th house upachaya amplifies the functional output in quantity terms. Sun is also the 5L for Mesh, and placing the trikona lord in the gain house produces a creative-income pattern where the native earns through creative output that reaches them via friend networks and community channels. The net reading is a slow-ripening placement that builds steadily across decades and compounds into unusual late-career recognition."
+        },
+        {
+          "q": "Why is Surya in Kumbha classically problematic?",
+          "a": "Because Kumbha is ruled by Shani (Saturn), and the Sun-Saturn relationship is classical enmity rooted in the Vivasvan-Yama myth. A Sun in Saturn's own sign expresses through a medium that is temperamentally opposed to its core nature, producing a solar expression that lacks the warmth and direct authority friendly-sign Suns naturally carry. However, the 11th house upachaya rule partially offsets this reduction because upachaya houses grow malefic and hot planets rather than fading them, and the net output is mid-strength rather than weak once the upachaya growth compounds."
+        },
+        {
+          "q": "What does the 5L in 11H produce for Aries natives?",
+          "a": "It produces the creative-income pattern where the native's 5L creative intelligence and purva-punya flow directly into the 11H gain house. Income arrives through creative work (writing, teaching, art, research, innovative business models) that reaches the native through friend networks, groups, and community contexts rather than through solitary achievement or institutional authority. The 5L-11H link also produces the classical pattern where the native's own children become channels for gain, and where creative output in one decade compounds into income in subsequent decades. This is a recognised trikona-to-upachaya compound pattern."
+        },
+        {
+          "q": "How does Sun in 11th house affect friends and elder brothers?",
+          "a": "The 11th house rules friends and elder siblings, and Sun here places the father-karaka in both domains at once. The elder brother often carries unusual fatherly responsibility within the family, sometimes replacing or complementing the biological father's role. Friends often function as chosen family with specific friends carrying roles that blood relatives usually hold in other charts. Practitioners should describe this explicitly because it helps natives understand why their friend relationships feel more central to their emotional life than family, which can otherwise produce guilt the native does not need to carry."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Sun in 11th?",
+          "a": "Ruby (Manikya) is the primary gemstone and is recommended despite the enemy sign because the 5L trikona status outweighs the sign-dignity reduction for gemstone purposes. Wear a natural Burmese or African ruby of minimum three ratti set in gold on the ring finger of the right hand on a Sunday at sunrise after Surya mantra recitation. The cautionary rule about ruby in enemy signs applies specifically to debilitated or combust Suns, which is not this placement. Always consult a practising Jyotishi before permanent wearing because Sun in enemy sign interactions with other chart placements vary."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Labha reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Surya in the fifth, swakshetra Simha", "sub": "Sun own sign in the creative trikona", "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Surya at the zenith, digbala in enemy sign", "sub": "The parallel digbala vs enemy sign tension at the career angle", "href": "/jyotish/graha-in-bhava/sun-10th-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Rahu in the eleventh, best placement", "sub": "North node in the same gain house, the classical amplification parallel", "href": "/jyotish/graha-in-bhava/rahu-11th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Surya in the fifth, swakshetra Simha",
+          "sub": "Sun own sign in the creative trikona",
+          "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Surya at the zenith, digbala in enemy sign",
+          "sub": "The parallel digbala vs enemy sign tension at the career angle",
+          "href": "/jyotish/graha-in-bhava/sun-10th-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Rahu in the eleventh, best placement",
+          "sub": "North node in the same gain house, the classical amplification parallel",
+          "href": "/jyotish/graha-in-bhava/rahu-11th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

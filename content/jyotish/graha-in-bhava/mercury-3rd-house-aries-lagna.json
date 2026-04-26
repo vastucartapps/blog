@@ -7,7 +7,7 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 10,
   "status": "ready",
   "published_at": "2026-04-12T00:00:00.000Z",
@@ -22,7 +22,6 @@
     "siblings karaka",
     "Budha mahadasha",
     "emerald panna",
-    "Pt Raghav Sharma",
     "graha in bhava"
   ],
   "planet_id": "budha",
@@ -30,7 +29,7 @@
   "lagna_id": "mesha",
   "meta": {
     "title": "Mercury in 3rd House for Mesh Lagna, Effects and Remedies",
-    "description": "Mercury in 3rd house for Mesh Lagna, Budha in own sign Mithuna. Siblings, communication, courage, dasha and remedies by Pt. Raghav Sharma.",
+    "description": "Mercury in 3rd house for Mesh Lagna, Budha in own sign Mithuna. Siblings, communication, courage, dasha and remedies by VastuCart Editorial.",
     "focus_keyword": "Mercury in 3rd house",
     "secondary_keywords": [
       "Mesh Lagna",
@@ -63,10 +62,22 @@
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/mercury-3rd-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Mercury in 3rd House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mercury-3rd-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Mercury in 3rd House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mercury-3rd-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
@@ -129,9 +140,25 @@
       "When does Budha mahadasha activate for Mesh Lagna?"
     ],
     "lingual_variations": {
-      "budha": ["budha", "mercury", "saumya", "rauhineya"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "budha": [
+        "budha",
+        "mercury",
+        "saumya",
+        "rauhineya"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
     "content_gaps": [
       "Budha antardasha sequence inside Chandra mahadasha for Mesh",
@@ -197,18 +224,45 @@
     "title_html": "Mercury in the 3rd house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Budha in Sahaja Bhava for Aries ascendant natives. Mercury in his own sign of Mithuna, siblings, communication, courage and writing ability.",
     "meta": [
-      { "icon": "clock", "value": "10 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "10 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Budha", "tone": "teal" },
-      { "label": "Sahaja Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Swakshetra" },
-      { "label": "Mithuna rashi" },
-      { "label": "Siblings karaka" }
+      {
+        "label": "Budha",
+        "tone": "teal"
+      },
+      {
+        "label": "Sahaja Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Swakshetra"
+      },
+      {
+        "label": "Mithuna rashi"
+      },
+      {
+        "label": "Siblings karaka"
+      }
     ]
   },
   "schema": {},
@@ -216,10 +270,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet",   "value": "Budha", "sub": "Mercury",      "icon": "star" },
-        { "label": "Bhava",    "value": "3rd",   "sub": "Sahaja Bhava", "icon": "triangle-house" },
-        { "label": "Lagna",    "value": "Mesh",  "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Strong","sub": "Swakshetra Mithuna", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Budha",
+          "sub": "Mercury",
+          "icon": "star"
+        },
+        {
+          "label": "Bhava",
+          "value": "3rd",
+          "sub": "Sahaja Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Strong",
+          "sub": "Swakshetra Mithuna",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -247,14 +322,41 @@
           "title": "Budha, planet profile",
           "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Intellect, communication, siblings, commerce" },
-            { "k": "Own sign", "v": "Mithuna (Gemini) and Kanya (Virgo)" },
-            { "k": "Uchha (exaltation)", "v": "Kanya at 15 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Meena at 15 degrees", "tone": "bad" },
-            { "k": "Friends", "v": "Sun, Venus" },
-            { "k": "Enemies", "v": "Moon", "tone": "bad" },
-            { "k": "Element", "v": "Earth (Prithvi Tattva)" },
-            { "k": "Day", "v": "Wednesday" }
+            {
+              "k": "Karakatva",
+              "v": "Intellect, communication, siblings, commerce"
+            },
+            {
+              "k": "Own sign",
+              "v": "Mithuna (Gemini) and Kanya (Virgo)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Kanya at 15 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Meena at 15 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Venus"
+            },
+            {
+              "k": "Enemies",
+              "v": "Moon",
+              "tone": "bad"
+            },
+            {
+              "k": "Element",
+              "v": "Earth (Prithvi Tattva)"
+            },
+            {
+              "k": "Day",
+              "v": "Wednesday"
+            }
           ]
         },
         {
@@ -262,19 +364,47 @@
           "title": "Sahaja Bhava, house profile",
           "subtitle": "3rd house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Sahaja, Vikrama Bhava" },
-            { "k": "Rules over", "v": "Siblings, courage, hands, speech, short travel" },
-            { "k": "Natural sign", "v": "Mithuna (Gemini)" },
-            { "k": "Natural ruler", "v": "Budha (Mercury)" },
-            { "k": "Body part", "v": "Shoulders, arms, hands" },
-            { "k": "Upachaya house", "v": "Yes, grows over time", "tone": "good" },
-            { "k": "Dushtana house", "v": "Yes, also" },
-            { "k": "Vedic quality", "v": "Vikrama, personal effort" }
+            {
+              "k": "Sanskrit name",
+              "v": "Sahaja, Vikrama Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Siblings, courage, hands, speech, short travel"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Mithuna (Gemini)"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Budha (Mercury)"
+            },
+            {
+              "k": "Body part",
+              "v": "Shoulders, arms, hands"
+            },
+            {
+              "k": "Upachaya house",
+              "v": "Yes, grows over time",
+              "tone": "good"
+            },
+            {
+              "k": "Dushtana house",
+              "v": "Yes, also"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Vikrama, personal effort"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -326,7 +456,10 @@
         "button_variant": "saffron"
       }
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "kundali-visual",
       "eyebrow": "Kundali visual",
@@ -335,14 +468,26 @@
       "house": 3,
       "lagna": "Mesh",
       "legend": [
-        { "color": "saffron", "text": "Budha in Sahaja Bhava, highlighted in emerald" },
-        { "color": "white", "text": "12 houses in North Indian format" },
-        { "color": "teal", "text": "Upper-left corner triangle is the 3rd house" }
+        {
+          "color": "saffron",
+          "text": "Budha in Sahaja Bhava, highlighted in emerald"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Upper-left corner triangle is the 3rd house"
+        }
       ],
       "cta_label": "Get your free Kundali",
       "cta_url": "https://www.vastucart.in/tools/kundli"
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -390,7 +535,10 @@
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Siblings, hands and the third house karmic bond",
@@ -422,10 +570,22 @@
           "icon_variant": "saphire",
           "image_slug": "emerald",
           "items": [
-            { "k": "Metal", "v": "Gold" },
-            { "k": "Finger", "v": "Little finger, right hand" },
-            { "k": "Day to wear", "v": "Wednesday, sunrise" },
-            { "k": "Min weight", "v": "4 to 6 Ratti" }
+            {
+              "k": "Metal",
+              "v": "Gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Little finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Wednesday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "4 to 6 Ratti"
+            }
           ]
         },
         {
@@ -435,23 +595,38 @@
           "icon_variant": "saphire",
           "image_slug": "emerald",
           "items": [
-            { "k": "Metal", "v": "Gold or silver" },
-            { "k": "Finger", "v": "Little finger" },
-            { "k": "Day to wear", "v": "Wednesday, sunrise" },
-            { "k": "Min weight", "v": "6 to 8 Ratti" }
+            {
+              "k": "Metal",
+              "v": "Gold or silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Little finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Wednesday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "6 to 8 Ratti"
+            }
           ]
         },
         {
           "name": "Consult before wearing Panna",
           "role": "shop",
-          "sub": "1-on-1 chart review by Pt. Raghav Sharma",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
           "shop_label": "Book a consultation",
           "shop_url": "https://store.vastucart.in/consultations"
         }
       ],
       "disclaimer": "Always consult a qualified Jyotishi before wearing emerald. Effects vary based on chart strength and individual constitution."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
@@ -482,7 +657,10 @@
         "button_variant": "teal"
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "yantra",
       "eyebrow": "Yantra",
@@ -498,7 +676,10 @@
         "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
       }
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "stotra",
       "eyebrow": "Stotra and Mantra",
@@ -512,7 +693,10 @@
         "url": "https://stotra.vastucart.in/stotra/budha-stotram"
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -520,14 +704,62 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Birth chart tool", "sub": "Free Kundali for the third house picture", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Lagna (Ascendant) tool", "sub": "Confirm your Mesh ascendant", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Education Muhurta", "sub": "Auspicious dates for study and learning", "url": "https://muhurta.vastucart.in/education-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Aries horoscope today", "sub": "Daily forecast for Mesh natives", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Budha Stotram", "sub": "Classical hymn to Lord Budha", "url": "https://stotra.vastucart.in/stotra/budha-stotram", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Char Mukhi rudraksha source", "sub": "Authentic four-faced rudraksha", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Budha yantra and navagraha", "sub": "Copper Budha yantra", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Book a chart reading", "sub": "1-on-1 with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Birth chart tool",
+            "sub": "Free Kundali for the third house picture",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Lagna (Ascendant) tool",
+            "sub": "Confirm your Mesh ascendant",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Education Muhurta",
+            "sub": "Auspicious dates for study and learning",
+            "url": "https://muhurta.vastucart.in/education-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Aries horoscope today",
+            "sub": "Daily forecast for Mesh natives",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Budha Stotram",
+            "sub": "Classical hymn to Lord Budha",
+            "url": "https://stotra.vastucart.in/stotra/budha-stotram",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Char Mukhi rudraksha source",
+            "sub": "Authentic four-faced rudraksha",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Budha yantra and navagraha",
+            "sub": "Copper Budha yantra",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Book a chart reading",
+            "sub": "1-on-1 with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -537,13 +769,28 @@
         "title": "Is your Mercury this sharp in your chart?",
         "subtitle": "Get a complete personalised analysis of your Budha placement, antardasha timing, and career-fit predictions for your full chart.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Budha Stotram", "url": "https://stotra.vastucart.in/stotra/budha-stotram", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Budha Stotram",
+            "url": "https://stotra.vastucart.in/stotra/budha-stotram",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
@@ -571,35 +818,75 @@
         }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Muhurta specialist", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "Mesh Lagna complete profile", "sub": "The 108-post pillar guide for Aries ascendant", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Moon in 4th house, Mesh Lagna", "sub": "Chandra swakshetra in Karka", "href": "/jyotish/graha-in-bhava/moon-4th-house-aries-lagna", "icon_variant": "moon" },
-        { "title": "Venus in 2nd house, Mesh Lagna", "sub": "Shukra swakshetra in Vrishabha", "href": "/jyotish/graha-in-bhava/venus-2nd-house-aries-lagna", "icon_variant": "rose" }
+        {
+          "title": "Mesh Lagna complete profile",
+          "sub": "The 108-post pillar guide for Aries ascendant",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Moon in 4th house, Mesh Lagna",
+          "sub": "Chandra swakshetra in Karka",
+          "href": "/jyotish/graha-in-bhava/moon-4th-house-aries-lagna",
+          "icon_variant": "moon"
+        },
+        {
+          "title": "Venus in 2nd house, Mesh Lagna",
+          "sub": "Shukra swakshetra in Vrishabha",
+          "href": "/jyotish/graha-in-bhava/venus-2nd-house-aries-lagna",
+          "icon_variant": "rose"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

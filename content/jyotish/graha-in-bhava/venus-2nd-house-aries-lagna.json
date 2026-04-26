@@ -6,40 +6,130 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 10,
   "status": "ready",
   "published_at": "2026-04-12T00:00:00.000Z",
   "updated_at": "2026-04-12T00:00:00.000Z",
-  "tags": ["Venus in 2nd house", "Shukra", "Mesh Lagna", "Aries ascendant", "Dhana Bhava", "swakshetra Venus", "wealth karaka", "Shukra mahadasha", "diamond heera", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Venus in 2nd house",
+    "Shukra",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Dhana Bhava",
+    "swakshetra Venus",
+    "wealth karaka",
+    "Shukra mahadasha",
+    "diamond heera",
+    "graha in bhava"
+  ],
   "planet_id": "shukra",
   "house_number": 2,
   "lagna_id": "mesha",
   "meta": {
     "title": "Venus in 2nd House for Mesh Lagna, Effects and Remedies",
-    "description": "Venus in 2nd house for Mesh Lagna, Shukra in own sign Vrishabha. Wealth, speech, family, dasha and remedies by Pt. Raghav Sharma.",
+    "description": "Venus in 2nd house for Mesh Lagna, Shukra in own sign Vrishabha. Wealth, speech, family, dasha and remedies by VastuCart Editorial.",
     "focus_keyword": "Venus in 2nd house",
-    "secondary_keywords": ["Mesh Lagna", "Dhana Bhava", "Shukra own sign", "Aries ascendant", "Shukra"],
-    "lsi_keywords": ["swakshetra", "dhana bhava", "shukra mahadasha", "diamond heera", "wealth karaka", "second lord", "vrishabha rashi", "family speech", "luxury taste"],
-    "keywords": ["Venus in 2nd house Mesh Lagna", "Shukra in Dhana Bhava", "Mesh lagna 2nd lord", "Aries ascendant wealth", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dhana Bhava",
+      "Shukra own sign",
+      "Aries ascendant",
+      "Shukra"
+    ],
+    "lsi_keywords": [
+      "swakshetra",
+      "dhana bhava",
+      "shukra mahadasha",
+      "diamond heera",
+      "wealth karaka",
+      "second lord",
+      "vrishabha rashi",
+      "family speech",
+      "luxury taste"
+    ],
+    "keywords": [
+      "Venus in 2nd house Mesh Lagna",
+      "Shukra in Dhana Bhava",
+      "Mesh lagna 2nd lord",
+      "Aries ascendant wealth",
+      "Vedic astrology"
+    ],
     "og_title": "Venus in the 2nd House of Mesh Lagna, Complete Study",
     "og_description": "Shukra in Dhana Bhava for Aries ascendant, Venus in own sign, by a practising Jyotishi.",
     "og_image": "/og/venus-2nd-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/venus-2nd-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Venus in 2nd House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/venus-2nd-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Venus in 2nd House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/venus-2nd-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Venus in 2nd house",
-    "secondary_keywords": ["Mesh Lagna", "Dhana Bhava", "Shukra own sign", "Aries ascendant", "Shukra"],
-    "lsi_terms": ["swakshetra", "dhana bhava", "shukra mahadasha", "diamond heera", "wealth karaka", "second lord", "vrishabha rashi", "family speech", "luxury taste"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dhana Bhava",
+      "Shukra own sign",
+      "Aries ascendant",
+      "Shukra"
+    ],
+    "lsi_terms": [
+      "swakshetra",
+      "dhana bhava",
+      "shukra mahadasha",
+      "diamond heera",
+      "wealth karaka",
+      "second lord",
+      "vrishabha rashi",
+      "family speech",
+      "luxury taste"
+    ],
     "seed_queries": [
-      "venus in 2nd house aries lagna", "shukra in 2nd house mesh lagna", "venus in dhana bhava aries", "venus own sign vrishabha mesh", "shukra swakshetra in 2nd", "venus in 2nd house effects aries", "venus in dhana bhava vrishabha", "venus in 2nd house aries wealth", "venus in 2nd house aries speech", "venus in 2nd house aries family", "venus in 2nd house aries remedies", "diamond for venus in 2nd house", "heera for mesh lagna", "shukra 2nd lord mesh", "shukra mahadasha aries", "venus in 2nd house aries luxury", "venus in 2nd house aries marriage", "venus in 2nd house aries food", "is venus good in 2nd house aries", "venus in own rashi taurus mesh", "venus in taurus 2nd house aries lagna", "shukra dhana bhava swakshetra", "venus 2nd house aries prediction", "venus in second house mesh lagna", "venus 2nd house mesh ascendant", "shukra in mesh lagna 2nd", "venus vrishabha lagna mesh chart", "venus 2nd house mesh lagna dasha", "shukra mesh lagna wealth", "venus in taurus aries ascendant"
+      "venus in 2nd house aries lagna",
+      "shukra in 2nd house mesh lagna",
+      "venus in dhana bhava aries",
+      "venus own sign vrishabha mesh",
+      "shukra swakshetra in 2nd",
+      "venus in 2nd house effects aries",
+      "venus in dhana bhava vrishabha",
+      "venus in 2nd house aries wealth",
+      "venus in 2nd house aries speech",
+      "venus in 2nd house aries family",
+      "venus in 2nd house aries remedies",
+      "diamond for venus in 2nd house",
+      "heera for mesh lagna",
+      "shukra 2nd lord mesh",
+      "shukra mahadasha aries",
+      "venus in 2nd house aries luxury",
+      "venus in 2nd house aries marriage",
+      "venus in 2nd house aries food",
+      "is venus good in 2nd house aries",
+      "venus in own rashi taurus mesh",
+      "venus in taurus 2nd house aries lagna",
+      "shukra dhana bhava swakshetra",
+      "venus 2nd house aries prediction",
+      "venus in second house mesh lagna",
+      "venus 2nd house mesh ascendant",
+      "shukra in mesh lagna 2nd",
+      "venus vrishabha lagna mesh chart",
+      "venus 2nd house mesh lagna dasha",
+      "shukra mesh lagna wealth",
+      "venus in taurus aries ascendant"
     ],
     "questions": [
       "Is Venus in the 2nd house good for Mesh Lagna?",
@@ -49,12 +139,37 @@
       "When does Shukra mahadasha activate for Mesh Lagna?"
     ],
     "lingual_variations": {
-      "shukra": ["shukra", "venus", "bhargava", "daitya-guru"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "shukra": [
+        "shukra",
+        "venus",
+        "bhargava",
+        "daitya-guru"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Shukra antardasha sequence for Mesh natives", "Vrishabha rashi wealth patterns", "Family speech and marriage timing"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Shukra antardasha sequence for Mesh natives",
+      "Vrishabha rashi wealth patterns",
+      "Family speech and marriage timing"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
     {
@@ -62,7 +177,9 @@
       "filename_og": "venus-2nd-house-aries-lagna-og.png",
       "alt": "Shukra glowing silver-white in the second house of a Mesh Lagna kundali",
       "caption": "Shukra sits in Dhana Bhava for Aries ascendant natives, Venus in own sign producing the wealth and speech signature.",
-      "width": 1200, "height": 630, "format": "webp",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
       "style": "silver-white editorial illustration with floral accents",
       "generation_prompt": "An editorial illustration of a North Indian kundali with the second house glowing silver-white, a stylised Venus symbol radiating soft light, traditional Vedic palette of silver, pearl-white, deep rose, refined manuscript style, no people, no text overlays.",
       "negative_prompt": "photorealistic, watermark, text, neon, cartoon"
@@ -71,7 +188,9 @@
       "filename": "venus-2nd-house-aries-lagna-north-indian-kundali.webp",
       "alt": "North Indian kundali chart highlighting Venus placed in the second house of Mesh",
       "caption": "The North Indian birth chart with Shukra marked in the second house Dhana Bhava of Mesh Lagna.",
-      "width": 1024, "height": 1024, "format": "webp",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
       "style": "clean diagrammatic chart on cream parchment",
       "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the upper-left second house highlighted in silver-white with a Venus symbol marked Ve, refined editorial diagram style.",
       "negative_prompt": "south indian chart, western chart, photo, watermark"
@@ -80,7 +199,9 @@
       "filename": "venus-2nd-house-aries-lagna-diamond.webp",
       "alt": "Natural diamond in platinum ring, the gemstone for Venus 2nd house Mesh Lagna",
       "caption": "A certified natural diamond in a platinum setting, the Shukra-strengthening gemstone for Aries natives.",
-      "width": 1024, "height": 768, "format": "webp",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
       "style": "macro product photograph on dark velvet",
       "generation_prompt": "A macro photograph of a natural diamond set in a platinum ring, brilliant cut, colourless, on dark velvet with cool side lighting, jewellery editorial photography, no hands, no people.",
       "negative_prompt": "synthetic, glass, watermark, hand, model"
@@ -89,7 +210,9 @@
       "filename": "venus-2nd-house-aries-lagna-shukra-stotra.webp",
       "alt": "Shukra Stotra Sanskrit verse on parchment with white lotus",
       "caption": "Shukra stotra recitation on Friday is the foundational practice for Venus-strengthened natives.",
-      "width": 1024, "height": 768, "format": "webp",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
       "style": "illuminated Sanskrit manuscript on parchment",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Shukra stotra, hand-painted on aged parchment with silver leaf borders, faint white lotus in the background, refined editorial illustration, no people.",
       "negative_prompt": "english text, modern font, photo, watermark, cartoon"
@@ -100,18 +223,45 @@
     "title_html": "Venus in the 2nd house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Shukra in Dhana Bhava for Aries ascendant natives. Venus in his own sign Vrishabha, wealth, speech, family and luxury taste.",
     "meta": [
-      { "icon": "clock", "value": "10 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "10 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Shukra", "tone": "teal" },
-      { "label": "Dhana Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Swakshetra" },
-      { "label": "Vrishabha rashi" },
-      { "label": "Wealth karaka" }
+      {
+        "label": "Shukra",
+        "tone": "teal"
+      },
+      {
+        "label": "Dhana Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Swakshetra"
+      },
+      {
+        "label": "Vrishabha rashi"
+      },
+      {
+        "label": "Wealth karaka"
+      }
     ]
   },
   "schema": {},
@@ -119,10 +269,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Shukra", "sub": "Venus", "icon": "star" },
-        { "label": "Bhava", "value": "2nd", "sub": "Dhana Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Strong", "sub": "Swakshetra Vrishabha", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Shukra",
+          "sub": "Venus",
+          "icon": "star"
+        },
+        {
+          "label": "Bhava",
+          "value": "2nd",
+          "sub": "Dhana Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Strong",
+          "sub": "Swakshetra Vrishabha",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -150,14 +321,41 @@
           "title": "Shukra, planet profile",
           "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Wealth, luxury, marriage, arts" },
-            { "k": "Own sign", "v": "Vrishabha (Taurus) and Tula (Libra)" },
-            { "k": "Uchha (exaltation)", "v": "Meena at 27 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Kanya at 27 degrees", "tone": "bad" },
-            { "k": "Friends", "v": "Mercury, Saturn" },
-            { "k": "Enemies", "v": "Sun, Moon", "tone": "bad" },
-            { "k": "Element", "v": "Water (Jala Tattva)" },
-            { "k": "Day", "v": "Friday" }
+            {
+              "k": "Karakatva",
+              "v": "Wealth, luxury, marriage, arts"
+            },
+            {
+              "k": "Own sign",
+              "v": "Vrishabha (Taurus) and Tula (Libra)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Meena at 27 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Kanya at 27 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Friends",
+              "v": "Mercury, Saturn"
+            },
+            {
+              "k": "Enemies",
+              "v": "Sun, Moon",
+              "tone": "bad"
+            },
+            {
+              "k": "Element",
+              "v": "Water (Jala Tattva)"
+            },
+            {
+              "k": "Day",
+              "v": "Friday"
+            }
           ]
         },
         {
@@ -165,19 +363,47 @@
           "title": "Dhana Bhava, house profile",
           "subtitle": "2nd house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Dhana, Kutumba Bhava" },
-            { "k": "Rules over", "v": "Wealth, family of origin, speech, food" },
-            { "k": "Natural sign", "v": "Vrishabha (Taurus)" },
-            { "k": "Natural ruler", "v": "Shukra (Venus)" },
-            { "k": "Body part", "v": "Face, mouth, throat" },
-            { "k": "Maraka house", "v": "Yes, also a life-giver", "tone": "good" },
-            { "k": "Vedic quality", "v": "Accumulated wealth, voice" },
-            { "k": "Special effect", "v": "Lifelong financial ease" }
+            {
+              "k": "Sanskrit name",
+              "v": "Dhana, Kutumba Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Wealth, family of origin, speech, food"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Vrishabha (Taurus)"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Shukra (Venus)"
+            },
+            {
+              "k": "Body part",
+              "v": "Face, mouth, throat"
+            },
+            {
+              "k": "Maraka house",
+              "v": "Yes, also a life-giver",
+              "tone": "good"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Accumulated wealth, voice"
+            },
+            {
+              "k": "Special effect",
+              "v": "Lifelong financial ease"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -229,21 +455,38 @@
         "button_variant": "saffron"
       }
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "kundali-visual",
       "eyebrow": "Kundali visual",
       "heading": "Venus marked in the second house of Mesh",
-      "planet": "Shukra", "house": 2, "lagna": "Mesh",
+      "planet": "Shukra",
+      "house": 2,
+      "lagna": "Mesh",
       "legend": [
-        { "color": "saffron", "text": "Shukra in Dhana Bhava, highlighted in silver-white" },
-        { "color": "white", "text": "12 houses in North Indian format" },
-        { "color": "teal", "text": "Upper-left corner triangle is the 2nd house" }
+        {
+          "color": "saffron",
+          "text": "Shukra in Dhana Bhava, highlighted in silver-white"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Upper-left corner triangle is the 2nd house"
+        }
       ],
       "cta_label": "Get your free Kundali",
       "cta_url": "https://www.vastucart.in/tools/kundli"
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -256,13 +499,45 @@
       "heading": "When Venus in 2nd house activates most powerfully",
       "intro_html": "<p>The twenty year shukra mahadasha is the longest mahadasha and the single most important period for any Mesh Lagna native carrying Venus in 2nd house in own sign. Shani, Budha and Rahu periods also support this placement because of natural friendships.</p>",
       "rows": [
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "Own sign period. Wealth peak, marriage, luxury acquisition, family expansion, voice work.", "intensity": "Very high", "intensity_bar_width": 95, "intensity_bar_color": "#d4a0a8", "highlight": true },
-        { "mahadasha": "Shani (Saturn)", "duration": "19 years", "themes": "Friend of Venus. Disciplined wealth accumulation, slow asset growth, conservative finance.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#888888" },
-        { "mahadasha": "Budha (Mercury)", "duration": "17 years", "themes": "Friend of Venus. Commerce, trade, communication-driven wealth work.", "intensity": "High", "intensity_bar_width": 80, "intensity_bar_color": "#3a9e55" },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord, enemy of Venus. Tests the wealth versus action balance.", "intensity": "Mixed", "intensity_bar_width": 55, "intensity_bar_color": "#c94444" }
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "Own sign period. Wealth peak, marriage, luxury acquisition, family expansion, voice work.",
+          "intensity": "Very high",
+          "intensity_bar_width": 95,
+          "intensity_bar_color": "#d4a0a8",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Shani (Saturn)",
+          "duration": "19 years",
+          "themes": "Friend of Venus. Disciplined wealth accumulation, slow asset growth, conservative finance.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#888888"
+        },
+        {
+          "mahadasha": "Budha (Mercury)",
+          "duration": "17 years",
+          "themes": "Friend of Venus. Commerce, trade, communication-driven wealth work.",
+          "intensity": "High",
+          "intensity_bar_width": 80,
+          "intensity_bar_color": "#3a9e55"
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord, enemy of Venus. Tests the wealth versus action balance.",
+          "intensity": "Mixed",
+          "intensity_bar_width": 55,
+          "intensity_bar_color": "#c94444"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Family, speech and wealth accumulation",
@@ -287,39 +562,104 @@
       "heading": "Gemstones for Venus in 2nd house Mesh Lagna",
       "intro_html": "<p>The primary stone for Shukra in own sign is natural diamond (Heera). Natural opal is the gentler secondary option for natives who cannot afford a diamond.</p>",
       "cards": [
-        { "name": "Heera (Diamond)", "role": "primary", "sub": "Shukra swakshetra gemstone", "icon_variant": "saphire", "image_slug": "diamond",
+        {
+          "name": "Heera (Diamond)",
+          "role": "primary",
+          "sub": "Shukra swakshetra gemstone",
+          "icon_variant": "saphire",
+          "image_slug": "diamond",
           "items": [
-            { "k": "Metal", "v": "Platinum or white gold" },
-            { "k": "Finger", "v": "Ring finger, right hand" },
-            { "k": "Day to wear", "v": "Friday, sunrise" },
-            { "k": "Min weight", "v": "0.5 to 1 carat" }
+            {
+              "k": "Metal",
+              "v": "Platinum or white gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Friday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "0.5 to 1 carat"
+            }
           ]
         },
-        { "name": "Opal (alt)", "role": "secondary", "sub": "Affordable Venus-aligned stone", "icon_variant": "saphire", "image_slug": "opal",
+        {
+          "name": "Opal (alt)",
+          "role": "secondary",
+          "sub": "Affordable Venus-aligned stone",
+          "icon_variant": "saphire",
+          "image_slug": "opal",
           "items": [
-            { "k": "Metal", "v": "Silver or gold" },
-            { "k": "Finger", "v": "Ring finger" },
-            { "k": "Day to wear", "v": "Friday, sunrise" },
-            { "k": "Min weight", "v": "5 to 7 Ratti" }
+            {
+              "k": "Metal",
+              "v": "Silver or gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Friday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
           ]
         },
-        { "name": "Consult before wearing Heera", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Consult before wearing Heera",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Diamond is reactive and expensive. Always test and consult a qualified Jyotishi before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Venus in 2nd house",
       "intro_html": "<p>The Venus-aligned rudraksha is the Chha Mukhi (six-faced), ruled by Kartikeya and tied to Shukra energy.</p>",
       "beads": [
-        { "mukhi": 6, "name": "Chha Mukhi Rudraksha", "sub": "Ruled by Kartikeya, balances Shukra", "benefit": "Enhances charm, relationships, and material prosperity. Supports natives in finance, arts, and voice-based careers. Worn on Friday after abhishek with milk." },
-        { "mukhi": 13, "name": "Terah Mukhi Rudraksha", "sub": "Indra-blessed for luxury and success", "benefit": "Supports material success and the luxury signature of Venus in 2nd house. Beneficial for natives in wealth management and premium retail." }
+        {
+          "mukhi": 6,
+          "name": "Chha Mukhi Rudraksha",
+          "sub": "Ruled by Kartikeya, balances Shukra",
+          "benefit": "Enhances charm, relationships, and material prosperity. Supports natives in finance, arts, and voice-based careers. Worn on Friday after abhishek with milk."
+        },
+        {
+          "mukhi": 13,
+          "name": "Terah Mukhi Rudraksha",
+          "sub": "Indra-blessed for luxury and success",
+          "benefit": "Supports material success and the luxury signature of Venus in 2nd house. Beneficial for natives in wealth management and premium retail."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "yantra",
       "eyebrow": "Yantra",
@@ -335,7 +675,10 @@
         "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
       }
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "stotra",
       "eyebrow": "Stotra and Mantra",
@@ -349,7 +692,10 @@
         "url": "https://stotra.vastucart.in/stotra/shukra-stotram"
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -357,14 +703,62 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Free chart generator", "sub": "Full Kundali for the second house picture", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Lagna verification", "sub": "Confirm your Mesh ascendant", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Business start Muhurta", "sub": "Auspicious dates for ventures", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Aries daily horoscope", "sub": "Today for Mesh natives", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Shukra Stotram", "sub": "Classical hymn to Lord Shukra", "url": "https://stotra.vastucart.in/stotra/shukra-stotram", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Chha Mukhi rudraksha source", "sub": "Six-faced rudraksha for Venus", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Shukra yantra store", "sub": "Silver Shukra yantra", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Wealth chart reading", "sub": "1-on-1 with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Free chart generator",
+            "sub": "Full Kundali for the second house picture",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Lagna verification",
+            "sub": "Confirm your Mesh ascendant",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Business start Muhurta",
+            "sub": "Auspicious dates for ventures",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Aries daily horoscope",
+            "sub": "Today for Mesh natives",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Shukra Stotram",
+            "sub": "Classical hymn to Lord Shukra",
+            "url": "https://stotra.vastucart.in/stotra/shukra-stotram",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Chha Mukhi rudraksha source",
+            "sub": "Six-faced rudraksha for Venus",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Shukra yantra store",
+            "sub": "Silver Shukra yantra",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Wealth chart reading",
+            "sub": "1-on-1 with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -374,54 +768,124 @@
         "title": "Is your Venus this strong in your chart?",
         "subtitle": "Get a complete personalised analysis of your Shukra placement and shukra mahadasha windows for your full chart.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Shukra Stotram", "url": "https://stotra.vastucart.in/stotra/shukra-stotram", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Shukra Stotram",
+            "url": "https://stotra.vastucart.in/stotra/shukra-stotram",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Venus in 2nd house, Mesh Lagna",
       "items": [
-        { "q": "Is Venus in the 2nd house good for Mesh Lagna?", "a": "Yes, this is one of the strongest wealth placements for an Aries ascendant. Shukra rules the second house Dhana Bhava for Mesh Lagna and the second house sign Vrishabha is Venus's own sign. A wealth karaka sitting in the wealth house in own sign creates a three-layer alignment that classical texts associate with lifelong financial ease, refined taste, strong family of origin, and an unusually resonant speaking voice." },
-        { "q": "What does Venus in 2nd house mean for an Aries ascendant?", "a": "It means the action-oriented Mars-ruled native also has an instinctive sense of value, aesthetics, and wealth protection. Aries ascendants with Venus in 2nd house accumulate steadily, speak gently, maintain long friendships, and carry themselves with a kind of quiet prosperity. Career fields cluster around banking, finance, jewellery, music, hospitality, and luxury goods." },
-        { "q": "How does Venus in 2nd house affect wealth and speech?", "a": "Venus in own sign in the wealth house produces lifelong financial stability and a voice that carries weight when it speaks. Natives rarely face financial crisis and almost always own property and liquid assets by their forties. The voice has natural musical quality and many natives with this combination end up in music, voice work, or careers where speaking well is a professional asset." },
-        { "q": "Which gemstone should Mesh Lagna wear for Venus in 2nd?", "a": "Natural diamond (Heera) is the primary gemstone. Wear minimum half a carat set in platinum or white gold on the ring finger of the right hand on a Friday at sunrise after Shukra mantra recitation. Opal is a gentler secondary option. Always consult a practitioner before permanent wearing because diamond is reactive and expensive." },
-        { "q": "When does Shukra mahadasha activate for Mesh Lagna?", "a": "Shukra mahadasha runs for twenty years and is the longest mahadasha in the Vimshottari sequence. For natives carrying Venus in 2nd in own sign, this period delivers the bulk of lifetime wealth accumulation, marriage, property purchase, and family expansion. Natives whose mahadasha lands between 25 and 45 are unusually fortunate. A qualified Jyotishi can map the exact timing for your chart." }
+        {
+          "q": "Is Venus in the 2nd house good for Mesh Lagna?",
+          "a": "Yes, this is one of the strongest wealth placements for an Aries ascendant. Shukra rules the second house Dhana Bhava for Mesh Lagna and the second house sign Vrishabha is Venus's own sign. A wealth karaka sitting in the wealth house in own sign creates a three-layer alignment that classical texts associate with lifelong financial ease, refined taste, strong family of origin, and an unusually resonant speaking voice."
+        },
+        {
+          "q": "What does Venus in 2nd house mean for an Aries ascendant?",
+          "a": "It means the action-oriented Mars-ruled native also has an instinctive sense of value, aesthetics, and wealth protection. Aries ascendants with Venus in 2nd house accumulate steadily, speak gently, maintain long friendships, and carry themselves with a kind of quiet prosperity. Career fields cluster around banking, finance, jewellery, music, hospitality, and luxury goods."
+        },
+        {
+          "q": "How does Venus in 2nd house affect wealth and speech?",
+          "a": "Venus in own sign in the wealth house produces lifelong financial stability and a voice that carries weight when it speaks. Natives rarely face financial crisis and almost always own property and liquid assets by their forties. The voice has natural musical quality and many natives with this combination end up in music, voice work, or careers where speaking well is a professional asset."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Venus in 2nd?",
+          "a": "Natural diamond (Heera) is the primary gemstone. Wear minimum half a carat set in platinum or white gold on the ring finger of the right hand on a Friday at sunrise after Shukra mantra recitation. Opal is a gentler secondary option. Always consult a practitioner before permanent wearing because diamond is reactive and expensive."
+        },
+        {
+          "q": "When does Shukra mahadasha activate for Mesh Lagna?",
+          "a": "Shukra mahadasha runs for twenty years and is the longest mahadasha in the Vimshottari sequence. For natives carrying Venus in 2nd in own sign, this period delivers the bulk of lifetime wealth accumulation, marriage, property purchase, and family expansion. Natives whose mahadasha lands between 25 and 45 are unusually fortunate. A qualified Jyotishi can map the exact timing for your chart."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Muhurta specialist", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "Aries ascendant pillar", "sub": "The complete Mesh Lagna profile", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Mercury in 3rd house, Mesh Lagna", "sub": "Budha swakshetra in Mithuna", "href": "/jyotish/graha-in-bhava/mercury-3rd-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Sun in 5th house, Mesh Lagna", "sub": "Surya swakshetra in Simha", "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "Aries ascendant pillar",
+          "sub": "The complete Mesh Lagna profile",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Mercury in 3rd house, Mesh Lagna",
+          "sub": "Budha swakshetra in Mithuna",
+          "href": "/jyotish/graha-in-bhava/mercury-3rd-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Sun in 5th house, Mesh Lagna",
+          "sub": "Surya swakshetra in Simha",
+          "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

@@ -6,40 +6,132 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 11,
   "status": "ready",
   "published_at": "2026-04-13T00:00:00.000Z",
   "updated_at": "2026-04-13T00:00:00.000Z",
-  "tags": ["Mars in 2nd house", "Mangal", "Mesh Lagna", "Aries ascendant", "Dhana Bhava", "Vrishabha rashi", "Manglik Dosha", "lagna lord in 2nd", "Mangal mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Mars in 2nd house",
+    "Mangal",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Dhana Bhava",
+    "Vrishabha rashi",
+    "Manglik Dosha",
+    "lagna lord in 2nd",
+    "Mangal mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "mangal",
   "house_number": 2,
   "lagna_id": "mesha",
   "meta": {
     "title": "Mars in 2nd House Mesh Lagna, Dhana Bhava Manglik Guide",
-    "description": "Mars in 2nd house Mesh Lagna, Mangal in Dhana Bhava Vrishabha. Wealth, speech, family, Manglik, remedies by Pt. Raghav Sharma.",
+    "description": "Mars in 2nd house Mesh Lagna, Mangal in Dhana Bhava Vrishabha. Wealth, speech, family, Manglik, remedies by VastuCart Editorial.",
     "focus_keyword": "Mars in 2nd house",
-    "secondary_keywords": ["Mesh Lagna", "Dhana Bhava", "Mars Vrishabha", "Aries ascendant", "Manglik Dosha"],
-    "lsi_keywords": ["dhana bhava", "mangal vrishabha", "mangal mahadasha", "manglik dosha second house", "sharp speech mars", "family friction second house", "wealth through effort", "marakasthana mars", "red coral caution", "lagna lord second"],
-    "keywords": ["Mars in 2nd house Mesh Lagna", "Mangal in Dhana Bhava", "Manglik Dosha 2nd house Aries", "Mesh lagna 2nd house Mars", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dhana Bhava",
+      "Mars Vrishabha",
+      "Aries ascendant",
+      "Manglik Dosha"
+    ],
+    "lsi_keywords": [
+      "dhana bhava",
+      "mangal vrishabha",
+      "mangal mahadasha",
+      "manglik dosha second house",
+      "sharp speech mars",
+      "family friction second house",
+      "wealth through effort",
+      "marakasthana mars",
+      "red coral caution",
+      "lagna lord second"
+    ],
+    "keywords": [
+      "Mars in 2nd house Mesh Lagna",
+      "Mangal in Dhana Bhava",
+      "Manglik Dosha 2nd house Aries",
+      "Mesh lagna 2nd house Mars",
+      "Vedic astrology"
+    ],
     "og_title": "Mars in the 2nd House of Mesh Lagna, Dhana Bhava Manglik",
     "og_description": "Mangal in Dhana Bhava for Aries ascendant, lagna lord in Vrishabha, wealth and speech study by a practising Jyotishi.",
     "og_image": "/og/mars-2nd-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-2nd-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Mars in 2nd House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-2nd-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Mars in 2nd House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-2nd-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Mars in 2nd house",
-    "secondary_keywords": ["Mesh Lagna", "Dhana Bhava", "Mars Vrishabha", "Aries ascendant", "Manglik Dosha"],
-    "lsi_terms": ["dhana bhava", "mangal vrishabha", "mangal mahadasha", "manglik dosha second house", "sharp speech mars", "family friction second house", "wealth through effort", "marakasthana mars", "red coral caution", "lagna lord second"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dhana Bhava",
+      "Mars Vrishabha",
+      "Aries ascendant",
+      "Manglik Dosha"
+    ],
+    "lsi_terms": [
+      "dhana bhava",
+      "mangal vrishabha",
+      "mangal mahadasha",
+      "manglik dosha second house",
+      "sharp speech mars",
+      "family friction second house",
+      "wealth through effort",
+      "marakasthana mars",
+      "red coral caution",
+      "lagna lord second"
+    ],
     "seed_queries": [
-      "mars in 2nd house aries lagna", "mangal in 2nd house mesh lagna", "mars in vrishabha 2nd aries", "mangal in dhana bhava mesh", "mars in 2nd house effects aries", "mars in taurus mesh lagna", "mars in 2nd house wealth aries", "mars in 2nd house family aries", "mars in 2nd house speech aries", "mars in 2nd house manglik aries", "mars in 2nd house remedies", "red coral for mars 2nd aries", "moonga for mesh lagna 2nd", "is mars manglik in 2nd house aries", "mars 2nd house aries speech", "mars in 2nd house aries teeth", "mars in 2nd house aries eating", "is mars good in 2nd house aries", "mars in taurus aries ascendant", "mangal dhana bhava vrishabha", "mars 2nd house aries prediction", "mars in second house mesh lagna", "mars 2nd house mesh ascendant", "mangal in mesh lagna 2nd", "mars vrishabha lagna mesh chart", "mars 2nd house mesh lagna dasha", "mangal mesh lagna family", "mars in taurus aries ascendant career", "manglik second house cancellation", "mars 2nd house aries wealth"
+      "mars in 2nd house aries lagna",
+      "mangal in 2nd house mesh lagna",
+      "mars in vrishabha 2nd aries",
+      "mangal in dhana bhava mesh",
+      "mars in 2nd house effects aries",
+      "mars in taurus mesh lagna",
+      "mars in 2nd house wealth aries",
+      "mars in 2nd house family aries",
+      "mars in 2nd house speech aries",
+      "mars in 2nd house manglik aries",
+      "mars in 2nd house remedies",
+      "red coral for mars 2nd aries",
+      "moonga for mesh lagna 2nd",
+      "is mars manglik in 2nd house aries",
+      "mars 2nd house aries speech",
+      "mars in 2nd house aries teeth",
+      "mars in 2nd house aries eating",
+      "is mars good in 2nd house aries",
+      "mars in taurus aries ascendant",
+      "mangal dhana bhava vrishabha",
+      "mars 2nd house aries prediction",
+      "mars in second house mesh lagna",
+      "mars 2nd house mesh ascendant",
+      "mangal in mesh lagna 2nd",
+      "mars vrishabha lagna mesh chart",
+      "mars 2nd house mesh lagna dasha",
+      "mangal mesh lagna family",
+      "mars in taurus aries ascendant career",
+      "manglik second house cancellation",
+      "mars 2nd house aries wealth"
     ],
     "questions": [
       "Is Mars in the 2nd house bad for Mesh Lagna?",
@@ -49,36 +141,131 @@
       "Which gemstone should Mesh Lagna wear for Mars in 2nd?"
     ],
     "lingual_variations": {
-      "mangal": ["mangal", "mars", "kuja", "bhauma", "angaraka", "mangala"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "mangal": [
+        "mangal",
+        "mars",
+        "kuja",
+        "bhauma",
+        "angaraka",
+        "mangala"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Speech discipline practice for Manglik 2H Mars", "Family friction timing windows inside Mangal dasha", "Eating habits signature of 2H Mars"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Speech discipline practice for Manglik 2H Mars",
+      "Family friction timing windows inside Mangal dasha",
+      "Eating habits signature of 2H Mars"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "mars-2nd-house-aries-lagna-hero.webp", "filename_og": "mars-2nd-house-aries-lagna-og.png", "alt": "Crimson Mangal cutting through the second house of a Mesh Lagna kundali", "caption": "Mangal sits in Dhana Bhava for Aries ascendant natives, the lagna lord in Vrishabha producing the wealth-speech-family Manglik signature.", "width": 1200, "height": 630, "format": "webp", "style": "crimson editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the second house glowing deep crimson, a stylised Mars symbol with a sword over coin motif, traditional Vedic palette, refined manuscript style, no people.", "negative_prompt": "photorealistic mars, watermark, text, neon, cartoon" },
-    { "filename": "mars-2nd-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Mars placed in the second house of Mesh", "caption": "The North Indian birth chart with Mangal marked in the second house Dhana Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the upper-left second house highlighted in crimson with a Mars symbol marked Ma, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "mars-2nd-house-aries-lagna-red-coral.webp", "alt": "Natural red coral in copper ring, the gemstone for Mars 2nd house Mesh Lagna", "caption": "Red coral for Mars in 2nd house requires chart verification because the 2nd house is a Manglik position and direct amplification needs careful Navamsa support.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural Italian red coral set in a copper ring, deep orange-red colour, oval cabochon cut, on dark crimson velvet with warm lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "mars-2nd-house-aries-lagna-mangal-stotra.webp", "alt": "Mangal Dosh Nivaran Stotra Sanskrit verse on parchment with copper disc", "caption": "Mangal Dosh Nivaran Stotra is the dedicated Tuesday recitation for any chart carrying Kuja Dosha from the second house placement.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Mangal Dosh Nivaran Stotra, hand-painted on aged parchment with copper leaf borders, faint flame motif in the background, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "mars-2nd-house-aries-lagna-hero.webp",
+      "filename_og": "mars-2nd-house-aries-lagna-og.png",
+      "alt": "Crimson Mangal cutting through the second house of a Mesh Lagna kundali",
+      "caption": "Mangal sits in Dhana Bhava for Aries ascendant natives, the lagna lord in Vrishabha producing the wealth-speech-family Manglik signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "crimson editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the second house glowing deep crimson, a stylised Mars symbol with a sword over coin motif, traditional Vedic palette, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic mars, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "mars-2nd-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Mars placed in the second house of Mesh",
+      "caption": "The North Indian birth chart with Mangal marked in the second house Dhana Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the upper-left second house highlighted in crimson with a Mars symbol marked Ma, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "mars-2nd-house-aries-lagna-red-coral.webp",
+      "alt": "Natural red coral in copper ring, the gemstone for Mars 2nd house Mesh Lagna",
+      "caption": "Red coral for Mars in 2nd house requires chart verification because the 2nd house is a Manglik position and direct amplification needs careful Navamsa support.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural Italian red coral set in a copper ring, deep orange-red colour, oval cabochon cut, on dark crimson velvet with warm lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "mars-2nd-house-aries-lagna-mangal-stotra.webp",
+      "alt": "Mangal Dosh Nivaran Stotra Sanskrit verse on parchment with copper disc",
+      "caption": "Mangal Dosh Nivaran Stotra is the dedicated Tuesday recitation for any chart carrying Kuja Dosha from the second house placement.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Mangal Dosh Nivaran Stotra, hand-painted on aged parchment with copper leaf borders, faint flame motif in the background, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Mars in the 2nd house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Mangal in Dhana Bhava for Aries ascendant natives. The lagna lord in Venus's enemy sign Vrishabha, the classical Manglik Dosha position, wealth through effort, sharp speech signature, family friction, and the remedial practice that actually works.",
     "meta": [
-      { "icon": "clock", "value": "11 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "11 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Mangal", "tone": "teal" },
-      { "label": "Dhana Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Vrishabha rashi" },
-      { "label": "Manglik Dosha" },
-      { "label": "Lagna lord in 2nd" }
+      {
+        "label": "Mangal",
+        "tone": "teal"
+      },
+      {
+        "label": "Dhana Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Vrishabha rashi"
+      },
+      {
+        "label": "Manglik Dosha"
+      },
+      {
+        "label": "Lagna lord in 2nd"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +273,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Mangal", "sub": "Mars", "icon": "mars" },
-        { "label": "Bhava", "value": "2nd", "sub": "Dhana Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Moderate", "sub": "Manglik Dosha", "icon": "star", "tone": "warn" }
+        {
+          "label": "Planet",
+          "value": "Mangal",
+          "sub": "Mars",
+          "icon": "mars"
+        },
+        {
+          "label": "Bhava",
+          "value": "2nd",
+          "sub": "Dhana Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Moderate",
+          "sub": "Manglik Dosha",
+          "icon": "star",
+          "tone": "warn"
+        }
       ]
     },
     {
@@ -104,39 +312,103 @@
       "heading": "Why the lagna lord in the wealth house cuts both ways",
       "html": "<p>The second house is Dhana Bhava, the domain of accumulated wealth, speech, family of origin, the face and mouth, food habits, memory, early learning, and the values the native inherits before they consciously choose their own. Classical tradition also classifies it as a Marakasthana, a house where difficult planetary influences can sharpen during specific dasha periods, though this reading applies more strongly to the planets occupying the 7th and 2nd together rather than to any individual placement. Mars here brings the warrior planet into a domain that values stability, aesthetic comfort, and slow accumulation, which produces an immediate tension the native either masters or fights against for decades depending on their awareness.</p><p>Vrishabha rashi adds the second layer. Venus rules Vrishabha, Mars and Venus are classical enemies, and the sign itself is fixed earth, slow-moving, comfort-loving, and sensually oriented. Mars in Vrishabha does not lose his fire, but he finds it in an environment that wants to move slowly and gather possessions rather than fight battles. What happens in practice is that the native becomes a fighter for material security, someone who treats wealth accumulation with the intensity most people reserve for survival, and who builds businesses or careers explicitly to create financial stability that their family of origin may not have had. The third interpretive layer is the Manglik Dosha status. The 2nd is on the classical list, so this placement does carry the dosha, and practitioners should always run the full eight-fold cancellation check (matched Manglik in partner, Jupiter aspect, sign dignity, benefic conjunction, Navamsa strength, age cancellation, Mars-in-seventh-of-partner, and strong lagna-lord-of-partner rules) before drawing marriage-timing conclusions. In more than half the charts I read with this combination, at least one cancellation trigger applies.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "Mars in Dhana Bhava does not hand the native a fortune, it hands them the willingness to build one from whatever they were given. The chart rewards the fight for security and punishes the drift toward comfortable dependency." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "Mars in Dhana Bhava does not hand the native a fortune, it hands them the willingness to build one from whatever they were given. The chart rewards the fight for security and punishes the drift toward comfortable dependency."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "mars", "title": "Mangal, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "mars",
+          "title": "Mangal, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Courage, energy, sibling, land" },
-            { "k": "Own signs", "v": "Mesha (Aries), Vrishchika (Scorpio)" },
-            { "k": "Uchha (exaltation)", "v": "Makara at 28 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Karka at 28 degrees", "tone": "bad" },
-            { "k": "Friends", "v": "Sun, Moon, Jupiter" },
-            { "k": "Enemies", "v": "Mercury, Venus", "tone": "bad" },
-            { "k": "Element", "v": "Fire (Agni Tattva)" },
-            { "k": "Role for Mesh", "v": "Lagna lord and 8th lord" }
+            {
+              "k": "Karakatva",
+              "v": "Courage, energy, sibling, land"
+            },
+            {
+              "k": "Own signs",
+              "v": "Mesha (Aries), Vrishchika (Scorpio)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Makara at 28 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Karka at 28 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Moon, Jupiter"
+            },
+            {
+              "k": "Enemies",
+              "v": "Mercury, Venus",
+              "tone": "bad"
+            },
+            {
+              "k": "Element",
+              "v": "Fire (Agni Tattva)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "Lagna lord and 8th lord"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Dhana Bhava, house profile", "subtitle": "2nd house significance",
+          "icon": "triangle-house",
+          "title": "Dhana Bhava, house profile",
+          "subtitle": "2nd house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Dhana, Kutumba Bhava" },
-            { "k": "Rules over", "v": "Wealth, speech, family, face, food" },
-            { "k": "Natural sign", "v": "Vrishabha (Taurus) for Mesh" },
-            { "k": "Natural ruler", "v": "Shukra (Venus)" },
-            { "k": "Body part", "v": "Face, mouth, teeth, throat" },
-            { "k": "Classical nature", "v": "Marakasthana (mild)", "tone": "warn" },
-            { "k": "Vedic quality", "v": "Lagna lord in wealth house" },
-            { "k": "Manglik status", "v": "Yes, Manglik position", "tone": "warn" }
+            {
+              "k": "Sanskrit name",
+              "v": "Dhana, Kutumba Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Wealth, speech, family, face, food"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Vrishabha (Taurus) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Shukra (Venus)"
+            },
+            {
+              "k": "Body part",
+              "v": "Face, mouth, teeth, throat"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Marakasthana (mild)",
+              "tone": "warn"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Lagna lord in wealth house"
+            },
+            {
+              "k": "Manglik status",
+              "v": "Yes, Manglik position",
+              "tone": "warn"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +450,48 @@
       "heading": "Where the wealth-drive channels productively",
       "html": "<p>Career paths cluster around fields that reward wealth-building intensity, direct communication, and the willingness to operate where others hesitate. Banking, particularly risk management, credit, collections, and trading desks, is a strong fit because these roles reward the exact temperament the combination produces, analytical aggression paired with an acute sense of financial security. Wealth management and private banking also work well because the native understands the emotional relationship with money that wealthy clients bring to conversations, having fought for their own financial stability throughout life. Food industry careers, especially commodity trading, restaurant group leadership, and agriculture businesses, suit because Vrishabha is the earthy food sign and Mars gives the operational drive that food businesses demand.</p><p>Real estate and property investment work for the same reasons Mars-in-fourth does, the Mars-land karaka remains active, and the second house wealth focus channels the land instinct into investment rather than personal settlement. Spokesperson, debate, and commentary careers fit because the sharp speech signature becomes a professional asset when the native is paid to say what others will not, political commentary, legal advocacy, corporate spokesperson roles, and combat journalism all work. Jewelry, luxury goods, and commodities trading suit the Vrishabha aesthetic and value-accumulation sensibility paired with the Mars willingness to act decisively in volatile markets. Mangal mahadasha is typically when the career trajectory delivers its wealth-building peak, and the Manglik dosha concern for marriage tends to resolve through the cancellation rules if the native commits to a specific field rather than drifting across several before committing in their thirties.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Manglik Dosha cancellation", "subtitle": "Generate your free Kundali to verify the 2nd house Mars and run the full cancellation diagnostic.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Mars marked in the second house of Mesh", "planet": "Mangal", "house": 2, "lagna": "Mesh", "legend": [ { "color": "rose", "text": "Mangal in Dhana Bhava, marked in deep crimson" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Upper-left diamond is the 2nd house of wealth" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Manglik Dosha cancellation",
+        "subtitle": "Generate your free Kundali to verify the 2nd house Mars and run the full cancellation diagnostic.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Mars marked in the second house of Mesh",
+      "planet": "Mangal",
+      "house": 2,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "rose",
+          "text": "Mangal in Dhana Bhava, marked in deep crimson"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Upper-left diamond is the 2nd house of wealth"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "Speech, family and the signature that needs active management",
@@ -194,13 +504,45 @@
       "heading": "When Mars in 2nd delivers its wealth chapter",
       "intro_html": "<p>Mangal mahadasha is the defining window for this placement. Shukra, Guru and Chandra periods also shape the wealth and family story significantly.</p>",
       "rows": [
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "The Dhana Bhava activation window. Wealth accumulation leaps, career commitment decisions, family reconciliation or friction peaks, speech-based recognition.", "intensity": "Very high", "intensity_bar_width": 92, "intensity_bar_color": "#c94444", "highlight": true },
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "Sign lord of Vrishabha. The longest wealth-supportive window, partnership-based business, aesthetic and luxury career opportunities, family healing.", "intensity": "Very good", "intensity_bar_width": 88, "intensity_bar_color": "#338a95" },
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "9th lord, friend of Mars. Wisdom applied to wealth, teaching about money, dharmic direction to the accumulation drive.", "intensity": "Very good", "intensity_bar_width": 82, "intensity_bar_color": "#e8840a" },
-        { "mahadasha": "Chandra (Moon)", "duration": "10 years", "themes": "Family karaka and friend of Mars. Family reconciliation windows, mother-linked events, home-based wealth expressions.", "intensity": "Good", "intensity_bar_width": 72, "intensity_bar_color": "#7aa8cc" }
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "The Dhana Bhava activation window. Wealth accumulation leaps, career commitment decisions, family reconciliation or friction peaks, speech-based recognition.",
+          "intensity": "Very high",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#c94444",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "Sign lord of Vrishabha. The longest wealth-supportive window, partnership-based business, aesthetic and luxury career opportunities, family healing.",
+          "intensity": "Very good",
+          "intensity_bar_width": 88,
+          "intensity_bar_color": "#338a95"
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "9th lord, friend of Mars. Wisdom applied to wealth, teaching about money, dharmic direction to the accumulation drive.",
+          "intensity": "Very good",
+          "intensity_bar_width": 82,
+          "intensity_bar_color": "#e8840a"
+        },
+        {
+          "mahadasha": "Chandra (Moon)",
+          "duration": "10 years",
+          "themes": "Family karaka and friend of Mars. Family reconciliation windows, mother-linked events, home-based wealth expressions.",
+          "intensity": "Good",
+          "intensity_bar_width": 72,
+          "intensity_bar_color": "#7aa8cc"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +561,141 @@
       "heading": "Gemstones for Mars in 2nd house Mesh Lagna",
       "intro_html": "<p>For a Manglik 2nd house Mars, red coral should only be worn after chart verification. Until then, pearl is sometimes considered as a softening primary.</p>",
       "cards": [
-        { "name": "Moonga (Red Coral)", "role": "primary", "sub": "Only after Navamsa and cancellation verification", "icon_variant": "coral", "image_slug": "red-coral", "items": [ { "k": "Metal", "v": "Copper or gold" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Tuesday morning" }, { "k": "Caution", "v": "Verify Navamsa Mars first", "tone": "warn" } ] },
-        { "name": "Moti (Pearl)", "role": "secondary", "sub": "Softens speech channel, moon-cooled alternative", "icon_variant": "pearl", "image_slug": "pearl", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Little finger" }, { "k": "Day to wear", "v": "Monday, evening" }, { "k": "Min weight", "v": "4 to 6 Ratti" } ] },
-        { "name": "Consult before wearing any stone", "role": "shop", "sub": "Manglik verification by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Moonga (Red Coral)",
+          "role": "primary",
+          "sub": "Only after Navamsa and cancellation verification",
+          "icon_variant": "coral",
+          "image_slug": "red-coral",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Copper or gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Tuesday morning"
+            },
+            {
+              "k": "Caution",
+              "v": "Verify Navamsa Mars first",
+              "tone": "warn"
+            }
+          ]
+        },
+        {
+          "name": "Moti (Pearl)",
+          "role": "secondary",
+          "sub": "Softens speech channel, moon-cooled alternative",
+          "icon_variant": "pearl",
+          "image_slug": "pearl",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Little finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Monday, evening"
+            },
+            {
+              "k": "Min weight",
+              "v": "4 to 6 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing any stone",
+          "role": "shop",
+          "sub": "Manglik verification by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "A Manglik second house Mars should never receive direct red coral amplification without full chart review. Always consult a qualified Jyotishi first."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Mars in 2nd house",
       "intro_html": "<p>The Mangal rudraksha is the Teen Mukhi, but for a Manglik second house Mars the Gyarah Mukhi Hanuman bead is often the safer primary choice.</p>",
       "beads": [
-        { "mukhi": 11, "name": "Gyarah Mukhi Rudraksha", "sub": "Ruled by Hanuman, the Rudra bead", "benefit": "The cleaner primary bead for a Manglik 2nd house Mars because it carries the classical dosha-softening power of Hanuman without directly amplifying the sharp Mars channel in an enemy sign. Worn after Tuesday morning Hanuman puja." },
-        { "mukhi": 3, "name": "Teen Mukhi Rudraksha", "sub": "Ruled by Agni and Mangal", "benefit": "The direct Mars bead, useful as a secondary after the Manglik cancellation has been verified. Pairs with red coral only after practitioner consultation for this placement." }
+        {
+          "mukhi": 11,
+          "name": "Gyarah Mukhi Rudraksha",
+          "sub": "Ruled by Hanuman, the Rudra bead",
+          "benefit": "The cleaner primary bead for a Manglik 2nd house Mars because it carries the classical dosha-softening power of Hanuman without directly amplifying the sharp Mars channel in an enemy sign. Worn after Tuesday morning Hanuman puja."
+        },
+        {
+          "mukhi": 3,
+          "name": "Teen Mukhi Rudraksha",
+          "sub": "Ruled by Agni and Mangal",
+          "benefit": "The direct Mars bead, useful as a secondary after the Manglik cancellation has been verified. Pairs with red coral only after practitioner consultation for this placement."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Mangal Yantra for the Dhana Bhava Manglik", "yantra": { "name": "Mangal Yantra", "sanskrit": "मंगल यन्त्र", "description": "The Mangal Yantra is the geometric form of the warrior channel. For a Manglik 2nd house Mars, install it in the south wall of your home temple after a Tuesday morning Hanuman puja, and pair with a small Shukra yantra on the adjacent south-east wall to honour the sign lord Venus and soften the enemy-sign tension.", "direction": "South wall (with Shukra yantra on SE)", "install_day": "Tuesday morning, Mangal hora", "material": "Copper (traditional for Mangal)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for the Manglik Mars", "stotra": { "eyebrow": "Mangal Dosh Nivaran Stotram", "title": "Mangal Dosh Nivaran Stotram", "sub": "The dedicated Manglik Dosha softening hymn, recited on Tuesday morning", "verse": "Dharanee garbha sambhootam vidyut kaanti samaprabham<br>Kumaram shakti hastam cha mangalam pranamaamyaham<br>Raktaambaro raktavapuh kireeti chaturbhujo mesha gatashcha daataa<br>Rinahartaa dhana pradaah sthiraasano mahaakaayah", "translation": "Born of the womb of the Earth, radiant like lightning, the youth holding the spear, I bow to Mangal. Red-clothed, red-bodied, crowned, four-armed, seated on a ram, the giver, destroyer of debts, bestower of wealth, seated firmly, of great form. The Mangal Dosh Nivaran Stotram is the specifically dedicated recitation for softening Kuja Dosha and is essential for any chart carrying a Manglik second house Mars.", "url": "https://stotra.vastucart.in/stotra/mangal-dosh-nivaran-stotram" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Mangal Yantra for the Dhana Bhava Manglik",
+      "yantra": {
+        "name": "Mangal Yantra",
+        "sanskrit": "मंगल यन्त्र",
+        "description": "The Mangal Yantra is the geometric form of the warrior channel. For a Manglik 2nd house Mars, install it in the south wall of your home temple after a Tuesday morning Hanuman puja, and pair with a small Shukra yantra on the adjacent south-east wall to honour the sign lord Venus and soften the enemy-sign tension.",
+        "direction": "South wall (with Shukra yantra on SE)",
+        "install_day": "Tuesday morning, Mangal hora",
+        "material": "Copper (traditional for Mangal)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for the Manglik Mars",
+      "stotra": {
+        "eyebrow": "Mangal Dosh Nivaran Stotram",
+        "title": "Mangal Dosh Nivaran Stotram",
+        "sub": "The dedicated Manglik Dosha softening hymn, recited on Tuesday morning",
+        "verse": "Dharanee garbha sambhootam vidyut kaanti samaprabham<br>Kumaram shakti hastam cha mangalam pranamaamyaham<br>Raktaambaro raktavapuh kireeti chaturbhujo mesha gatashcha daataa<br>Rinahartaa dhana pradaah sthiraasano mahaakaayah",
+        "translation": "Born of the womb of the Earth, radiant like lightning, the youth holding the spear, I bow to Mangal. Red-clothed, red-bodied, crowned, four-armed, seated on a ram, the giver, destroyer of debts, bestower of wealth, seated firmly, of great form. The Mangal Dosh Nivaran Stotram is the specifically dedicated recitation for softening Kuja Dosha and is essential for any chart carrying a Manglik second house Mars.",
+        "url": "https://stotra.vastucart.in/stotra/mangal-dosh-nivaran-stotram"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +703,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your second house and run Manglik cancellation", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Marriage muhurta", "sub": "Auspicious dates after Manglik cancellation", "url": "https://muhurta.vastucart.in/marriage-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Business muhurta", "sub": "Auspicious dates for wealth ventures", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Mangal Dosh Nivaran", "sub": "Dedicated Manglik softening stotra", "url": "https://stotra.vastucart.in/stotra/mangal-dosh-nivaran-stotram", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Mangal Kavacham", "sub": "Protective armour stotra for Mars", "url": "https://stotra.vastucart.in/stotra/mangal-kavacham", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Mangal Chandika Stotram", "sub": "Classical Devi hymn for Mars softening", "url": "https://stotra.vastucart.in/stotra/mangal-chandika-stotram", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Hanuman Chalisa", "sub": "Daily dusk recitation for Mars natives", "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Bajrang Baan", "sub": "Hanuman arrow hymn for protection", "url": "https://stotra.vastucart.in/stotra/bajrang-baan", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Gyarah Mukhi rudraksha source", "sub": "Safer primary bead for Manglik Mars", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Mangal yantra store", "sub": "Copper Mangal yantra for Manglik 2nd Mars", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Manglik verification with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your second house and run Manglik cancellation",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Marriage muhurta",
+            "sub": "Auspicious dates after Manglik cancellation",
+            "url": "https://muhurta.vastucart.in/marriage-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Business muhurta",
+            "sub": "Auspicious dates for wealth ventures",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Mangal Dosh Nivaran",
+            "sub": "Dedicated Manglik softening stotra",
+            "url": "https://stotra.vastucart.in/stotra/mangal-dosh-nivaran-stotram",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Mangal Kavacham",
+            "sub": "Protective armour stotra for Mars",
+            "url": "https://stotra.vastucart.in/stotra/mangal-kavacham",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Mangal Chandika Stotram",
+            "sub": "Classical Devi hymn for Mars softening",
+            "url": "https://stotra.vastucart.in/stotra/mangal-chandika-stotram",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Hanuman Chalisa",
+            "sub": "Daily dusk recitation for Mars natives",
+            "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Bajrang Baan",
+            "sub": "Hanuman arrow hymn for protection",
+            "url": "https://stotra.vastucart.in/stotra/bajrang-baan",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Gyarah Mukhi rudraksha source",
+            "sub": "Safer primary bead for Manglik Mars",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Mangal yantra store",
+            "sub": "Copper Mangal yantra for Manglik 2nd Mars",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Manglik verification with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +803,130 @@
         "title": "Does your Manglik 2nd Mars have active cancellation?",
         "subtitle": "Get a full personalised analysis of your Dhana Bhava Mars, Navamsa strength, and marriage timing.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Mangal Dosh Nivaran", "url": "https://stotra.vastucart.in/stotra/mangal-dosh-nivaran-stotram", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Mangal Dosh Nivaran",
+            "url": "https://stotra.vastucart.in/stotra/mangal-dosh-nivaran-stotram",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Mars in 2nd house, Mesh Lagna",
       "items": [
-        { "q": "Is Mars in the 2nd house bad for Mesh Lagna?", "a": "It is more demanding than the Upachaya Mars placements but far from disastrous. The 2nd house is a Manglik position and is classically listed as a Marakasthana, and Mars here sits in Vrishabha which is an enemy sign ruled by Venus. However, the lagna lord in the wealth house gives a direct channel from identity to financial accumulation, classical Manglik cancellation rules frequently apply, and disciplined remedial practice (speech discipline, stotra recitation, Hanuman worship) softens the placement's shadow dimensions within years. The chart rewards the fight for security and penalises drift toward dependency." },
-        { "q": "Is Mars in 2nd house Manglik for Aries ascendant?", "a": "Yes. Classical Manglik Dosha applies when Mars occupies the 1st, 2nd, 4th, 7th, 8th, or 12th houses. The 2nd is on that list. Practitioners should always run the full eight-fold cancellation check (matched Manglik partner, Jupiter aspect, sign dignity, benefic conjunction, Navamsa strength, age cancellation, and the Mars-in-seventh-of-partner rule) before drawing marriage-timing conclusions. In more than half the Mesh Lagna charts I read with this combination, at least one cancellation trigger applies." },
-        { "q": "How does Mars in 2nd house affect speech and family?", "a": "Speech is sharp, direct, and often brilliant, but carries a cutting quality that wounds family members during the native's early life. The 2nd house is the family of origin house, and Mars here produces a tension that typically peaks in the teenage years and resolves gradually through the twenties and thirties as the native learns the hard-won skill of speech discipline. The healing that follows is often one of the deepest rewards of the placement, and natives who commit to conscious speech practice see their family relationships transform within years rather than decades." },
-        { "q": "Does Mars in 2nd house give wealth?", "a": "Yes, through effort rather than inheritance. The lagna lord in the wealth house produces natives whose core drive is financial security and whose career commitments are strongly shaped by that drive. Wealth typically builds slowly through the twenties and accelerates visibly from the mid-thirties onwards as the native commits to a specific field. Mangal mahadasha is the peak wealth-building window, and careers in banking, commodities, real estate, spokesperson roles, and direct-speech professions deliver most reliably." },
-        { "q": "Which gemstone should Mesh Lagna wear for Mars in 2nd?", "a": "Red coral is the classical Mars stone but should only be worn after a practising Jyotishi verifies the Navamsa Mars strength and confirms that Manglik cancellation applies. Until that verification, pearl (Moti) is sometimes considered as a softening primary because it supports the lunar calming channel and eases the sharp speech signature. Never wear red coral for a Manglik 2nd house Mars without a full chart review, because direct amplification can intensify the friction the remedial practice is trying to soften." }
+        {
+          "q": "Is Mars in the 2nd house bad for Mesh Lagna?",
+          "a": "It is more demanding than the Upachaya Mars placements but far from disastrous. The 2nd house is a Manglik position and is classically listed as a Marakasthana, and Mars here sits in Vrishabha which is an enemy sign ruled by Venus. However, the lagna lord in the wealth house gives a direct channel from identity to financial accumulation, classical Manglik cancellation rules frequently apply, and disciplined remedial practice (speech discipline, stotra recitation, Hanuman worship) softens the placement's shadow dimensions within years. The chart rewards the fight for security and penalises drift toward dependency."
+        },
+        {
+          "q": "Is Mars in 2nd house Manglik for Aries ascendant?",
+          "a": "Yes. Classical Manglik Dosha applies when Mars occupies the 1st, 2nd, 4th, 7th, 8th, or 12th houses. The 2nd is on that list. Practitioners should always run the full eight-fold cancellation check (matched Manglik partner, Jupiter aspect, sign dignity, benefic conjunction, Navamsa strength, age cancellation, and the Mars-in-seventh-of-partner rule) before drawing marriage-timing conclusions. In more than half the Mesh Lagna charts I read with this combination, at least one cancellation trigger applies."
+        },
+        {
+          "q": "How does Mars in 2nd house affect speech and family?",
+          "a": "Speech is sharp, direct, and often brilliant, but carries a cutting quality that wounds family members during the native's early life. The 2nd house is the family of origin house, and Mars here produces a tension that typically peaks in the teenage years and resolves gradually through the twenties and thirties as the native learns the hard-won skill of speech discipline. The healing that follows is often one of the deepest rewards of the placement, and natives who commit to conscious speech practice see their family relationships transform within years rather than decades."
+        },
+        {
+          "q": "Does Mars in 2nd house give wealth?",
+          "a": "Yes, through effort rather than inheritance. The lagna lord in the wealth house produces natives whose core drive is financial security and whose career commitments are strongly shaped by that drive. Wealth typically builds slowly through the twenties and accelerates visibly from the mid-thirties onwards as the native commits to a specific field. Mangal mahadasha is the peak wealth-building window, and careers in banking, commodities, real estate, spokesperson roles, and direct-speech professions deliver most reliably."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Mars in 2nd?",
+          "a": "Red coral is the classical Mars stone but should only be worn after a practising Jyotishi verifies the Navamsa Mars strength and confirms that Manglik cancellation applies. Until that verification, pearl (Moti) is sometimes considered as a softening primary because it supports the lunar calming channel and eases the sharp speech signature. Never wear red coral for a Manglik 2nd house Mars without a full chart review, because direct amplification can intensify the friction the remedial practice is trying to soften."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Manglik specialist", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Mangal in the seventh, Manglik central case", "sub": "Mars in Tula, marriage house Manglik study", "href": "/jyotish/graha-in-bhava/mars-7th-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Mangal in the fourth, debilitated Karka", "sub": "Lagna lord neecha in the home house", "href": "/jyotish/graha-in-bhava/mars-4th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Shukra in the second, own sign Vrishabha", "sub": "Venus in own sign, wealth and speech blessing", "href": "/jyotish/graha-in-bhava/venus-2nd-house-aries-lagna", "icon_variant": "generic" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Mangal in the seventh, Manglik central case",
+          "sub": "Mars in Tula, marriage house Manglik study",
+          "href": "/jyotish/graha-in-bhava/mars-7th-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Mangal in the fourth, debilitated Karka",
+          "sub": "Lagna lord neecha in the home house",
+          "href": "/jyotish/graha-in-bhava/mars-4th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Shukra in the second, own sign Vrishabha",
+          "sub": "Venus in own sign, wealth and speech blessing",
+          "href": "/jyotish/graha-in-bhava/venus-2nd-house-aries-lagna",
+          "icon_variant": "generic"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

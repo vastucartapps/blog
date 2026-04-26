@@ -7,7 +7,7 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 9,
   "status": "ready",
   "published_at": "2026-04-12T00:00:00.000Z",
@@ -20,7 +20,6 @@
     "Jyotish",
     "uchha",
     "Pratham Bhava",
-    "Pt Raghav Sharma",
     "graha in bhava",
     "manik ruby",
     "aditya hridayam"
@@ -30,7 +29,7 @@
   "lagna_id": "mesha",
   "meta": {
     "title": "Sun in 1st House for Mesh Lagna, Effects and Remedies",
-    "description": "Sun in 1st house for Mesh Lagna explained: personality, career, health, marriage, dasha, gemstone, rudraksha, yantra and stotra, by Pt. Raghav Sharma.",
+    "description": "Sun in 1st house for Mesh Lagna explained: personality, career, health, marriage, dasha, gemstone, rudraksha, yantra and stotra, by VastuCart Editorial.",
     "focus_keyword": "Sun in 1st house",
     "secondary_keywords": [
       "Mesh Lagna",
@@ -61,10 +60,22 @@
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-1st-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Sun in 1st House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-1st-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Sun in 1st House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-1st-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
@@ -127,9 +138,30 @@
       "Does Sun in 1st house cause ego or relationship problems?"
     ],
     "lingual_variations": {
-      "surya": ["surya", "soorya", "sun", "sooraj", "sury", "ravi", "aditya", "bhanu"],
-      "mesh": ["mesh", "mesha", "aries", "mesha rashi", "mesh lagna"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart", "janma kundali"]
+      "surya": [
+        "surya",
+        "soorya",
+        "sun",
+        "sooraj",
+        "sury",
+        "ravi",
+        "aditya",
+        "bhanu"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesha rashi",
+        "mesh lagna"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart",
+        "janma kundali"
+      ]
     },
     "content_gaps": [
       "Specific antardasha sequences inside Surya mahadasha",
@@ -195,19 +227,48 @@
     "title_html": "Sun in the 1st house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A thorough, practitioner-level study of Surya in Pratham Bhava for Aries ascendant natives. Covers personality, health, career, marriage, dasha activation, gemstones, rudraksha, yantra, and stotra.",
     "meta": [
-      { "icon": "clock", "value": "9 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "9 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Surya", "tone": "teal" },
-      { "label": "Pratham Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Digbali" },
-      { "label": "Uchha influence" },
-      { "label": "Kendra plus Trikona" },
-      { "label": "Surya Mahadasha" }
+      {
+        "label": "Surya",
+        "tone": "teal"
+      },
+      {
+        "label": "Pratham Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Digbali"
+      },
+      {
+        "label": "Uchha influence"
+      },
+      {
+        "label": "Kendra plus Trikona"
+      },
+      {
+        "label": "Surya Mahadasha"
+      }
     ]
   },
   "schema": {
@@ -220,9 +281,9 @@
       "dateModified": "2026-04-12T00:00:00.000Z",
       "author": {
         "@type": "Person",
-        "name": "Pt. Raghav Sharma",
+        "name": "VastuCart Editorial",
         "jobTitle": "Jyotish Acharya",
-        "url": "https://blog.vastucart.in/authors/pt-raghav-sharma"
+        "url": "https://blog.vastucart.in/authors/vastucart-editorial"
       },
       "publisher": {
         "@type": "Organization",
@@ -296,27 +357,58 @@
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://blog.vastucart.in/" },
-        { "@type": "ListItem", "position": 2, "name": "Jyotish", "item": "https://blog.vastucart.in/jyotish" },
-        { "@type": "ListItem", "position": 3, "name": "Graha in Bhava", "item": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-        { "@type": "ListItem", "position": 4, "name": "Sun in 1st House, Mesh Lagna", "item": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-1st-house-aries-lagna" }
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://blog.vastucart.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Jyotish",
+          "item": "https://blog.vastucart.in/jyotish"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Graha in Bhava",
+          "item": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Sun in 1st House, Mesh Lagna",
+          "item": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-1st-house-aries-lagna"
+        }
       ]
     },
     "author": {
       "@context": "https://schema.org",
       "@type": "Person",
-      "name": "Pt. Raghav Sharma",
+      "name": "VastuCart Editorial",
       "jobTitle": "Senior Jyotishi, Vedic Astrology",
-      "description": "Varanasi-based practising Jyotishi with over twenty two years of consultation experience in Parashari Jyotish.",
-      "url": "https://blog.vastucart.in/authors/pt-raghav-sharma",
-      "knowsAbout": ["Jyotish", "Graha in Bhava", "Vimshottari Dasha", "Muhurta", "Remedies"]
+      "description": "Varanasi-based practising Jyotishi with decades of of consultation experience in Parashari Jyotish.",
+      "url": "https://blog.vastucart.in/authors/vastucart-editorial",
+      "knowsAbout": [
+        "Jyotish",
+        "Graha in Bhava",
+        "Vimshottari Dasha",
+        "Muhurta",
+        "Remedies"
+      ]
     },
     "organization": {
       "@context": "https://schema.org",
       "@type": "Organization",
       "name": "VastuCart",
       "url": "https://vastucart.in",
-      "logo": { "@type": "ImageObject", "url": "https://blog.vastucart.in/VastuCartLogo.png", "width": 1024, "height": 1024 },
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://blog.vastucart.in/VastuCartLogo.png",
+        "width": 1024,
+        "height": 1024
+      },
       "sameAs": [
         "https://vastucart.in",
         "https://kundali.vastucart.in",
@@ -342,7 +434,11 @@
       "@type": "WebPage",
       "name": "Sun in the 1st house, Mesh Lagna",
       "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-1st-house-aries-lagna",
-      "isPartOf": { "@type": "WebSite", "url": "https://blog.vastucart.in", "name": "VastuCart Blog" },
+      "isPartOf": {
+        "@type": "WebSite",
+        "url": "https://blog.vastucart.in",
+        "name": "VastuCart Blog"
+      },
       "primaryImageOfPage": "https://blog.vastucart.in/og/sun-1st-house-aries-lagna.png",
       "inLanguage": "en-IN"
     },
@@ -363,7 +459,7 @@
       "dateCreated": "2026-04-12T00:00:00.000Z",
       "mainEntity": {
         "@type": "Person",
-        "name": "Pt. Raghav Sharma"
+        "name": "VastuCart Editorial"
       }
     },
     "defined_term_set": {
@@ -381,7 +477,9 @@
         "@id": "https://blog.vastucart.in/#glossary/surya",
         "name": "Surya",
         "description": "The Sun, the natural significator of soul, father, authority and vitality in Jyotish.",
-        "inDefinedTermSet": { "@id": "https://blog.vastucart.in/#glossary" },
+        "inDefinedTermSet": {
+          "@id": "https://blog.vastucart.in/#glossary"
+        },
         "termCode": "surya"
       },
       {
@@ -390,7 +488,9 @@
         "@id": "https://blog.vastucart.in/#glossary/mesh-lagna",
         "name": "Mesh Lagna",
         "description": "Aries ascendant, the first sign of the zodiac, cardinal fire, ruled by Mangal (Mars).",
-        "inDefinedTermSet": { "@id": "https://blog.vastucart.in/#glossary" },
+        "inDefinedTermSet": {
+          "@id": "https://blog.vastucart.in/#glossary"
+        },
         "termCode": "mesh-lagna"
       },
       {
@@ -399,7 +499,9 @@
         "@id": "https://blog.vastucart.in/#glossary/pratham-bhava",
         "name": "Pratham Bhava",
         "description": "The first house of a horoscope, representing body, self, vitality and first impressions.",
-        "inDefinedTermSet": { "@id": "https://blog.vastucart.in/#glossary" },
+        "inDefinedTermSet": {
+          "@id": "https://blog.vastucart.in/#glossary"
+        },
         "termCode": "pratham-bhava"
       },
       {
@@ -408,7 +510,9 @@
         "@id": "https://blog.vastucart.in/#glossary/uchha",
         "name": "Uchha",
         "description": "Exaltation. The sign in which a graha (planet) reaches its highest expression of strength.",
-        "inDefinedTermSet": { "@id": "https://blog.vastucart.in/#glossary" },
+        "inDefinedTermSet": {
+          "@id": "https://blog.vastucart.in/#glossary"
+        },
         "termCode": "uchha"
       }
     ],
@@ -418,10 +522,26 @@
       "name": "Daily remedies for exalted Sun in Aries lagna",
       "totalTime": "PT20M",
       "step": [
-        { "@type": "HowToStep", "name": "Sunrise practice", "text": "Rise before sunrise, take a cold bath, face east, and recite the Aditya Hridayam in full." },
-        { "@type": "HowToStep", "name": "Water offering", "text": "Offer water to the Sun with both hands through a copper vessel, reciting Om Suryaya Namaha." },
-        { "@type": "HowToStep", "name": "Sunday fast", "text": "Keep one grain on Sunday, avoid salt, take wheat and jaggery at noon, no evening meal." },
-        { "@type": "HowToStep", "name": "Charity", "text": "Offer red wheat and raw sugar to a person over sixty on Sunday at sunrise." }
+        {
+          "@type": "HowToStep",
+          "name": "Sunrise practice",
+          "text": "Rise before sunrise, take a cold bath, face east, and recite the Aditya Hridayam in full."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Water offering",
+          "text": "Offer water to the Sun with both hands through a copper vessel, reciting Om Suryaya Namaha."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Sunday fast",
+          "text": "Keep one grain on Sunday, avoid salt, take wheat and jaggery at noon, no evening meal."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Charity",
+          "text": "Offer red wheat and raw sugar to a person over sixty on Sunday at sunrise."
+        }
       ]
     },
     "howto_secondary": {
@@ -430,11 +550,31 @@
       "name": "How to wear Ruby, Manik, for Sun in 1st house",
       "totalTime": "PT30M",
       "step": [
-        { "@type": "HowToStep", "name": "Certify", "text": "Confirm the stone is natural, untreated, and minimum three ratti through a lab certificate." },
-        { "@type": "HowToStep", "name": "Purify", "text": "Soak overnight in raw cow's milk followed by Ganga jal, pass through sandalwood incense." },
-        { "@type": "HowToStep", "name": "Energise", "text": "Recite Om Hram Hreem Hroum Sah Suryaya Namaha one hundred and eight times at sunrise." },
-        { "@type": "HowToStep", "name": "Wear", "text": "Place the ring on the ring finger of the right hand after the final mantra repetition." },
-        { "@type": "HowToStep", "name": "Observe", "text": "Test the stone for seven days, continue only if the experience is clearly positive." }
+        {
+          "@type": "HowToStep",
+          "name": "Certify",
+          "text": "Confirm the stone is natural, untreated, and minimum three ratti through a lab certificate."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Purify",
+          "text": "Soak overnight in raw cow's milk followed by Ganga jal, pass through sandalwood incense."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Energise",
+          "text": "Recite Om Hram Hreem Hroum Sah Suryaya Namaha one hundred and eight times at sunrise."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Wear",
+          "text": "Place the ring on the ring finger of the right hand after the final mantra repetition."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Observe",
+          "text": "Test the stone for seven days, continue only if the experience is clearly positive."
+        }
       ]
     },
     "product_gem": {
@@ -443,7 +583,10 @@
       "name": "Certified Natural Ruby, Manik",
       "category": "Gemstone",
       "description": "Natural untreated ruby gemstone set in gold, for Sun in 1st house Mesh Lagna natives.",
-      "brand": { "@type": "Brand", "name": "VastuCart" },
+      "brand": {
+        "@type": "Brand",
+        "name": "VastuCart"
+      },
       "url": "https://store.vastucart.in/consultations"
     },
     "product_rudraksha": {
@@ -452,7 +595,10 @@
       "name": "Ek Mukhi and Dwadash Mukhi Rudraksha",
       "category": "Rudraksha",
       "description": "One mukhi and twelve mukhi rudraksha beads for Surya strengthening.",
-      "brand": { "@type": "Brand", "name": "VastuCart" },
+      "brand": {
+        "@type": "Brand",
+        "name": "VastuCart"
+      },
       "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart"
     },
     "product_yantra": {
@@ -461,7 +607,10 @@
       "name": "Surya Yantra",
       "category": "Yantra",
       "description": "Energised copper Surya Yantra for home and workspace installation.",
-      "brand": { "@type": "Brand", "name": "VastuCart" },
+      "brand": {
+        "@type": "Brand",
+        "name": "VastuCart"
+      },
       "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
     },
     "service": {
@@ -469,7 +618,10 @@
       "@type": "Service",
       "name": "Personal Jyotish Consultation",
       "serviceType": "Vedic Astrology Consultation",
-      "provider": { "@type": "Organization", "name": "VastuCart" },
+      "provider": {
+        "@type": "Organization",
+        "name": "VastuCart"
+      },
       "areaServed": "Worldwide",
       "url": "https://store.vastucart.in/consultations",
       "offers": {
@@ -481,7 +633,10 @@
     "speakable": {
       "@context": "https://schema.org",
       "@type": "SpeakableSpecification",
-      "cssSelector": [".prose-block", ".verse"]
+      "cssSelector": [
+        ".prose-block",
+        ".verse"
+      ]
     },
     "image_objects": [
       {
@@ -542,7 +697,7 @@
       "@context": "https://schema.org",
       "@type": "VideoObject",
       "name": "Sun in 1st house, Mesh Lagna — practitioner overview",
-      "description": "A short practitioner overview of Surya in Pratham Bhava for Aries ascendant by Pt. Raghav Sharma.",
+      "description": "A short practitioner overview of Surya in Pratham Bhava for Aries ascendant by VastuCart Editorial.",
       "thumbnailUrl": "https://blog.vastucart.in/og/sun-1st-house-aries-lagna.png",
       "uploadDate": "2026-04-12T00:00:00.000Z",
       "contentUrl": "https://blog.vastucart.in/posts/sun-1st-house-aries-lagna/video.mp4",
@@ -580,10 +735,24 @@
       "@type": "Dataset",
       "name": "Vimshottari Dasha activation for Sun in 1st house Mesh Lagna",
       "description": "Mahadasha periods, durations, themes, and intensity for the Sun in the 1st house of Mesh Lagna.",
-      "creator": { "@type": "Organization", "name": "VastuCart" },
+      "creator": {
+        "@type": "Organization",
+        "name": "VastuCart"
+      },
       "license": "https://vastucart.in/license",
-      "keywords": ["vimshottari", "mahadasha", "surya", "mesh lagna", "dasha"],
-      "variableMeasured": ["mahadasha", "duration", "themes", "intensity"],
+      "keywords": [
+        "vimshottari",
+        "mahadasha",
+        "surya",
+        "mesh lagna",
+        "dasha"
+      ],
+      "variableMeasured": [
+        "mahadasha",
+        "duration",
+        "themes",
+        "intensity"
+      ],
       "distribution": {
         "@type": "DataDownload",
         "encodingFormat": "text/html",
@@ -595,10 +764,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet",   "value": "Surya", "sub": "The Sun", "icon": "sun" },
-        { "label": "Bhava",    "value": "1st",   "sub": "Tanu Bhava", "icon": "triangle-house" },
-        { "label": "Lagna",    "value": "Mesh",  "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Strong","sub": "Own plus Kendra",  "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Surya",
+          "sub": "The Sun",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "1st",
+          "sub": "Tanu Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Strong",
+          "sub": "Own plus Kendra",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -611,7 +801,7 @@
       "type": "prose",
       "eyebrow": "Understanding the placement",
       "heading": "When the Sun finds its natural throne",
-      "html": "<p>There are placements in a birth chart that whisper, and there are placements that announce. Sun in the first house for <em>Mesh</em> (Aries) Lagna is decidedly the latter. The first house, <em>Pratham Bhava</em> or <em>Tanu Bhava</em>, governs the physical body, the sense of self, and the very first impression you make upon the world. It is the mask you wear not to hide yourself, but because it is truly who you are.</p><p><em>Surya</em> (the Sun), the planet of soul, authority, ego, and vitality, steps into this house and immediately feels at home. Aries, the natural first sign of the zodiac and ruled by <em>Mangal</em> (Mars), a friend of the Sun, creates a synergy that produces one of the most dynamic personality signatures in all of Jyotish. This is not a quiet placement. It is a sunrise placement, unmissable, powerful, and impossible to ignore.</p><p>For Mesh Lagna specifically, the Sun is also the fifth lord, ruling the trine of intelligence and past-life merit. Placing a trikona lord in a kendra is the classical signature of a <em>raja yoga</em>, a combination that produces status, recognition, and steady ascent. Twenty two years of practice have shown me that natives born with this yoga are marked early. Teachers notice them. Elders remember their names. They rarely hide in crowds.</p>"
+      "html": "<p>There are placements in a birth chart that whisper, and there are placements that announce. Sun in the first house for <em>Mesh</em> (Aries) Lagna is decidedly the latter. The first house, <em>Pratham Bhava</em> or <em>Tanu Bhava</em>, governs the physical body, the sense of self, and the very first impression you make upon the world. It is the mask you wear not to hide yourself, but because it is truly who you are.</p><p><em>Surya</em> (the Sun), the planet of soul, authority, ego, and vitality, steps into this house and immediately feels at home. Aries, the natural first sign of the zodiac and ruled by <em>Mangal</em> (Mars), a friend of the Sun, creates a synergy that produces one of the most dynamic personality signatures in all of Jyotish. This is not a quiet placement. It is a sunrise placement, unmissable, powerful, and impossible to ignore.</p><p>For Mesh Lagna specifically, the Sun is also the fifth lord, ruling the trine of intelligence and past-life merit. Placing a trikona lord in a kendra is the classical signature of a <em>raja yoga</em>, a combination that produces status, recognition, and steady ascent. decades of practice have shown me that natives born with this yoga are marked early. Teachers notice them. Elders remember their names. They rarely hide in crowds.</p>"
     },
     {
       "type": "pull-quote",
@@ -626,14 +816,42 @@
           "title": "Surya, planet profile",
           "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Soul, father, authority, ego" },
-            { "k": "Own sign", "v": "Simha (Leo)" },
-            { "k": "Uchha (exaltation)", "v": "Mesh at 10 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Tula at 10 degrees", "tone": "bad" },
-            { "k": "Friends", "v": "Moon, Mars, Jupiter" },
-            { "k": "Enemies", "v": "Saturn, Venus", "tone": "bad" },
-            { "k": "Digbali direction", "v": "East, 10th bhava", "tone": "good" },
-            { "k": "Element", "v": "Fire (Agni Tattva)" }
+            {
+              "k": "Karakatva",
+              "v": "Soul, father, authority, ego"
+            },
+            {
+              "k": "Own sign",
+              "v": "Simha (Leo)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Mesh at 10 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Tula at 10 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Friends",
+              "v": "Moon, Mars, Jupiter"
+            },
+            {
+              "k": "Enemies",
+              "v": "Saturn, Venus",
+              "tone": "bad"
+            },
+            {
+              "k": "Digbali direction",
+              "v": "East, 10th bhava",
+              "tone": "good"
+            },
+            {
+              "k": "Element",
+              "v": "Fire (Agni Tattva)"
+            }
           ]
         },
         {
@@ -641,19 +859,48 @@
           "title": "Pratham Bhava, house profile",
           "subtitle": "1st house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Tanu, Lagna Bhava" },
-            { "k": "Rules over", "v": "Self, body, vitality, fame" },
-            { "k": "Natural sign", "v": "Mesh (Aries)" },
-            { "k": "Natural ruler", "v": "Mangal (Mars)" },
-            { "k": "Body part", "v": "Head, brain, face" },
-            { "k": "Kendra house", "v": "Yes, angular, most powerful", "tone": "good" },
-            { "k": "Trikona house", "v": "Yes, dharma trikona", "tone": "good" },
-            { "k": "Vedic quality", "v": "Kendra plus Trikona (rajyoga)" }
+            {
+              "k": "Sanskrit name",
+              "v": "Tanu, Lagna Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Self, body, vitality, fame"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Mesh (Aries)"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Mangal (Mars)"
+            },
+            {
+              "k": "Body part",
+              "v": "Head, brain, face"
+            },
+            {
+              "k": "Kendra house",
+              "v": "Yes, angular, most powerful",
+              "tone": "good"
+            },
+            {
+              "k": "Trikona house",
+              "v": "Yes, dharma trikona",
+              "tone": "good"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Kendra plus Trikona (rajyoga)"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Personality and body",
@@ -705,7 +952,10 @@
         "button_variant": "saffron"
       }
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "kundali-visual",
       "eyebrow": "Kundali visual",
@@ -714,14 +964,26 @@
       "house": 1,
       "lagna": "Mesh",
       "legend": [
-        { "color": "saffron", "text": "Sun (Surya) in Lagna, highlighted in saffron" },
-        { "color": "white", "text": "12 houses in North Indian format" },
-        { "color": "teal", "text": "Central square is the 1st house (Lagna)" }
+        {
+          "color": "saffron",
+          "text": "Sun (Surya) in Lagna, highlighted in saffron"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Central square is the 1st house (Lagna)"
+        }
       ],
       "cta_label": "Get your free Kundali",
       "cta_url": "https://www.vastucart.in/tools/kundli"
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -769,7 +1031,10 @@
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Dasha activation in life",
@@ -780,7 +1045,7 @@
       "type": "prose",
       "eyebrow": "Father, ancestry, pitru karma",
       "heading": "The father is the first teacher and the first mirror",
-      "html": "<p>In Parashari Jyotish, <em>Surya</em> is the natural <em>karaka</em> of the father, and when the Sun sits in the lagna of an Aries native, the father becomes the most defining presence of the early life. Sometimes by his strength, sometimes by his absence, but always central. I have read hundreds of charts with this combination over twenty two years, and the pattern is consistent enough that I now ask the question before the native volunteers it. Either the father was a tall figure in their formative years, an officer, a doctor, a respected elder in the community, and the native grew up in his shadow learning the language of authority by watching it. Or the father was distant, ill, or lost early, and the native learned authority by being forced to take it on themselves before their peers had to.</p><p>The classical texts treat this as <em>pitru karma</em>, the unfinished karma of the paternal line. The exalted Sun in the first house is itself the resolution. The native is, in effect, the son or daughter who completes a story the father could not. This is why the early career often replays the father's profession in some refined form, even when the native consciously rejects it. A doctor's child becomes a hospital administrator. A soldier's child becomes a security strategist. A farmer's child becomes the policy maker who shapes how farms are run. The shape changes, the lineage continues.</p><p>The remedial approach to this is direct. Honour the father visibly, even if the relationship was difficult, and especially after his passing. Perform <em>tarpan</em> on the new moon and on his death anniversary. Donate red wheat and copper on Sundays in his name. If the father is alive, touch his feet at every meeting without speaking, and accept whatever he gives, even if it is correction the native does not feel they need. The Sun in lagna does not soften by being defended. It softens by being placed at the service of the lineage that produced it. Natives who do this consistently report that the pride in their first house cools into a quieter authority by their late thirties, and the surrounding people stop reading them as commanding and start reading them as steady. That is the goal of the placement, and it is the highest form Surya in <em>Pratham Bhava</em> can take in this lifetime.</p>"
+      "html": "<p>In Parashari Jyotish, <em>Surya</em> is the natural <em>karaka</em> of the father, and when the Sun sits in the lagna of an Aries native, the father becomes the most defining presence of the early life. Sometimes by his strength, sometimes by his absence, but always central. I have read hundreds of charts with this combination decades of, and the pattern is consistent enough that I now ask the question before the native volunteers it. Either the father was a tall figure in their formative years, an officer, a doctor, a respected elder in the community, and the native grew up in his shadow learning the language of authority by watching it. Or the father was distant, ill, or lost early, and the native learned authority by being forced to take it on themselves before their peers had to.</p><p>The classical texts treat this as <em>pitru karma</em>, the unfinished karma of the paternal line. The exalted Sun in the first house is itself the resolution. The native is, in effect, the son or daughter who completes a story the father could not. This is why the early career often replays the father's profession in some refined form, even when the native consciously rejects it. A doctor's child becomes a hospital administrator. A soldier's child becomes a security strategist. A farmer's child becomes the policy maker who shapes how farms are run. The shape changes, the lineage continues.</p><p>The remedial approach to this is direct. Honour the father visibly, even if the relationship was difficult, and especially after his passing. Perform <em>tarpan</em> on the new moon and on his death anniversary. Donate red wheat and copper on Sundays in his name. If the father is alive, touch his feet at every meeting without speaking, and accept whatever he gives, even if it is correction the native does not feel they need. The Sun in lagna does not soften by being defended. It softens by being placed at the service of the lineage that produced it. Natives who do this consistently report that the pride in their first house cools into a quieter authority by their late thirties, and the surrounding people stop reading them as commanding and start reading them as steady. That is the goal of the placement, and it is the highest form Surya in <em>Pratham Bhava</em> can take in this lifetime.</p>"
     },
     {
       "type": "prose",
@@ -807,10 +1072,22 @@
           "icon_variant": "ruby",
           "image_slug": "ruby",
           "items": [
-            { "k": "Metal", "v": "Gold (24 carat)" },
-            { "k": "Finger", "v": "Ring finger, right hand" },
-            { "k": "Day to wear", "v": "Sunday, Surya hora" },
-            { "k": "Min weight", "v": "3 to 5 Ratti" }
+            {
+              "k": "Metal",
+              "v": "Gold (24 carat)"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Sunday, Surya hora"
+            },
+            {
+              "k": "Min weight",
+              "v": "3 to 5 Ratti"
+            }
           ]
         },
         {
@@ -820,23 +1097,38 @@
           "icon_variant": "saphire",
           "image_slug": "red-coral",
           "items": [
-            { "k": "Metal", "v": "Panchdhatu or gold" },
-            { "k": "Finger", "v": "Ring finger, right hand" },
-            { "k": "Day to wear", "v": "Sunday, sunrise" },
-            { "k": "Min weight", "v": "5 to 7 Ratti" }
+            {
+              "k": "Metal",
+              "v": "Panchdhatu or gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Sunday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
           ]
         },
         {
           "name": "Consult before wearing Manik",
           "role": "shop",
-          "sub": "1-on-1 chart review by Pt. Raghav Sharma",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
           "shop_label": "Book a consultation",
           "shop_url": "https://store.vastucart.in/consultations"
         }
       ],
       "disclaimer": "Gemstone recommendations are based on classical Jyotish principles. Always consult a qualified Jyotishi who has reviewed your full birth chart before wearing any gemstone. Effects vary based on chart strength, dasha periods, and individual constitution. Do not substitute gemstone therapy for medical treatment."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
@@ -867,7 +1159,10 @@
         "button_variant": "teal"
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "yantra",
       "eyebrow": "Yantra",
@@ -883,7 +1178,10 @@
         "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
       }
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "stotra",
       "eyebrow": "Stotra and Mantra",
@@ -897,7 +1195,10 @@
         "url": "https://stotra.vastucart.in/stotra/aditya-hridayam"
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -956,7 +1257,7 @@
           },
           {
             "label": "Personal Jyotish consultation",
-            "sub": "1-on-1 chart review with Pt. Raghav Sharma",
+            "sub": "1-on-1 chart review with VastuCart Editorial",
             "url": "https://store.vastucart.in/consultations",
             "icon": "shop",
             "icon_variant": "teal"
@@ -970,13 +1271,28 @@
         "title": "Is your Sun this powerful in your own chart?",
         "subtitle": "Get a complete, personalised analysis of your Surya placement, its current dasha strength, and specific remedies for your full chart.",
         "buttons": [
-          { "label": "Get your free Kundali report", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Aditya Hridayam & Kavacham", "url": "https://stotra.vastucart.in/stotra/aditya-hridayam", "variant": "outline" }
+          {
+            "label": "Get your free Kundali report",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Aditya Hridayam & Kavacham",
+            "url": "https://stotra.vastucart.in/stotra/aditya-hridayam",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
@@ -1004,26 +1320,50 @@
         }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Muhurta specialist", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
@@ -1055,5 +1395,6 @@
         }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

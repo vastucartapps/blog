@@ -6,40 +6,131 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Sun in 2nd house", "Surya Vrishabha", "Mesh Lagna", "Aries ascendant", "Dhana Bhava", "5L in 2H", "authoritative voice", "Surya mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Sun in 2nd house",
+    "Surya Vrishabha",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Dhana Bhava",
+    "5L in 2H",
+    "authoritative voice",
+    "Surya mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "surya",
   "house_number": 2,
   "lagna_id": "mesha",
   "meta": {
     "title": "Sun in 2nd House Mesh Lagna, Authoritative Voice Wealth",
-    "description": "Sun in 2nd house for Mesh Lagna, Surya in Vrishabha, the 5L in Dhana Bhava read by Pt. Raghav Sharma.",
+    "description": "Sun in 2nd house for Mesh Lagna, Surya in Vrishabha, the 5L trikona lord in Dhana Bhava and the authoritative-voice wealth signature.",
     "focus_keyword": "Sun in 2nd house",
-    "secondary_keywords": ["Mesh Lagna", "Dhana Bhava", "Surya Vrishabha", "Aries ascendant", "5L in 2H"],
-    "lsi_keywords": ["dhana bhava", "surya vrishabha", "sun in taurus", "5th lord second", "surya mahadasha", "ruby manikya", "trikona in dhana", "authoritative voice", "family wealth", "solar speech"],
-    "keywords": ["Sun in 2nd house Mesh Lagna", "Surya in Dhana Bhava", "Sun in Taurus", "Mesh lagna 2nd Sun", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dhana Bhava",
+      "Surya Vrishabha",
+      "Aries ascendant",
+      "5L in 2H"
+    ],
+    "lsi_keywords": [
+      "dhana bhava",
+      "surya vrishabha",
+      "sun in taurus",
+      "5th lord second",
+      "surya mahadasha",
+      "ruby manikya",
+      "trikona in dhana",
+      "authoritative voice",
+      "family wealth",
+      "solar speech"
+    ],
+    "keywords": [
+      "Sun in 2nd house Mesh Lagna",
+      "Surya in Dhana Bhava",
+      "Sun in Taurus",
+      "Mesh lagna 2nd Sun",
+      "Vedic astrology"
+    ],
     "og_title": "Sun in the 2nd House of Mesh Lagna, Authoritative Voice Wealth",
     "og_description": "Surya in Vrishabha in the Dhana Bhava for Aries natives, by a practising Jyotishi.",
     "og_image": "/og/sun-2nd-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-2nd-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Sun in 2nd House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-2nd-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Sun in 2nd House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-2nd-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Sun in 2nd house",
-    "secondary_keywords": ["Mesh Lagna", "Dhana Bhava", "Surya Vrishabha", "Aries ascendant", "5L in 2H"],
-    "lsi_terms": ["dhana bhava", "surya vrishabha", "sun in taurus", "5th lord second", "surya mahadasha", "ruby manikya", "trikona in dhana", "authoritative voice", "family wealth", "solar speech"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dhana Bhava",
+      "Surya Vrishabha",
+      "Aries ascendant",
+      "5L in 2H"
+    ],
+    "lsi_terms": [
+      "dhana bhava",
+      "surya vrishabha",
+      "sun in taurus",
+      "5th lord second",
+      "surya mahadasha",
+      "ruby manikya",
+      "trikona in dhana",
+      "authoritative voice",
+      "family wealth",
+      "solar speech"
+    ],
     "seed_queries": [
-      "sun in 2nd house aries lagna", "surya in 2nd house mesh lagna", "sun in taurus mesh ascendant", "surya vrishabha aries lagna", "sun in dhana bhava mesh", "sun in 2nd house wealth aries", "sun in taurus 2nd aries", "surya dhana bhava mesh", "5l in 2h aries lagna", "sun in 2nd house remedies aries", "ruby for sun 2nd aries", "manikya mesh lagna 2nd", "surya mahadasha aries 2nd", "sun in 2nd house aries family", "sun in 2nd house aries speech", "is sun good in 2nd house aries", "sun in taurus aries ascendant career", "authoritative voice sun", "sun speech wealth", "sun 2nd house aries prediction", "sun in second house mesh lagna", "sun 2nd house mesh ascendant", "surya in mesh lagna 2nd", "sun vrishabha lagna mesh chart", "sun 2nd house mesh lagna dasha", "surya mesh lagna wealth", "solar family authority", "5th lord second house aries", "surya raja yoga mesh", "sun venus neutral"
+      "sun in 2nd house aries lagna",
+      "surya in 2nd house mesh lagna",
+      "sun in taurus mesh ascendant",
+      "surya vrishabha aries lagna",
+      "sun in dhana bhava mesh",
+      "sun in 2nd house wealth aries",
+      "sun in taurus 2nd aries",
+      "surya dhana bhava mesh",
+      "5l in 2h aries lagna",
+      "sun in 2nd house remedies aries",
+      "ruby for sun 2nd aries",
+      "manikya mesh lagna 2nd",
+      "surya mahadasha aries 2nd",
+      "sun in 2nd house aries family",
+      "sun in 2nd house aries speech",
+      "is sun good in 2nd house aries",
+      "sun in taurus aries ascendant career",
+      "authoritative voice sun",
+      "sun speech wealth",
+      "sun 2nd house aries prediction",
+      "sun in second house mesh lagna",
+      "sun 2nd house mesh ascendant",
+      "surya in mesh lagna 2nd",
+      "sun vrishabha lagna mesh chart",
+      "sun 2nd house mesh lagna dasha",
+      "surya mesh lagna wealth",
+      "solar family authority",
+      "5th lord second house aries",
+      "surya raja yoga mesh",
+      "sun venus neutral"
     ],
     "questions": [
       "Is Sun in the 2nd house good for Mesh Lagna?",
@@ -49,36 +140,130 @@
       "Which gemstone should Mesh Lagna wear for Sun in 2nd?"
     ],
     "lingual_variations": {
-      "surya": ["surya", "sun", "aditya", "ravi", "bhanu"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "surya": [
+        "surya",
+        "sun",
+        "aditya",
+        "ravi",
+        "bhanu"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Sun in Venus sign Vrishabha reading", "5L trikona lord in Dhana Bhava", "Authoritative voice as wealth signature"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Sun in Venus sign Vrishabha reading",
+      "5L trikona lord in Dhana Bhava",
+      "Authoritative voice as wealth signature"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "sun-2nd-house-aries-lagna-hero.webp", "filename_og": "sun-2nd-house-aries-lagna-og.png", "alt": "Radiant Surya in the second house of a Mesh Lagna kundali in Vrishabha", "caption": "Surya sits in Vrishabha in the second house for Aries ascendant natives, the 5L trikona lord producing the authoritative-voice-as-wealth signature.", "width": 1200, "height": 630, "format": "webp", "style": "luminous saffron-emerald editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the second house glowing saffron and deep emerald, a stylised Sun symbol above a small bull Vrishabha silhouette, traditional Vedic palette of saffron, emerald, gold, refined manuscript style, no people.", "negative_prompt": "photorealistic sun, watermark, text, neon, cartoon" },
-    { "filename": "sun-2nd-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Sun in the second house of Mesh in Vrishabha", "caption": "The North Indian birth chart with Surya marked in Vrishabha on the second house Dhana Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the second house highlighted in saffron with a Surya symbol marked Su and Vrishabha bull glyph, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "sun-2nd-house-aries-lagna-ruby.webp", "alt": "Natural Burmese ruby in gold ring, gemstone for Sun 2nd house Mesh Lagna", "caption": "Ruby is the primary Surya ratna and works with confidence here because the 5L trikona lord status supports the gemstone protocol in Dhana Bhava.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural Burmese ruby set in a gold ring, deep pigeon blood red colour, cushion cut, on dark velvet with warm lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "sun-2nd-house-aries-lagna-surya-gayatri.webp", "alt": "Surya Gayatri Sanskrit verse on parchment with solar disc motif", "caption": "Surya Gayatri recitation strengthens the solar channel through the foundational gayatri hymn for the Sun.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Surya Gayatri, hand-painted on aged parchment with gold leaf borders, faint solar disc and lotus motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "sun-2nd-house-aries-lagna-hero.webp",
+      "filename_og": "sun-2nd-house-aries-lagna-og.png",
+      "alt": "Radiant Surya in the second house of a Mesh Lagna kundali in Vrishabha",
+      "caption": "Surya sits in Vrishabha in the second house for Aries ascendant natives, the 5L trikona lord producing the authoritative-voice-as-wealth signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "luminous saffron-emerald editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the second house glowing saffron and deep emerald, a stylised Sun symbol above a small bull Vrishabha silhouette, traditional Vedic palette of saffron, emerald, gold, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic sun, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "sun-2nd-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Sun in the second house of Mesh in Vrishabha",
+      "caption": "The North Indian birth chart with Surya marked in Vrishabha on the second house Dhana Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the second house highlighted in saffron with a Surya symbol marked Su and Vrishabha bull glyph, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "sun-2nd-house-aries-lagna-ruby.webp",
+      "alt": "Natural Burmese ruby in gold ring, gemstone for Sun 2nd house Mesh Lagna",
+      "caption": "Ruby is the primary Surya ratna and works with confidence here because the 5L trikona lord status supports the gemstone protocol in Dhana Bhava.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural Burmese ruby set in a gold ring, deep pigeon blood red colour, cushion cut, on dark velvet with warm lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "sun-2nd-house-aries-lagna-surya-gayatri.webp",
+      "alt": "Surya Gayatri Sanskrit verse on parchment with solar disc motif",
+      "caption": "Surya Gayatri recitation strengthens the solar channel through the foundational gayatri hymn for the Sun.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Surya Gayatri, hand-painted on aged parchment with gold leaf borders, faint solar disc and lotus motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Sun in the 2nd house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Surya in Dhana Bhava for Aries ascendant natives. Sun in Vrishabha, the 5L trikona lord in the wealth and speech house, and the authoritative-voice-as-wealth signature that defines how the native's creative intelligence compounds into material abundance.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Surya", "tone": "teal" },
-      { "label": "Dhana Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Neutral Vrishabha" },
-      { "label": "5L in 2H" },
-      { "label": "Authoritative voice" }
+      {
+        "label": "Surya",
+        "tone": "teal"
+      },
+      {
+        "label": "Dhana Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Neutral Vrishabha"
+      },
+      {
+        "label": "5L in 2H"
+      },
+      {
+        "label": "Authoritative voice"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +271,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Surya", "sub": "Sun", "icon": "sun" },
-        { "label": "Bhava", "value": "2nd", "sub": "Dhana Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Strong", "sub": "5L in wealth angle", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Surya",
+          "sub": "Sun",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "2nd",
+          "sub": "Dhana Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Strong",
+          "sub": "5L in wealth angle",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +310,102 @@
       "heading": "Why the 5L in 2H produces creative-intelligence wealth",
       "html": "<p>The classical reading for 5L in 2H is among the recognised Dhana Yoga combinations in Parashari tradition, and the mechanism deserves explicit description. The fifth bhava rules purva punya (past life merit), creative intelligence, children, mantra siddhi, and the inherited dharmic capacity a native carries forward. The second rules accumulated resources, family, food, and the speech apparatus. When the 5L occupies the 2nd, creative intelligence and dharmic merit route directly into material production, and the income arrives through fifth-house karakatvas: creative work, teaching, children-related earnings, and the mantra-based abundance classical texts associate with these Dhana Yogas.</p><p>Where Surya is the 5L, the wealth pattern carries the authoritative-voice signature because Sun rules presence alongside creativity. These natives earn through roles where voice, reputation, and creative authority become the vocational asset. They are the teacher whose presence in the classroom is what parents pay for, the writer whose authorial voice carries the contract value, the creative leader whose public role holds the income rather than any single task. The reading is distinct from Budha-in-2nd: Mercury produces wealth through communication quality, Surya produces wealth through the authority and presence of the voice. The third layer is family inheritance. The 2nd rules lineage wealth, and Surya here often places the native in a family where authoritative tradition already exists (respected business, professional lineage, recognised name) which the native inherits and extends across adult life. Practitioners should ask about family context because the pattern is reliably predictive.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "When the creative-intelligence lord sits in the wealth house of Venus's own sign, the native's voice itself becomes the family asset. The income arrives because people want the presence behind the words, not just the words." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "When the creative-intelligence lord sits in the wealth house of Venus's own sign, the native's voice itself becomes the family asset. The income arrives because people want the presence behind the words, not just the words."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Surya, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Surya, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Soul, father, authority, vitality" },
-            { "k": "Own sign", "v": "Simha (Leo)" },
-            { "k": "Uchha (exaltation)", "v": "Mesha at 10 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Tula at 10 degrees", "tone": "bad" },
-            { "k": "Sign state here", "v": "Neutral Vrishabha" },
-            { "k": "Friends", "v": "Moon, Mars, Jupiter" },
-            { "k": "Element", "v": "Fire (Agni Tattva)" },
-            { "k": "Role for Mesh", "v": "5th lord (Simha)" }
+            {
+              "k": "Karakatva",
+              "v": "Soul, father, authority, vitality"
+            },
+            {
+              "k": "Own sign",
+              "v": "Simha (Leo)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Mesha at 10 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Tula at 10 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Neutral Vrishabha"
+            },
+            {
+              "k": "Friends",
+              "v": "Moon, Mars, Jupiter"
+            },
+            {
+              "k": "Element",
+              "v": "Fire (Agni Tattva)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "5th lord (Simha)"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Dhana Bhava, house profile", "subtitle": "2nd house significance",
+          "icon": "triangle-house",
+          "title": "Dhana Bhava, house profile",
+          "subtitle": "2nd house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Dhana, Kutumba Bhava" },
-            { "k": "Rules over", "v": "Wealth, family, speech, face, food" },
-            { "k": "Natural sign", "v": "Vrishabha (Taurus) for Mesh" },
-            { "k": "Natural ruler", "v": "Shukra (Venus)" },
-            { "k": "Body part", "v": "Face, mouth, neck, speech apparatus" },
-            { "k": "Classical nature", "v": "Maraka, dhana" },
-            { "k": "Vedic quality", "v": "5L trikona lord in wealth angle", "tone": "good" },
-            { "k": "Special effect", "v": "Dhana Yoga combination", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Dhana, Kutumba Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Wealth, family, speech, face, food"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Vrishabha (Taurus) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Shukra (Venus)"
+            },
+            {
+              "k": "Body part",
+              "v": "Face, mouth, neck, speech apparatus"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Maraka, dhana"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "5L trikona lord in wealth angle",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Dhana Yoga combination",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +447,48 @@
       "heading": "Where the authoritative-voice vocation plays out",
       "html": "<p>Career paths cluster around fields where voice, presence, and authority become the vocational asset. The strongest single fit is teaching and professorship with recognised reputation because the chart produces natives whose standing in front of students carries the income value. Many build careers as professors, senior teachers, or independent educators whose reputation compounds across decades into institutional recognition. Writing, publishing, and editorial authority also fit because the 5L creative intelligence channels naturally into literary work, and many become authors whose reputation carries contract value.</p><p>Family enterprise leadership works because Dhana Bhava rules lineage resources and Surya here often places the native in a household where commerce or professional tradition already exists. Many natives extend a family enterprise they did not plan to join, and the extension becomes their vocational identity by their thirties or forties. Wealth management and financial advisory fit because Sun adds the authoritative register clients trust. Music and performing arts suit natives whose pull is artistic, since the second rules throat and voice, and those with strong singing carry careers where vocal presence is the product. Public speaking and dharmic lecture work round out the list. Surya mahadasha is when the vocation crystallises into recognised form, usually through a specific teaching or speaking opportunity that establishes the native's reputation.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Surya in Dhana Bhava placement", "subtitle": "Generate your free Kundali to see your second house Sun.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Sun marked in the second house of Mesh", "planet": "Surya", "house": 2, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Surya in Dhana Bhava in Vrishabha, marked in saffron" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Second house is the seat of wealth and speech" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Surya in Dhana Bhava placement",
+        "subtitle": "Generate your free Kundali to see your second house Sun.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Sun marked in the second house of Mesh",
+      "planet": "Surya",
+      "house": 2,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Surya in Dhana Bhava in Vrishabha, marked in saffron"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Second house is the seat of wealth and speech"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The authoritative-voice signature and the family inheritance reading",
@@ -194,13 +501,45 @@
       "heading": "When Sun in 2nd delivers its Dhana Bhava chapter",
       "intro_html": "<p>Surya mahadasha is the defining window for this placement and arrives with the authoritative-voice vocation crystallising into recognised family and public wealth.</p>",
       "rows": [
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "The Dhana Bhava activation window. Family wealth crystallises, speech vocation reaches first major recognition, the creative-intelligence-as-income pattern activates.", "intensity": "Very high", "intensity_bar_width": 90, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Chandra (Moon)", "duration": "10 years", "themes": "Fourth lord and friend of Sun. Home and emotional foundation stabilise around the wealth vocation, mother offers strategic support.", "intensity": "Very good", "intensity_bar_width": 82, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord and friend of Sun. Bold wealth decisions, decisive family business steps, authoritative leadership in public work.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "Lord of the sign Vrishabha and dispositor of Sun here. The most aligned planet for this placement. Refined wealth compounds, marriage supports the income, aesthetic dimension of speech vocation peaks.", "intensity": "Very high", "intensity_bar_width": 90, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "The Dhana Bhava activation window. Family wealth crystallises, speech vocation reaches first major recognition, the creative-intelligence-as-income pattern activates.",
+          "intensity": "Very high",
+          "intensity_bar_width": 90,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Chandra (Moon)",
+          "duration": "10 years",
+          "themes": "Fourth lord and friend of Sun. Home and emotional foundation stabilise around the wealth vocation, mother offers strategic support.",
+          "intensity": "Very good",
+          "intensity_bar_width": 82,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord and friend of Sun. Bold wealth decisions, decisive family business steps, authoritative leadership in public work.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "Lord of the sign Vrishabha and dispositor of Sun here. The most aligned planet for this placement. Refined wealth compounds, marriage supports the income, aesthetic dimension of speech vocation peaks.",
+          "intensity": "Very high",
+          "intensity_bar_width": 90,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +558,140 @@
       "heading": "Gemstones for Sun in 2nd house Mesh Lagna",
       "intro_html": "<p>Ruby is the primary recommendation because the 5L trikona lord status supports the gemstone protocol in the wealth angle despite the sign being neutral rather than friendly.</p>",
       "cards": [
-        { "name": "Manikya (Ruby)", "role": "primary", "sub": "Surya-strengthening stone for trikona Sun", "icon_variant": "ruby", "image_slug": "ruby", "items": [ { "k": "Metal", "v": "Gold (22 or 24 carat)" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Sunday, sunrise" }, { "k": "Min weight", "v": "3 to 5 Ratti" } ] },
-        { "name": "Red Garnet (alt)", "role": "secondary", "sub": "Milder Sun-aligned alternative", "icon_variant": "red-coral", "image_slug": "red-coral", "items": [ { "k": "Metal", "v": "Gold or copper" }, { "k": "Finger", "v": "Ring finger" }, { "k": "Day to wear", "v": "Sunday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Manikya", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Manikya (Ruby)",
+          "role": "primary",
+          "sub": "Surya-strengthening stone for trikona Sun",
+          "icon_variant": "ruby",
+          "image_slug": "ruby",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold (22 or 24 carat)"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Sunday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "3 to 5 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Red Garnet (alt)",
+          "role": "secondary",
+          "sub": "Milder Sun-aligned alternative",
+          "icon_variant": "red-coral",
+          "image_slug": "red-coral",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold or copper"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Sunday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Manikya",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Ruby for trikona-lord Sun in Dhana Bhava is a clean recommendation, but always consult a practising Jyotishi before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Sun in 2nd house",
       "intro_html": "<p>The Surya-aligned rudraksha is the Ek Mukhi, the rarest bead and the one directly ruled by the Sun.</p>",
       "beads": [
-        { "mukhi": 1, "name": "Ek Mukhi Rudraksha", "sub": "Ruled by Surya, the classical Sun bead", "benefit": "The rarest and most revered rudraksha and the primary bead for any Sun strengthening protocol. Supports the authoritative-voice wealth signature, amplifies the 5L trikona lord status, and is specifically recommended for natives building careers where vocal presence is the central asset." },
-        { "mukhi": 6, "name": "Chha Mukhi Rudraksha", "sub": "Ruled by Venus, the dispositor of Sun here", "benefit": "The Venus bead serves as secondary support for this placement because the dispositor of Sun here is Shukra (Venus rules Vrishabha). Wearing the Chha Mukhi alongside the Ek Mukhi compounds the placement's strength by honouring both planet and sign-lord through the neutral but practical combination the chart produces." }
+        {
+          "mukhi": 1,
+          "name": "Ek Mukhi Rudraksha",
+          "sub": "Ruled by Surya, the classical Sun bead",
+          "benefit": "The rarest and most revered rudraksha and the primary bead for any Sun strengthening protocol. Supports the authoritative-voice wealth signature, amplifies the 5L trikona lord status, and is specifically recommended for natives building careers where vocal presence is the central asset."
+        },
+        {
+          "mukhi": 6,
+          "name": "Chha Mukhi Rudraksha",
+          "sub": "Ruled by Venus, the dispositor of Sun here",
+          "benefit": "The Venus bead serves as secondary support for this placement because the dispositor of Sun here is Shukra (Venus rules Vrishabha). Wearing the Chha Mukhi alongside the Ek Mukhi compounds the placement's strength by honouring both planet and sign-lord through the neutral but practical combination the chart produces."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Surya Yantra for the wealth Sun", "yantra": { "name": "Surya Yantra", "sanskrit": "सूर्य यन्त्र", "description": "The Surya Yantra is the geometric form of the solar channel. For Surya in the Mesh 2nd house install it on the east wall of the main speaking or teaching space. Sunday at sunrise in Surya hora is the installation window, and the yantra should be consecrated with Surya Gayatri recitation and a copper water libation.", "direction": "East wall (speaking or teaching space)", "install_day": "Sunday sunrise, Surya hora preferred", "material": "Copper or gold (brass acceptable)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Surya in Vrishabha", "stotra": { "eyebrow": "Surya Gayatri", "title": "Shri Surya Gayatri Mantra", "sub": "Foundational gayatri mantra for the Sun", "verse": "Om bhaskaraya vidmahe divakaraya dhimahi<br>Tanno bhanuh prachodayat<br>Om sahasra bhanave vidmahe adityaaya dhimahi<br>Tanno suryah prachodayat<br>Om saptarashmi rathaya vidmahe samsaraya dhimahi<br>Tanno bhanuh prachodayat", "translation": "Om, may we know Bhaskara, let us meditate on the maker of day, may Bhanu inspire us. Om, may we know the thousand-rayed, let us meditate on Aditya, may Surya inspire us. Om, may we know the seven-horsed chariot, let us meditate on the one who traverses existence, may Bhanu inspire us. The Surya Gayatri is the foundational gayatri mantra for the Sun and is the daily recitation recommended for a chart where Surya sits in the wealth house and the solar authority is the native's central vocational asset.", "url": "https://stotra.vastucart.in/stotra/surya-gayatri" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Surya Yantra for the wealth Sun",
+      "yantra": {
+        "name": "Surya Yantra",
+        "sanskrit": "सूर्य यन्त्र",
+        "description": "The Surya Yantra is the geometric form of the solar channel. For Surya in the Mesh 2nd house install it on the east wall of the main speaking or teaching space. Sunday at sunrise in Surya hora is the installation window, and the yantra should be consecrated with Surya Gayatri recitation and a copper water libation.",
+        "direction": "East wall (speaking or teaching space)",
+        "install_day": "Sunday sunrise, Surya hora preferred",
+        "material": "Copper or gold (brass acceptable)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Surya in Vrishabha",
+      "stotra": {
+        "eyebrow": "Surya Gayatri",
+        "title": "Shri Surya Gayatri Mantra",
+        "sub": "Foundational gayatri mantra for the Sun",
+        "verse": "Om bhaskaraya vidmahe divakaraya dhimahi<br>Tanno bhanuh prachodayat<br>Om sahasra bhanave vidmahe adityaaya dhimahi<br>Tanno suryah prachodayat<br>Om saptarashmi rathaya vidmahe samsaraya dhimahi<br>Tanno bhanuh prachodayat",
+        "translation": "Om, may we know Bhaskara, let us meditate on the maker of day, may Bhanu inspire us. Om, may we know the thousand-rayed, let us meditate on Aditya, may Surya inspire us. Om, may we know the seven-horsed chariot, let us meditate on the one who traverses existence, may Bhanu inspire us. The Surya Gayatri is the foundational gayatri mantra for the Sun and is the daily recitation recommended for a chart where Surya sits in the wealth house and the solar authority is the native's central vocational asset.",
+        "url": "https://stotra.vastucart.in/stotra/surya-gayatri"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +699,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your second house Sun and 5L trikona status", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Business muhurta", "sub": "Auspicious dates for family business launches", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Education muhurta", "sub": "Auspicious dates for teaching commitments", "url": "https://muhurta.vastucart.in/education-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Surya Gayatri", "sub": "Foundational Sun gayatri mantra", "url": "https://stotra.vastucart.in/stotra/surya-gayatri", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Aditya Hridayam", "sub": "Classical Surya hymn from the Ramayana", "url": "https://stotra.vastucart.in/stotra/aditya-hridayam", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Surya Ashtakam", "sub": "Eight-verse solar hymn", "url": "https://stotra.vastucart.in/stotra/surya-ashtakam", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Surya Chalisa", "sub": "Forty-verse devotional Surya hymn", "url": "https://stotra.vastucart.in/stotra/surya-chalisa", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Shri Suktam", "sub": "Lakshmi hymn for Venus dispositor", "url": "https://stotra.vastucart.in/stotra/shri-suktam", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Ruby and gemstone source", "sub": "Certified Manikya for the Sun", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Surya yantra store", "sub": "Copper Surya yantra for the speaking space", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Dhana Yoga analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your second house Sun and 5L trikona status",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Business muhurta",
+            "sub": "Auspicious dates for family business launches",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Education muhurta",
+            "sub": "Auspicious dates for teaching commitments",
+            "url": "https://muhurta.vastucart.in/education-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Surya Gayatri",
+            "sub": "Foundational Sun gayatri mantra",
+            "url": "https://stotra.vastucart.in/stotra/surya-gayatri",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aditya Hridayam",
+            "sub": "Classical Surya hymn from the Ramayana",
+            "url": "https://stotra.vastucart.in/stotra/aditya-hridayam",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Surya Ashtakam",
+            "sub": "Eight-verse solar hymn",
+            "url": "https://stotra.vastucart.in/stotra/surya-ashtakam",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Surya Chalisa",
+            "sub": "Forty-verse devotional Surya hymn",
+            "url": "https://stotra.vastucart.in/stotra/surya-chalisa",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Shri Suktam",
+            "sub": "Lakshmi hymn for Venus dispositor",
+            "url": "https://stotra.vastucart.in/stotra/shri-suktam",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Ruby and gemstone source",
+            "sub": "Certified Manikya for the Sun",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Surya yantra store",
+            "sub": "Copper Surya yantra for the speaking space",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Dhana Yoga analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +799,130 @@
         "title": "Is your Dhana Bhava Sun carrying the authoritative-voice Dhana Yoga?",
         "subtitle": "Get a full personalised analysis of your second house Surya, the family wealth pattern, and the creative-intelligence-as-income timing the chart produces.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Surya Gayatri", "url": "https://stotra.vastucart.in/stotra/surya-gayatri", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Surya Gayatri",
+            "url": "https://stotra.vastucart.in/stotra/surya-gayatri",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Sun in 2nd house, Mesh Lagna",
       "items": [
-        { "q": "Is Sun in the 2nd house good for Mesh Lagna?", "a": "Yes, and the reading is more productive than popular astrology sometimes predicts. Surya is the 5L trikona lord for Mesh, and placing this lord in the 2nd house is one of the recognised Dhana Yoga combinations in classical Parashari tradition where the trikona lord occupies the wealth house and produces income specifically through the 5th house karakatvas: creative output, dharmic work, children-related income, and the authoritative voice Sun specifically rules. The sign is neutral rather than friendly, but the trikona lord status supports the wealth mechanism the chart structurally produces." },
-        { "q": "What does the 5L in 2H produce for Aries natives?", "a": "It produces one of the recognised Dhana Yoga combinations where the creative-intelligence lord channels wealth directly through the Dhana Bhava. For Mesh natives, the wealth arrives through creative work, teaching, dharmic vocation, writing and speaking, or the family tradition the native inherits from the lineage. Classical texts describe this as one of the clean wealth yoga patterns because the trikona dharmic merit combines with the 2nd house wealth rulership in a way that produces income through meaningful work rather than through speculation or pure effort." },
-        { "q": "Does Sun in 2nd house affect family wealth?", "a": "Yes, and the pattern is specific enough to describe predictively. The 2nd house rules family wealth, accumulated resources, and the lineage that precedes the native, and Sun here often places the native in a family where some form of authoritative tradition already exists: a respected professional lineage (generations of teachers, doctors, lawyers), a family business with accumulated reputation, a recognised name in a specific community, or an inherited dharmic role. The native rarely invents the tradition from scratch, they extend and refine what was already present, and the extension becomes their vocational identity." },
-        { "q": "How does Sun in Vrishabha express through the Venus sign?", "a": "The Sun-Venus relationship is classical neutrality, so the Vrishabha sign neither welcomes nor resists the Sun's expression. Vrishabha is an earth sign and adds grounded stability to the Sun's normally fiery register, producing natives whose solar authority settles into a slower, more settled expression than fire-sign or air-sign Sun placements. The body and temperament both carry the Vrishabha earth-sign influence: solid build, grounded presence, love of refined food and music, and a voice that carries authority without needing to raise its volume. The placement is distinct from the radiant-fire Sun register because the sign tempers the fire with earth." },
-        { "q": "Which gemstone should Mesh Lagna wear for Sun in 2nd?", "a": "Ruby (Manikya) is the primary gemstone and is recommended with confidence here because the 5L trikona lord status supports the gemstone protocol even though the sign is neutral rather than friendly. Wear a natural Burmese or African ruby of minimum three ratti set in gold on the ring finger of the right hand on a Sunday at sunrise after Surya mantra recitation. The trikona lord protection classical texts describe is specifically what makes the gemstone work reliable in the Dhana Bhava placement, and practitioners can recommend the stone with reasonable confidence after the broader chart review." }
+        {
+          "q": "Is Sun in the 2nd house good for Mesh Lagna?",
+          "a": "Yes, and the reading is more productive than popular astrology sometimes predicts. Surya is the 5L trikona lord for Mesh, and placing this lord in the 2nd house is one of the recognised Dhana Yoga combinations in classical Parashari tradition where the trikona lord occupies the wealth house and produces income specifically through the 5th house karakatvas: creative output, dharmic work, children-related income, and the authoritative voice Sun specifically rules. The sign is neutral rather than friendly, but the trikona lord status supports the wealth mechanism the chart structurally produces."
+        },
+        {
+          "q": "What does the 5L in 2H produce for Aries natives?",
+          "a": "It produces one of the recognised Dhana Yoga combinations where the creative-intelligence lord channels wealth directly through the Dhana Bhava. For Mesh natives, the wealth arrives through creative work, teaching, dharmic vocation, writing and speaking, or the family tradition the native inherits from the lineage. Classical texts describe this as one of the clean wealth yoga patterns because the trikona dharmic merit combines with the 2nd house wealth rulership in a way that produces income through meaningful work rather than through speculation or pure effort."
+        },
+        {
+          "q": "Does Sun in 2nd house affect family wealth?",
+          "a": "Yes, and the pattern is specific enough to describe predictively. The 2nd house rules family wealth, accumulated resources, and the lineage that precedes the native, and Sun here often places the native in a family where some form of authoritative tradition already exists: a respected professional lineage (generations of teachers, doctors, lawyers), a family business with accumulated reputation, a recognised name in a specific community, or an inherited dharmic role. The native rarely invents the tradition from scratch, they extend and refine what was already present, and the extension becomes their vocational identity."
+        },
+        {
+          "q": "How does Sun in Vrishabha express through the Venus sign?",
+          "a": "The Sun-Venus relationship is classical neutrality, so the Vrishabha sign neither welcomes nor resists the Sun's expression. Vrishabha is an earth sign and adds grounded stability to the Sun's normally fiery register, producing natives whose solar authority settles into a slower, more settled expression than fire-sign or air-sign Sun placements. The body and temperament both carry the Vrishabha earth-sign influence: solid build, grounded presence, love of refined food and music, and a voice that carries authority without needing to raise its volume. The placement is distinct from the radiant-fire Sun register because the sign tempers the fire with earth."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Sun in 2nd?",
+          "a": "Ruby (Manikya) is the primary gemstone and is recommended with confidence here because the 5L trikona lord status supports the gemstone protocol even though the sign is neutral rather than friendly. Wear a natural Burmese or African ruby of minimum three ratti set in gold on the ring finger of the right hand on a Sunday at sunrise after Surya mantra recitation. The trikona lord protection classical texts describe is specifically what makes the gemstone work reliable in the Dhana Bhava placement, and practitioners can recommend the stone with reasonable confidence after the broader chart review."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Dhana Yoga reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Surya in the fifth, swakshetra Simha", "sub": "Sun own sign in the creativity trikona", "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Budha in the second, speech as wealth", "sub": "Mercury in the same Dhana Bhava, the verbal contrast", "href": "/jyotish/graha-in-bhava/mercury-2nd-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Shukra in the second, swakshetra Vrishabha", "sub": "Venus own sign in the same wealth angle, the dispositor parallel", "href": "/jyotish/graha-in-bhava/venus-2nd-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Surya in the fifth, swakshetra Simha",
+          "sub": "Sun own sign in the creativity trikona",
+          "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Budha in the second, speech as wealth",
+          "sub": "Mercury in the same Dhana Bhava, the verbal contrast",
+          "href": "/jyotish/graha-in-bhava/mercury-2nd-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Shukra in the second, swakshetra Vrishabha",
+          "sub": "Venus own sign in the same wealth angle, the dispositor parallel",
+          "href": "/jyotish/graha-in-bhava/venus-2nd-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

@@ -31,6 +31,7 @@ const BANNED_PHRASES = [
   "unlock",
   "unleash",
   "it is important to note",
+  "it is important to note that",
   "it is worth mentioning",
   "in this article we will",
   "in conclusion",
@@ -41,7 +42,24 @@ const BANNED_PHRASES = [
   "at the end of the day",
   "tap into",
   "harness the power",
+  "crucial",
+  "ever-evolving landscape",
+  "ever evolving landscape",
 ];
+
+// Domains allowed in external links inside post HTML. Validator
+// hard-fails any external href whose host is not in this list.
+const EXTERNAL_LINK_WHITELIST = [
+  "en.wikipedia.org",
+  "vedabase.io",
+  "wisdomlib.org",
+  "archive.org",
+];
+
+// Hosts considered "internal" / network. External-link whitelist
+// scan skips these.
+const INTERNAL_HOSTS_PATTERN = /^https?:\/\/(?:www\.|blog\.)?vastucart\.(?:in|com)/i;
+const SUBDOMAIN_HOSTS_PATTERN = /^https?:\/\/(?:[a-z]+)\.vastucart\.(?:in|com)/i;
 
 // Required @type values that buildPostSchema() must emit for any
 // post to count as fully scaffolded for SEO. The validator runs
@@ -664,14 +682,46 @@ function validate(post: PostJSON, file: string): ValidationReport {
       hardFail("meta.title length");
       s -= 3;
     }
-    if (!m.description || m.description.length > 155) {
-      issues.push(`meta.description ${m.description?.length ?? 0} chars, want <=155`);
+    // Rank Math sweet spot is 140-150. Hard-fail outside 100-160.
+    // Soft deduction for outside the ideal range so legacy posts
+    // pass while new posts are pushed to the ideal.
+    if (!m.description || m.description.length < 100 || m.description.length > 160) {
+      issues.push(
+        `meta.description ${m.description?.length ?? 0} chars, must be within 100-160 (ideal 140-150)`
+      );
       hardFail("meta.description length");
       s -= 3;
+    } else if (m.description.length < 140 || m.description.length > 150) {
+      issues.push(
+        `meta.description ${m.description.length} chars, ideal 140-150 (Rank Math sweet spot)`
+      );
+      s -= 1;
     }
     if (!m.focus_keyword) {
       issues.push("missing focus_keyword");
       s -= 1;
+    }
+    // Focus keyword must appear at the front of meta.title
+    // (within first 30 characters, case-insensitive).
+    if (m.focus_keyword && m.title) {
+      const titleHead = m.title.slice(0, 30).toLowerCase();
+      if (!titleHead.includes(m.focus_keyword.toLowerCase().slice(0, 20))) {
+        issues.push(
+          `focus_keyword "${m.focus_keyword}" not in first 30 chars of meta.title`
+        );
+        hardFail("focus_keyword not at front of title");
+        s -= 2;
+      }
+    }
+    // Focus keyword must appear in meta.description, in first 100 chars
+    if (m.focus_keyword && m.description) {
+      const descHead = m.description.slice(0, 100).toLowerCase();
+      if (!descHead.includes(m.focus_keyword.toLowerCase().slice(0, 15))) {
+        issues.push(
+          `focus_keyword "${m.focus_keyword}" not in first 100 chars of meta.description`
+        );
+        s -= 2;
+      }
     }
     if (!m.canonical || !m.canonical.startsWith("https://")) {
       issues.push("canonical not HTTPS");
@@ -790,6 +840,174 @@ function validate(post: PostJSON, file: string): ValidationReport {
           `first sentence "${firstSentence}" reads encyclopedic, lead with the reader`
         );
         s -= 2;
+      }
+    }
+    return Math.max(0, s);
+  });
+
+  // ── Phase 11: primary keyword in at least one H2 (3)
+  check("kw_in_h2", 3, (issues) => {
+    let s = 3;
+    const m = post.meta as Record<string, string> | undefined;
+    if (!m?.focus_keyword) return s;
+    const fk = m.focus_keyword.toLowerCase();
+    const headings: string[] = [];
+    for (const block of post.content ?? []) {
+      const b = block as {
+        type: string;
+        heading?: string;
+        h3?: string;
+      };
+      if (
+        (b.type === "prose" || b.type === "scannable-prose") &&
+        typeof b.heading === "string"
+      ) {
+        headings.push(b.heading.toLowerCase());
+      }
+    }
+    if (headings.length === 0) return s;
+    const headFront = fk.split(/\s+/).slice(0, 3).join(" ");
+    const found = headings.some((h) => h.includes(headFront));
+    if (!found) {
+      issues.push(
+        `focus_keyword "${m.focus_keyword}" not present in any H2 (block heading)`
+      );
+      s -= 2;
+    }
+    return Math.max(0, s);
+  });
+
+  // ── Phase 12: external link whitelist (4)
+  check("external_links", 4, (issues) => {
+    let s = 4;
+    const externals: string[] = [];
+    const allowedHosts = new Set(EXTERNAL_LINK_WHITELIST);
+    const blocks = post.content ?? [];
+    const htmlChunks: string[] = [];
+    for (const block of blocks) {
+      const b = block as {
+        type: string;
+        html?: string;
+        lead_html?: string;
+        subsections?: { html: string }[];
+      };
+      if (b.html) htmlChunks.push(b.html);
+      if (b.lead_html) htmlChunks.push(b.lead_html);
+      if (Array.isArray(b.subsections)) {
+        for (const sub of b.subsections) {
+          if (sub.html) htmlChunks.push(sub.html);
+        }
+      }
+    }
+    const joined = htmlChunks.join(" ");
+    const hrefRe = /href=["']([^"']+)["']/g;
+    let m: RegExpExecArray | null;
+    while ((m = hrefRe.exec(joined)) !== null) {
+      const url = m[1];
+      if (!/^https?:\/\//i.test(url)) continue;
+      if (INTERNAL_HOSTS_PATTERN.test(url) || SUBDOMAIN_HOSTS_PATTERN.test(url)) {
+        continue;
+      }
+      // External link found
+      try {
+        const host = new URL(url).hostname.replace(/^www\./, "");
+        externals.push(url);
+        if (!allowedHosts.has(host)) {
+          issues.push(
+            `external host "${host}" not in whitelist: ${url}`
+          );
+          hardFail("external link not in whitelist");
+          s -= 3;
+        }
+      } catch {
+        issues.push(`malformed external URL: ${url}`);
+        s -= 1;
+      }
+    }
+    if (externals.length > 2) {
+      issues.push(
+        `${externals.length} external links, max 2 allowed`
+      );
+      s -= 1;
+    }
+    return Math.max(0, s);
+  });
+
+  // ── Phase 13: paragraph length + sentence-length burstiness (5)
+  check("scannability", 5, (issues) => {
+    let s = 5;
+    const proseHtmls: string[] = [];
+    for (const block of post.content ?? []) {
+      const b = block as {
+        type: string;
+        html?: string;
+        lead_html?: string;
+        subsections?: { html: string }[];
+      };
+      if (b.type === "prose" && b.html) proseHtmls.push(b.html);
+      if (b.type === "scannable-prose") {
+        if (b.lead_html) proseHtmls.push(b.lead_html);
+        if (Array.isArray(b.subsections)) {
+          for (const sub of b.subsections) {
+            if (sub.html) proseHtmls.push(sub.html);
+          }
+        }
+      }
+    }
+    if (proseHtmls.length === 0) return s;
+    // Count sentences per <p>
+    const allParagraphs: string[] = [];
+    for (const html of proseHtmls) {
+      const pMatches = html.match(/<p[^>]*>([\s\S]*?)<\/p>/gi) ?? [];
+      for (const p of pMatches) {
+        const text = p.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+        if (text.length > 0) allParagraphs.push(text);
+      }
+    }
+    if (allParagraphs.length === 0) return s;
+    const sentencesPerParagraph: number[] = [];
+    let oversizedParagraph = false;
+    for (const p of allParagraphs) {
+      const sents = p.split(/(?<=[.!?])\s+(?=[A-Z])/).filter(Boolean);
+      sentencesPerParagraph.push(sents.length);
+      if (sents.length > 5) oversizedParagraph = true;
+    }
+    const avgSents =
+      sentencesPerParagraph.reduce((a, b) => a + b, 0) /
+      sentencesPerParagraph.length;
+    if (avgSents > 3.5) {
+      issues.push(
+        `avg ${avgSents.toFixed(1)} sentences/paragraph, want <=3.5 for scannability`
+      );
+      s -= 2;
+    }
+    if (oversizedParagraph) {
+      issues.push(
+        `at least one paragraph > 5 sentences (breaks scannability)`
+      );
+      s -= 1;
+    }
+    // Burstiness: sentence-length variance across all sentences
+    const allSentenceLens: number[] = [];
+    for (const p of allParagraphs) {
+      const sents = p.split(/(?<=[.!?])\s+(?=[A-Z])/).filter(Boolean);
+      for (const sent of sents) {
+        const wc = sent.split(/\s+/).filter(Boolean).length;
+        if (wc >= 2) allSentenceLens.push(wc);
+      }
+    }
+    if (allSentenceLens.length >= 20) {
+      const mean =
+        allSentenceLens.reduce((a, b) => a + b, 0) / allSentenceLens.length;
+      const variance =
+        allSentenceLens.reduce((a, b) => a + (b - mean) ** 2, 0) /
+        allSentenceLens.length;
+      const stddev = Math.sqrt(variance);
+      if (stddev < 4) {
+        issues.push(
+          `sentence-length stddev ${stddev.toFixed(1)} below 4 (low burstiness, AI-detector risk)`
+        );
+        s -= 1;
       }
     }
     return Math.max(0, s);

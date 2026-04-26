@@ -6,40 +6,130 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 11,
   "status": "ready",
   "published_at": "2026-04-13T00:00:00.000Z",
   "updated_at": "2026-04-13T00:00:00.000Z",
-  "tags": ["Sun in 7th house", "Surya neecha", "Mesh Lagna", "Aries ascendant", "Kalatra Bhava", "Tula debilitation", "marana karaka sthana", "neecha bhanga", "Surya mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Sun in 7th house",
+    "Surya neecha",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Kalatra Bhava",
+    "Tula debilitation",
+    "marana karaka sthana",
+    "neecha bhanga",
+    "Surya mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "surya",
   "house_number": 7,
   "lagna_id": "mesha",
   "meta": {
     "title": "Sun in 7th House for Mesh Lagna, Debilitated Surya Guide",
-    "description": "Sun in 7th house for Mesh Lagna, Surya debilitated in Tula, fifth lord in Kalatra Bhava. Marriage, dasha, remedies by Pt. Raghav Sharma.",
+    "description": "Sun in 7th house for Mesh Lagna, Surya debilitated in Tula, fifth lord in Kalatra Bhava. Marriage, dasha, remedies by VastuCart Editorial.",
     "focus_keyword": "Sun in 7th house",
-    "secondary_keywords": ["Mesh Lagna", "Kalatra Bhava", "Surya debilitated", "Aries ascendant", "Surya neecha"],
-    "lsi_keywords": ["neecha bhanga", "kalatra bhava", "surya mahadasha", "marana karaka sthana", "tula rashi", "fifth lord seventh", "marriage karaka", "spouse authority", "debilitation cancellation"],
-    "keywords": ["Sun in 7th house Mesh Lagna", "Surya in Kalatra Bhava", "Mesh lagna 5th lord 7th", "Aries ascendant marriage", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Kalatra Bhava",
+      "Surya debilitated",
+      "Aries ascendant",
+      "Surya neecha"
+    ],
+    "lsi_keywords": [
+      "neecha bhanga",
+      "kalatra bhava",
+      "surya mahadasha",
+      "marana karaka sthana",
+      "tula rashi",
+      "fifth lord seventh",
+      "marriage karaka",
+      "spouse authority",
+      "debilitation cancellation"
+    ],
+    "keywords": [
+      "Sun in 7th house Mesh Lagna",
+      "Surya in Kalatra Bhava",
+      "Mesh lagna 5th lord 7th",
+      "Aries ascendant marriage",
+      "Vedic astrology"
+    ],
     "og_title": "Sun in the 7th House of Mesh Lagna, Debilitated Surya",
     "og_description": "Surya in Kalatra Bhava for Aries ascendant, Sun debilitated in Tula, marriage and partnership study by a practising Jyotishi.",
     "og_image": "/og/sun-7th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-7th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Sun in 7th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-7th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Sun in 7th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/sun-7th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Sun in 7th house",
-    "secondary_keywords": ["Mesh Lagna", "Kalatra Bhava", "Surya debilitated", "Aries ascendant", "Surya neecha"],
-    "lsi_terms": ["neecha bhanga", "kalatra bhava", "surya mahadasha", "marana karaka sthana", "tula rashi", "fifth lord seventh", "marriage karaka", "spouse authority", "debilitation cancellation"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Kalatra Bhava",
+      "Surya debilitated",
+      "Aries ascendant",
+      "Surya neecha"
+    ],
+    "lsi_terms": [
+      "neecha bhanga",
+      "kalatra bhava",
+      "surya mahadasha",
+      "marana karaka sthana",
+      "tula rashi",
+      "fifth lord seventh",
+      "marriage karaka",
+      "spouse authority",
+      "debilitation cancellation"
+    ],
     "seed_queries": [
-      "sun in 7th house aries lagna", "surya in 7th house mesh lagna", "sun debilitated 7th house aries", "sun neecha tula mesh", "surya in kalatra bhava aries", "sun in 7th house effects aries", "sun in tula 7th house mesh", "sun in 7th house marriage aries", "sun in 7th house spouse aries", "sun in 7th house aries career", "sun in 7th house aries remedies", "ruby for debilitated sun aries", "neecha bhanga raja yoga sun tula", "surya mahadasha aries 7th", "sun in 7th house aries partnership", "sun in 7th house aries business", "sun in 7th house aries wife", "sun in 7th house aries husband", "is sun bad in 7th house aries", "sun in libra aries ascendant", "sun in tula aries lagna", "surya kalatra bhava neecha", "sun 7th house aries prediction", "sun in seventh house mesh lagna", "sun 7th house mesh ascendant", "surya in mesh lagna 7th", "sun tula lagna mesh chart", "sun 7th house mesh lagna dasha", "surya mesh lagna marriage", "sun in libra aries ascendant marriage"
+      "sun in 7th house aries lagna",
+      "surya in 7th house mesh lagna",
+      "sun debilitated 7th house aries",
+      "sun neecha tula mesh",
+      "surya in kalatra bhava aries",
+      "sun in 7th house effects aries",
+      "sun in tula 7th house mesh",
+      "sun in 7th house marriage aries",
+      "sun in 7th house spouse aries",
+      "sun in 7th house aries career",
+      "sun in 7th house aries remedies",
+      "ruby for debilitated sun aries",
+      "neecha bhanga raja yoga sun tula",
+      "surya mahadasha aries 7th",
+      "sun in 7th house aries partnership",
+      "sun in 7th house aries business",
+      "sun in 7th house aries wife",
+      "sun in 7th house aries husband",
+      "is sun bad in 7th house aries",
+      "sun in libra aries ascendant",
+      "sun in tula aries lagna",
+      "surya kalatra bhava neecha",
+      "sun 7th house aries prediction",
+      "sun in seventh house mesh lagna",
+      "sun 7th house mesh ascendant",
+      "surya in mesh lagna 7th",
+      "sun tula lagna mesh chart",
+      "sun 7th house mesh lagna dasha",
+      "surya mesh lagna marriage",
+      "sun in libra aries ascendant marriage"
     ],
     "questions": [
       "Is Sun in the 7th house bad for Mesh Lagna?",
@@ -49,36 +139,131 @@
       "Which gemstone is safe for debilitated Sun in Mesh Lagna?"
     ],
     "lingual_variations": {
-      "surya": ["surya", "sun", "aditya", "ravi", "bhanu", "sooraj"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "surya": [
+        "surya",
+        "sun",
+        "aditya",
+        "ravi",
+        "bhanu",
+        "sooraj"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Neecha bhanga conditions specific to Mesh lagna Sun", "Marana karaka sthana interpretation nuances", "Partnership business timing windows"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Neecha bhanga conditions specific to Mesh lagna Sun",
+      "Marana karaka sthana interpretation nuances",
+      "Partnership business timing windows"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "sun-7th-house-aries-lagna-hero.webp", "filename_og": "sun-7th-house-aries-lagna-og.png", "alt": "Surya muted in the seventh house of a Mesh Lagna kundali", "caption": "Surya sits debilitated in Kalatra Bhava for Aries ascendant natives, the Sun in neecha Tula producing the marriage and partnership challenge signature.", "width": 1200, "height": 630, "format": "webp", "style": "dusk editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the seventh house marked in rose and copper, a stylised muted Sun symbol rendered in soft dusk tones, traditional Vedic palette tempered with twilight shades, refined manuscript style, no people.", "negative_prompt": "bright sunlight, photorealistic, watermark, text, neon, cartoon" },
-    { "filename": "sun-7th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Sun placed in the seventh house of Mesh", "caption": "The North Indian birth chart with Surya marked in the seventh house Kalatra Bhava of Mesh Lagna, opposite the ascendant.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the right-hand seventh house highlighted in rose with a Sun symbol marked Su, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "sun-7th-house-aries-lagna-red-garnet.webp", "alt": "Red garnet in silver setting, the safer alternative for debilitated Sun Mesh Lagna", "caption": "Red garnet is the classical safer alternative when Surya is debilitated in Tula for Aries natives, milder than untreated ruby.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural red garnet set in a silver ring, deep wine red colour, faceted cushion cut, on dark rose velvet with warm lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "sun-7th-house-aries-lagna-aditya-hridayam.webp", "alt": "Aditya Hridayam Sanskrit verse on aged parchment with muted copper disc", "caption": "Aditya Hridayam recitation at sunrise is the primary remedy for debilitated Surya in the seventh house.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Aditya Hridayam, hand-painted on aged parchment with gold leaf borders, faint dusk-coloured sun disc in the background, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "sun-7th-house-aries-lagna-hero.webp",
+      "filename_og": "sun-7th-house-aries-lagna-og.png",
+      "alt": "Surya muted in the seventh house of a Mesh Lagna kundali",
+      "caption": "Surya sits debilitated in Kalatra Bhava for Aries ascendant natives, the Sun in neecha Tula producing the marriage and partnership challenge signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "dusk editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the seventh house marked in rose and copper, a stylised muted Sun symbol rendered in soft dusk tones, traditional Vedic palette tempered with twilight shades, refined manuscript style, no people.",
+      "negative_prompt": "bright sunlight, photorealistic, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "sun-7th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Sun placed in the seventh house of Mesh",
+      "caption": "The North Indian birth chart with Surya marked in the seventh house Kalatra Bhava of Mesh Lagna, opposite the ascendant.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the right-hand seventh house highlighted in rose with a Sun symbol marked Su, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "sun-7th-house-aries-lagna-red-garnet.webp",
+      "alt": "Red garnet in silver setting, the safer alternative for debilitated Sun Mesh Lagna",
+      "caption": "Red garnet is the classical safer alternative when Surya is debilitated in Tula for Aries natives, milder than untreated ruby.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural red garnet set in a silver ring, deep wine red colour, faceted cushion cut, on dark rose velvet with warm lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "sun-7th-house-aries-lagna-aditya-hridayam.webp",
+      "alt": "Aditya Hridayam Sanskrit verse on aged parchment with muted copper disc",
+      "caption": "Aditya Hridayam recitation at sunrise is the primary remedy for debilitated Surya in the seventh house.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Aditya Hridayam, hand-painted on aged parchment with gold leaf borders, faint dusk-coloured sun disc in the background, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Sun in the 7th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Surya debilitated in Kalatra Bhava for Aries ascendant natives. Sun in neecha Tula, the fifth lord in the seventh, marriage, partnership, debilitation cancellation and the remedies that actually work.",
     "meta": [
-      { "icon": "clock", "value": "11 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "11 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Surya", "tone": "teal" },
-      { "label": "Kalatra Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Neecha Tula" },
-      { "label": "Marana karaka sthana" },
-      { "label": "5th lord in 7th" }
+      {
+        "label": "Surya",
+        "tone": "teal"
+      },
+      {
+        "label": "Kalatra Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Neecha Tula"
+      },
+      {
+        "label": "Marana karaka sthana"
+      },
+      {
+        "label": "5th lord in 7th"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +271,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Surya", "sub": "Sun (debilitated)", "icon": "sun" },
-        { "label": "Bhava", "value": "7th", "sub": "Kalatra Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Weak", "sub": "Neecha in Tula", "icon": "star", "tone": "bad" }
+        {
+          "label": "Planet",
+          "value": "Surya",
+          "sub": "Sun (debilitated)",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "7th",
+          "sub": "Kalatra Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Weak",
+          "sub": "Neecha in Tula",
+          "icon": "star",
+          "tone": "bad"
+        }
       ]
     },
     {
@@ -104,39 +310,104 @@
       "heading": "When the Sun sets on the seventh horizon",
       "html": "<p>The seventh house is Kalatra Bhava, the house of marriage, spouse, open enemies, public dealings, trade, and the individual the native stands across from in any transaction. For Mesh Lagna, this house carries Tula rashi, ruled by Shukra (Venus), and everything Tula represents, balance, aesthetics, diplomacy, mutual consent, is the exact opposite of the fire and assertion Mesh Lagna runs on through its Mars ascendant. When Surya enters this Tula seventh, he steps into a sign that does not suit him on every axis. The Sun is pure individual identity, Tula is social negotiation. The Sun asserts, Tula mediates. The classical debilitation of Surya in Tula is not arbitrary symbolism, it is the most literal description of an identity that cannot accept compromise arriving in a house where compromise is the whole currency.</p><p>Add the marana karaka sthana overlay and the picture sharpens. Parashara lists the seventh as the position where Surya experiences a symbolic death, because the Sun as the king cannot function fully when placed opposite the lagna and forced to face the public horizon rather than rise from it. This is not a placement that destroys the native, far from it, but it does impose specific marriage and partnership lessons that the native will spend the first three decades of life learning the hard way. The saving grace, and it is a real one, is that Surya is also the fifth lord for Mesh, and a trikona lord in a kendra carries raja yoga potential even when weakened by sign.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "A debilitated Sun in Kalatra Bhava does not break the chart, it forces the native to build identity through partnership rather than assert it above partnership." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "A debilitated Sun in Kalatra Bhava does not break the chart, it forces the native to build identity through partnership rather than assert it above partnership."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Surya, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Surya, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Soul, father, authority, identity" },
-            { "k": "Own sign", "v": "Simha (Leo)" },
-            { "k": "Uchha (exaltation)", "v": "Mesh at 10 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Tula at 10 degrees, this placement", "tone": "bad" },
-            { "k": "Friends", "v": "Moon, Mars, Jupiter" },
-            { "k": "Enemies", "v": "Saturn, Venus", "tone": "bad" },
-            { "k": "Element", "v": "Fire (Agni Tattva)" },
-            { "k": "Marana karaka", "v": "7th house", "tone": "bad" }
+            {
+              "k": "Karakatva",
+              "v": "Soul, father, authority, identity"
+            },
+            {
+              "k": "Own sign",
+              "v": "Simha (Leo)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Mesh at 10 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Tula at 10 degrees, this placement",
+              "tone": "bad"
+            },
+            {
+              "k": "Friends",
+              "v": "Moon, Mars, Jupiter"
+            },
+            {
+              "k": "Enemies",
+              "v": "Saturn, Venus",
+              "tone": "bad"
+            },
+            {
+              "k": "Element",
+              "v": "Fire (Agni Tattva)"
+            },
+            {
+              "k": "Marana karaka",
+              "v": "7th house",
+              "tone": "bad"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Kalatra Bhava, house profile", "subtitle": "7th house significance",
+          "icon": "triangle-house",
+          "title": "Kalatra Bhava, house profile",
+          "subtitle": "7th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Kalatra, Jaya Bhava" },
-            { "k": "Rules over", "v": "Spouse, marriage, partnership, open enemies, trade" },
-            { "k": "Natural sign", "v": "Tula (Libra) for Mesh" },
-            { "k": "Natural ruler", "v": "Shukra (Venus)" },
-            { "k": "Body part", "v": "Lower abdomen, urinary and reproductive" },
-            { "k": "Kendra house", "v": "Yes, the descending angle", "tone": "good" },
-            { "k": "Vedic quality", "v": "Trine lord sitting in a kendra" },
-            { "k": "Special risk", "v": "Marana karaka sthana for Surya", "tone": "bad" }
+            {
+              "k": "Sanskrit name",
+              "v": "Kalatra, Jaya Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Spouse, marriage, partnership, open enemies, trade"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Tula (Libra) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Shukra (Venus)"
+            },
+            {
+              "k": "Body part",
+              "v": "Lower abdomen, urinary and reproductive"
+            },
+            {
+              "k": "Kendra house",
+              "v": "Yes, the descending angle",
+              "tone": "good"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Trine lord sitting in a kendra"
+            },
+            {
+              "k": "Special risk",
+              "v": "Marana karaka sthana for Surya",
+              "tone": "bad"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +449,48 @@
       "heading": "Why partnership careers succeed where solo ventures stall",
       "html": "<p>The career signature reads very differently from what the surface of a debilitated Sun suggests. Because Surya is still the fifth lord and is in a kendra, the raja yoga seed is there, it just has to germinate through partnership rather than through solo authority. Law is the single strongest fit because law is a profession in which you formally represent someone else's interests, you negotiate across a table, and the seventh house literally governs open courts and legal disputes. Advocacy, litigation, and especially family law and matrimonial practice suit these natives because their own life experience teaches them the terrain. Diplomacy and foreign service are the second cluster, international postings, trade negotiation, consular work, and anything that requires the native to represent one party before another.</p><p>Partnership consulting, business advisory work where the native advises a founder or a board but is not the founder themselves, is a third natural fit and often the most lucrative. Arbitration, mediation, and conflict resolution roles work because the debilitated Sun in Tula has been forced to develop the balance gene, and natives in their forties often become sought-after neutral third parties in commercial disputes. Trade, import and export, partnership businesses where the native runs the external-facing side while a partner runs operations, also fit. Public relations and brand voice work suit the softer Sun that this placement produces. The key rule: never go solo. Every career framework that requires the native to be the sole authority figure will amplify the marana karaka exhaustion, while every framework that is built on formal partnership will harness the 5L in 7H raja yoga and deliver.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Confirm your Sun placement in the seventh house", "subtitle": "Generate your free Kundali to see the exact seventh house picture and any neecha bhanga conditions.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Sun marked in the seventh house of Mesh", "planet": "Surya", "house": 7, "lagna": "Mesh", "legend": [ { "color": "rose", "text": "Surya in Kalatra Bhava, marked in dusk rose" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Right-hand diamond is the 7th house, opposite the lagna" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Confirm your Sun placement in the seventh house",
+        "subtitle": "Generate your free Kundali to see the exact seventh house picture and any neecha bhanga conditions.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Sun marked in the seventh house of Mesh",
+      "planet": "Surya",
+      "house": 7,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "rose",
+          "text": "Surya in Kalatra Bhava, marked in dusk rose"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Right-hand diamond is the 7th house, opposite the lagna"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "Neecha bhanga raja yoga",
@@ -194,13 +503,45 @@
       "heading": "When Sun in 7th fires and when it strains",
       "intro_html": "<p>Surya mahadasha is the central interpretive window for this placement. Six years, intense, and direction depends entirely on whether neecha bhanga applies. Guru, Shukra and Shani periods also colour the seventh house story.</p>",
       "rows": [
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "The debilitation window. Marriage events, partnership formations or breaks, father themes. Raja yoga delivers when neecha bhanga applies.", "intensity": "Very high", "intensity_bar_width": 92, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "9th lord, friend of Sun. Marriage often during Surya antardasha in Guru mahadasha. Dharma and teaching channels open.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#338a95" },
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "Lord of the seventh house Tula. Spouse themes peak, creative partnership, trade and luxury business windows.", "intensity": "High", "intensity_bar_width": 80, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Shani (Saturn)", "duration": "19 years", "themes": "Exalted lord for Mesh, aspects the seventh. Hard work, discipline, commercial partnership building, delayed recognition.", "intensity": "Mixed", "intensity_bar_width": 65, "intensity_bar_color": "#7aa8cc" }
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "The debilitation window. Marriage events, partnership formations or breaks, father themes. Raja yoga delivers when neecha bhanga applies.",
+          "intensity": "Very high",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "9th lord, friend of Sun. Marriage often during Surya antardasha in Guru mahadasha. Dharma and teaching channels open.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#338a95"
+        },
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "Lord of the seventh house Tula. Spouse themes peak, creative partnership, trade and luxury business windows.",
+          "intensity": "High",
+          "intensity_bar_width": 80,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Shani (Saturn)",
+          "duration": "19 years",
+          "themes": "Exalted lord for Mesh, aspects the seventh. Hard work, discipline, commercial partnership building, delayed recognition.",
+          "intensity": "Mixed",
+          "intensity_bar_width": 65,
+          "intensity_bar_color": "#7aa8cc"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -225,29 +566,141 @@
       "heading": "Gemstones for Sun in 7th house Mesh Lagna",
       "intro_html": "<p>For a debilitated Surya in marana karaka sthana, the gemstone rule is unusual, red garnet is safer than ruby for daily wear and ruby is reserved for confirmed neecha bhanga cases.</p>",
       "cards": [
-        { "name": "Red Garnet (primary)", "role": "primary", "sub": "Milder Sun-aligned stone, safer for debilitated Surya", "icon_variant": "ruby", "image_slug": "red-coral", "items": [ { "k": "Metal", "v": "Silver or copper" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Sunday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Manik (Ruby)", "role": "secondary", "sub": "Only if neecha bhanga is confirmed by a practitioner", "icon_variant": "ruby", "image_slug": "ruby", "items": [ { "k": "Metal", "v": "Gold (24 carat)" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Sunday, sunrise" }, { "k": "Caution", "v": "Skip during Shani antardasha", "tone": "bad" } ] },
-        { "name": "Consult before wearing any Surya stone", "role": "shop", "sub": "Neecha bhanga verification by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Red Garnet (primary)",
+          "role": "primary",
+          "sub": "Milder Sun-aligned stone, safer for debilitated Surya",
+          "icon_variant": "ruby",
+          "image_slug": "red-coral",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver or copper"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Sunday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Manik (Ruby)",
+          "role": "secondary",
+          "sub": "Only if neecha bhanga is confirmed by a practitioner",
+          "icon_variant": "ruby",
+          "image_slug": "ruby",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold (24 carat)"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Sunday, sunrise"
+            },
+            {
+              "k": "Caution",
+              "v": "Skip during Shani antardasha",
+              "tone": "bad"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing any Surya stone",
+          "role": "shop",
+          "sub": "Neecha bhanga verification by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "A debilitated Sun should never be given ruby without a full chart review. Always consult a qualified Jyotishi."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Sun in 7th house",
       "intro_html": "<p>The classical Surya rudraksha is the Ek Mukhi, and for debilitated Sun cases the Hanuman-associated Gyarah Mukhi is the supporting bead that strengthens the solar channel indirectly through Mars and Vayu.</p>",
       "beads": [
-        { "mukhi": 1, "name": "Ek Mukhi Rudraksha", "sub": "Ruled by Surya, the rarest rudraksha", "benefit": "Strengthens the soul clarity signal that the debilitation weakens, removes distortion in the self-authority channel, and is the single best rudraksha for any weakened Surya placement. Worn after Shiva abhishek on Sunday." },
-        { "mukhi": 11, "name": "Gyarah Mukhi Rudraksha", "sub": "Ruled by Hanuman, the Rudra bead", "benefit": "The Hanuman bead that strengthens courage, removes fear in public dealings, and indirectly supports debilitated Surya through the Mars-Vayu channel that Hanuman represents. Classical secondary remedy for Sun in marana karaka sthana." }
+        {
+          "mukhi": 1,
+          "name": "Ek Mukhi Rudraksha",
+          "sub": "Ruled by Surya, the rarest rudraksha",
+          "benefit": "Strengthens the soul clarity signal that the debilitation weakens, removes distortion in the self-authority channel, and is the single best rudraksha for any weakened Surya placement. Worn after Shiva abhishek on Sunday."
+        },
+        {
+          "mukhi": 11,
+          "name": "Gyarah Mukhi Rudraksha",
+          "sub": "Ruled by Hanuman, the Rudra bead",
+          "benefit": "The Hanuman bead that strengthens courage, removes fear in public dealings, and indirectly supports debilitated Surya through the Mars-Vayu channel that Hanuman represents. Classical secondary remedy for Sun in marana karaka sthana."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Surya Yantra for a debilitated Sun", "yantra": { "name": "Surya Yantra", "sanskrit": "सूर्य यन्त्र", "description": "The Surya Yantra is the geometric form of solar energy. Installing it in the east wall of your study or office desk area stabilises the weakened fifth lord and provides a daily anchor for the Aditya Hridayam recitation routine. For this placement it works best when installed during a Sunday sunrise in Guru or Surya hora.", "direction": "East wall", "install_day": "Sunday, sunrise, Surya hora preferred", "material": "Copper (preferred over gold for debilitated Sun)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for a debilitated Surya", "stotra": { "eyebrow": "Aditya Hridayam", "title": "Aditya Hridayam Stotram", "sub": "Sage Agastya's hymn to Rama on the battlefield, the classical debility cure for any weakened Sun", "verse": "Tato yuddhaparishrantam samare chintaya sthitam<br>Ravanam chagrato drshtva yuddhaya samupasthitam<br>Daivataishcha samagamya drashtumabhyagato ranam<br>Upagamyabravid Ramam Agastyo bhagavanrishih", "translation": "When Rama stood exhausted in battle, the sage Agastya approached and said, recite Aditya Hridayam and you shall conquer all enemies, attain all knowledge, and never face defeat. For a debilitated Sun in the seventh, this hymn is the foundational daily practice.", "url": "https://stotra.vastucart.in/stotra/aditya-hridayam" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Surya Yantra for a debilitated Sun",
+      "yantra": {
+        "name": "Surya Yantra",
+        "sanskrit": "सूर्य यन्त्र",
+        "description": "The Surya Yantra is the geometric form of solar energy. Installing it in the east wall of your study or office desk area stabilises the weakened fifth lord and provides a daily anchor for the Aditya Hridayam recitation routine. For this placement it works best when installed during a Sunday sunrise in Guru or Surya hora.",
+        "direction": "East wall",
+        "install_day": "Sunday, sunrise, Surya hora preferred",
+        "material": "Copper (preferred over gold for debilitated Sun)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for a debilitated Surya",
+      "stotra": {
+        "eyebrow": "Aditya Hridayam",
+        "title": "Aditya Hridayam Stotram",
+        "sub": "Sage Agastya's hymn to Rama on the battlefield, the classical debility cure for any weakened Sun",
+        "verse": "Tato yuddhaparishrantam samare chintaya sthitam<br>Ravanam chagrato drshtva yuddhaya samupasthitam<br>Daivataishcha samagamya drashtumabhyagato ranam<br>Upagamyabravid Ramam Agastyo bhagavanrishih",
+        "translation": "When Rama stood exhausted in battle, the sage Agastya approached and said, recite Aditya Hridayam and you shall conquer all enemies, attain all knowledge, and never face defeat. For a debilitated Sun in the seventh, this hymn is the foundational daily practice.",
+        "url": "https://stotra.vastucart.in/stotra/aditya-hridayam"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -255,17 +708,83 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map the seventh house picture and neecha bhanga", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Marriage muhurta", "sub": "Auspicious dates for partnership vows", "url": "https://muhurta.vastucart.in/marriage-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Aditya Hridayam path", "sub": "The primary debility cure stotra", "url": "https://stotra.vastucart.in/stotra/aditya-hridayam", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Surya Kavacham", "sub": "Protective armour stotra for Surya", "url": "https://stotra.vastucart.in/stotra/surya-kavacham", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Hanuman Chalisa", "sub": "Secondary remedy through the Mars-Vayu channel", "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Surya deity page", "sub": "All stotras and hymns for Surya", "url": "https://stotra.vastucart.in/deity/surya", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Ek Mukhi rudraksha source", "sub": "The rare one-faced Surya bead", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Surya yantra store", "sub": "Copper Surya yantra for debilitated Sun", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Neecha bhanga verification with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map the seventh house picture and neecha bhanga",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Marriage muhurta",
+            "sub": "Auspicious dates for partnership vows",
+            "url": "https://muhurta.vastucart.in/marriage-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aditya Hridayam path",
+            "sub": "The primary debility cure stotra",
+            "url": "https://stotra.vastucart.in/stotra/aditya-hridayam",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Surya Kavacham",
+            "sub": "Protective armour stotra for Surya",
+            "url": "https://stotra.vastucart.in/stotra/surya-kavacham",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Hanuman Chalisa",
+            "sub": "Secondary remedy through the Mars-Vayu channel",
+            "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Surya deity page",
+            "sub": "All stotras and hymns for Surya",
+            "url": "https://stotra.vastucart.in/deity/surya",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ek Mukhi rudraksha source",
+            "sub": "The rare one-faced Surya bead",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Surya yantra store",
+            "sub": "Copper Surya yantra for debilitated Sun",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Neecha bhanga verification with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -275,55 +794,130 @@
         "title": "Does neecha bhanga apply in your chart?",
         "subtitle": "Get a full personalised analysis of your debilitated Surya, Navamsa strength, and marriage timing windows.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Aditya Hridayam", "url": "https://stotra.vastucart.in/stotra/aditya-hridayam", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Aditya Hridayam",
+            "url": "https://stotra.vastucart.in/stotra/aditya-hridayam",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Sun in 7th house, Mesh Lagna",
       "items": [
-        { "q": "Is Sun in the 7th house bad for Mesh Lagna?", "a": "Not as bad as the headline suggests. Surya is debilitated in Tula and the seventh is also marana karaka sthana for Sun, which creates genuine ego friction in marriage and partnership early in life. But Surya is also the fifth lord sitting in a kendra, and that is a classical raja yoga configuration in the making. When neecha bhanga applies, which it frequently does for Mesh Lagna charts, the placement delivers significant professional success from the mid-thirties onwards. The remedy discipline matters more for this placement than for any strong Sun combination." },
-        { "q": "What does Sun debilitated in Tula mean for an Aries ascendant?", "a": "It means the native has to build identity through partnership rather than assert it above partnership. The Mars-driven assertion the lagna wants is softened by the Tula diplomacy the seventh house demands, and the twenties are usually spent learning how to negotiate rather than how to command. The good news is that this lesson, once learned, produces remarkably effective professionals in law, diplomacy, advisory, and partnership business." },
-        { "q": "How does Sun in 7th house affect marriage and spouse?", "a": "The spouse is typically older by three to seven years, carries authority or an established professional background, and often comes from a family of greater social standing than the native's own. Love marriage is more common than arranged. First marriages formed in the early twenties frequently struggle because the debilitation is most active then, so delay the decision to at least twenty-six and always run Navamsa matching with a practising Jyotishi before proceeding." },
-        { "q": "Can neecha bhanga save a debilitated Sun in 7th for Mesh Lagna?", "a": "Yes, and it often does. Classical conditions for neecha bhanga include Venus (lord of Tula) being in a kendra from the lagna or Moon, Saturn (exalted in Tula) being in a kendra or aspecting the Sun, the Sun being aspected by Jupiter, or the Sun being in a kendra from the Moon. For Mesh Lagna charts, the Shani-in-Tula condition is the most commonly met because it co-locates Saturn in the same sign as the debilitated Sun. When neecha bhanga applies, the placement transforms from a weakness into a raja yoga that delivers through the thirties and forties." },
-        { "q": "Which gemstone is safe for debilitated Sun in Mesh Lagna?", "a": "Red garnet in silver or copper is the safer primary choice for daily wear. Ruby (Manik) should be reserved for cases where a qualified practitioner has verified that neecha bhanga applies strongly, and even then it should be paused during Shani antardasha windows. Never wear ruby for a debilitated marana karaka sthana Sun without a full chart consultation, because the amplification can backfire and aggravate the ego friction the placement already carries." }
+        {
+          "q": "Is Sun in the 7th house bad for Mesh Lagna?",
+          "a": "Not as bad as the headline suggests. Surya is debilitated in Tula and the seventh is also marana karaka sthana for Sun, which creates genuine ego friction in marriage and partnership early in life. But Surya is also the fifth lord sitting in a kendra, and that is a classical raja yoga configuration in the making. When neecha bhanga applies, which it frequently does for Mesh Lagna charts, the placement delivers significant professional success from the mid-thirties onwards. The remedy discipline matters more for this placement than for any strong Sun combination."
+        },
+        {
+          "q": "What does Sun debilitated in Tula mean for an Aries ascendant?",
+          "a": "It means the native has to build identity through partnership rather than assert it above partnership. The Mars-driven assertion the lagna wants is softened by the Tula diplomacy the seventh house demands, and the twenties are usually spent learning how to negotiate rather than how to command. The good news is that this lesson, once learned, produces remarkably effective professionals in law, diplomacy, advisory, and partnership business."
+        },
+        {
+          "q": "How does Sun in 7th house affect marriage and spouse?",
+          "a": "The spouse is typically older by three to seven years, carries authority or an established professional background, and often comes from a family of greater social standing than the native's own. Love marriage is more common than arranged. First marriages formed in the early twenties frequently struggle because the debilitation is most active then, so delay the decision to at least twenty-six and always run Navamsa matching with a practising Jyotishi before proceeding."
+        },
+        {
+          "q": "Can neecha bhanga save a debilitated Sun in 7th for Mesh Lagna?",
+          "a": "Yes, and it often does. Classical conditions for neecha bhanga include Venus (lord of Tula) being in a kendra from the lagna or Moon, Saturn (exalted in Tula) being in a kendra or aspecting the Sun, the Sun being aspected by Jupiter, or the Sun being in a kendra from the Moon. For Mesh Lagna charts, the Shani-in-Tula condition is the most commonly met because it co-locates Saturn in the same sign as the debilitated Sun. When neecha bhanga applies, the placement transforms from a weakness into a raja yoga that delivers through the thirties and forties."
+        },
+        {
+          "q": "Which gemstone is safe for debilitated Sun in Mesh Lagna?",
+          "a": "Red garnet in silver or copper is the safer primary choice for daily wear. Ruby (Manik) should be reserved for cases where a qualified practitioner has verified that neecha bhanga applies strongly, and even then it should be paused during Shani antardasha windows. Never wear ruby for a debilitated marana karaka sthana Sun without a full chart consultation, because the amplification can backfire and aggravate the ego friction the placement already carries."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Neecha Bhanga expert", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Surya in the fifth, own sign study", "sub": "Sun in Putra Bhava Simha, purva punya signature", "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna", "icon_variant": "sun" },
-        { "title": "Shukra in the seventh, Malavya Yoga", "sub": "Venus in own sign Tula, marriage karaka in its own house", "href": "/jyotish/graha-in-bhava/venus-7th-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Shani in the seventh, Sasa Yoga", "sub": "Saturn exalted in Tula, partnership discipline and neecha bhanga", "href": "/jyotish/graha-in-bhava/saturn-7th-house-aries-lagna", "icon_variant": "teal" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Surya in the fifth, own sign study",
+          "sub": "Sun in Putra Bhava Simha, purva punya signature",
+          "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna",
+          "icon_variant": "sun"
+        },
+        {
+          "title": "Shukra in the seventh, Malavya Yoga",
+          "sub": "Venus in own sign Tula, marriage karaka in its own house",
+          "href": "/jyotish/graha-in-bhava/venus-7th-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Shani in the seventh, Sasa Yoga",
+          "sub": "Saturn exalted in Tula, partnership discipline and neecha bhanga",
+          "href": "/jyotish/graha-in-bhava/saturn-7th-house-aries-lagna",
+          "icon_variant": "teal"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

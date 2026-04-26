@@ -6,40 +6,130 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Mercury in 11th house", "Budha Kumbha", "Mesh Lagna", "Aries ascendant", "Labha Bhava", "3L 6L gain", "Budha mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Mercury in 11th house",
+    "Budha Kumbha",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Labha Bhava",
+    "3L 6L gain",
+    "Budha mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "budha",
   "house_number": 11,
   "lagna_id": "mesha",
   "meta": {
     "title": "Mercury in 11th House Mesh Lagna, Speech Network Gains Guide",
-    "description": "Mercury in 11th house for Mesh Lagna, Budha in friendly Kumbha, the 3L plus 6L in Labha Bhava read by Pt. Raghav Sharma.",
+    "description": "Mercury in 11th house for Mesh Lagna, Budha in friendly Kumbha, the 3L plus 6L in Labha Bhava by VastuCart Editorial.",
     "focus_keyword": "Mercury in 11th house",
-    "secondary_keywords": ["Mesh Lagna", "Labha Bhava", "Budha Kumbha", "Aries ascendant", "Mercury gains"],
-    "lsi_keywords": ["labha bhava", "budha kumbha", "mercury in aquarius", "3rd lord eleventh", "6th lord eleventh", "budha mahadasha", "emerald panna", "speech as gain", "friend network income", "mercury saturn friendship"],
-    "keywords": ["Mercury in 11th house Mesh Lagna", "Budha in Labha Bhava", "Mercury in Aquarius", "Mesh lagna 11th Mercury", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Labha Bhava",
+      "Budha Kumbha",
+      "Aries ascendant",
+      "Mercury gains"
+    ],
+    "lsi_keywords": [
+      "labha bhava",
+      "budha kumbha",
+      "mercury in aquarius",
+      "3rd lord eleventh",
+      "6th lord eleventh",
+      "budha mahadasha",
+      "emerald panna",
+      "speech as gain",
+      "friend network income",
+      "mercury saturn friendship"
+    ],
+    "keywords": [
+      "Mercury in 11th house Mesh Lagna",
+      "Budha in Labha Bhava",
+      "Mercury in Aquarius",
+      "Mesh lagna 11th Mercury",
+      "Vedic astrology"
+    ],
     "og_title": "Mercury in the 11th House of Mesh Lagna, Speech Through Networks",
     "og_description": "Mercury in friendly Saturnian Kumbha in the gain house for Aries natives, by a practising Jyotishi.",
     "og_image": "/og/mercury-11th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/mercury-11th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Mercury in 11th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mercury-11th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Mercury in 11th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mercury-11th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Mercury in 11th house",
-    "secondary_keywords": ["Mesh Lagna", "Labha Bhava", "Budha Kumbha", "Aries ascendant", "Mercury gains"],
-    "lsi_terms": ["labha bhava", "budha kumbha", "mercury in aquarius", "3rd lord eleventh", "6th lord eleventh", "budha mahadasha", "emerald panna", "speech as gain", "friend network income", "mercury saturn friendship"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Labha Bhava",
+      "Budha Kumbha",
+      "Aries ascendant",
+      "Mercury gains"
+    ],
+    "lsi_terms": [
+      "labha bhava",
+      "budha kumbha",
+      "mercury in aquarius",
+      "3rd lord eleventh",
+      "6th lord eleventh",
+      "budha mahadasha",
+      "emerald panna",
+      "speech as gain",
+      "friend network income",
+      "mercury saturn friendship"
+    ],
     "seed_queries": [
-      "mercury in 11th house aries lagna", "budha in 11th house mesh lagna", "mercury in aquarius mesh ascendant", "budha kumbha aries lagna", "mercury in labha bhava mesh", "mercury in 11th house gains aries", "mercury in aquarius 11th aries", "budha labha bhava mesh", "3l in 11h aries lagna", "6l in 11h aries lagna", "mercury in 11th house remedies aries", "emerald for mercury 11th aries", "panna mesh lagna 11th", "budha mahadasha aries 11th", "mercury in 11th house aries friends", "mercury in 11th house aries income", "is mercury good in 11th house aries", "mercury in aquarius aries ascendant career", "speech network gains", "mercury 11th house aries prediction", "mercury in eleventh house mesh lagna", "mercury 11th house mesh ascendant", "budha in mesh lagna 11th", "mercury kumbha lagna mesh chart", "mercury 11th house mesh lagna dasha", "budha mesh lagna network", "mercury saturn friendly kumbha", "upachaya mercury growth", "mercury 11h friend income", "budha raja yoga mesh"
+      "mercury in 11th house aries lagna",
+      "budha in 11th house mesh lagna",
+      "mercury in aquarius mesh ascendant",
+      "budha kumbha aries lagna",
+      "mercury in labha bhava mesh",
+      "mercury in 11th house gains aries",
+      "mercury in aquarius 11th aries",
+      "budha labha bhava mesh",
+      "3l in 11h aries lagna",
+      "6l in 11h aries lagna",
+      "mercury in 11th house remedies aries",
+      "emerald for mercury 11th aries",
+      "panna mesh lagna 11th",
+      "budha mahadasha aries 11th",
+      "mercury in 11th house aries friends",
+      "mercury in 11th house aries income",
+      "is mercury good in 11th house aries",
+      "mercury in aquarius aries ascendant career",
+      "speech network gains",
+      "mercury 11th house aries prediction",
+      "mercury in eleventh house mesh lagna",
+      "mercury 11th house mesh ascendant",
+      "budha in mesh lagna 11th",
+      "mercury kumbha lagna mesh chart",
+      "mercury 11th house mesh lagna dasha",
+      "budha mesh lagna network",
+      "mercury saturn friendly kumbha",
+      "upachaya mercury growth",
+      "mercury 11h friend income",
+      "budha raja yoga mesh"
     ],
     "questions": [
       "Is Mercury in the 11th house good for Mesh Lagna?",
@@ -49,36 +139,130 @@
       "Which gemstone should Mesh Lagna wear for Mercury in 11th?"
     ],
     "lingual_variations": {
-      "budha": ["budha", "mercury", "saumya", "kumara", "rauhineya"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "budha": [
+        "budha",
+        "mercury",
+        "saumya",
+        "kumara",
+        "rauhineya"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Mercury in the Kumbha Saturnian air sign", "3L plus 6L dual lordship in the gain house", "Speech-through-networks structural prediction"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Mercury in the Kumbha Saturnian air sign",
+      "3L plus 6L dual lordship in the gain house",
+      "Speech-through-networks structural prediction"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "mercury-11th-house-aries-lagna-hero.webp", "filename_og": "mercury-11th-house-aries-lagna-og.png", "alt": "Radiant emerald Budha in the eleventh house of a Mesh Lagna kundali in Kumbha", "caption": "Budha sits in friendly Kumbha in the eleventh house for Aries ascendant natives, the speech-through-networks signature in the gain angle.", "width": 1200, "height": 630, "format": "webp", "style": "luminous emerald-silver editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the eleventh house glowing emerald and silver, a stylised Mercury caduceus above a small water-bearer Kumbha pot, traditional Vedic palette of emerald, silver, deep teal, refined manuscript style, no people.", "negative_prompt": "photorealistic mercury, watermark, text, neon, cartoon" },
-    { "filename": "mercury-11th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Mercury in the eleventh house of Mesh in Kumbha", "caption": "The North Indian birth chart with Budha marked in Kumbha on the eleventh house Labha Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the eleventh house highlighted in emerald with a Budha symbol marked Bu and Kumbha glyph, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "mercury-11th-house-aries-lagna-emerald.webp", "alt": "Natural Colombian emerald in gold ring, gemstone for Mercury 11th house Mesh Lagna", "caption": "Emerald is the primary Budha ratna and works with confidence here because the friendly Saturnian sign and the upachaya gain house together support the gemstone protocol.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural Colombian emerald set in a gold ring, deep green colour, emerald cut, on dark velvet with cool lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "mercury-11th-house-aries-lagna-lakshmi-narayana.webp", "alt": "Lakshmi Narayana Hridayam Sanskrit verse on parchment with conch and lotus motif", "caption": "Lakshmi Narayana Hridayam recitation strengthens the Mercury channel through the combined Vishnu-Lakshmi invocation.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Lakshmi Narayana Hridayam, hand-painted on aged parchment with gold leaf borders, faint conch and lotus motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "mercury-11th-house-aries-lagna-hero.webp",
+      "filename_og": "mercury-11th-house-aries-lagna-og.png",
+      "alt": "Radiant emerald Budha in the eleventh house of a Mesh Lagna kundali in Kumbha",
+      "caption": "Budha sits in friendly Kumbha in the eleventh house for Aries ascendant natives, the speech-through-networks signature in the gain angle.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "luminous emerald-silver editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the eleventh house glowing emerald and silver, a stylised Mercury caduceus above a small water-bearer Kumbha pot, traditional Vedic palette of emerald, silver, deep teal, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic mercury, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "mercury-11th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Mercury in the eleventh house of Mesh in Kumbha",
+      "caption": "The North Indian birth chart with Budha marked in Kumbha on the eleventh house Labha Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the eleventh house highlighted in emerald with a Budha symbol marked Bu and Kumbha glyph, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "mercury-11th-house-aries-lagna-emerald.webp",
+      "alt": "Natural Colombian emerald in gold ring, gemstone for Mercury 11th house Mesh Lagna",
+      "caption": "Emerald is the primary Budha ratna and works with confidence here because the friendly Saturnian sign and the upachaya gain house together support the gemstone protocol.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural Colombian emerald set in a gold ring, deep green colour, emerald cut, on dark velvet with cool lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "mercury-11th-house-aries-lagna-lakshmi-narayana.webp",
+      "alt": "Lakshmi Narayana Hridayam Sanskrit verse on parchment with conch and lotus motif",
+      "caption": "Lakshmi Narayana Hridayam recitation strengthens the Mercury channel through the combined Vishnu-Lakshmi invocation.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Lakshmi Narayana Hridayam, hand-painted on aged parchment with gold leaf borders, faint conch and lotus motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Mercury in the 11th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Budha in Labha Bhava for Aries ascendant natives. Mercury in friendly Kumbha, the 3L plus 6L dual lordship in the gain house, the Mercury-Saturn friendship, and the speech-through-networks signature that produces compounding income across decades.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Budha", "tone": "teal" },
-      { "label": "Labha Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Friendly Kumbha" },
-      { "label": "3L plus 6L" },
-      { "label": "Speech networks" }
+      {
+        "label": "Budha",
+        "tone": "teal"
+      },
+      {
+        "label": "Labha Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Friendly Kumbha"
+      },
+      {
+        "label": "3L plus 6L"
+      },
+      {
+        "label": "Speech networks"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +270,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Budha", "sub": "Mercury", "icon": "sun" },
-        { "label": "Bhava", "value": "11th", "sub": "Labha Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Strong", "sub": "Friendly sign in upachaya", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Budha",
+          "sub": "Mercury",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "11th",
+          "sub": "Labha Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Strong",
+          "sub": "Friendly sign in upachaya",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +309,103 @@
       "heading": "Why Mercury, Saturn, and the 11th house produce a compounding gain signature",
       "html": "<p>The speech-through-networks reading is the most useful frame for Mercury in 11th of Mesh because it captures both the structural truth and the specific mechanism through which the chart produces its material abundance. Unlike Mercury placements in the 2nd or 10th house, where speech directly converts to wealth or career through visible public channels, the 11th house Mercury produces income that reaches the native through their network of friends, professional peers, and community connections rather than through direct commercial transactions. The native's verbal output (writing, teaching, speaking, consulting, analysis) travels through a specific network before becoming income, and the network itself is part of the chart's gain mechanism. Natives with this placement often report that their most significant career opportunities arrived through friend recommendations rather than through formal application channels, and the pattern is structural rather than coincidental.</p><p>The 3L plus 6L dual lordship in the 11H is the second specific feature that shapes the gain pattern across decades. The 3L brings parakrama (self-effort, communication, short journeys, hands and skill) into the gain house, meaning the native earns through their own direct verbal and skill-based effort rather than through inheritance or passive investment. The 6L brings service, routine, and daily discipline into the same gain house, meaning the earning comes through sustained professional work rather than through windfalls or high-risk speculation. The two lordships compound, and the practical effect is that natives with this placement build income slowly but reliably through a combination of verbal output and disciplined service, and the income tends to grow steadily across decades rather than peaking early. The third interpretive layer is the upachaya compounding. Upachaya houses classically grow their occupants over time, and for Mercury specifically this means the native's verbal and analytical capacity increases across decades rather than plateauing, producing the specific pattern where the native's best work is often in their forties and fifties rather than in their twenties. Practitioners should describe this pacing clearly because natives often compare themselves to peers with quick-peak career placements and conclude that their own chart is slow when the chart is actually on its correct trajectory.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "When Mercury sits in the gain house of Saturn's own sign, the income never arrives in a single transaction. It travels through a network of people who recognise the native's careful work, and the network itself becomes the real compounding asset." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "When Mercury sits in the gain house of Saturn's own sign, the income never arrives in a single transaction. It travels through a network of people who recognise the native's careful work, and the network itself becomes the real compounding asset."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Budha, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Budha, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Intellect, speech, commerce, hands" },
-            { "k": "Own signs", "v": "Mithuna, Kanya" },
-            { "k": "Uchha (exaltation)", "v": "Kanya at 15 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Meena at 15 degrees", "tone": "bad" },
-            { "k": "Sign state here", "v": "Friendly Kumbha", "tone": "good" },
-            { "k": "Friends", "v": "Sun, Venus, Saturn" },
-            { "k": "Element", "v": "Earth (Prithvi Tattva)" },
-            { "k": "Role for Mesh", "v": "3rd lord and 6th lord" }
+            {
+              "k": "Karakatva",
+              "v": "Intellect, speech, commerce, hands"
+            },
+            {
+              "k": "Own signs",
+              "v": "Mithuna, Kanya"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Kanya at 15 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Meena at 15 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Friendly Kumbha",
+              "tone": "good"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Venus, Saturn"
+            },
+            {
+              "k": "Element",
+              "v": "Earth (Prithvi Tattva)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "3rd lord and 6th lord"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Labha Bhava, house profile", "subtitle": "11th house significance",
+          "icon": "triangle-house",
+          "title": "Labha Bhava, house profile",
+          "subtitle": "11th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Labha, Aya Bhava" },
-            { "k": "Rules over", "v": "Gains, income, friends, elder siblings, desires" },
-            { "k": "Natural sign", "v": "Kumbha (Aquarius) for Mesh" },
-            { "k": "Natural ruler", "v": "Shani (Saturn)" },
-            { "k": "Body part", "v": "Calves, ankles, left ear" },
-            { "k": "Classical nature", "v": "Upachaya, gain house" },
-            { "k": "Vedic quality", "v": "3L plus 6L in gain angle", "tone": "good" },
-            { "k": "Special effect", "v": "Mercury-Saturn friendship reinforces", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Labha, Aya Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Gains, income, friends, elder siblings, desires"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Kumbha (Aquarius) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Shani (Saturn)"
+            },
+            {
+              "k": "Body part",
+              "v": "Calves, ankles, left ear"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Upachaya, gain house"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "3L plus 6L in gain angle",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Mercury-Saturn friendship reinforces",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +447,48 @@
       "heading": "Where the speech-through-networks vocation plays out",
       "html": "<p>Career paths cluster around fields where the native's verbal output reaches income through friend and professional networks rather than through mainstream commercial channels. The strongest single fit is consulting and advisory work where clients come through referral rather than through outbound marketing. Many natives build consulting practices that start small and compound across decades as the network of former clients, colleagues, and referrers grows, and the compounding produces income patterns that look modest in the early years and substantial by the forties and fifties. Teaching, especially adult education and professional training, fits the chart because the teacher's income compounds through reputation that travels through alumni networks and word of mouth rather than through large-institution employment.</p><p>Editorial work, publishing, and independent writing work because the chart supports sustained intellectual production that reaches readers through specific distribution channels rather than through mass-market visibility. Technology networks and open-source development fit natives whose vocational pull is technical because open-source communities run on exactly the speech-through-networks pattern the placement produces. Community organisation and movement leadership suit the chart because the 11th house specifically rules groups and the native's natural network-building instinct translates directly into organising work. Financial analysis and independent research round out the list. Budha mahadasha is when the vocation crystallises into recognised income form, and the window often arrives through a specific network connection that opens access to a client base, a publication channel, or a community the native had been building informally for years before the formal compensation caught up.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Budha in Labha Bhava placement", "subtitle": "Generate your free Kundali to see your eleventh house Mercury.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Mercury marked in the eleventh house of Mesh", "planet": "Budha", "house": 11, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Budha in Labha Bhava in friendly Kumbha, marked in emerald" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Eleventh house is the seat of gains and networks" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Budha in Labha Bhava placement",
+        "subtitle": "Generate your free Kundali to see your eleventh house Mercury.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Mercury marked in the eleventh house of Mesh",
+      "planet": "Budha",
+      "house": 11,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Budha in Labha Bhava in friendly Kumbha, marked in emerald"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Eleventh house is the seat of gains and networks"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The compounding gain and the upachaya pacing",
@@ -194,13 +501,45 @@
       "heading": "When Mercury in 11th delivers its Labha Bhava chapter",
       "intro_html": "<p>Budha mahadasha is the defining window for this placement and arrives with the speech-through-networks pattern compounding into recognised income form.</p>",
       "rows": [
-        { "mahadasha": "Budha (Mercury)", "duration": "17 years", "themes": "The Labha Bhava activation window. Network compounds dramatically, income reaches its first major peak, elder siblings offer strategic support, the verbal vocation crystallises into reputation.", "intensity": "Very high", "intensity_bar_width": 95, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "Friend of Mercury. Refined collaboration with network peers, marriage or partnership often crystallises through the professional network, aesthetic dimension of work flowers.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Shani (Saturn)", "duration": "19 years", "themes": "Lord of the sign Kumbha and dispositor of Mercury here. The most aligned planet for this placement. Career consolidates, long-horizon institutional recognition, late-career authority arrives.", "intensity": "Very high", "intensity_bar_width": 92, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Fifth lord, friend of Mercury. Creative recognition through the network, public visibility for the verbal gifts, dharmic dimension of work strengthens.", "intensity": "Good", "intensity_bar_width": 78, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Budha (Mercury)",
+          "duration": "17 years",
+          "themes": "The Labha Bhava activation window. Network compounds dramatically, income reaches its first major peak, elder siblings offer strategic support, the verbal vocation crystallises into reputation.",
+          "intensity": "Very high",
+          "intensity_bar_width": 95,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "Friend of Mercury. Refined collaboration with network peers, marriage or partnership often crystallises through the professional network, aesthetic dimension of work flowers.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Shani (Saturn)",
+          "duration": "19 years",
+          "themes": "Lord of the sign Kumbha and dispositor of Mercury here. The most aligned planet for this placement. Career consolidates, long-horizon institutional recognition, late-career authority arrives.",
+          "intensity": "Very high",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "Fifth lord, friend of Mercury. Creative recognition through the network, public visibility for the verbal gifts, dharmic dimension of work strengthens.",
+          "intensity": "Good",
+          "intensity_bar_width": 78,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +558,140 @@
       "heading": "Gemstones for Mercury in 11th house Mesh Lagna",
       "intro_html": "<p>Emerald is the primary recommendation here because the friendly Saturnian sign and the upachaya gain house together support the gemstone protocol cleanly.</p>",
       "cards": [
-        { "name": "Panna (Emerald)", "role": "primary", "sub": "Budha-strengthening stone for friendly-sign Mercury", "icon_variant": "emerald", "image_slug": "emerald", "items": [ { "k": "Metal", "v": "Gold or silver" }, { "k": "Finger", "v": "Small finger, right hand" }, { "k": "Day to wear", "v": "Wednesday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Green Tourmaline (alt)", "role": "secondary", "sub": "Accessible Mercury alternative", "icon_variant": "emerald", "image_slug": "emerald", "items": [ { "k": "Metal", "v": "Gold or silver" }, { "k": "Finger", "v": "Small finger" }, { "k": "Day to wear", "v": "Wednesday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Panna", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Panna (Emerald)",
+          "role": "primary",
+          "sub": "Budha-strengthening stone for friendly-sign Mercury",
+          "icon_variant": "emerald",
+          "image_slug": "emerald",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold or silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Wednesday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Green Tourmaline (alt)",
+          "role": "secondary",
+          "sub": "Accessible Mercury alternative",
+          "icon_variant": "emerald",
+          "image_slug": "emerald",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold or silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Wednesday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Panna",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Emerald in the gain house is a clean gemstone recommendation, but always consult a qualified Jyotishi before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Mercury in 11th house",
       "intro_html": "<p>The Budha-aligned rudraksha is the Char Mukhi (Four Mukhi), the bead directly ruled by Mercury and Brahma.</p>",
       "beads": [
-        { "mukhi": 4, "name": "Char Mukhi Rudraksha", "sub": "Ruled by Budha and Brahma", "benefit": "The classical Mercury rudraksha and the safest daily-wear bead for any Budha strengthening protocol. Supports the speech-through-networks vocation, amplifies the upachaya gain compounding, and is specifically recommended for natives in consulting, teaching, editorial work, or any network-driven professional field." },
-        { "mukhi": 7, "name": "Saat Mukhi Rudraksha", "sub": "Ruled by Saturn, the dispositor of Mercury here", "benefit": "The Saturn bead serves as secondary support for this placement because the dispositor of Mercury here is Shani (Saturn rules Kumbha). Wearing the Saat Mukhi alongside the Char Mukhi compounds the placement's strength by honouring both planet and sign-lord, and is specifically recommended for natives in long-horizon professional work that benefits from the Saturnian discipline." }
+        {
+          "mukhi": 4,
+          "name": "Char Mukhi Rudraksha",
+          "sub": "Ruled by Budha and Brahma",
+          "benefit": "The classical Mercury rudraksha and the safest daily-wear bead for any Budha strengthening protocol. Supports the speech-through-networks vocation, amplifies the upachaya gain compounding, and is specifically recommended for natives in consulting, teaching, editorial work, or any network-driven professional field."
+        },
+        {
+          "mukhi": 7,
+          "name": "Saat Mukhi Rudraksha",
+          "sub": "Ruled by Saturn, the dispositor of Mercury here",
+          "benefit": "The Saturn bead serves as secondary support for this placement because the dispositor of Mercury here is Shani (Saturn rules Kumbha). Wearing the Saat Mukhi alongside the Char Mukhi compounds the placement's strength by honouring both planet and sign-lord, and is specifically recommended for natives in long-horizon professional work that benefits from the Saturnian discipline."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Budha Yantra for the gain-house Mercury", "yantra": { "name": "Budha Yantra", "sanskrit": "बुध यन्त्र", "description": "The Budha Yantra is the geometric form of the Mercury channel. For Mercury in the Mesh gain house install it on the north wall of the main work space or correspondence area. Wednesday at sunrise in Budha hora is the installation window, and the yantra should be consecrated with Lakshmi Narayana Hridayam recitation and a green dub grass offering.", "direction": "North wall (work or correspondence space)", "install_day": "Wednesday sunrise, Budha hora preferred", "material": "Bronze or copper (gold acceptable)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Budha in friendly Kumbha", "stotra": { "eyebrow": "Lakshmi Narayana Hridayam", "title": "Shri Lakshmi Narayana Hridayam", "sub": "Combined heart hymn of Vishnu and Lakshmi, the speech-and-gain prayer", "verse": "Om asya shri lakshmi narayana hridaya stotra mantrasya<br>Bhagavan narayano rishih anushtup chhandah<br>Shri lakshmi narayano devata<br>Shri beejam hreem shaktih kleem keelakam<br>Lakshmi narayana prasada sidhyarthe jape viniyogah<br>Dhyana om padmasana stham padma karshtha panim<br>Kaushtubha kanthim ravi bimba devam", "translation": "Om, of this hymn of the heart of Lakshmi and Narayana, the seer is Bhagavan Narayana, the metre is Anushtup, the deity is Lakshmi-Narayana, Shri is the seed, Hreem is the power, Kleem is the fastening. For the attainment of the grace of Lakshmi-Narayana, the recitation is employed. Meditation: Om, the one seated on the lotus, holding lotuses in hands, with the Kaushtubha gem at the throat, like the orb of the sun. The Lakshmi Narayana Hridayam combines Vishnu (patron of Mercury) and Lakshmi (deity of gain) into a single hymn and is perfectly suited to a chart where Mercury sits in the gain house and the speech-through-network signature compounds into income across decades.", "url": "https://stotra.vastucart.in/stotra/lakshmi-narayana-hridayam" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Budha Yantra for the gain-house Mercury",
+      "yantra": {
+        "name": "Budha Yantra",
+        "sanskrit": "बुध यन्त्र",
+        "description": "The Budha Yantra is the geometric form of the Mercury channel. For Mercury in the Mesh gain house install it on the north wall of the main work space or correspondence area. Wednesday at sunrise in Budha hora is the installation window, and the yantra should be consecrated with Lakshmi Narayana Hridayam recitation and a green dub grass offering.",
+        "direction": "North wall (work or correspondence space)",
+        "install_day": "Wednesday sunrise, Budha hora preferred",
+        "material": "Bronze or copper (gold acceptable)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Budha in friendly Kumbha",
+      "stotra": {
+        "eyebrow": "Lakshmi Narayana Hridayam",
+        "title": "Shri Lakshmi Narayana Hridayam",
+        "sub": "Combined heart hymn of Vishnu and Lakshmi, the speech-and-gain prayer",
+        "verse": "Om asya shri lakshmi narayana hridaya stotra mantrasya<br>Bhagavan narayano rishih anushtup chhandah<br>Shri lakshmi narayano devata<br>Shri beejam hreem shaktih kleem keelakam<br>Lakshmi narayana prasada sidhyarthe jape viniyogah<br>Dhyana om padmasana stham padma karshtha panim<br>Kaushtubha kanthim ravi bimba devam",
+        "translation": "Om, of this hymn of the heart of Lakshmi and Narayana, the seer is Bhagavan Narayana, the metre is Anushtup, the deity is Lakshmi-Narayana, Shri is the seed, Hreem is the power, Kleem is the fastening. For the attainment of the grace of Lakshmi-Narayana, the recitation is employed. Meditation: Om, the one seated on the lotus, holding lotuses in hands, with the Kaushtubha gem at the throat, like the orb of the sun. The Lakshmi Narayana Hridayam combines Vishnu (patron of Mercury) and Lakshmi (deity of gain) into a single hymn and is perfectly suited to a chart where Mercury sits in the gain house and the speech-through-network signature compounds into income across decades.",
+        "url": "https://stotra.vastucart.in/stotra/lakshmi-narayana-hridayam"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +699,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your eleventh house Mercury placement", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Business muhurta", "sub": "Auspicious dates for network and venture launches", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Education muhurta", "sub": "Auspicious dates for teaching commitments", "url": "https://muhurta.vastucart.in/education-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Lakshmi Narayana Hridayam", "sub": "Combined Vishnu-Lakshmi heart hymn", "url": "https://stotra.vastucart.in/stotra/lakshmi-narayana-hridayam", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Vishnu Sahasranama", "sub": "Thousand names of Vishnu, patron of Mercury", "url": "https://stotra.vastucart.in/stotra/vishnu-sahasranama", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Lakshmi Narayana Stotram", "sub": "Combined Lakshmi-Narayana hymn", "url": "https://stotra.vastucart.in/stotra/lakshmi-narayana-stotram", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Saraswati Stotram", "sub": "Learning deity invocation", "url": "https://stotra.vastucart.in/stotra/saraswati-stotram", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Budha Stotram", "sub": "Classical Mercury hymn", "url": "https://stotra.vastucart.in/stotra/budha-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Emerald and panna source", "sub": "Certified Mercury gemstone", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Budha yantra store", "sub": "Bronze Budha yantra for the work space", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Labha Bhava analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your eleventh house Mercury placement",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Business muhurta",
+            "sub": "Auspicious dates for network and venture launches",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Education muhurta",
+            "sub": "Auspicious dates for teaching commitments",
+            "url": "https://muhurta.vastucart.in/education-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Lakshmi Narayana Hridayam",
+            "sub": "Combined Vishnu-Lakshmi heart hymn",
+            "url": "https://stotra.vastucart.in/stotra/lakshmi-narayana-hridayam",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Vishnu Sahasranama",
+            "sub": "Thousand names of Vishnu, patron of Mercury",
+            "url": "https://stotra.vastucart.in/stotra/vishnu-sahasranama",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Lakshmi Narayana Stotram",
+            "sub": "Combined Lakshmi-Narayana hymn",
+            "url": "https://stotra.vastucart.in/stotra/lakshmi-narayana-stotram",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Saraswati Stotram",
+            "sub": "Learning deity invocation",
+            "url": "https://stotra.vastucart.in/stotra/saraswati-stotram",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Budha Stotram",
+            "sub": "Classical Mercury hymn",
+            "url": "https://stotra.vastucart.in/stotra/budha-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Emerald and panna source",
+            "sub": "Certified Mercury gemstone",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Budha yantra store",
+            "sub": "Bronze Budha yantra for the work space",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Labha Bhava analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +799,130 @@
         "title": "Is your Labha Bhava Mercury carrying the speech-through-networks signature?",
         "subtitle": "Get a full personalised analysis of your eleventh house Budha, the upachaya gain pattern, and the long-build timing the chart produces.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Lakshmi Narayana Hridayam", "url": "https://stotra.vastucart.in/stotra/lakshmi-narayana-hridayam", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Lakshmi Narayana Hridayam",
+            "url": "https://stotra.vastucart.in/stotra/lakshmi-narayana-hridayam",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Mercury in 11th house, Mesh Lagna",
       "items": [
-        { "q": "Is Mercury in the 11th house good for Mesh Lagna?", "a": "Yes, and structurally it is one of the cleanest gain-through-speech Mercury placements in the Aries ascendant catalogue. Three structural features converge: the friendly Saturnian Kumbha sign welcomes Mercury through the Mercury-Saturn classical friendship, the 11th house is the upachaya gain house where planetary output compounds across decades, and Mercury is the 3L plus 6L for Mesh which wires both parakrama (communication) and service (discipline) directly into the gain angle. The result is a native whose income compounds through verbal and service work reaching specific friend networks rather than through mainstream commercial channels." },
-        { "q": "Why is Mercury comfortable in Saturnian Kumbha?", "a": "Because Mercury and Saturn share a classical friendship rooted in their common commitment to structure, system, accuracy, and long-horizon work. Both planets value verification over enthusiasm, respect routine over flash, and reward sustained effort over momentary brilliance. When Mercury occupies Saturn's own sign, the two operating systems reinforce each other and the native's intelligence runs on Saturnian discipline without friction. Kumbha specifically adds the air-element intellectual register to the usually warm Mercury nature, producing a native whose analytical capacity is slightly cooler and more systematic than other Mercury placements produce." },
-        { "q": "What does the 3L plus 6L in 11H produce?", "a": "It places two specific life domains directly into the gain angle. The 3L brings parakrama (self-effort, communication, hands) into income generation, meaning the native earns through direct verbal and skill-based effort. The 6L brings service, routine, and daily discipline into the same gain angle, meaning the earning comes through sustained professional work rather than windfalls. The two lordships compound and produce the specific pattern where income grows slowly but reliably through verbal output reaching friend networks, and the compounding continues across decades as the network itself grows." },
-        { "q": "Does Mercury in 11th house bring gains through networks?", "a": "Yes, almost without exception in clinical reports for this placement. Natives with Mercury in 11th consistently report that their most significant career opportunities arrived through friend recommendations rather than through formal application channels. The major job came through a friend who knew someone who was hiring. The book contract came through a network connection who introduced them to an editor. The consulting client base grew through referrals rather than outbound marketing. The network, more than the formal credentials, is the actual career asset the chart is building, and natives who invest in friendships deliberately see the placement deliver its fullest expression." },
-        { "q": "Which gemstone should Mesh Lagna wear for Mercury in 11th?", "a": "Emerald (Panna) is the primary gemstone and is recommended with confidence here because the friendly Saturnian sign and the upachaya gain house together support the gemstone protocol cleanly. Wear a natural Colombian or Zambian emerald of minimum five ratti set in gold or silver on the small finger of the right hand on a Wednesday at sunrise after Budha mantra recitation. Green tourmaline is the accessible substitute when emerald cost is prohibitive. Always consult a practising Jyotishi before permanent wearing because Mercury interactions with other placements vary significantly chart to chart." }
+        {
+          "q": "Is Mercury in the 11th house good for Mesh Lagna?",
+          "a": "Yes, and structurally it is one of the cleanest gain-through-speech Mercury placements in the Aries ascendant catalogue. Three structural features converge: the friendly Saturnian Kumbha sign welcomes Mercury through the Mercury-Saturn classical friendship, the 11th house is the upachaya gain house where planetary output compounds across decades, and Mercury is the 3L plus 6L for Mesh which wires both parakrama (communication) and service (discipline) directly into the gain angle. The result is a native whose income compounds through verbal and service work reaching specific friend networks rather than through mainstream commercial channels."
+        },
+        {
+          "q": "Why is Mercury comfortable in Saturnian Kumbha?",
+          "a": "Because Mercury and Saturn share a classical friendship rooted in their common commitment to structure, system, accuracy, and long-horizon work. Both planets value verification over enthusiasm, respect routine over flash, and reward sustained effort over momentary brilliance. When Mercury occupies Saturn's own sign, the two operating systems reinforce each other and the native's intelligence runs on Saturnian discipline without friction. Kumbha specifically adds the air-element intellectual register to the usually warm Mercury nature, producing a native whose analytical capacity is slightly cooler and more systematic than other Mercury placements produce."
+        },
+        {
+          "q": "What does the 3L plus 6L in 11H produce?",
+          "a": "It places two specific life domains directly into the gain angle. The 3L brings parakrama (self-effort, communication, hands) into income generation, meaning the native earns through direct verbal and skill-based effort. The 6L brings service, routine, and daily discipline into the same gain angle, meaning the earning comes through sustained professional work rather than windfalls. The two lordships compound and produce the specific pattern where income grows slowly but reliably through verbal output reaching friend networks, and the compounding continues across decades as the network itself grows."
+        },
+        {
+          "q": "Does Mercury in 11th house bring gains through networks?",
+          "a": "Yes, almost without exception in clinical reports for this placement. Natives with Mercury in 11th consistently report that their most significant career opportunities arrived through friend recommendations rather than through formal application channels. The major job came through a friend who knew someone who was hiring. The book contract came through a network connection who introduced them to an editor. The consulting client base grew through referrals rather than outbound marketing. The network, more than the formal credentials, is the actual career asset the chart is building, and natives who invest in friendships deliberately see the placement deliver its fullest expression."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Mercury in 11th?",
+          "a": "Emerald (Panna) is the primary gemstone and is recommended with confidence here because the friendly Saturnian sign and the upachaya gain house together support the gemstone protocol cleanly. Wear a natural Colombian or Zambian emerald of minimum five ratti set in gold or silver on the small finger of the right hand on a Wednesday at sunrise after Budha mantra recitation. Green tourmaline is the accessible substitute when emerald cost is prohibitive. Always consult a practising Jyotishi before permanent wearing because Mercury interactions with other placements vary significantly chart to chart."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Network reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Budha at the zenith, 3L+6L in Karma Bhava", "sub": "Mercury in the career angle, the Saturnian speech vocation parallel", "href": "/jyotish/graha-in-bhava/mercury-10th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Budha in the second, speech as wealth", "sub": "Mercury in the Dhana Bhava, the parallel 3L+6L income parallel", "href": "/jyotish/graha-in-bhava/mercury-2nd-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Rahu in the eleventh, best placement", "sub": "North node in the same gain house, the amplification parallel", "href": "/jyotish/graha-in-bhava/rahu-11th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Budha at the zenith, 3L+6L in Karma Bhava",
+          "sub": "Mercury in the career angle, the Saturnian speech vocation parallel",
+          "href": "/jyotish/graha-in-bhava/mercury-10th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Budha in the second, speech as wealth",
+          "sub": "Mercury in the Dhana Bhava, the parallel 3L+6L income parallel",
+          "href": "/jyotish/graha-in-bhava/mercury-2nd-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Rahu in the eleventh, best placement",
+          "sub": "North node in the same gain house, the amplification parallel",
+          "href": "/jyotish/graha-in-bhava/rahu-11th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

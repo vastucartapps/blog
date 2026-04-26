@@ -6,40 +6,131 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 10,
   "status": "ready",
   "published_at": "2026-04-12T00:00:00.000Z",
   "updated_at": "2026-04-12T00:00:00.000Z",
-  "tags": ["Venus in 7th house", "Shukra", "Mesh Lagna", "Aries ascendant", "Yuvati Bhava", "swakshetra Venus", "Malavya Yoga", "marriage karaka", "Shukra mahadasha", "diamond heera", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Venus in 7th house",
+    "Shukra",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Yuvati Bhava",
+    "swakshetra Venus",
+    "Malavya Yoga",
+    "marriage karaka",
+    "Shukra mahadasha",
+    "diamond heera",
+    "graha in bhava"
+  ],
   "planet_id": "shukra",
   "house_number": 7,
   "lagna_id": "mesha",
   "meta": {
     "title": "Venus in 7th House for Mesh Lagna, Marriage and Remedies",
-    "description": "Venus in 7th house for Mesh Lagna, Shukra in own sign Tula producing Malavya Yoga. Marriage, partnership, dasha and remedies by Pt. Raghav Sharma.",
+    "description": "Venus in 7th house for Mesh Lagna, Shukra in own sign Tula producing Malavya Yoga. Marriage, partnership, dasha and remedies by VastuCart Editorial.",
     "focus_keyword": "Venus in 7th house",
-    "secondary_keywords": ["Mesh Lagna", "Yuvati Bhava", "Shukra own sign", "Aries ascendant", "Shukra"],
-    "lsi_keywords": ["swakshetra", "yuvati bhava", "shukra mahadasha", "diamond heera", "marriage karaka", "seventh lord", "tula rashi", "malavya yoga", "partnership signature"],
-    "keywords": ["Venus in 7th house Mesh Lagna", "Shukra in Yuvati Bhava", "Mesh lagna 7th lord", "Aries ascendant marriage", "Malavya yoga"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Yuvati Bhava",
+      "Shukra own sign",
+      "Aries ascendant",
+      "Shukra"
+    ],
+    "lsi_keywords": [
+      "swakshetra",
+      "yuvati bhava",
+      "shukra mahadasha",
+      "diamond heera",
+      "marriage karaka",
+      "seventh lord",
+      "tula rashi",
+      "malavya yoga",
+      "partnership signature"
+    ],
+    "keywords": [
+      "Venus in 7th house Mesh Lagna",
+      "Shukra in Yuvati Bhava",
+      "Mesh lagna 7th lord",
+      "Aries ascendant marriage",
+      "Malavya yoga"
+    ],
     "og_title": "Venus in the 7th House of Mesh Lagna, Malavya Yoga Study",
     "og_description": "Shukra in Yuvati Bhava for Aries ascendant, Venus in own sign Tula, by a practising Jyotishi.",
     "og_image": "/og/venus-7th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/venus-7th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Venus in 7th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/venus-7th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Venus in 7th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/venus-7th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Venus in 7th house",
-    "secondary_keywords": ["Mesh Lagna", "Yuvati Bhava", "Shukra own sign", "Aries ascendant", "Shukra"],
-    "lsi_terms": ["swakshetra", "yuvati bhava", "shukra mahadasha", "diamond heera", "marriage karaka", "seventh lord", "tula rashi", "malavya yoga", "partnership signature"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Yuvati Bhava",
+      "Shukra own sign",
+      "Aries ascendant",
+      "Shukra"
+    ],
+    "lsi_terms": [
+      "swakshetra",
+      "yuvati bhava",
+      "shukra mahadasha",
+      "diamond heera",
+      "marriage karaka",
+      "seventh lord",
+      "tula rashi",
+      "malavya yoga",
+      "partnership signature"
+    ],
     "seed_queries": [
-      "venus in 7th house aries lagna", "shukra in 7th house mesh lagna", "venus in yuvati bhava aries", "venus own sign libra mesh", "shukra swakshetra 7th", "venus in 7th house effects aries", "malavya yoga venus 7th house", "venus in 7th house aries marriage", "venus in 7th house aries spouse", "venus in 7th house aries partnership", "venus in 7th house aries remedies", "diamond for venus in 7th house", "heera for mesh lagna 7th", "shukra 7th lord mesh", "shukra mahadasha aries marriage", "venus in 7th house aries business", "is venus good in 7th house aries", "venus in own rashi libra mesh", "venus in libra 7th house aries lagna", "shukra yuvati bhava swakshetra", "venus 7th house aries prediction", "venus in seventh house mesh lagna", "venus 7th house mesh ascendant", "shukra tula lagna mesh chart", "venus 7th house mesh lagna dasha", "malavya yoga mesh lagna", "venus pancha mahapurusha yoga", "shukra mesh lagna partnership", "venus in libra aries ascendant", "pancha mahapurusha yoga mesh"
+      "venus in 7th house aries lagna",
+      "shukra in 7th house mesh lagna",
+      "venus in yuvati bhava aries",
+      "venus own sign libra mesh",
+      "shukra swakshetra 7th",
+      "venus in 7th house effects aries",
+      "malavya yoga venus 7th house",
+      "venus in 7th house aries marriage",
+      "venus in 7th house aries spouse",
+      "venus in 7th house aries partnership",
+      "venus in 7th house aries remedies",
+      "diamond for venus in 7th house",
+      "heera for mesh lagna 7th",
+      "shukra 7th lord mesh",
+      "shukra mahadasha aries marriage",
+      "venus in 7th house aries business",
+      "is venus good in 7th house aries",
+      "venus in own rashi libra mesh",
+      "venus in libra 7th house aries lagna",
+      "shukra yuvati bhava swakshetra",
+      "venus 7th house aries prediction",
+      "venus in seventh house mesh lagna",
+      "venus 7th house mesh ascendant",
+      "shukra tula lagna mesh chart",
+      "venus 7th house mesh lagna dasha",
+      "malavya yoga mesh lagna",
+      "venus pancha mahapurusha yoga",
+      "shukra mesh lagna partnership",
+      "venus in libra aries ascendant",
+      "pancha mahapurusha yoga mesh"
     ],
     "questions": [
       "Is Venus in the 7th house good for Mesh Lagna?",
@@ -49,41 +140,163 @@
       "When does Shukra mahadasha activate for Mesh Lagna?"
     ],
     "lingual_variations": {
-      "shukra": ["shukra", "venus", "bhargava", "daitya-guru"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "shukra": [
+        "shukra",
+        "venus",
+        "bhargava",
+        "daitya-guru"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Malavya yoga activation during Shukra sub-periods", "Tula rashi marriage patterns for Mesh natives", "Partnership timing through Shukra antardasha"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Malavya yoga activation during Shukra sub-periods",
+      "Tula rashi marriage patterns for Mesh natives",
+      "Partnership timing through Shukra antardasha"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "venus-7th-house-aries-lagna-hero.webp", "filename_og": "venus-7th-house-aries-lagna-og.png", "alt": "Shukra glowing crystal in the seventh house of a Mesh Lagna kundali", "caption": "Shukra sits in Yuvati Bhava for Aries ascendant natives, Venus in own sign Tula producing Malavya yoga.", "width": 1200, "height": 630, "format": "webp", "style": "crystal white editorial illustration with rose accents", "generation_prompt": "An editorial illustration of a North Indian kundali with the seventh house glowing crystal white, a stylised Venus symbol radiating soft rose light, traditional Vedic palette of crystal, rose, gold, refined manuscript style, no people.", "negative_prompt": "photorealistic, watermark, text, neon, cartoon" },
-    { "filename": "venus-7th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali highlighting Venus in the seventh house of Mesh", "caption": "The North Indian birth chart with Shukra marked in the seventh house Yuvati Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the bottom seventh house highlighted in crystal white with a Venus symbol marked Ve, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "venus-7th-house-aries-lagna-diamond.webp", "alt": "Natural diamond in platinum ring for Venus 7th house Mesh Lagna", "caption": "A certified natural diamond in platinum, the Shukra-strengthening stone for Aries natives with Venus in Tula.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural diamond set in a platinum ring, brilliant cut, colourless, on dark velvet with cool side lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, glass, watermark, hand" },
-    { "filename": "venus-7th-house-aries-lagna-shukra-stotra.webp", "alt": "Shukra Stotra Sanskrit verse on parchment with white lotus and gold", "caption": "Shukra stotra recitation on Friday is the foundational practice for Venus-in-own-sign natives.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Shukra stotra, hand-painted on aged parchment with silver leaf borders, faint white lotus in the background, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "venus-7th-house-aries-lagna-hero.webp",
+      "filename_og": "venus-7th-house-aries-lagna-og.png",
+      "alt": "Shukra glowing crystal in the seventh house of a Mesh Lagna kundali",
+      "caption": "Shukra sits in Yuvati Bhava for Aries ascendant natives, Venus in own sign Tula producing Malavya yoga.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "crystal white editorial illustration with rose accents",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the seventh house glowing crystal white, a stylised Venus symbol radiating soft rose light, traditional Vedic palette of crystal, rose, gold, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "venus-7th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali highlighting Venus in the seventh house of Mesh",
+      "caption": "The North Indian birth chart with Shukra marked in the seventh house Yuvati Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the bottom seventh house highlighted in crystal white with a Venus symbol marked Ve, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "venus-7th-house-aries-lagna-diamond.webp",
+      "alt": "Natural diamond in platinum ring for Venus 7th house Mesh Lagna",
+      "caption": "A certified natural diamond in platinum, the Shukra-strengthening stone for Aries natives with Venus in Tula.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural diamond set in a platinum ring, brilliant cut, colourless, on dark velvet with cool side lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, glass, watermark, hand"
+    },
+    {
+      "filename": "venus-7th-house-aries-lagna-shukra-stotra.webp",
+      "alt": "Shukra Stotra Sanskrit verse on parchment with white lotus and gold",
+      "caption": "Shukra stotra recitation on Friday is the foundational practice for Venus-in-own-sign natives.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Shukra stotra, hand-painted on aged parchment with silver leaf borders, faint white lotus in the background, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Venus in the 7th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Shukra in Yuvati Bhava for Aries ascendant natives. Venus in his own sign Tula producing Malavya yoga, marriage, partnership, wealth through alliance.",
     "meta": [
-      { "icon": "clock", "value": "10 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "10 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Shukra", "tone": "teal" },
-      { "label": "Yuvati Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Swakshetra Tula" },
-      { "label": "Malavya Yoga" },
-      { "label": "7th lord" }
+      {
+        "label": "Shukra",
+        "tone": "teal"
+      },
+      {
+        "label": "Yuvati Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Swakshetra Tula"
+      },
+      {
+        "label": "Malavya Yoga"
+      },
+      {
+        "label": "7th lord"
+      }
     ]
   },
   "schema": {},
   "content": [
-    { "type": "stat-strip", "cells": [ { "label": "Planet", "value": "Shukra", "sub": "Venus", "icon": "star" }, { "label": "Bhava", "value": "7th", "sub": "Yuvati Bhava", "icon": "triangle-house" }, { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" }, { "label": "Yoga", "value": "Malavya", "sub": "Pancha Mahapurusha", "icon": "star", "tone": "good" } ] },
+    {
+      "type": "stat-strip",
+      "cells": [
+        {
+          "label": "Planet",
+          "value": "Shukra",
+          "sub": "Venus",
+          "icon": "star"
+        },
+        {
+          "label": "Bhava",
+          "value": "7th",
+          "sub": "Yuvati Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Yoga",
+          "value": "Malavya",
+          "sub": "Pancha Mahapurusha",
+          "icon": "star",
+          "tone": "good"
+        }
+      ]
+    },
     {
       "type": "prose",
       "eyebrow": "At a glance",
@@ -96,15 +309,103 @@
       "heading": "When Venus stands in her own kendra",
       "html": "<p>Malavya Yoga is formed when Shukra (Venus) occupies a kendra house (1, 4, 7, or 10) in one of his own signs (Vrishabha or Tula) or in his exaltation sign (Meena). For a Mesh Lagna native, the 7th house from Mesh is Tula, Venus's own sign, so Shukra sitting there creates the exact condition Varaha Mihira described in the Brihat Jataka as one of the four strongest dignities a benefic can achieve. The results Varaha Mihira gives for a Malavya Yoga native are striking. Physical beauty, refined manners, wealth, comfort in life, a happy spouse, scholarship in arts and letters, and longevity that exceeds the family average.</p><p>I have read this combination for about twenty five natives across twenty years of practice. The classical description holds up remarkably well. These natives are noticeably more attractive than their siblings, often taller than the family average, and carry themselves with a kind of unselfconscious grace that photographers and casting directors notice. The marriage signature is the single most distinctive feature. The spouse is almost always physically attractive, emotionally warm, from a family of good standing, and the partnership transforms the native's social and financial position upward within the first three years of marriage. The Venus in 7th house Malavya yoga signature does not promise immediate wealth at birth,it promises wealth through alliance, and the alliance usually arrives as marriage.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "Venus in her own sign in the seventh house does not wait to be invited. She brings the partner and the wealth and the comfort, and she arranges the whole thing so gracefully that the native forgets to ask how it happened." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "Venus in her own sign in the seventh house does not wait to be invited. She brings the partner and the wealth and the comfort, and she arranges the whole thing so gracefully that the native forgets to ask how it happened."
+    },
     {
       "type": "info-grid",
       "cards": [
-        { "icon": "star", "title": "Shukra, planet profile", "subtitle": "Key attributes for this placement", "items": [ { "k": "Karakatva", "v": "Marriage, luxury, arts, alliances" }, { "k": "Own sign", "v": "Vrishabha (Taurus) and Tula (Libra)" }, { "k": "Uchha (exaltation)", "v": "Meena at 27 degrees", "tone": "good" }, { "k": "Neech (debilitation)", "v": "Kanya at 27 degrees", "tone": "bad" }, { "k": "Friends", "v": "Mercury, Saturn" }, { "k": "Enemies", "v": "Sun, Moon", "tone": "bad" }, { "k": "Element", "v": "Water (Jala Tattva)" }, { "k": "Day", "v": "Friday" } ] },
-        { "icon": "triangle-house", "title": "Yuvati Bhava, house profile", "subtitle": "7th house significance", "items": [ { "k": "Sanskrit name", "v": "Yuvati, Kalatra Bhava" }, { "k": "Rules over", "v": "Spouse, partnership, business alliance" }, { "k": "Natural sign", "v": "Tula (Libra) for Mesh" }, { "k": "Natural ruler", "v": "Shukra (Venus)" }, { "k": "Body part", "v": "Lower abdomen, pelvis" }, { "k": "Kendra house", "v": "Yes, angular most powerful", "tone": "good" }, { "k": "Maraka house", "v": "Yes, can also be life-threatening" }, { "k": "Special yoga", "v": "Malavya Yoga when Venus here in own sign", "tone": "good" } ] }
+        {
+          "icon": "star",
+          "title": "Shukra, planet profile",
+          "subtitle": "Key attributes for this placement",
+          "items": [
+            {
+              "k": "Karakatva",
+              "v": "Marriage, luxury, arts, alliances"
+            },
+            {
+              "k": "Own sign",
+              "v": "Vrishabha (Taurus) and Tula (Libra)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Meena at 27 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Kanya at 27 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Friends",
+              "v": "Mercury, Saturn"
+            },
+            {
+              "k": "Enemies",
+              "v": "Sun, Moon",
+              "tone": "bad"
+            },
+            {
+              "k": "Element",
+              "v": "Water (Jala Tattva)"
+            },
+            {
+              "k": "Day",
+              "v": "Friday"
+            }
+          ]
+        },
+        {
+          "icon": "triangle-house",
+          "title": "Yuvati Bhava, house profile",
+          "subtitle": "7th house significance",
+          "items": [
+            {
+              "k": "Sanskrit name",
+              "v": "Yuvati, Kalatra Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Spouse, partnership, business alliance"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Tula (Libra) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Shukra (Venus)"
+            },
+            {
+              "k": "Body part",
+              "v": "Lower abdomen, pelvis"
+            },
+            {
+              "k": "Kendra house",
+              "v": "Yes, angular most powerful",
+              "tone": "good"
+            },
+            {
+              "k": "Maraka house",
+              "v": "Yes, can also be life-threatening"
+            },
+            {
+              "k": "Special yoga",
+              "v": "Malavya Yoga when Venus here in own sign",
+              "tone": "good"
+            }
+          ]
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -115,9 +416,30 @@
       "type": "effects-grid",
       "eyebrow": "Effects across life",
       "heading": "Strengths, shadows and career fits",
-      "positive": ["Pancha Mahapurusha yoga (Malavya)", "Attractive marriage and spouse", "Wealth through alliance", "Social grace and diplomacy", "Refined aesthetic sense", "Longevity and comfort"],
-      "negative": ["Avoidance of confrontation", "Dependence on partner's approval", "Over-valuing appearances", "Over-spending on luxury", "Reluctance to end bad partnerships", "Kapha weight gain"],
-      "career": ["Diplomacy and international relations", "Business partnerships and trade", "Fashion, beauty, and lifestyle", "Hospitality and hotels", "Arts, design, and entertainment", "Counselling and mediation"]
+      "positive": [
+        "Pancha Mahapurusha yoga (Malavya)",
+        "Attractive marriage and spouse",
+        "Wealth through alliance",
+        "Social grace and diplomacy",
+        "Refined aesthetic sense",
+        "Longevity and comfort"
+      ],
+      "negative": [
+        "Avoidance of confrontation",
+        "Dependence on partner's approval",
+        "Over-valuing appearances",
+        "Over-spending on luxury",
+        "Reluctance to end bad partnerships",
+        "Kapha weight gain"
+      ],
+      "career": [
+        "Diplomacy and international relations",
+        "Business partnerships and trade",
+        "Fashion, beauty, and lifestyle",
+        "Hospitality and hotels",
+        "Arts, design, and entertainment",
+        "Counselling and mediation"
+      ]
     },
     {
       "type": "prose",
@@ -125,10 +447,48 @@
       "heading": "Where the Malavya native thrives",
       "html": "<p>Career fields cluster around partnership, aesthetics, and mediation. International business and diplomacy are the most common direct paths because the seventh house literally rules foreign partnerships and Venus brings the social grace to maintain them. Business partnerships of all kinds (law firm partners, accounting firm partners, startup co-founders) suit this combination because the native instinctively understands the emotional texture of a long-term working relationship. Fashion, beauty, design, lifestyle brands, and anything selling aesthetic refinement to consumers draws natives because they are themselves refined consumers and can translate that instinct into products and brands others respond to.</p><p>Hospitality, especially higher-end hotels and resorts, fits natives who combine the partnership orientation with the aesthetic sensibility. Arts and entertainment (acting, direction, producing, gallery management, auction houses) suit natives whose Malavya Yoga expresses through public-facing creative work. Counselling and mediation,marriage counsellors, workplace mediators, diplomatic advisors,work well because the seventh house natives understand both sides of any disagreement. The wealth picture is strong and usually accelerated after marriage. Shukra mahadasha at twenty years is the longest mahadasha in the Vimshottari sequence, and for natives carrying this Venus in 7th house combination, it is the most transformative life period bar none.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Confirm your Venus placement and Malavya Yoga", "subtitle": "Generate your free Kundali for the exact seventh house picture.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Venus marked in the seventh house of Mesh", "planet": "Shukra", "house": 7, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Shukra in Yuvati Bhava, highlighted in crystal white" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Bottom rhombus is the 7th house" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Confirm your Venus placement and Malavya Yoga",
+        "subtitle": "Generate your free Kundali for the exact seventh house picture.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Venus marked in the seventh house of Mesh",
+      "planet": "Shukra",
+      "house": 7,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Shukra in Yuvati Bhava, highlighted in crystal white"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Bottom rhombus is the 7th house"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "Tula rashi and the Yuvati Bhava signature",
@@ -147,13 +507,45 @@
       "heading": "When Venus in 7th fires most powerfully",
       "intro_html": "<p>The twenty year shukra mahadasha is the longest mahadasha and for natives carrying Venus in 7th in own sign it is the single most important period of life. Shani, Budha and Guru give supporting colours.</p>",
       "rows": [
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "Own sign period in kendra. Marriage, partnership, wealth acceleration, Malavya yoga peak.", "intensity": "Very high", "intensity_bar_width": 98, "intensity_bar_color": "#d4a0a8", "highlight": true },
-        { "mahadasha": "Shani (Saturn)", "duration": "19 years", "themes": "Friend of Venus. Slow partnership consolidation, business expansion.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#888888" },
-        { "mahadasha": "Budha (Mercury)", "duration": "17 years", "themes": "Friend of Venus. Commercial partnerships, trade alliances.", "intensity": "High", "intensity_bar_width": 82, "intensity_bar_color": "#3a9e55" },
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "Mixed friend. Wisdom-based partnerships, dharma-aligned alliances.", "intensity": "Good", "intensity_bar_width": 72, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "Own sign period in kendra. Marriage, partnership, wealth acceleration, Malavya yoga peak.",
+          "intensity": "Very high",
+          "intensity_bar_width": 98,
+          "intensity_bar_color": "#d4a0a8",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Shani (Saturn)",
+          "duration": "19 years",
+          "themes": "Friend of Venus. Slow partnership consolidation, business expansion.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#888888"
+        },
+        {
+          "mahadasha": "Budha (Mercury)",
+          "duration": "17 years",
+          "themes": "Friend of Venus. Commercial partnerships, trade alliances.",
+          "intensity": "High",
+          "intensity_bar_width": 82,
+          "intensity_bar_color": "#3a9e55"
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "Mixed friend. Wisdom-based partnerships, dharma-aligned alliances.",
+          "intensity": "Good",
+          "intensity_bar_width": 72,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -172,29 +564,140 @@
       "heading": "Gemstones for Venus in 7th house Mesh Lagna",
       "intro_html": "<p>The primary stone for Malavya yoga is natural diamond (Heera). Natural opal is the gentler secondary option.</p>",
       "cards": [
-        { "name": "Heera (Diamond)", "role": "primary", "sub": "Shukra swakshetra Malavya yoga gemstone", "icon_variant": "saphire", "image_slug": "diamond", "items": [ { "k": "Metal", "v": "Platinum or white gold" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Friday, sunrise" }, { "k": "Min weight", "v": "0.5 to 1 carat" } ] },
-        { "name": "Natural Opal (alt)", "role": "secondary", "sub": "Affordable Venus-aligned stone", "icon_variant": "saphire", "image_slug": "opal", "items": [ { "k": "Metal", "v": "Silver or gold" }, { "k": "Finger", "v": "Ring finger" }, { "k": "Day to wear", "v": "Friday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing", "role": "shop", "sub": "Malavya yoga chart review", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Heera (Diamond)",
+          "role": "primary",
+          "sub": "Shukra swakshetra Malavya yoga gemstone",
+          "icon_variant": "saphire",
+          "image_slug": "diamond",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Platinum or white gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Friday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "0.5 to 1 carat"
+            }
+          ]
+        },
+        {
+          "name": "Natural Opal (alt)",
+          "role": "secondary",
+          "sub": "Affordable Venus-aligned stone",
+          "icon_variant": "saphire",
+          "image_slug": "opal",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver or gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Friday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing",
+          "role": "shop",
+          "sub": "Malavya yoga chart review",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Diamond is reactive. Always test and consult a practitioner before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Venus in 7th house",
       "intro_html": "<p>The Malavya yoga is supported by Chha Mukhi rudraksha (six-faced) ruled by Kartikeya, and by Gauri Shankar for marital harmony.</p>",
       "beads": [
-        { "mukhi": 6, "name": "Chha Mukhi Rudraksha", "sub": "Ruled by Kartikeya, balances Shukra", "benefit": "Enhances charm, partnership attraction, and material prosperity. Supports natives activating Malavya yoga through Shukra mahadasha. Worn on Friday after abhishek with milk." },
-        { "mukhi": 66, "name": "Gauri Shankar Rudraksha", "sub": "Paired rudraksha for marital harmony", "benefit": "The twin-bead rudraksha of Shiva and Parvati. Strengthens the 7th house partnership signature and protects the marriage axis." }
+        {
+          "mukhi": 6,
+          "name": "Chha Mukhi Rudraksha",
+          "sub": "Ruled by Kartikeya, balances Shukra",
+          "benefit": "Enhances charm, partnership attraction, and material prosperity. Supports natives activating Malavya yoga through Shukra mahadasha. Worn on Friday after abhishek with milk."
+        },
+        {
+          "mukhi": 66,
+          "name": "Gauri Shankar Rudraksha",
+          "sub": "Paired rudraksha for marital harmony",
+          "benefit": "The twin-bead rudraksha of Shiva and Parvati. Strengthens the 7th house partnership signature and protects the marriage axis."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Shukra Yantra for Malavya activation", "yantra": { "name": "Shukra Yantra", "sanskrit": "शुक्र यन्त्र", "description": "Install the Shukra Yantra on the south-east wall of your home or near the marriage bedroom to stabilise the 7th lord and amplify Malavya yoga across decades.", "direction": "South-east wall", "install_day": "Friday, sunrise", "material": "Silver or copper", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Shukra", "stotra": { "eyebrow": "Shukra Stotram", "title": "Shukra Stotram", "sub": "Classical hymn to Lord Shukra, recited on Fridays for Malavya activation", "verse": "Himakunda-mrinalabham daityanam paramam gurum<br>Sarva-shastra-pravaktaram bhargavam pranamamy-aham<br>Shuklam brahma-vicara-saara-paramamadyam jagad-vyapakam<br>Jnanam saarvabhoumam-adisha-bhavam shukra namamy-aham", "translation": "Resembling snow, jasmine and lotus stem, the supreme guru of the demons, the speaker of all shastras, I bow to Bhargava. White in hue, the essence of the highest wisdom, pervading the world, universal knowledge, origin of all being, I bow to Shukra.", "url": "https://stotra.vastucart.in/stotra/shukra-stotram" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Shukra Yantra for Malavya activation",
+      "yantra": {
+        "name": "Shukra Yantra",
+        "sanskrit": "शुक्र यन्त्र",
+        "description": "Install the Shukra Yantra on the south-east wall of your home or near the marriage bedroom to stabilise the 7th lord and amplify Malavya yoga across decades.",
+        "direction": "South-east wall",
+        "install_day": "Friday, sunrise",
+        "material": "Silver or copper",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Shukra",
+      "stotra": {
+        "eyebrow": "Shukra Stotram",
+        "title": "Shukra Stotram",
+        "sub": "Classical hymn to Lord Shukra, recited on Fridays for Malavya activation",
+        "verse": "Himakunda-mrinalabham daityanam paramam gurum<br>Sarva-shastra-pravaktaram bhargavam pranamamy-aham<br>Shuklam brahma-vicara-saara-paramamadyam jagad-vyapakam<br>Jnanam saarvabhoumam-adisha-bhavam shukra namamy-aham",
+        "translation": "Resembling snow, jasmine and lotus stem, the supreme guru of the demons, the speaker of all shastras, I bow to Bhargava. White in hue, the essence of the highest wisdom, pervading the world, universal knowledge, origin of all being, I bow to Shukra.",
+        "url": "https://stotra.vastucart.in/stotra/shukra-stotram"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -202,14 +705,62 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali maker", "sub": "Seventh house detail free", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Lagna confirmation", "sub": "Verify Mesh ascendant", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Marriage matching", "sub": "Guna milan for Malavya natives", "url": "https://www.vastucart.in/tools/marriage-matching", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Marriage Muhurta", "sub": "Wedding dates for the year", "url": "https://muhurta.vastucart.in/marriage-muhurta", "icon": "muhurta", "icon_variant": "saff" },
-          { "label": "Mesh today", "sub": "Daily Aries forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Shukra Stotram", "sub": "Classical Venus stotra", "url": "https://stotra.vastucart.in/stotra/shukra-stotram", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Gauri Shankar rudraksha", "sub": "Paired marriage rudraksha", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Malavya yoga reading", "sub": "1-on-1 consultation", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali maker",
+            "sub": "Seventh house detail free",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Lagna confirmation",
+            "sub": "Verify Mesh ascendant",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Marriage matching",
+            "sub": "Guna milan for Malavya natives",
+            "url": "https://www.vastucart.in/tools/marriage-matching",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Marriage Muhurta",
+            "sub": "Wedding dates for the year",
+            "url": "https://muhurta.vastucart.in/marriage-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Mesh today",
+            "sub": "Daily Aries forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Shukra Stotram",
+            "sub": "Classical Venus stotra",
+            "url": "https://stotra.vastucart.in/stotra/shukra-stotram",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Gauri Shankar rudraksha",
+            "sub": "Paired marriage rudraksha",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Malavya yoga reading",
+            "sub": "1-on-1 consultation",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -219,54 +770,124 @@
         "title": "Is your Malavya Yoga active in your chart?",
         "subtitle": "Get a personalised analysis of your Venus placement, Malavya yoga activation status, and marriage timing for your full chart.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Shukra Stotram", "url": "https://stotra.vastucart.in/stotra/shukra-stotram", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Shukra Stotram",
+            "url": "https://stotra.vastucart.in/stotra/shukra-stotram",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Venus in 7th house, Mesh Lagna",
       "items": [
-        { "q": "Is Venus in the 7th house good for Mesh Lagna?", "a": "Yes, this is one of the four Pancha Mahapurusha yoga placements for Venus specifically. Shukra is the 7th lord for Mesh Lagna and the 7th house sign Tula is Venus's own sign. Venus in a kendra in own sign creates Malavya Yoga, classically associated with physical beauty, wealth through alliance, attractive spouse, longevity, and comfort in life. Natives carrying this combination are among the most fortunate Mesh Lagna configurations." },
-        { "q": "What is Malavya Yoga and how does it apply here?", "a": "Malavya Yoga is one of the four Pancha Mahapurusha yogas described by Varaha Mihira in the Brihat Jataka. It forms when Venus occupies a kendra house (1, 4, 7, 10) in his own sign (Vrishabha or Tula) or his exaltation sign (Meena). For Mesh Lagna, Venus in 7th house Tula activates this yoga directly. Classical results include physical beauty, refined manners, scholarly ability in arts and letters, wealth, happy spouse, and longevity above family average." },
-        { "q": "How does Venus in 7th house affect marriage?", "a": "Extremely positively. Venus is both the natural karaka of marriage and the 7th lord for Mesh Lagna, so the marriage signature is amplified threefold. The spouse arrives relatively early (often before 28), is visibly attractive, comes from a stable and prosperous family, and brings either direct financial resources or significant social capital. The partnership harmony is high and the wealth acceleration after marriage is the most-noted feature." },
-        { "q": "Which gemstone should Mesh Lagna wear for Venus in 7th?", "a": "Natural diamond (Heera) is the primary stone for activating Malavya yoga. Wear minimum half a carat set in platinum or white gold on the ring finger of the right hand on a Friday at sunrise after Shukra mantra recitation. Opal is a gentler secondary option. Always consult a practitioner because diamond is reactive." },
-        { "q": "When does Shukra mahadasha activate for Mesh Lagna?", "a": "Shukra mahadasha runs for twenty years and is the longest mahadasha. For natives carrying Venus in 7th house in own sign, this is the single most transformative period of life. Marriage, business partnerships, wealth acceleration, and aesthetic or creative career peaks all tend to fall within this window. Shani, Budha and Guru sub-periods add supportive colours." }
+        {
+          "q": "Is Venus in the 7th house good for Mesh Lagna?",
+          "a": "Yes, this is one of the four Pancha Mahapurusha yoga placements for Venus specifically. Shukra is the 7th lord for Mesh Lagna and the 7th house sign Tula is Venus's own sign. Venus in a kendra in own sign creates Malavya Yoga, classically associated with physical beauty, wealth through alliance, attractive spouse, longevity, and comfort in life. Natives carrying this combination are among the most fortunate Mesh Lagna configurations."
+        },
+        {
+          "q": "What is Malavya Yoga and how does it apply here?",
+          "a": "Malavya Yoga is one of the four Pancha Mahapurusha yogas described by Varaha Mihira in the Brihat Jataka. It forms when Venus occupies a kendra house (1, 4, 7, 10) in his own sign (Vrishabha or Tula) or his exaltation sign (Meena). For Mesh Lagna, Venus in 7th house Tula activates this yoga directly. Classical results include physical beauty, refined manners, scholarly ability in arts and letters, wealth, happy spouse, and longevity above family average."
+        },
+        {
+          "q": "How does Venus in 7th house affect marriage?",
+          "a": "Extremely positively. Venus is both the natural karaka of marriage and the 7th lord for Mesh Lagna, so the marriage signature is amplified threefold. The spouse arrives relatively early (often before 28), is visibly attractive, comes from a stable and prosperous family, and brings either direct financial resources or significant social capital. The partnership harmony is high and the wealth acceleration after marriage is the most-noted feature."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Venus in 7th?",
+          "a": "Natural diamond (Heera) is the primary stone for activating Malavya yoga. Wear minimum half a carat set in platinum or white gold on the ring finger of the right hand on a Friday at sunrise after Shukra mantra recitation. Opal is a gentler secondary option. Always consult a practitioner because diamond is reactive."
+        },
+        {
+          "q": "When does Shukra mahadasha activate for Mesh Lagna?",
+          "a": "Shukra mahadasha runs for twenty years and is the longest mahadasha. For natives carrying Venus in 7th house in own sign, this is the single most transformative period of life. Marriage, business partnerships, wealth acceleration, and aesthetic or creative career peaks all tend to fall within this window. Shani, Budha and Guru sub-periods add supportive colours."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Muhurta specialist", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "Mesh Lagna pillar profile", "sub": "The complete Aries ascendant hub", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Venus in 2nd house, Mesh Lagna", "sub": "Shukra in Vrishabha own sign", "href": "/jyotish/graha-in-bhava/venus-2nd-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Mars in 8th house, Mesh Lagna", "sub": "Mangal in Vrishchika own sign", "href": "/jyotish/graha-in-bhava/mars-8th-house-aries-lagna", "icon_variant": "rose" }
+        {
+          "title": "Mesh Lagna pillar profile",
+          "sub": "The complete Aries ascendant hub",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Venus in 2nd house, Mesh Lagna",
+          "sub": "Shukra in Vrishabha own sign",
+          "href": "/jyotish/graha-in-bhava/venus-2nd-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Mars in 8th house, Mesh Lagna",
+          "sub": "Mangal in Vrishchika own sign",
+          "href": "/jyotish/graha-in-bhava/mars-8th-house-aries-lagna",
+          "icon_variant": "rose"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

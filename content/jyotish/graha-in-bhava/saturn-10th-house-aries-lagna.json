@@ -7,7 +7,7 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 10,
   "status": "ready",
   "published_at": "2026-04-12T00:00:00.000Z",
@@ -22,7 +22,6 @@
     "career placement",
     "Shani mahadasha",
     "blue sapphire",
-    "Pt Raghav Sharma",
     "graha in bhava"
   ],
   "planet_id": "shani",
@@ -30,7 +29,7 @@
   "lagna_id": "mesha",
   "meta": {
     "title": "Saturn in 10th House for Mesh Lagna, Career and Remedies",
-    "description": "Saturn in 10th house for Mesh Lagna, the 10th lord in own sign. Career, authority, marriage, dasha and remedies by Pt. Raghav Sharma.",
+    "description": "Saturn in 10th house for Mesh Lagna, the 10th lord in own sign. Career, authority, marriage, dasha and remedies by VastuCart Editorial.",
     "focus_keyword": "Saturn in 10th house",
     "secondary_keywords": [
       "Mesh Lagna",
@@ -63,10 +62,22 @@
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/saturn-10th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Saturn in 10th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/saturn-10th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Saturn in 10th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/saturn-10th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
@@ -129,9 +140,25 @@
       "When does Shani mahadasha activate for Mesh Lagna with Saturn in 10th?"
     ],
     "lingual_variations": {
-      "shani": ["shani", "shanaishchara", "saturn", "shanidev"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "shani": [
+        "shani",
+        "shanaishchara",
+        "saturn",
+        "shanidev"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
     "content_gaps": [
       "Saade sati exact timing for Mesh natives with Saturn in 10th",
@@ -197,18 +224,45 @@
     "title_html": "Saturn in the 10th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner-level study of Shani in Karma Bhava for Aries ascendant natives. The 10th lord in his own sign, the career-defining placement, with marriage and dasha windows.",
     "meta": [
-      { "icon": "clock", "value": "10 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "10 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Shani", "tone": "teal" },
-      { "label": "Karma Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Swakshetra" },
-      { "label": "10th lord" },
-      { "label": "Career placement" }
+      {
+        "label": "Shani",
+        "tone": "teal"
+      },
+      {
+        "label": "Karma Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Swakshetra"
+      },
+      {
+        "label": "10th lord"
+      },
+      {
+        "label": "Career placement"
+      }
     ]
   },
   "schema": {},
@@ -216,10 +270,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet",   "value": "Shani",  "sub": "Saturn",      "icon": "star" },
-        { "label": "Bhava",    "value": "10th",   "sub": "Karma Bhava", "icon": "triangle-house" },
-        { "label": "Lagna",    "value": "Mesh",   "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Strong", "sub": "Swakshetra in kendra", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Shani",
+          "sub": "Saturn",
+          "icon": "star"
+        },
+        {
+          "label": "Bhava",
+          "value": "10th",
+          "sub": "Karma Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Strong",
+          "sub": "Swakshetra in kendra",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -247,14 +322,41 @@
           "title": "Shani, planet profile",
           "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Time, discipline, responsibility, longevity" },
-            { "k": "Own sign", "v": "Makar (Capricorn) and Kumbha (Aquarius)" },
-            { "k": "Uchha (exaltation)", "v": "Tula at 20 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Mesh at 20 degrees", "tone": "bad" },
-            { "k": "Friends", "v": "Mercury, Venus, Rahu" },
-            { "k": "Enemies", "v": "Sun, Moon, Mars", "tone": "bad" },
-            { "k": "Element", "v": "Air (Vayu Tattva)" },
-            { "k": "Day", "v": "Saturday" }
+            {
+              "k": "Karakatva",
+              "v": "Time, discipline, responsibility, longevity"
+            },
+            {
+              "k": "Own sign",
+              "v": "Makar (Capricorn) and Kumbha (Aquarius)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Tula at 20 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Mesh at 20 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Friends",
+              "v": "Mercury, Venus, Rahu"
+            },
+            {
+              "k": "Enemies",
+              "v": "Sun, Moon, Mars",
+              "tone": "bad"
+            },
+            {
+              "k": "Element",
+              "v": "Air (Vayu Tattva)"
+            },
+            {
+              "k": "Day",
+              "v": "Saturday"
+            }
           ]
         },
         {
@@ -262,19 +364,48 @@
           "title": "Karma Bhava, house profile",
           "subtitle": "10th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Karma, Rajya Bhava" },
-            { "k": "Rules over", "v": "Career, public reputation, father's profession" },
-            { "k": "Natural sign", "v": "Makar (Capricorn) for Mesh Lagna" },
-            { "k": "Natural ruler", "v": "Shani (Saturn)" },
-            { "k": "Body part", "v": "Knees, joints, bones" },
-            { "k": "Kendra house", "v": "Yes, angular, most powerful", "tone": "good" },
-            { "k": "Trikona house", "v": "No, but artha trikona supports wealth" },
-            { "k": "Vedic quality", "v": "Sasa Yoga when Saturn here in own sign", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Karma, Rajya Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Career, public reputation, father's profession"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Makar (Capricorn) for Mesh Lagna"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Shani (Saturn)"
+            },
+            {
+              "k": "Body part",
+              "v": "Knees, joints, bones"
+            },
+            {
+              "k": "Kendra house",
+              "v": "Yes, angular, most powerful",
+              "tone": "good"
+            },
+            {
+              "k": "Trikona house",
+              "v": "No, but artha trikona supports wealth"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Sasa Yoga when Saturn here in own sign",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -326,7 +457,10 @@
         "button_variant": "saffron"
       }
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "kundali-visual",
       "eyebrow": "Kundali visual",
@@ -335,14 +469,26 @@
       "house": 10,
       "lagna": "Mesh",
       "legend": [
-        { "color": "saffron", "text": "Shani in Karma Bhava, highlighted in indigo" },
-        { "color": "white", "text": "12 houses in North Indian format" },
-        { "color": "teal", "text": "Upper-centre square is the 10th house" }
+        {
+          "color": "saffron",
+          "text": "Shani in Karma Bhava, highlighted in indigo"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Upper-centre square is the 10th house"
+        }
       ],
       "cta_label": "Get your free Kundali",
       "cta_url": "https://www.vastucart.in/tools/kundli"
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -390,7 +536,10 @@
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Marriage and the seventh house",
@@ -416,10 +565,22 @@
           "icon_variant": "saphire",
           "image_slug": "blue-sapphire",
           "items": [
-            { "k": "Metal", "v": "Panchdhatu or silver" },
-            { "k": "Finger", "v": "Middle finger, right hand" },
-            { "k": "Day to wear", "v": "Saturday, sunrise" },
-            { "k": "Min weight", "v": "5 to 7 Ratti" }
+            {
+              "k": "Metal",
+              "v": "Panchdhatu or silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Middle finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Saturday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
           ]
         },
         {
@@ -429,23 +590,38 @@
           "icon_variant": "saphire",
           "image_slug": "blue-sapphire",
           "items": [
-            { "k": "Metal", "v": "Silver" },
-            { "k": "Finger", "v": "Middle finger" },
-            { "k": "Day to wear", "v": "Saturday, sunrise" },
-            { "k": "Min weight", "v": "7 to 10 Ratti" }
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Middle finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Saturday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "7 to 10 Ratti"
+            }
           ]
         },
         {
           "name": "Consult before wearing Neelam",
           "role": "shop",
-          "sub": "1-on-1 chart review by Pt. Raghav Sharma",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
           "shop_label": "Book a consultation",
           "shop_url": "https://store.vastucart.in/consultations"
         }
       ],
       "disclaimer": "Blue sapphire is the most reactive gemstone in the Jyotish system. Always test for seven days under a qualified Jyotishi's supervision before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
@@ -476,7 +652,10 @@
         "button_variant": "teal"
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "yantra",
       "eyebrow": "Yantra",
@@ -492,7 +671,10 @@
         "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
       }
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "stotra",
       "eyebrow": "Stotra and Mantra",
@@ -506,7 +688,10 @@
         "url": "https://stotra.vastucart.in/stotra/shani-stotra"
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -514,15 +699,69 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Birth chart maker", "sub": "Free Kundali for the exact tenth house picture", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Lagna calculator", "sub": "Confirm your Mesh Lagna", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Marriage Muhurta", "sub": "Auspicious wedding dates", "url": "https://muhurta.vastucart.in/marriage-muhurta", "icon": "muhurta", "icon_variant": "saff" },
-          { "label": "Aries daily forecast", "sub": "Today's prediction for Aries natives", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Shani Stotram", "sub": "Classical stotra to Shani Dev", "url": "https://stotra.vastucart.in/stotra/shani-stotra", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Shani Kavacham", "sub": "Protective armour stotra", "url": "https://stotra.vastucart.in/stotra/shani-kavacham", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Saat Mukhi rudraksha source", "sub": "Saat Mukhi and Chaudha Mukhi", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Shani yantra and navagraha", "sub": "Shani yantra, navagraha", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Book a chart reading", "sub": "1-on-1 chart review with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Birth chart maker",
+            "sub": "Free Kundali for the exact tenth house picture",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Lagna calculator",
+            "sub": "Confirm your Mesh Lagna",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Marriage Muhurta",
+            "sub": "Auspicious wedding dates",
+            "url": "https://muhurta.vastucart.in/marriage-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Aries daily forecast",
+            "sub": "Today's prediction for Aries natives",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Shani Stotram",
+            "sub": "Classical stotra to Shani Dev",
+            "url": "https://stotra.vastucart.in/stotra/shani-stotra",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Shani Kavacham",
+            "sub": "Protective armour stotra",
+            "url": "https://stotra.vastucart.in/stotra/shani-kavacham",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Saat Mukhi rudraksha source",
+            "sub": "Saat Mukhi and Chaudha Mukhi",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Shani yantra and navagraha",
+            "sub": "Shani yantra, navagraha",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Book a chart reading",
+            "sub": "1-on-1 chart review with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -532,13 +771,28 @@
         "title": "Is your Saturn this strong in your own chart?",
         "subtitle": "Get a complete personalised analysis of your Shani placement, current dasha, and saade sati timing for your full chart.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Shani Stotram & Chalisa", "url": "https://stotra.vastucart.in/stotra/shani-stotra", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Shani Stotram & Chalisa",
+            "url": "https://stotra.vastucart.in/stotra/shani-stotra",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
@@ -566,35 +820,75 @@
         }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Muhurta specialist", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "Aries ascendant pillar guide", "sub": "Complete profile for every Mesh Lagna native", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Mars in 1st house, Mesh Lagna", "sub": "The lagna lord in own sign", "href": "/jyotish/graha-in-bhava/mars-1st-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Jupiter in 9th house, Mesh Lagna", "sub": "The yogakaraka 9th lord in own sign", "href": "/jyotish/graha-in-bhava/jupiter-9th-house-aries-lagna", "icon_variant": "teal" }
+        {
+          "title": "Aries ascendant pillar guide",
+          "sub": "Complete profile for every Mesh Lagna native",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Mars in 1st house, Mesh Lagna",
+          "sub": "The lagna lord in own sign",
+          "href": "/jyotish/graha-in-bhava/mars-1st-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Jupiter in 9th house, Mesh Lagna",
+          "sub": "The yogakaraka 9th lord in own sign",
+          "href": "/jyotish/graha-in-bhava/jupiter-9th-house-aries-lagna",
+          "icon_variant": "teal"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

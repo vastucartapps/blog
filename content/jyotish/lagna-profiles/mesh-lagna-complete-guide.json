@@ -7,7 +7,7 @@
   "category": "jyotish",
   "subcategory": "lagna-profiles",
   "template": "lagna-profile",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 11,
   "status": "ready",
   "published_at": "2026-04-12T00:00:00.000Z",
@@ -27,7 +27,7 @@
   "lagna_id": "mesha",
   "meta": {
     "title": "Mesh Lagna (Aries Ascendant) Complete Profile Guide",
-    "description": "Mesh Lagna explained by Pt. Raghav Sharma. Body, personality, career, marriage, health, dasha sequence and remedies for every Aries ascendant native.",
+    "description": "Mesh Lagna explained by VastuCart Editorial. Body, personality, career, marriage, health, dasha sequence and remedies for every Aries ascendant native.",
     "focus_keyword": "Mesh Lagna",
     "secondary_keywords": [
       "Aries ascendant personality",
@@ -53,15 +53,27 @@
       "Mangal lagna lord"
     ],
     "og_title": "Mesh Lagna (Aries Ascendant), Complete Practitioner Profile",
-    "og_description": "A pillar guide to Mesh Lagna by Pt. Raghav Sharma. Body, mind, career, marriage, dasha and remedies for every Aries ascendant native.",
+    "og_description": "A pillar guide to Mesh Lagna by VastuCart Editorial. Body, mind, career, marriage, dasha and remedies for every Aries ascendant native.",
     "og_image": "/og/mesh-lagna-complete-guide.png",
     "canonical": "https://blog.vastucart.in/jyotish/lagna-profiles/mesh-lagna-complete-guide",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Lagna Profiles", "url": "https://blog.vastucart.in/jyotish/lagna-profiles" },
-      { "name": "Mesh Lagna Complete Guide", "url": "https://blog.vastucart.in/jyotish/lagna-profiles/mesh-lagna-complete-guide" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Lagna Profiles",
+        "url": "https://blog.vastucart.in/jyotish/lagna-profiles"
+      },
+      {
+        "name": "Mesh Lagna Complete Guide",
+        "url": "https://blog.vastucart.in/jyotish/lagna-profiles/mesh-lagna-complete-guide"
+      }
     ]
   },
   "keyword_brief": {
@@ -125,9 +137,29 @@
       "How does Mesh Lagna handle marriage and partnerships?"
     ],
     "lingual_variations": {
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "mesha lagna", "aries ascendant"],
-      "mangal": ["mangal", "mangala", "mars", "kuja", "bhaumya", "angaraka"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart", "janma kundali"]
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "mesha lagna",
+        "aries ascendant"
+      ],
+      "mangal": [
+        "mangal",
+        "mangala",
+        "mars",
+        "kuja",
+        "bhaumya",
+        "angaraka"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart",
+        "janma kundali"
+      ]
     },
     "content_gaps": [
       "Mesh Lagna with chandra in different rashis",
@@ -193,19 +225,47 @@
     "title_html": "Mesh Lagna<br><em>Aries Ascendant</em> complete profile",
     "description": "A pillar reference for every Aries ascendant native. Body, mind, career, marriage, health, dasha sequence, and the remedies that compound over decades.",
     "meta": [
-      { "icon": "clock", "value": "11 min read" },
-      { "icon": "check-circle", "value": "Pillar reference" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "11 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Mangal lord", "tone": "teal" },
-      { "label": "Cardinal fire" },
-      { "label": "Surya 5th lord" },
-      { "label": "Guru 9th lord" },
-      { "label": "Shani 10th lord" },
-      { "label": "Pillar of 108 cluster posts" }
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Mangal lord",
+        "tone": "teal"
+      },
+      {
+        "label": "Cardinal fire"
+      },
+      {
+        "label": "Surya 5th lord"
+      },
+      {
+        "label": "Guru 9th lord"
+      },
+      {
+        "label": "Shani 10th lord"
+      },
+      {
+        "label": "Pillar of 108 cluster posts"
+      }
     ]
   },
   "schema": {
@@ -218,9 +278,9 @@
       "dateModified": "2026-04-12T00:00:00.000Z",
       "author": {
         "@type": "Person",
-        "name": "Pt. Raghav Sharma",
+        "name": "VastuCart Editorial",
         "jobTitle": "Jyotish Acharya",
-        "url": "https://blog.vastucart.in/authors/pt-raghav-sharma"
+        "url": "https://blog.vastucart.in/authors/vastucart-editorial"
       },
       "publisher": {
         "@type": "Organization",
@@ -302,27 +362,58 @@
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://blog.vastucart.in/" },
-        { "@type": "ListItem", "position": 2, "name": "Jyotish", "item": "https://blog.vastucart.in/jyotish" },
-        { "@type": "ListItem", "position": 3, "name": "Lagna Profiles", "item": "https://blog.vastucart.in/jyotish/lagna-profiles" },
-        { "@type": "ListItem", "position": 4, "name": "Mesh Lagna Complete Guide", "item": "https://blog.vastucart.in/jyotish/lagna-profiles/mesh-lagna-complete-guide" }
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://blog.vastucart.in/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Jyotish",
+          "item": "https://blog.vastucart.in/jyotish"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Lagna Profiles",
+          "item": "https://blog.vastucart.in/jyotish/lagna-profiles"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Mesh Lagna Complete Guide",
+          "item": "https://blog.vastucart.in/jyotish/lagna-profiles/mesh-lagna-complete-guide"
+        }
       ]
     },
     "author": {
       "@context": "https://schema.org",
       "@type": "Person",
-      "name": "Pt. Raghav Sharma",
+      "name": "VastuCart Editorial",
       "jobTitle": "Senior Jyotishi, Vedic Astrology",
       "description": "Varanasi-based practising Jyotishi with twenty two years of consultation experience in Parashari Jyotish.",
-      "url": "https://blog.vastucart.in/authors/pt-raghav-sharma",
-      "knowsAbout": ["Jyotish", "Lagna analysis", "Vimshottari Dasha", "Muhurta", "Remedies"]
+      "url": "https://blog.vastucart.in/authors/vastucart-editorial",
+      "knowsAbout": [
+        "Jyotish",
+        "Lagna analysis",
+        "Vimshottari Dasha",
+        "Muhurta",
+        "Remedies"
+      ]
     },
     "organization": {
       "@context": "https://schema.org",
       "@type": "Organization",
       "name": "VastuCart",
       "url": "https://vastucart.in",
-      "logo": { "@type": "ImageObject", "url": "https://blog.vastucart.in/VastuCartLogo.png", "width": 1024, "height": 1024 },
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://blog.vastucart.in/VastuCartLogo.png",
+        "width": 1024,
+        "height": 1024
+      },
       "sameAs": [
         "https://vastucart.in",
         "https://kundali.vastucart.in",
@@ -340,7 +431,11 @@
       "@type": "WebPage",
       "name": "Mesh Lagna (Aries Ascendant), the complete profile",
       "url": "https://blog.vastucart.in/jyotish/lagna-profiles/mesh-lagna-complete-guide",
-      "isPartOf": { "@type": "WebSite", "url": "https://blog.vastucart.in", "name": "VastuCart Blog" },
+      "isPartOf": {
+        "@type": "WebSite",
+        "url": "https://blog.vastucart.in",
+        "name": "VastuCart Blog"
+      },
       "primaryImageOfPage": "https://blog.vastucart.in/og/mesh-lagna-complete-guide.png",
       "inLanguage": "en-IN"
     },
@@ -359,7 +454,10 @@
       "@context": "https://schema.org",
       "@type": "ProfilePage",
       "dateCreated": "2026-04-12T00:00:00.000Z",
-      "mainEntity": { "@type": "Person", "name": "Pt. Raghav Sharma" }
+      "mainEntity": {
+        "@type": "Person",
+        "name": "VastuCart Editorial"
+      }
     },
     "defined_term_set": {
       "@context": "https://schema.org",
@@ -376,7 +474,9 @@
         "@id": "https://blog.vastucart.in/#glossary/mesh-lagna",
         "name": "Mesh Lagna",
         "description": "Aries ascendant. The first sign of the zodiac rising on the eastern horizon at birth, ruled by Mangal (Mars).",
-        "inDefinedTermSet": { "@id": "https://blog.vastucart.in/#glossary" },
+        "inDefinedTermSet": {
+          "@id": "https://blog.vastucart.in/#glossary"
+        },
         "termCode": "mesh-lagna"
       },
       {
@@ -385,7 +485,9 @@
         "@id": "https://blog.vastucart.in/#glossary/mangal",
         "name": "Mangal",
         "description": "Mars, the planet of energy, courage, conflict, surgery, and brothers. The natural lord of Mesh and Vrishchika.",
-        "inDefinedTermSet": { "@id": "https://blog.vastucart.in/#glossary" },
+        "inDefinedTermSet": {
+          "@id": "https://blog.vastucart.in/#glossary"
+        },
         "termCode": "mangal"
       },
       {
@@ -394,7 +496,9 @@
         "@id": "https://blog.vastucart.in/#glossary/yogakaraka",
         "name": "Yogakaraka",
         "description": "A planet that simultaneously rules a kendra (1, 4, 7, 10) and a trikona (1, 5, 9), producing rajyoga in any chart it sits in.",
-        "inDefinedTermSet": { "@id": "https://blog.vastucart.in/#glossary" },
+        "inDefinedTermSet": {
+          "@id": "https://blog.vastucart.in/#glossary"
+        },
         "termCode": "yogakaraka"
       },
       {
@@ -403,7 +507,9 @@
         "@id": "https://blog.vastucart.in/#glossary/manglik",
         "name": "Manglik",
         "description": "A chart where Mars sits in the 1st, 4th, 7th, 8th, or 12th house from the lagna, considered to require careful muhurta and matching for marriage.",
-        "inDefinedTermSet": { "@id": "https://blog.vastucart.in/#glossary" },
+        "inDefinedTermSet": {
+          "@id": "https://blog.vastucart.in/#glossary"
+        },
         "termCode": "manglik"
       }
     ],
@@ -413,10 +519,26 @@
       "name": "Daily remedies for Mesh Lagna natives",
       "totalTime": "PT25M",
       "step": [
-        { "@type": "HowToStep", "name": "Morning Hanuman Chalisa", "text": "Recite the full Hanuman Chalisa at sunrise after a cold bath, facing south or east." },
-        { "@type": "HowToStep", "name": "Mangal mantra", "text": "Chant Om Angarakaya Namaha one hundred and eight times on Tuesday before breakfast." },
-        { "@type": "HowToStep", "name": "Tuesday fast", "text": "Skip salt on Tuesday, eat moong dal khichdi at noon, take only milk and fruit at night." },
-        { "@type": "HowToStep", "name": "Charity", "text": "Donate red lentils, jaggery and a copper coin to a labourer or sportsperson on Tuesday at sunrise." }
+        {
+          "@type": "HowToStep",
+          "name": "Morning Hanuman Chalisa",
+          "text": "Recite the full Hanuman Chalisa at sunrise after a cold bath, facing south or east."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Mangal mantra",
+          "text": "Chant Om Angarakaya Namaha one hundred and eight times on Tuesday before breakfast."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Tuesday fast",
+          "text": "Skip salt on Tuesday, eat moong dal khichdi at noon, take only milk and fruit at night."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Charity",
+          "text": "Donate red lentils, jaggery and a copper coin to a labourer or sportsperson on Tuesday at sunrise."
+        }
       ]
     },
     "howto_secondary": {
@@ -425,11 +547,31 @@
       "name": "How to wear red coral (Moonga) for Mesh Lagna",
       "totalTime": "PT30M",
       "step": [
-        { "@type": "HowToStep", "name": "Certify", "text": "Confirm the stone is natural untreated coral, minimum five ratti, with a lab certificate." },
-        { "@type": "HowToStep", "name": "Purify", "text": "Soak overnight in raw cow's milk and Ganga jal, then pass through guggul incense smoke." },
-        { "@type": "HowToStep", "name": "Energise", "text": "Recite Om Kraam Kreem Kraum Sah Bhaumaya Namaha one hundred and eight times before sunrise on Tuesday." },
-        { "@type": "HowToStep", "name": "Wear", "text": "Place the ring on the ring finger of the right hand right after the final mantra repetition." },
-        { "@type": "HowToStep", "name": "Observe", "text": "Test for seven days and continue only if the experience is clearly steady and positive." }
+        {
+          "@type": "HowToStep",
+          "name": "Certify",
+          "text": "Confirm the stone is natural untreated coral, minimum five ratti, with a lab certificate."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Purify",
+          "text": "Soak overnight in raw cow's milk and Ganga jal, then pass through guggul incense smoke."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Energise",
+          "text": "Recite Om Kraam Kreem Kraum Sah Bhaumaya Namaha one hundred and eight times before sunrise on Tuesday."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Wear",
+          "text": "Place the ring on the ring finger of the right hand right after the final mantra repetition."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Observe",
+          "text": "Test for seven days and continue only if the experience is clearly steady and positive."
+        }
       ]
     },
     "product_gem": {
@@ -438,7 +580,10 @@
       "name": "Certified Natural Red Coral, Moonga",
       "category": "Gemstone",
       "description": "Natural untreated red coral set in copper, the primary gemstone for Mesh Lagna natives.",
-      "brand": { "@type": "Brand", "name": "VastuCart" },
+      "brand": {
+        "@type": "Brand",
+        "name": "VastuCart"
+      },
       "url": "https://store.vastucart.in/consultations"
     },
     "product_rudraksha": {
@@ -447,7 +592,10 @@
       "name": "Teen Mukhi Rudraksha",
       "category": "Rudraksha",
       "description": "Three-faced rudraksha ruled by Agni, balances Mangal energy for Mesh Lagna natives.",
-      "brand": { "@type": "Brand", "name": "VastuCart" },
+      "brand": {
+        "@type": "Brand",
+        "name": "VastuCart"
+      },
       "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart"
     },
     "product_yantra": {
@@ -456,7 +604,10 @@
       "name": "Mangal Yantra",
       "category": "Yantra",
       "description": "Energised copper Mangal Yantra for home and workspace installation, the lagna-lord yantra for Mesh Lagna natives.",
-      "brand": { "@type": "Brand", "name": "VastuCart" },
+      "brand": {
+        "@type": "Brand",
+        "name": "VastuCart"
+      },
       "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
     },
     "service": {
@@ -464,7 +615,10 @@
       "@type": "Service",
       "name": "Personal Jyotish Consultation",
       "serviceType": "Vedic Astrology Consultation",
-      "provider": { "@type": "Organization", "name": "VastuCart" },
+      "provider": {
+        "@type": "Organization",
+        "name": "VastuCart"
+      },
       "areaServed": "Worldwide",
       "url": "https://store.vastucart.in/consultations",
       "offers": {
@@ -476,7 +630,10 @@
     "speakable": {
       "@context": "https://schema.org",
       "@type": "SpeakableSpecification",
-      "cssSelector": [".prose-block", ".verse"]
+      "cssSelector": [
+        ".prose-block",
+        ".verse"
+      ]
     },
     "image_objects": [
       {
@@ -536,7 +693,7 @@
       "@context": "https://schema.org",
       "@type": "VideoObject",
       "name": "Mesh Lagna pillar profile, practitioner overview",
-      "description": "A short practitioner overview of Mesh Lagna by Pt. Raghav Sharma.",
+      "description": "A short practitioner overview of Mesh Lagna by VastuCart Editorial.",
       "thumbnailUrl": "https://blog.vastucart.in/og/mesh-lagna-complete-guide.png",
       "uploadDate": "2026-04-12T00:00:00.000Z",
       "contentUrl": "https://blog.vastucart.in/posts/mesh-lagna-complete-guide/video.mp4",
@@ -574,10 +731,24 @@
       "@type": "Dataset",
       "name": "Vimshottari Dasha sequence for Mesh Lagna natives",
       "description": "Mahadasha durations and themes for the Mesh Lagna native, in the order they typically activate.",
-      "creator": { "@type": "Organization", "name": "VastuCart" },
+      "creator": {
+        "@type": "Organization",
+        "name": "VastuCart"
+      },
       "license": "https://vastucart.in/license",
-      "keywords": ["vimshottari", "mahadasha", "mesh lagna", "mangal", "dasha"],
-      "variableMeasured": ["mahadasha", "duration", "themes", "intensity"],
+      "keywords": [
+        "vimshottari",
+        "mahadasha",
+        "mesh lagna",
+        "mangal",
+        "dasha"
+      ],
+      "variableMeasured": [
+        "mahadasha",
+        "duration",
+        "themes",
+        "intensity"
+      ],
       "distribution": {
         "@type": "DataDownload",
         "encodingFormat": "text/html",
@@ -589,17 +760,38 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Lagna",     "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Lord",      "value": "Mangal", "sub": "Mars", "icon": "sun" },
-        { "label": "Element",   "value": "Fire",  "sub": "Cardinal Agni", "icon": "triangle-house" },
-        { "label": "Quality",   "value": "Pillar", "sub": "108 cluster posts",  "icon": "star", "tone": "good" }
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Lord",
+          "value": "Mangal",
+          "sub": "Mars",
+          "icon": "sun"
+        },
+        {
+          "label": "Element",
+          "value": "Fire",
+          "sub": "Cardinal Agni",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Quality",
+          "value": "Pillar",
+          "sub": "108 cluster posts",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
       "type": "prose",
       "eyebrow": "Understanding the lagna",
       "heading": "When Mars draws the first breath of the chart",
-      "html": "<p>Of the twelve lagnas, <em>Mesh</em> is the one that arrives in the room before its name is announced. The first sign of the zodiac, ruled by <em>Mangal</em> (Mars), cardinal fire by element and movable by quality, it sets the tone for how the entire chart will move through life. Wherever the lagna lord goes, the body follows, and Mangal does not sit quietly anywhere in a horoscope. Anyone with this rising sign carries an engine on the front of their chart that is designed to start moving before the destination has been agreed upon.</p><p>I have read more than two thousand Mesh Lagna charts in twenty two years of practice in Varanasi. The one consistent finding is this. These natives never need to be motivated, only directed. The energy is already there at birth. The work of the practitioner is to read where Mangal sits, what aspects fall on it, which house lords are friendly, and then point the existing fire toward the part of life where it will produce the most lasting good rather than burn itself out chasing whatever moved last.</p><p>This pillar profile holds together the 108 cluster posts on Mesh Lagna across this site. Every planet-in-house combination for an Aries native links back here, and from here you can reach each one. Treat it as the reference room you return to whenever a specific placement raises a question the cluster post answers in detail.</p>"
+      "html": "<p>Of the twelve lagnas, <em>Mesh</em> is the one that arrives in the room before its name is announced. The first sign of the zodiac, ruled by <em>Mangal</em> (Mars), cardinal fire by element and movable by quality, it sets the tone for how the entire chart will move through life. Wherever the lagna lord goes, the body follows, and Mangal does not sit quietly anywhere in a horoscope. Anyone with this rising sign carries an engine on the front of their chart that is designed to start moving before the destination has been agreed upon.</p><p>I have read more than two thousand Mesh Lagna charts in decades of practice in Varanasi. The one consistent finding is this. These natives never need to be motivated, only directed. The energy is already there at birth. The work of the practitioner is to read where Mangal sits, what aspects fall on it, which house lords are friendly, and then point the existing fire toward the part of life where it will produce the most lasting good rather than burn itself out chasing whatever moved last.</p><p>This pillar profile holds together the 108 cluster posts on Mesh Lagna across this site. Every planet-in-house combination for an Aries native links back here, and from here you can reach each one. Treat it as the reference room you return to whenever a specific placement raises a question the cluster post answers in detail.</p>"
     },
     {
       "type": "pull-quote",
@@ -614,14 +806,39 @@
           "title": "Mesh, lagna profile",
           "subtitle": "Cardinal fire, Mangal-ruled",
           "items": [
-            { "k": "Sanskrit name", "v": "Mesh" },
-            { "k": "English name", "v": "Aries" },
-            { "k": "Element",       "v": "Fire (Agni Tattva)" },
-            { "k": "Quality",       "v": "Cardinal (Chara)" },
-            { "k": "Ruling planet", "v": "Mangal (Mars)" },
-            { "k": "Symbol",        "v": "Ram" },
-            { "k": "Direction",     "v": "East", "tone": "good" },
-            { "k": "Body parts",    "v": "Head, brain, face" }
+            {
+              "k": "Sanskrit name",
+              "v": "Mesh"
+            },
+            {
+              "k": "English name",
+              "v": "Aries"
+            },
+            {
+              "k": "Element",
+              "v": "Fire (Agni Tattva)"
+            },
+            {
+              "k": "Quality",
+              "v": "Cardinal (Chara)"
+            },
+            {
+              "k": "Ruling planet",
+              "v": "Mangal (Mars)"
+            },
+            {
+              "k": "Symbol",
+              "v": "Ram"
+            },
+            {
+              "k": "Direction",
+              "v": "East",
+              "tone": "good"
+            },
+            {
+              "k": "Body parts",
+              "v": "Head, brain, face"
+            }
           ]
         },
         {
@@ -629,19 +846,48 @@
           "title": "House lordship table",
           "subtitle": "Which planet rules which bhava for Mesh",
           "items": [
-            { "k": "1st (Tanu)",   "v": "Mangal" },
-            { "k": "2nd (Dhana)",  "v": "Shukra" },
-            { "k": "5th (Putra)",  "v": "Surya", "tone": "good" },
-            { "k": "7th (Yuvati)", "v": "Shukra" },
-            { "k": "9th (Dharma)", "v": "Guru", "tone": "good" },
-            { "k": "10th (Karma)", "v": "Shani" },
-            { "k": "11th (Labha)", "v": "Shani" },
-            { "k": "12th (Vyaya)", "v": "Guru" }
+            {
+              "k": "1st (Tanu)",
+              "v": "Mangal"
+            },
+            {
+              "k": "2nd (Dhana)",
+              "v": "Shukra"
+            },
+            {
+              "k": "5th (Putra)",
+              "v": "Surya",
+              "tone": "good"
+            },
+            {
+              "k": "7th (Yuvati)",
+              "v": "Shukra"
+            },
+            {
+              "k": "9th (Dharma)",
+              "v": "Guru",
+              "tone": "good"
+            },
+            {
+              "k": "10th (Karma)",
+              "v": "Shani"
+            },
+            {
+              "k": "11th (Labha)",
+              "v": "Shani"
+            },
+            {
+              "k": "12th (Vyaya)",
+              "v": "Guru"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -693,7 +939,10 @@
         "button_variant": "saffron"
       }
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "kundali-visual",
       "eyebrow": "Kundali visual",
@@ -702,14 +951,26 @@
       "house": 1,
       "lagna": "Mesh",
       "legend": [
-        { "color": "saffron", "text": "Mesh sits in the first house (Lagna) by definition" },
-        { "color": "white", "text": "12 houses in North Indian format, anti-clockwise" },
-        { "color": "teal", "text": "Central square is the 1st house (Tanu Bhava)" }
+        {
+          "color": "saffron",
+          "text": "Mesh sits in the first house (Lagna) by definition"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format, anti-clockwise"
+        },
+        {
+          "color": "teal",
+          "text": "Central square is the 1st house (Tanu Bhava)"
+        }
       ],
       "cta_label": "Generate your free kundali",
       "cta_url": "https://www.vastucart.in/tools/kundli"
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "Marriage and the seventh house",
@@ -757,7 +1018,10 @@
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Lagna lordship map",
@@ -795,10 +1059,22 @@
           "icon_variant": "ruby",
           "image_slug": "red-coral",
           "items": [
-            { "k": "Metal", "v": "Copper or panchdhatu" },
-            { "k": "Finger", "v": "Ring finger, right hand" },
-            { "k": "Day to wear", "v": "Tuesday, sunrise" },
-            { "k": "Min weight", "v": "5 to 7 Ratti" }
+            {
+              "k": "Metal",
+              "v": "Copper or panchdhatu"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Tuesday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
           ]
         },
         {
@@ -808,23 +1084,38 @@
           "icon_variant": "saphire",
           "image_slug": "yellow-sapphire",
           "items": [
-            { "k": "Metal", "v": "Gold (24 carat)" },
-            { "k": "Finger", "v": "Index finger, right hand" },
-            { "k": "Day to wear", "v": "Thursday, Guru hora" },
-            { "k": "Min weight", "v": "3 to 5 Ratti" }
+            {
+              "k": "Metal",
+              "v": "Gold (24 carat)"
+            },
+            {
+              "k": "Finger",
+              "v": "Index finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Thursday, Guru hora"
+            },
+            {
+              "k": "Min weight",
+              "v": "3 to 5 Ratti"
+            }
           ]
         },
         {
           "name": "Consult before wearing Moonga",
           "role": "shop",
-          "sub": "1-on-1 chart review by Pt. Raghav Sharma",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
           "shop_label": "Book a consultation",
           "shop_url": "https://store.vastucart.in/consultations"
         }
       ],
       "disclaimer": "Gemstone recommendations are based on classical Jyotish principles. Always consult a qualified Jyotishi who has reviewed your full birth chart before wearing any gemstone. Effects vary based on chart strength, dasha periods, and individual constitution. Do not substitute gemstone therapy for medical treatment."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
@@ -855,7 +1146,10 @@
         "button_variant": "teal"
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "yantra",
       "eyebrow": "Yantra",
@@ -871,7 +1165,10 @@
         "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
       }
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "stotra",
       "eyebrow": "Stotra and Mantra",
@@ -885,7 +1182,10 @@
         "url": "https://stotra.vastucart.in/stotra/mangal-stotram"
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -944,7 +1244,7 @@
           },
           {
             "label": "Personal Jyotish consultation",
-            "sub": "1-on-1 chart review with Pt. Raghav Sharma",
+            "sub": "1-on-1 chart review with VastuCart Editorial",
             "url": "https://store.vastucart.in/consultations",
             "icon": "shop",
             "icon_variant": "teal"
@@ -958,13 +1258,28 @@
         "title": "Confirm your Mesh Lagna and read your full chart",
         "subtitle": "Generate a free Kundali, then consult a senior Jyotishi for the personalised remedies that this pillar profile cannot give for your specific birth time.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Mangal Stotram & Kavacham", "url": "https://stotra.vastucart.in/stotra/mangal-stotram", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Mangal Stotram & Kavacham",
+            "url": "https://stotra.vastucart.in/stotra/mangal-stotram",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
@@ -996,26 +1311,50 @@
         }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Lagna analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Lagna analysis specialist", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Cluster posts under this pillar",
@@ -1047,5 +1386,6 @@
         }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

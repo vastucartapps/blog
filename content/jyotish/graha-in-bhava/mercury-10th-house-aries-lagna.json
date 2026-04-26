@@ -6,40 +6,131 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Mercury in 10th house", "Budha Makara", "Mesh Lagna", "Aries ascendant", "Karma Bhava", "3L 6L kendra", "Saturnian speech", "Budha mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Mercury in 10th house",
+    "Budha Makara",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Karma Bhava",
+    "3L 6L kendra",
+    "Saturnian speech",
+    "Budha mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "budha",
   "house_number": 10,
   "lagna_id": "mesha",
   "meta": {
     "title": "Mercury in 10th House Mesh Lagna, Saturnian Speech Vocation",
-    "description": "Mercury in 10th house for Mesh Lagna, Budha in friendly Makara, the 3L plus 6L at the zenith read by Pt. Raghav Sharma.",
+    "description": "Mercury in 10th house for Mesh Lagna, Budha in friendly Makara, the 3L plus 6L at the zenith by VastuCart Editorial.",
     "focus_keyword": "Mercury in 10th house",
-    "secondary_keywords": ["Mesh Lagna", "Karma Bhava", "Budha Makara", "Aries ascendant", "Mercury 10th"],
-    "lsi_keywords": ["karma bhava", "budha makara", "mercury in capricorn", "3rd lord tenth", "6th lord tenth", "budha mahadasha", "emerald panna", "saturnian discipline", "professional speech", "mercury saturn friendship"],
-    "keywords": ["Mercury in 10th house Mesh Lagna", "Budha in Karma Bhava", "Mercury in Capricorn", "Mesh lagna 10th Mercury", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Karma Bhava",
+      "Budha Makara",
+      "Aries ascendant",
+      "Mercury 10th"
+    ],
+    "lsi_keywords": [
+      "karma bhava",
+      "budha makara",
+      "mercury in capricorn",
+      "3rd lord tenth",
+      "6th lord tenth",
+      "budha mahadasha",
+      "emerald panna",
+      "saturnian discipline",
+      "professional speech",
+      "mercury saturn friendship"
+    ],
+    "keywords": [
+      "Mercury in 10th house Mesh Lagna",
+      "Budha in Karma Bhava",
+      "Mercury in Capricorn",
+      "Mesh lagna 10th Mercury",
+      "Vedic astrology"
+    ],
     "og_title": "Mercury in the 10th House of Mesh Lagna, Budha in Friendly Makara",
     "og_description": "Mercury in the Saturnian friendly sign at the zenith for Aries ascendant natives, by a practising Jyotishi.",
     "og_image": "/og/mercury-10th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/mercury-10th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Mercury in 10th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mercury-10th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Mercury in 10th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mercury-10th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Mercury in 10th house",
-    "secondary_keywords": ["Mesh Lagna", "Karma Bhava", "Budha Makara", "Aries ascendant", "Mercury 10th"],
-    "lsi_terms": ["karma bhava", "budha makara", "mercury in capricorn", "3rd lord tenth", "6th lord tenth", "budha mahadasha", "emerald panna", "saturnian discipline", "professional speech", "mercury saturn friendship"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Karma Bhava",
+      "Budha Makara",
+      "Aries ascendant",
+      "Mercury 10th"
+    ],
+    "lsi_terms": [
+      "karma bhava",
+      "budha makara",
+      "mercury in capricorn",
+      "3rd lord tenth",
+      "6th lord tenth",
+      "budha mahadasha",
+      "emerald panna",
+      "saturnian discipline",
+      "professional speech",
+      "mercury saturn friendship"
+    ],
     "seed_queries": [
-      "mercury in 10th house aries lagna", "budha in 10th house mesh lagna", "mercury in capricorn mesh ascendant", "budha makara aries lagna", "mercury in karma bhava mesh", "mercury in 10th house career aries", "mercury in capricorn 10th aries", "budha karma bhava mesh", "3l in 10h aries lagna", "6l in 10h aries lagna", "mercury in 10th house remedies aries", "emerald for mercury 10th aries", "panna mesh lagna 10th", "budha mahadasha aries 10th", "mercury in 10th house aries career", "mercury in 10th house aries reputation", "is mercury good in 10th house aries", "mercury in capricorn aries ascendant career", "budha makara saturnian", "mercury 10th house aries prediction", "mercury in tenth house mesh lagna", "mercury 10th house mesh ascendant", "budha in mesh lagna 10th", "mercury makara lagna mesh chart", "mercury 10th house mesh lagna dasha", "budha mesh lagna profession", "professional speech aries", "mercury saturnian discipline", "3rd lord tenth house aries", "budha raja yoga mesh"
+      "mercury in 10th house aries lagna",
+      "budha in 10th house mesh lagna",
+      "mercury in capricorn mesh ascendant",
+      "budha makara aries lagna",
+      "mercury in karma bhava mesh",
+      "mercury in 10th house career aries",
+      "mercury in capricorn 10th aries",
+      "budha karma bhava mesh",
+      "3l in 10h aries lagna",
+      "6l in 10h aries lagna",
+      "mercury in 10th house remedies aries",
+      "emerald for mercury 10th aries",
+      "panna mesh lagna 10th",
+      "budha mahadasha aries 10th",
+      "mercury in 10th house aries career",
+      "mercury in 10th house aries reputation",
+      "is mercury good in 10th house aries",
+      "mercury in capricorn aries ascendant career",
+      "budha makara saturnian",
+      "mercury 10th house aries prediction",
+      "mercury in tenth house mesh lagna",
+      "mercury 10th house mesh ascendant",
+      "budha in mesh lagna 10th",
+      "mercury makara lagna mesh chart",
+      "mercury 10th house mesh lagna dasha",
+      "budha mesh lagna profession",
+      "professional speech aries",
+      "mercury saturnian discipline",
+      "3rd lord tenth house aries",
+      "budha raja yoga mesh"
     ],
     "questions": [
       "Is Mercury in the 10th house good for Mesh Lagna?",
@@ -49,36 +140,130 @@
       "Which gemstone should Mesh Lagna wear for Mercury in 10th?"
     ],
     "lingual_variations": {
-      "budha": ["budha", "mercury", "saumya", "kumara", "rauhineya"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "budha": [
+        "budha",
+        "mercury",
+        "saumya",
+        "kumara",
+        "rauhineya"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Mercury Saturnian friendly sign reading", "3L plus 6L in the career kendra", "Speech vocation through professional discipline"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Mercury Saturnian friendly sign reading",
+      "3L plus 6L in the career kendra",
+      "Speech vocation through professional discipline"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "mercury-10th-house-aries-lagna-hero.webp", "filename_og": "mercury-10th-house-aries-lagna-og.png", "alt": "Radiant emerald Budha at the zenith of a Mesh Lagna kundali in Makara", "caption": "Budha sits in friendly Makara at the zenith of the chart for Aries ascendant natives, the Saturnian disciplined speech vocation signature.", "width": 1200, "height": 630, "format": "webp", "style": "luminous emerald-iron editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the tenth house glowing emerald and iron grey, a stylised Mercury caduceus over a small mountain-goat Makara glyph, traditional Vedic palette of emerald, iron grey, deep saffron, refined manuscript style, no people.", "negative_prompt": "photorealistic mercury, watermark, text, neon, cartoon" },
-    { "filename": "mercury-10th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Mercury in the tenth house of Mesh in Makara", "caption": "The North Indian birth chart with Budha marked in Makara on the tenth house Karma Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the upper diamond tenth house highlighted in emerald with a Budha symbol marked Bu and small Makara glyph, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "mercury-10th-house-aries-lagna-emerald.webp", "alt": "Natural Colombian emerald in gold ring, gemstone for Mercury 10th house Mesh Lagna", "caption": "Emerald is the primary Budha ratna and works with confidence here because the friendly Saturnian sign supports the gemstone protocol.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural Colombian emerald set in a gold ring, deep green colour, emerald cut, on dark velvet with cool lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "mercury-10th-house-aries-lagna-saraswati-vandana.webp", "alt": "Saraswati Vandana Sanskrit verse on parchment with veena and lotus motif", "caption": "Saraswati Vandana recitation strengthens the speech and intellect channel that the Karma Bhava Mercury specifically activates as a vocational tool.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Saraswati Vandana, hand-painted on aged parchment with gold leaf borders, faint veena and lotus motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "mercury-10th-house-aries-lagna-hero.webp",
+      "filename_og": "mercury-10th-house-aries-lagna-og.png",
+      "alt": "Radiant emerald Budha at the zenith of a Mesh Lagna kundali in Makara",
+      "caption": "Budha sits in friendly Makara at the zenith of the chart for Aries ascendant natives, the Saturnian disciplined speech vocation signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "luminous emerald-iron editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the tenth house glowing emerald and iron grey, a stylised Mercury caduceus over a small mountain-goat Makara glyph, traditional Vedic palette of emerald, iron grey, deep saffron, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic mercury, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "mercury-10th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Mercury in the tenth house of Mesh in Makara",
+      "caption": "The North Indian birth chart with Budha marked in Makara on the tenth house Karma Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the upper diamond tenth house highlighted in emerald with a Budha symbol marked Bu and small Makara glyph, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "mercury-10th-house-aries-lagna-emerald.webp",
+      "alt": "Natural Colombian emerald in gold ring, gemstone for Mercury 10th house Mesh Lagna",
+      "caption": "Emerald is the primary Budha ratna and works with confidence here because the friendly Saturnian sign supports the gemstone protocol.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural Colombian emerald set in a gold ring, deep green colour, emerald cut, on dark velvet with cool lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "mercury-10th-house-aries-lagna-saraswati-vandana.webp",
+      "alt": "Saraswati Vandana Sanskrit verse on parchment with veena and lotus motif",
+      "caption": "Saraswati Vandana recitation strengthens the speech and intellect channel that the Karma Bhava Mercury specifically activates as a vocational tool.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Saraswati Vandana, hand-painted on aged parchment with gold leaf borders, faint veena and lotus motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Mercury in the 10th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Budha in Karma Bhava for Aries ascendant natives. Mercury in friendly Makara, the 3L plus 6L dual lordship in the career zenith, and the Saturnian-disciplined speech vocation that crystallises the entire working life around analytical and verbal authority.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Budha", "tone": "teal" },
-      { "label": "Karma Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Friendly Makara" },
-      { "label": "3L plus 6L" },
-      { "label": "Saturnian discipline" }
+      {
+        "label": "Budha",
+        "tone": "teal"
+      },
+      {
+        "label": "Karma Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Friendly Makara"
+      },
+      {
+        "label": "3L plus 6L"
+      },
+      {
+        "label": "Saturnian discipline"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +271,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Budha", "sub": "Mercury", "icon": "sun" },
-        { "label": "Bhava", "value": "10th", "sub": "Karma Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Strong", "sub": "Friendly Saturnian sign", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Budha",
+          "sub": "Mercury",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "10th",
+          "sub": "Karma Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Strong",
+          "sub": "Friendly Saturnian sign",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +310,103 @@
       "heading": "Why Mercury and Saturn share an operating system the other planets do not",
       "html": "<p>Students learning Vedic astrology often expect that Mercury would clash with Saturn because the two planets are temperamentally different at the surface (Mercury is quick, light, and youthful while Saturn is slow, heavy, and aged). The classical reality is the opposite. Mercury and Saturn share a deep structural compatibility that classical texts encode as friendship, and the compatibility is rooted in their common orientation toward structure, system, accuracy, and the long-horizon work that neither speed nor improvisation can replace. Both planets value verification over enthusiasm. Both planets respect routine over flash. Both planets reward sustained effort over momentary brilliance. When Mercury occupies a Saturn sign or vice versa, the two operating systems reinforce each other, and the native experiences the placement as an unusually clean fit rather than as the friction popular astrology sometimes imagines.</p><p>The 3L plus 6L dual lordship in the 10H is the second specific feature that practitioners need to read with care because it shapes the professional life across decades. The third lord brings parakrama (self-effort, communication, courage, hands, short journeys) into the career angle. The sixth lord brings service, routine, daily discipline, conflict resolution, and the willingness to engage with difficulty into the same career angle. The two lordships compound at the zenith, producing a native whose professional identity is built around both verbal output and disciplined service simultaneously. They are the journalists who file every day and never miss a deadline. They are the lawyers who do the discovery work other lawyers find tedious and win cases on the documents. They are the analysts whose reports peers trust because the methodology is always visible. The third interpretive layer is aspect. From the 10th, Budha aspects the 4th house with his full opposition aspect, bringing the analytical mind into the home and mother angle. Natives often experience their home life as a workshop for ideas as much as a refuge, and the spouse and children are usually pulled into the native's professional thought-world to a degree that other charts do not produce.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "When Mercury reaches the zenith in Saturn's sign, the speech becomes the career and the career becomes a discipline. The native does not climb the ladder by speaking louder. They climb by speaking more carefully than anyone else." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "When Mercury reaches the zenith in Saturn's sign, the speech becomes the career and the career becomes a discipline. The native does not climb the ladder by speaking louder. They climb by speaking more carefully than anyone else."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Budha, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Budha, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Intellect, speech, commerce, hands" },
-            { "k": "Own signs", "v": "Mithuna, Kanya" },
-            { "k": "Uchha (exaltation)", "v": "Kanya at 15 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Meena at 15 degrees", "tone": "bad" },
-            { "k": "Sign state here", "v": "Friendly Makara", "tone": "good" },
-            { "k": "Friends", "v": "Sun, Venus, Saturn" },
-            { "k": "Element", "v": "Earth (Prithvi Tattva)" },
-            { "k": "Role for Mesh", "v": "3rd lord and 6th lord" }
+            {
+              "k": "Karakatva",
+              "v": "Intellect, speech, commerce, hands"
+            },
+            {
+              "k": "Own signs",
+              "v": "Mithuna, Kanya"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Kanya at 15 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Meena at 15 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Friendly Makara",
+              "tone": "good"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Venus, Saturn"
+            },
+            {
+              "k": "Element",
+              "v": "Earth (Prithvi Tattva)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "3rd lord and 6th lord"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Karma Bhava, house profile", "subtitle": "10th house significance",
+          "icon": "triangle-house",
+          "title": "Karma Bhava, house profile",
+          "subtitle": "10th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Karma, Rajya Bhava" },
-            { "k": "Rules over", "v": "Career, authority, reputation, father" },
-            { "k": "Natural sign", "v": "Makara (Capricorn) for Mesh" },
-            { "k": "Natural ruler", "v": "Shani (Saturn)" },
-            { "k": "Body part", "v": "Knees, spine, professional stamina" },
-            { "k": "Classical nature", "v": "Kendra, Upachaya" },
-            { "k": "Vedic quality", "v": "3L plus 6L in career zenith", "tone": "good" },
-            { "k": "Special effect", "v": "Mercury-Saturn friendship reinforces", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Karma, Rajya Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Career, authority, reputation, father"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Makara (Capricorn) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Shani (Saturn)"
+            },
+            {
+              "k": "Body part",
+              "v": "Knees, spine, professional stamina"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Kendra, Upachaya"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "3L plus 6L in career zenith",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Mercury-Saturn friendship reinforces",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +448,48 @@
       "heading": "Where the disciplined-speech vocation plays out",
       "html": "<p>Career paths cluster around fields that reward methodical preparation, sustained accuracy, and the slow accumulation of verbal or analytical authority. Civil service and public administration are the strongest single fit because the placement produces natives whose professional temperament naturally matches the documented-merit environment of bureaucratic institutions. Many natives sit for competitive examinations in their twenties and rise to senior administrative roles by their forties. Law, especially legal research and litigation, suits the chart because the analytical discipline combined with verbal fluency produces a courtroom presence other lawyers find difficult to outmatch.</p><p>Journalism, broadcasting, and investigative reporting work because the chart supports long-form work requiring both verbal output (3L) and disciplined routine (6L) at the same time. Many natives build careers as the journalist who files reliably for decades or the investigative reporter whose methodology produces stories peers cannot replicate. Corporate analyst and senior advisory roles fit because the Mercury-Saturn combination produces analysts whose recommendations clients trust. Academic and research-based teaching suit natives whose vocational pull is more scholarly. Engineering, technical writing, and documentation work because the placement understands the value of accurate language about complex systems. Budha mahadasha is when the vocation crystallises into recognised authority, often through a single high-stakes piece of work that establishes the native's reputation.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Budha in Karma Bhava placement", "subtitle": "Generate your free Kundali to see Mercury at the zenith of your chart.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Mercury marked in the tenth house of Mesh", "planet": "Budha", "house": 10, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Budha in Karma Bhava in friendly Makara, marked in emerald" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Upper diamond is the 10th house of career" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Budha in Karma Bhava placement",
+        "subtitle": "Generate your free Kundali to see Mercury at the zenith of your chart.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Mercury marked in the tenth house of Mesh",
+      "planet": "Budha",
+      "house": 10,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Budha in Karma Bhava in friendly Makara, marked in emerald"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Upper diamond is the 10th house of career"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The Saturnian discipline and the 10H dual lordship",
@@ -194,13 +502,45 @@
       "heading": "When Mercury in 10th delivers its Karma Bhava chapter",
       "intro_html": "<p>Budha mahadasha is the defining window for this placement and arrives with the speech-driven vocation crystallising into recognised professional authority.</p>",
       "rows": [
-        { "mahadasha": "Budha (Mercury)", "duration": "17 years", "themes": "The Karma Bhava activation window. Career crystallises into recognised authority, professional speech vocation peaks, institutional or analytical leadership confirmation arrives.", "intensity": "Very high", "intensity_bar_width": 95, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "Friend of Mercury and 7L. Marriage and partnership often crystallise alongside the career peak, refined collaboration with senior figures.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Shani (Saturn)", "duration": "19 years", "themes": "Lord of the sign Makara. The dispositor of Mercury here, and the chart's central planet for the rest of the working life. Career stabilises into long-horizon authority, institutional recognition, late-career consolidation.", "intensity": "Very good", "intensity_bar_width": 88, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Friend of Mercury and 5L. Public visibility for the analytical work, dharmic recognition through teaching or advisory authority.", "intensity": "Good", "intensity_bar_width": 78, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Budha (Mercury)",
+          "duration": "17 years",
+          "themes": "The Karma Bhava activation window. Career crystallises into recognised authority, professional speech vocation peaks, institutional or analytical leadership confirmation arrives.",
+          "intensity": "Very high",
+          "intensity_bar_width": 95,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "Friend of Mercury and 7L. Marriage and partnership often crystallise alongside the career peak, refined collaboration with senior figures.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Shani (Saturn)",
+          "duration": "19 years",
+          "themes": "Lord of the sign Makara. The dispositor of Mercury here, and the chart's central planet for the rest of the working life. Career stabilises into long-horizon authority, institutional recognition, late-career consolidation.",
+          "intensity": "Very good",
+          "intensity_bar_width": 88,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "Friend of Mercury and 5L. Public visibility for the analytical work, dharmic recognition through teaching or advisory authority.",
+          "intensity": "Good",
+          "intensity_bar_width": 78,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +559,140 @@
       "heading": "Gemstones for Mercury in 10th house Mesh Lagna",
       "intro_html": "<p>Emerald is the primary recommendation here because the friendly Saturnian sign and the strongest kendra together support the gemstone protocol with confidence.</p>",
       "cards": [
-        { "name": "Panna (Emerald)", "role": "primary", "sub": "Budha-strengthening stone for friendly-sign Mercury", "icon_variant": "emerald", "image_slug": "emerald", "items": [ { "k": "Metal", "v": "Gold or silver" }, { "k": "Finger", "v": "Small finger, right hand" }, { "k": "Day to wear", "v": "Wednesday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Green Tourmaline (alt)", "role": "secondary", "sub": "Accessible Mercury alternative", "icon_variant": "emerald", "image_slug": "emerald", "items": [ { "k": "Metal", "v": "Gold or silver" }, { "k": "Finger", "v": "Small finger" }, { "k": "Day to wear", "v": "Wednesday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Panna", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Panna (Emerald)",
+          "role": "primary",
+          "sub": "Budha-strengthening stone for friendly-sign Mercury",
+          "icon_variant": "emerald",
+          "image_slug": "emerald",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold or silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Wednesday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Green Tourmaline (alt)",
+          "role": "secondary",
+          "sub": "Accessible Mercury alternative",
+          "icon_variant": "emerald",
+          "image_slug": "emerald",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold or silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Wednesday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Panna",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Emerald in friendly Saturnian sign is a clean recommendation, but always consult a qualified Jyotishi before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Mercury in 10th house",
       "intro_html": "<p>The Budha-aligned rudraksha is the Char Mukhi (Four Mukhi), the bead directly ruled by Mercury and Brahma.</p>",
       "beads": [
-        { "mukhi": 4, "name": "Char Mukhi Rudraksha", "sub": "Ruled by Budha and Brahma", "benefit": "The classical Mercury rudraksha and the safest daily-wear bead for any Budha strengthening protocol. Supports the disciplined-speech vocation, amplifies the analytical career signature, and is specifically recommended for natives in administration, law, journalism, or any precision-intensive professional field." },
-        { "mukhi": 7, "name": "Saat Mukhi Rudraksha", "sub": "Ruled by Saturn, the dispositor of Mercury here", "benefit": "The Saturn rudraksha and the secondary support for this placement because the dispositor of Mercury here is Shani. Wearing the Saat Mukhi alongside the Char Mukhi compounds the placement's natural strength by honouring both planet and sign-lord, and is specifically recommended for natives in long-horizon institutional careers." }
+        {
+          "mukhi": 4,
+          "name": "Char Mukhi Rudraksha",
+          "sub": "Ruled by Budha and Brahma",
+          "benefit": "The classical Mercury rudraksha and the safest daily-wear bead for any Budha strengthening protocol. Supports the disciplined-speech vocation, amplifies the analytical career signature, and is specifically recommended for natives in administration, law, journalism, or any precision-intensive professional field."
+        },
+        {
+          "mukhi": 7,
+          "name": "Saat Mukhi Rudraksha",
+          "sub": "Ruled by Saturn, the dispositor of Mercury here",
+          "benefit": "The Saturn rudraksha and the secondary support for this placement because the dispositor of Mercury here is Shani. Wearing the Saat Mukhi alongside the Char Mukhi compounds the placement's natural strength by honouring both planet and sign-lord, and is specifically recommended for natives in long-horizon institutional careers."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Budha Yantra for the friendly Mercury", "yantra": { "name": "Budha Yantra", "sanskrit": "बुध यन्त्र", "description": "The Budha Yantra is the geometric form of the Mercury channel. For Mercury at the Mesh career zenith install it on the north wall of the office or work desk, the direction classically assigned to learning and analysis. Wednesday at sunrise in Budha hora is the installation window, and the yantra should be consecrated with Saraswati Vandana recitation and a green dub grass offering.", "direction": "North wall (office or work desk)", "install_day": "Wednesday sunrise, Budha hora preferred", "material": "Bronze or copper (gold acceptable)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Budha at the Mesh zenith", "stotra": { "eyebrow": "Saraswati Vandana", "title": "Shri Saraswati Vandana", "sub": "Daily invocation of Saraswati the goddess of speech and learning", "verse": "Saraswati namastubhyam varade kamarupini<br>Vidyarambham karishyami siddhir bhavatu me sada<br>Padma patra vishala akshi padma kesara varnini<br>Nityam padma alaya devi sa mam patu saraswati<br>Ya devi sarva bhuteshu vidya rupena samsthita<br>Namastasyai namastasyai namastasyai namo namah", "translation": "Salutations to you, O Saraswati, granter of boons, taker of desired forms. I begin my study, may success always be mine. With eyes wide as lotus petals, complexion of lotus filaments, eternally dwelling in the lotus, may that goddess Saraswati protect me. To the goddess who abides in all beings as the form of learning, salutations to her, salutations to her, salutations to her again and again. The Saraswati Vandana is the daily invocation of the learning deity and is the perfect recitation for a chart where Mercury sits at the career zenith and the verbal-analytical channel needs daily blessing.", "url": "https://stotra.vastucart.in/stotra/saraswati-vandana" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Budha Yantra for the friendly Mercury",
+      "yantra": {
+        "name": "Budha Yantra",
+        "sanskrit": "बुध यन्त्र",
+        "description": "The Budha Yantra is the geometric form of the Mercury channel. For Mercury at the Mesh career zenith install it on the north wall of the office or work desk, the direction classically assigned to learning and analysis. Wednesday at sunrise in Budha hora is the installation window, and the yantra should be consecrated with Saraswati Vandana recitation and a green dub grass offering.",
+        "direction": "North wall (office or work desk)",
+        "install_day": "Wednesday sunrise, Budha hora preferred",
+        "material": "Bronze or copper (gold acceptable)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Budha at the Mesh zenith",
+      "stotra": {
+        "eyebrow": "Saraswati Vandana",
+        "title": "Shri Saraswati Vandana",
+        "sub": "Daily invocation of Saraswati the goddess of speech and learning",
+        "verse": "Saraswati namastubhyam varade kamarupini<br>Vidyarambham karishyami siddhir bhavatu me sada<br>Padma patra vishala akshi padma kesara varnini<br>Nityam padma alaya devi sa mam patu saraswati<br>Ya devi sarva bhuteshu vidya rupena samsthita<br>Namastasyai namastasyai namastasyai namo namah",
+        "translation": "Salutations to you, O Saraswati, granter of boons, taker of desired forms. I begin my study, may success always be mine. With eyes wide as lotus petals, complexion of lotus filaments, eternally dwelling in the lotus, may that goddess Saraswati protect me. To the goddess who abides in all beings as the form of learning, salutations to her, salutations to her, salutations to her again and again. The Saraswati Vandana is the daily invocation of the learning deity and is the perfect recitation for a chart where Mercury sits at the career zenith and the verbal-analytical channel needs daily blessing.",
+        "url": "https://stotra.vastucart.in/stotra/saraswati-vandana"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +700,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your tenth house Mercury and dual lordship", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Education muhurta", "sub": "Auspicious dates for examinations and study commitments", "url": "https://muhurta.vastucart.in/education-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Business muhurta", "sub": "Auspicious dates for analytical or career launches", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Saraswati Vandana", "sub": "Daily learning deity invocation", "url": "https://stotra.vastucart.in/stotra/saraswati-vandana", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Saraswati Stotram", "sub": "Classical Saraswati hymn", "url": "https://stotra.vastucart.in/stotra/saraswati-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Saraswati Kavacham", "sub": "Protective armour stotra for Saraswati", "url": "https://stotra.vastucart.in/stotra/saraswati-kavacham", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Budha Stotram", "sub": "Classical Mercury hymn", "url": "https://stotra.vastucart.in/stotra/budha-stotram", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Vishnu Sahasranama", "sub": "Thousand names of Vishnu, Mercury patron deity", "url": "https://stotra.vastucart.in/stotra/vishnu-sahasranama", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Emerald and panna source", "sub": "Certified Mercury gemstone", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Budha yantra store", "sub": "Bronze Budha yantra for the office wall", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Career analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your tenth house Mercury and dual lordship",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Education muhurta",
+            "sub": "Auspicious dates for examinations and study commitments",
+            "url": "https://muhurta.vastucart.in/education-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Business muhurta",
+            "sub": "Auspicious dates for analytical or career launches",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Saraswati Vandana",
+            "sub": "Daily learning deity invocation",
+            "url": "https://stotra.vastucart.in/stotra/saraswati-vandana",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Saraswati Stotram",
+            "sub": "Classical Saraswati hymn",
+            "url": "https://stotra.vastucart.in/stotra/saraswati-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Saraswati Kavacham",
+            "sub": "Protective armour stotra for Saraswati",
+            "url": "https://stotra.vastucart.in/stotra/saraswati-kavacham",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Budha Stotram",
+            "sub": "Classical Mercury hymn",
+            "url": "https://stotra.vastucart.in/stotra/budha-stotram",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Vishnu Sahasranama",
+            "sub": "Thousand names of Vishnu, Mercury patron deity",
+            "url": "https://stotra.vastucart.in/stotra/vishnu-sahasranama",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Emerald and panna source",
+            "sub": "Certified Mercury gemstone",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Budha yantra store",
+            "sub": "Bronze Budha yantra for the office wall",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Career analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +800,130 @@
         "title": "Is your Karma Bhava Mercury carrying the disciplined-speech signature?",
         "subtitle": "Get a full personalised analysis of your tenth house Budha, the dual lordship career timing, and the Saturnian discipline pattern.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Saraswati Vandana", "url": "https://stotra.vastucart.in/stotra/saraswati-vandana", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Saraswati Vandana",
+            "url": "https://stotra.vastucart.in/stotra/saraswati-vandana",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Mercury in 10th house, Mesh Lagna",
       "items": [
-        { "q": "Is Mercury in the 10th house good for Mesh Lagna?", "a": "Yes, and structurally it is one of the strongest professional Mercury placements in the Aries ascendant catalogue. Two structural strengths converge: the Saturnian Makara sign is friendly to Mercury through the Mercury-Saturn classical friendship, and Mercury is the 3L plus 6L for Mesh, so placing this dual-role planet in the strongest kendra wires both the parakrama (3L) and the service-and-discipline (6L) signatures into the career angle. The result is a native whose professional identity is built around verbal output and disciplined service simultaneously, producing journalists, lawyers, civil servants, analysts, and academics whose work compounds across decades." },
-        { "q": "Why is Mercury comfortable in Saturnian Makara?", "a": "Because Mercury and Saturn share a classical friendship rooted in their common orientation toward structure, system, accuracy, and long-horizon work. Both planets value verification over enthusiasm, both respect routine over flash, and both reward sustained effort over momentary brilliance. When Mercury occupies a Saturn sign, the two operating systems reinforce each other rather than creating friction. The friendly sign therefore gives the placement comfortable functional output even though Makara is not Mercury's own sign or exaltation, and the combination produces a native whose intelligence runs on Saturnian discipline without internal conflict." },
-        { "q": "How does the 3L plus 6L in 10H shape the career?", "a": "It places two specific life domains directly into the career angle. The 3L brings parakrama, communication, courage, and self-effort. The 6L brings service, routine, daily discipline, and willingness to engage with conflict. The two compound at the career zenith, producing a native whose professional identity is built around both verbal output and disciplined service simultaneously. They are the journalists who file every day and never miss deadlines, the lawyers who do the discovery work others find tedious, and the analysts whose reports peers trust because the methodology is always visible. The two sides do not compete, they reinforce." },
-        { "q": "Does Mercury in 10th house produce a speech vocation?", "a": "Yes, almost without exception in clinical reports for this placement. The Mercury karakatvas of intellect and speech combine with the 10th house career signature and the dual 3L plus 6L lordship to produce a native whose professional life centres on the disciplined transmission of ideas. Career often gravitates toward fields where speech is the primary instrument: law, journalism, broadcasting, teaching, administration, advisory work, and any profession where the native's verbal precision becomes a competitive advantage. The Saturnian sign adds the slow-ripening pattern, with the vocation typically crystallising into recognised authority by the late thirties." },
-        { "q": "Which gemstone should Mesh Lagna wear for Mercury in 10th?", "a": "Emerald (Panna) is the primary gemstone and is recommended with confidence here because the friendly Saturnian sign and the strongest kendra together support the gemstone protocol cleanly. Wear a natural Colombian or Zambian emerald of minimum five ratti set in gold or silver on the small finger of the right hand on a Wednesday at sunrise after Budha mantra recitation. Green tourmaline is the accessible substitute when emerald cost is prohibitive. Always consult a practising Jyotishi before permanent wearing because Mercury can interact strongly with other planetary placements in the chart." }
+        {
+          "q": "Is Mercury in the 10th house good for Mesh Lagna?",
+          "a": "Yes, and structurally it is one of the strongest professional Mercury placements in the Aries ascendant catalogue. Two structural strengths converge: the Saturnian Makara sign is friendly to Mercury through the Mercury-Saturn classical friendship, and Mercury is the 3L plus 6L for Mesh, so placing this dual-role planet in the strongest kendra wires both the parakrama (3L) and the service-and-discipline (6L) signatures into the career angle. The result is a native whose professional identity is built around verbal output and disciplined service simultaneously, producing journalists, lawyers, civil servants, analysts, and academics whose work compounds across decades."
+        },
+        {
+          "q": "Why is Mercury comfortable in Saturnian Makara?",
+          "a": "Because Mercury and Saturn share a classical friendship rooted in their common orientation toward structure, system, accuracy, and long-horizon work. Both planets value verification over enthusiasm, both respect routine over flash, and both reward sustained effort over momentary brilliance. When Mercury occupies a Saturn sign, the two operating systems reinforce each other rather than creating friction. The friendly sign therefore gives the placement comfortable functional output even though Makara is not Mercury's own sign or exaltation, and the combination produces a native whose intelligence runs on Saturnian discipline without internal conflict."
+        },
+        {
+          "q": "How does the 3L plus 6L in 10H shape the career?",
+          "a": "It places two specific life domains directly into the career angle. The 3L brings parakrama, communication, courage, and self-effort. The 6L brings service, routine, daily discipline, and willingness to engage with conflict. The two compound at the career zenith, producing a native whose professional identity is built around both verbal output and disciplined service simultaneously. They are the journalists who file every day and never miss deadlines, the lawyers who do the discovery work others find tedious, and the analysts whose reports peers trust because the methodology is always visible. The two sides do not compete, they reinforce."
+        },
+        {
+          "q": "Does Mercury in 10th house produce a speech vocation?",
+          "a": "Yes, almost without exception in clinical reports for this placement. The Mercury karakatvas of intellect and speech combine with the 10th house career signature and the dual 3L plus 6L lordship to produce a native whose professional life centres on the disciplined transmission of ideas. Career often gravitates toward fields where speech is the primary instrument: law, journalism, broadcasting, teaching, administration, advisory work, and any profession where the native's verbal precision becomes a competitive advantage. The Saturnian sign adds the slow-ripening pattern, with the vocation typically crystallising into recognised authority by the late thirties."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Mercury in 10th?",
+          "a": "Emerald (Panna) is the primary gemstone and is recommended with confidence here because the friendly Saturnian sign and the strongest kendra together support the gemstone protocol cleanly. Wear a natural Colombian or Zambian emerald of minimum five ratti set in gold or silver on the small finger of the right hand on a Wednesday at sunrise after Budha mantra recitation. Green tourmaline is the accessible substitute when emerald cost is prohibitive. Always consult a practising Jyotishi before permanent wearing because Mercury can interact strongly with other planetary placements in the chart."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Career reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Budha at the lagna, digbala in enemy sign", "sub": "Mercury digbala in Mesha, the body angle parallel", "href": "/jyotish/graha-in-bhava/mercury-1st-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Budha in the sixth, exalted swakshetra", "sub": "Mercury at peak dignity in own sign in the Vipareet house", "href": "/jyotish/graha-in-bhava/mercury-6th-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Saturn at the zenith, Sasa Yoga", "sub": "Shani own sign in the same career angle, the Saturnian authority parallel", "href": "/jyotish/graha-in-bhava/saturn-10th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Budha at the lagna, digbala in enemy sign",
+          "sub": "Mercury digbala in Mesha, the body angle parallel",
+          "href": "/jyotish/graha-in-bhava/mercury-1st-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Budha in the sixth, exalted swakshetra",
+          "sub": "Mercury at peak dignity in own sign in the Vipareet house",
+          "href": "/jyotish/graha-in-bhava/mercury-6th-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Saturn at the zenith, Sasa Yoga",
+          "sub": "Shani own sign in the same career angle, the Saturnian authority parallel",
+          "href": "/jyotish/graha-in-bhava/saturn-10th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

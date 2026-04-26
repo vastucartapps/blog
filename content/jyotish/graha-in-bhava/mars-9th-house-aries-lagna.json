@@ -6,40 +6,132 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 11,
   "status": "ready",
   "published_at": "2026-04-13T00:00:00.000Z",
   "updated_at": "2026-04-13T00:00:00.000Z",
-  "tags": ["Mars in 9th house", "Mangal", "Mesh Lagna", "Aries ascendant", "Dharma Bhava", "Dhanu rashi", "lagna lord in 9th", "trikona Mars", "Mangal mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Mars in 9th house",
+    "Mangal",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Dharma Bhava",
+    "Dhanu rashi",
+    "lagna lord in 9th",
+    "trikona Mars",
+    "Mangal mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "mangal",
   "house_number": 9,
   "lagna_id": "mesha",
   "meta": {
     "title": "Mars in 9th House Mesh Lagna, Dharma Bhava Courage",
-    "description": "Mars in 9th house Mesh Lagna, Mangal in Dharma Bhava and Dhanu. Father, dharma, travel and remedies by Pt. Raghav Sharma.",
+    "description": "Mars in 9th house Mesh Lagna, Mangal in Dharma Bhava and Dhanu. Father, dharma, travel and remedies by VastuCart Editorial.",
     "focus_keyword": "Mars in 9th house",
-    "secondary_keywords": ["Mesh Lagna", "Dharma Bhava", "Mars Dhanu", "Aries ascendant", "Mangal"],
-    "lsi_keywords": ["dharma bhava", "mangal dhanu", "mangal mahadasha", "lagna lord ninth", "father karaka mars", "foreign travel mars", "kshatriya dharma", "trikona mars", "red coral moonga", "pilgrimage signature"],
-    "keywords": ["Mars in 9th house Mesh Lagna", "Mangal in Dharma Bhava", "Mesh lagna 9th Mars", "Aries ascendant dharma", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dharma Bhava",
+      "Mars Dhanu",
+      "Aries ascendant",
+      "Mangal"
+    ],
+    "lsi_keywords": [
+      "dharma bhava",
+      "mangal dhanu",
+      "mangal mahadasha",
+      "lagna lord ninth",
+      "father karaka mars",
+      "foreign travel mars",
+      "kshatriya dharma",
+      "trikona mars",
+      "red coral moonga",
+      "pilgrimage signature"
+    ],
+    "keywords": [
+      "Mars in 9th house Mesh Lagna",
+      "Mangal in Dharma Bhava",
+      "Mesh lagna 9th Mars",
+      "Aries ascendant dharma",
+      "Vedic astrology"
+    ],
     "og_title": "Mars in the 9th House of Mesh Lagna, Kshatriya Dharma",
     "og_description": "Mangal in Dharma Bhava for Aries ascendant, lagna lord in Dhanu, the trikona courage study by a practising Jyotishi.",
     "og_image": "/og/mars-9th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-9th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Mars in 9th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-9th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Mars in 9th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-9th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Mars in 9th house",
-    "secondary_keywords": ["Mesh Lagna", "Dharma Bhava", "Mars Dhanu", "Aries ascendant", "Mangal"],
-    "lsi_terms": ["dharma bhava", "mangal dhanu", "mangal mahadasha", "lagna lord ninth", "father karaka mars", "foreign travel mars", "kshatriya dharma", "trikona mars", "red coral moonga", "pilgrimage signature"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dharma Bhava",
+      "Mars Dhanu",
+      "Aries ascendant",
+      "Mangal"
+    ],
+    "lsi_terms": [
+      "dharma bhava",
+      "mangal dhanu",
+      "mangal mahadasha",
+      "lagna lord ninth",
+      "father karaka mars",
+      "foreign travel mars",
+      "kshatriya dharma",
+      "trikona mars",
+      "red coral moonga",
+      "pilgrimage signature"
+    ],
     "seed_queries": [
-      "mars in 9th house aries lagna", "mangal in 9th house mesh lagna", "mars in dhanu 9th aries", "mangal in dharma bhava mesh", "mars in 9th house effects aries", "mars in sagittarius mesh lagna", "mars in 9th house father aries", "mars in 9th house foreign aries", "mars in 9th house dharma aries", "mars in 9th house career aries", "mars in 9th house remedies", "red coral for mars 9th aries", "moonga for mesh lagna 9th", "is mars good in 9th house aries", "mars 9th house aries prediction", "mars in ninth house mesh lagna", "mars 9th house mesh ascendant", "mangal in mesh lagna 9th", "mars dhanu lagna mesh chart", "mars 9th house mesh lagna dasha", "mangal mesh lagna father", "mars in sagittarius aries ascendant", "is mars manglik in 9th house", "mars 9th house aries travel", "mars 9th house aries pilgrimage", "mars 9th house aries teacher", "lagna lord ninth aries", "trikona mars aries lagna", "kshatriya dharma mesh", "mangal in jupiter sign aries"
+      "mars in 9th house aries lagna",
+      "mangal in 9th house mesh lagna",
+      "mars in dhanu 9th aries",
+      "mangal in dharma bhava mesh",
+      "mars in 9th house effects aries",
+      "mars in sagittarius mesh lagna",
+      "mars in 9th house father aries",
+      "mars in 9th house foreign aries",
+      "mars in 9th house dharma aries",
+      "mars in 9th house career aries",
+      "mars in 9th house remedies",
+      "red coral for mars 9th aries",
+      "moonga for mesh lagna 9th",
+      "is mars good in 9th house aries",
+      "mars 9th house aries prediction",
+      "mars in ninth house mesh lagna",
+      "mars 9th house mesh ascendant",
+      "mangal in mesh lagna 9th",
+      "mars dhanu lagna mesh chart",
+      "mars 9th house mesh lagna dasha",
+      "mangal mesh lagna father",
+      "mars in sagittarius aries ascendant",
+      "is mars manglik in 9th house",
+      "mars 9th house aries travel",
+      "mars 9th house aries pilgrimage",
+      "mars 9th house aries teacher",
+      "lagna lord ninth aries",
+      "trikona mars aries lagna",
+      "kshatriya dharma mesh",
+      "mangal in jupiter sign aries"
     ],
     "questions": [
       "Is Mars in the 9th house good for Mesh Lagna?",
@@ -49,36 +141,131 @@
       "Which gemstone should Mesh Lagna wear for Mars in 9th?"
     ],
     "lingual_variations": {
-      "mangal": ["mangal", "mars", "kuja", "bhauma", "angaraka", "mangala"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "mangal": [
+        "mangal",
+        "mars",
+        "kuja",
+        "bhauma",
+        "angaraka",
+        "mangala"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Trikona Mars versus Upachaya Mars differential", "8L in 9H father signature interpretation", "Kshatriya dharma framing for modern natives"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Trikona Mars versus Upachaya Mars differential",
+      "8L in 9H father signature interpretation",
+      "Kshatriya dharma framing for modern natives"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "mars-9th-house-aries-lagna-hero.webp", "filename_og": "mars-9th-house-aries-lagna-og.png", "alt": "Saffron Mangal blazing in the ninth house of a Mesh Lagna kundali", "caption": "Mangal sits in Dharma Bhava for Aries ascendant natives, Mars in Jupiter's friendly sign Dhanu producing the Kshatriya dharma signature.", "width": 1200, "height": 630, "format": "webp", "style": "warm dharmic editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the ninth house glowing warm saffron, a stylised Mars symbol with a raised banner motif, traditional Vedic palette of saffron, gold, crimson, refined manuscript style, no people.", "negative_prompt": "photorealistic mars, watermark, text, neon, cartoon" },
-    { "filename": "mars-9th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Mars placed in the ninth house of Mesh", "caption": "The North Indian birth chart with Mangal marked in the ninth house Dharma Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the right-lower ninth house highlighted in saffron with a Mars symbol marked Ma, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "mars-9th-house-aries-lagna-red-coral.webp", "alt": "Natural red coral in gold ring, the gemstone for Mars 9th house Mesh Lagna", "caption": "Red coral suits a trikona Mars because the house of dharma supports direct amplification of the warrior signature.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural Italian red coral set in a gold ring, deep orange-red colour, oval cabochon cut, on dark saffron velvet with warm lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "mars-9th-house-aries-lagna-hanuman-chalisa.webp", "alt": "Hanuman Chalisa Sanskrit verse on parchment with dharma banner motif", "caption": "Hanuman Chalisa recitation at dusk anchors the Kshatriya dharma channel that a trikona Mars expresses through.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Hanuman Chalisa, hand-painted on aged parchment with saffron leaf borders, faint dharma banner motif in the background, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "mars-9th-house-aries-lagna-hero.webp",
+      "filename_og": "mars-9th-house-aries-lagna-og.png",
+      "alt": "Saffron Mangal blazing in the ninth house of a Mesh Lagna kundali",
+      "caption": "Mangal sits in Dharma Bhava for Aries ascendant natives, Mars in Jupiter's friendly sign Dhanu producing the Kshatriya dharma signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "warm dharmic editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the ninth house glowing warm saffron, a stylised Mars symbol with a raised banner motif, traditional Vedic palette of saffron, gold, crimson, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic mars, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "mars-9th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Mars placed in the ninth house of Mesh",
+      "caption": "The North Indian birth chart with Mangal marked in the ninth house Dharma Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the right-lower ninth house highlighted in saffron with a Mars symbol marked Ma, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "mars-9th-house-aries-lagna-red-coral.webp",
+      "alt": "Natural red coral in gold ring, the gemstone for Mars 9th house Mesh Lagna",
+      "caption": "Red coral suits a trikona Mars because the house of dharma supports direct amplification of the warrior signature.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural Italian red coral set in a gold ring, deep orange-red colour, oval cabochon cut, on dark saffron velvet with warm lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "mars-9th-house-aries-lagna-hanuman-chalisa.webp",
+      "alt": "Hanuman Chalisa Sanskrit verse on parchment with dharma banner motif",
+      "caption": "Hanuman Chalisa recitation at dusk anchors the Kshatriya dharma channel that a trikona Mars expresses through.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Hanuman Chalisa, hand-painted on aged parchment with saffron leaf borders, faint dharma banner motif in the background, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Mars in the 9th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Mangal in Dharma Bhava for Aries ascendant natives. The lagna lord in Jupiter's friendly sign Dhanu, the classical Kshatriya dharma placement, the foreign travel and father signatures, and the trikona blessing that distinguishes it from the three Upachaya Mars placements.",
     "meta": [
-      { "icon": "clock", "value": "11 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "11 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Mangal", "tone": "teal" },
-      { "label": "Dharma Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Dhanu rashi" },
-      { "label": "Lagna lord in trikona" },
-      { "label": "Not Manglik" }
+      {
+        "label": "Mangal",
+        "tone": "teal"
+      },
+      {
+        "label": "Dharma Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Dhanu rashi"
+      },
+      {
+        "label": "Lagna lord in trikona"
+      },
+      {
+        "label": "Not Manglik"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +273,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Mangal", "sub": "Mars", "icon": "mars" },
-        { "label": "Bhava", "value": "9th", "sub": "Dharma Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Strong", "sub": "Friendly sign trikona", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Mangal",
+          "sub": "Mars",
+          "icon": "mars"
+        },
+        {
+          "label": "Bhava",
+          "value": "9th",
+          "sub": "Dharma Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Strong",
+          "sub": "Friendly sign trikona",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +312,102 @@
       "heading": "When the warrior planet meets the house of dharma",
       "html": "<p>The ninth house is Dharma Bhava, the trine of higher wisdom, teachers, guru, father, fortune (bhagya), long journeys, foreign travel, pilgrimage, publishing, higher learning, and the larger philosophical framework the native lives inside. Classical texts treat it as the second trikona and one of the three most beneficial houses in any chart after the lagna itself. A planet in the ninth house is said to carry the blessing of the chart's dharmic current, and for malefics specifically, the trikona softens the raw malefic nature and channels it toward dharmic effort rather than destructive action. This is a very different mechanism from the Upachaya growth curve that supports Mars in the 3rd, 6th, and 11th. Trikonas do not grow the malefic through sustained effort, they refine it through the chart's underlying blessing.</p><p>Dhanu rashi adds the second layer. Guru rules Dhanu, Guru is the classical friend of Mars, and the sign itself is a fiery mutable sign that matches the Mars temperament while adding philosophical depth. Natives with this combination are not just courageous, they are courageous in service of something larger than themselves. They fight for principles rather than for personal gain, they travel for training or pilgrimage rather than for leisure, and they respond to questions about meaning with unusual seriousness for an Aries ascendant. The shadow layer worth naming is the 8th lordship complication. Mangal is the 8L for Mesh Lagna, and placing the 8L in the 9H is a classical signature that practitioners always cross-check against the father's chart and the condition of Guru elsewhere. The warning is not absolute, and in many cases the father lives a long and healthy life, but the practitioner should verify the condition rather than assume it. A well-placed Guru elsewhere in the chart typically neutralises the concern entirely.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "Mars in Dharma Bhava does not take the native out of the battlefield, it puts a purpose on the battlefield. The chart is asking the native to fight for something worthy of the courage it gave them." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "Mars in Dharma Bhava does not take the native out of the battlefield, it puts a purpose on the battlefield. The chart is asking the native to fight for something worthy of the courage it gave them."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "mars", "title": "Mangal, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "mars",
+          "title": "Mangal, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Courage, energy, sibling, land" },
-            { "k": "Own signs", "v": "Mesha (Aries), Vrishchika (Scorpio)" },
-            { "k": "Uchha (exaltation)", "v": "Makara at 28 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Karka at 28 degrees", "tone": "bad" },
-            { "k": "Friends", "v": "Sun, Moon, Jupiter" },
-            { "k": "Sign-friendly", "v": "Dhanu (Jupiter sign)", "tone": "good" },
-            { "k": "Element", "v": "Fire (Agni Tattva)" },
-            { "k": "Role for Mesh", "v": "Lagna lord and 8th lord" }
+            {
+              "k": "Karakatva",
+              "v": "Courage, energy, sibling, land"
+            },
+            {
+              "k": "Own signs",
+              "v": "Mesha (Aries), Vrishchika (Scorpio)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Makara at 28 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Karka at 28 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Moon, Jupiter"
+            },
+            {
+              "k": "Sign-friendly",
+              "v": "Dhanu (Jupiter sign)",
+              "tone": "good"
+            },
+            {
+              "k": "Element",
+              "v": "Fire (Agni Tattva)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "Lagna lord and 8th lord"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Dharma Bhava, house profile", "subtitle": "9th house significance",
+          "icon": "triangle-house",
+          "title": "Dharma Bhava, house profile",
+          "subtitle": "9th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Dharma, Bhagya Bhava" },
-            { "k": "Rules over", "v": "Dharma, father, teachers, travel" },
-            { "k": "Natural sign", "v": "Dhanu (Sagittarius) for Mesh" },
-            { "k": "Natural ruler", "v": "Guru (Jupiter)" },
-            { "k": "Body part", "v": "Thighs, hips" },
-            { "k": "Trikona house", "v": "Yes, the third trine", "tone": "good" },
-            { "k": "Vedic quality", "v": "Lagna lord in trikona" },
-            { "k": "Manglik status", "v": "Not a Manglik position" }
+            {
+              "k": "Sanskrit name",
+              "v": "Dharma, Bhagya Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Dharma, father, teachers, travel"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Dhanu (Sagittarius) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Guru (Jupiter)"
+            },
+            {
+              "k": "Body part",
+              "v": "Thighs, hips"
+            },
+            {
+              "k": "Trikona house",
+              "v": "Yes, the third trine",
+              "tone": "good"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Lagna lord in trikona"
+            },
+            {
+              "k": "Manglik status",
+              "v": "Not a Manglik position"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +449,48 @@
       "heading": "Where the Kshatriya dharma channel plays out",
       "html": "<p>Career paths cluster around fields that combine action with principled purpose. Military officer careers, and specifically commissioned ranks involving strategic command rather than pure infantry work, are the single strongest fit because the combination literally places the courage planet in the dharma house of the lagna lord itself. Many natives with this placement rise to senior ranks in defence services or strategic advisory roles that support defence decision-making at the policy level. Defence journalism, conflict analysis, and international relations careers involving defence or diplomacy work well for the same reason, the native's instinct to engage seriously with hard questions about power, principle, and national interest suits these fields naturally.</p><p>Dharma teaching, martial arts instruction with a spiritual dimension, and traditional schools that combine physical training with philosophical depth (karate, kalaripayattu, kung fu, Iaido, archery) draw these natives because the combination recognises its own in these traditions. Foreign service, international relations, and careers involving long postings abroad suit because the ninth house rules long journeys and Mars gives the courage to embrace unfamiliar environments. Higher education leadership, particularly as professors of history, political science, philosophy, or any field that demands moral clarity as well as analytical skill, channels the placement productively. Religious and philosophical publishing, book writing about dharma or strategic thought, and documentary journalism in conflict regions all fit. Mangal mahadasha is typically when the defining assignment or posting arrives, and it almost always involves travel, principle, or both. Natives who lean into the international dimension of their work see the chart deliver far more than those who try to build a purely local career.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Map your Dharma Bhava strength", "subtitle": "Generate your free Kundali to see the lagna lord in trikona.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Mars marked in the ninth house of Mesh", "planet": "Mangal", "house": 9, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Mangal in Dharma Bhava, marked in warm saffron" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Right-lower diamond is the 9th house of dharma" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Map your Dharma Bhava strength",
+        "subtitle": "Generate your free Kundali to see the lagna lord in trikona.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Mars marked in the ninth house of Mesh",
+      "planet": "Mangal",
+      "house": 9,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Mangal in Dharma Bhava, marked in warm saffron"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Right-lower diamond is the 9th house of dharma"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The father signature",
@@ -194,13 +503,45 @@
       "heading": "When Mars in 9th delivers its dharma chapter",
       "intro_html": "<p>Mangal mahadasha is the defining window for this placement, and Guru mahadasha is especially potent because Guru is the sign lord and friend of the occupying Mars.</p>",
       "rows": [
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "The Dharma Bhava activation window. Foreign postings, senior defence assignments, father-linked events, principled career leaps.", "intensity": "Very high", "intensity_bar_width": 95, "intensity_bar_color": "#c94444", "highlight": true },
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "Sign lord of Dhanu, friend of Mars, the natural lord of the ninth house. The longest supportive window, dharma expansion, teaching, recognition through wisdom.", "intensity": "Very good", "intensity_bar_width": 92, "intensity_bar_color": "#e8840a" },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Fifth lord and Mars friend. Authority peaks, creative leadership, father-linked recognition moments.", "intensity": "High", "intensity_bar_width": 80, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Chandra (Moon)", "duration": "10 years", "themes": "Friend of Mars. Emotional depth to the dharmic work, public visibility for principled causes, home rhythm support.", "intensity": "Good", "intensity_bar_width": 72, "intensity_bar_color": "#7aa8cc" }
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "The Dharma Bhava activation window. Foreign postings, senior defence assignments, father-linked events, principled career leaps.",
+          "intensity": "Very high",
+          "intensity_bar_width": 95,
+          "intensity_bar_color": "#c94444",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "Sign lord of Dhanu, friend of Mars, the natural lord of the ninth house. The longest supportive window, dharma expansion, teaching, recognition through wisdom.",
+          "intensity": "Very good",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#e8840a"
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "Fifth lord and Mars friend. Authority peaks, creative leadership, father-linked recognition moments.",
+          "intensity": "High",
+          "intensity_bar_width": 80,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Chandra (Moon)",
+          "duration": "10 years",
+          "themes": "Friend of Mars. Emotional depth to the dharmic work, public visibility for principled causes, home rhythm support.",
+          "intensity": "Good",
+          "intensity_bar_width": 72,
+          "intensity_bar_color": "#7aa8cc"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +560,140 @@
       "heading": "Gemstones for Mars in 9th house Mesh Lagna",
       "intro_html": "<p>Red coral (Moonga) is the primary stone. Yellow sapphire is a strong secondary for honouring Guru, the sign lord of Dhanu.</p>",
       "cards": [
-        { "name": "Moonga (Red Coral)", "role": "primary", "sub": "Mangal-strengthening stone", "icon_variant": "coral", "image_slug": "red-coral", "items": [ { "k": "Metal", "v": "Gold (trikona preferred) or copper" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Tuesday morning" }, { "k": "Min weight", "v": "6 to 8 Ratti" } ] },
-        { "name": "Pukhraj (Yellow Sapphire)", "role": "secondary", "sub": "Honours Guru, the Dhanu sign lord", "icon_variant": "yellow-sapphire", "image_slug": "yellow-sapphire", "items": [ { "k": "Metal", "v": "Gold" }, { "k": "Finger", "v": "Index finger, right hand" }, { "k": "Day to wear", "v": "Thursday, sunrise" }, { "k": "Min weight", "v": "4 to 5 Ratti" } ] },
-        { "name": "Consult before wearing Moonga", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Moonga (Red Coral)",
+          "role": "primary",
+          "sub": "Mangal-strengthening stone",
+          "icon_variant": "coral",
+          "image_slug": "red-coral",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold (trikona preferred) or copper"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Tuesday morning"
+            },
+            {
+              "k": "Min weight",
+              "v": "6 to 8 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Pukhraj (Yellow Sapphire)",
+          "role": "secondary",
+          "sub": "Honours Guru, the Dhanu sign lord",
+          "icon_variant": "yellow-sapphire",
+          "image_slug": "yellow-sapphire",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Index finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Thursday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "4 to 5 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Moonga",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Always consult a qualified Jyotishi before wearing any gemstone, even a supported one. Chart review verifies the combination before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Mars in 9th house",
       "intro_html": "<p>The Mangal rudraksha is the Teen Mukhi, with the Panch Mukhi as the Guru-sign-lord complement for this specific placement.</p>",
       "beads": [
-        { "mukhi": 3, "name": "Teen Mukhi Rudraksha", "sub": "Ruled by Agni and Mangal", "benefit": "The direct Mars rudraksha. Amplifies the trikona blessing, stabilises the dharmic courage channel, and is the primary bead for any trikona Mars placement. Worn after Tuesday abhishek." },
-        { "mukhi": 5, "name": "Panch Mukhi Rudraksha", "sub": "Ruled by Guru, the Dhanu sign lord", "benefit": "The classical Jupiter bead that honours Guru as the sign lord of Dhanu. Adds benefic warmth to the warrior placement and complements the Teen Mukhi Mangal bead perfectly for this specific combination." }
+        {
+          "mukhi": 3,
+          "name": "Teen Mukhi Rudraksha",
+          "sub": "Ruled by Agni and Mangal",
+          "benefit": "The direct Mars rudraksha. Amplifies the trikona blessing, stabilises the dharmic courage channel, and is the primary bead for any trikona Mars placement. Worn after Tuesday abhishek."
+        },
+        {
+          "mukhi": 5,
+          "name": "Panch Mukhi Rudraksha",
+          "sub": "Ruled by Guru, the Dhanu sign lord",
+          "benefit": "The classical Jupiter bead that honours Guru as the sign lord of Dhanu. Adds benefic warmth to the warrior placement and complements the Teen Mukhi Mangal bead perfectly for this specific combination."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Mangal Yantra for the Dharma Bhava lagna lord", "yantra": { "name": "Mangal Yantra", "sanskrit": "मंगल यन्त्र", "description": "The Mangal Yantra is the geometric form of the warrior channel. For a trikona Mars, install it in the east wall of your home temple paired with a Guru Yantra on the adjacent north-east wall, so that the sign lord and the occupying planet are honoured together. Tuesday sunrise in Mangal hora is the ideal window.", "direction": "East wall (with Guru yantra on north-east)", "install_day": "Tuesday sunrise, Mangal hora", "material": "Copper (traditional) or gold (trikona preferred)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for the Dharma Bhava Mangal", "stotra": { "eyebrow": "Hanuman Chalisa", "title": "Shri Hanuman Chalisa", "sub": "Tulsidas's forty-verse hymn to Hanuman, the exemplar of dharmic courage", "verse": "Shri guru charan saroj raj, nij man mukur sudhari<br>Baranau raghubar bimal jasu, jo dayaku phal chari<br>Buddhiheen tanu janike, sumirau pavan kumar<br>Bal budhi bidya dehu mohi, harahu kalesa bikar", "translation": "Having cleansed the mirror of my mind with the dust of the lotus feet of the divine guru, I describe the pure glory of Raghunath, who grants the four fruits of life. Knowing my body to be without wisdom, I remember the son of the wind god, grant me strength, intelligence, and knowledge, and remove my afflictions and distortions. Hanuman is the classical exemplar of courage in service of dharma, and the Chalisa is the core daily recitation for any Mars in Dharma Bhava.", "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Mangal Yantra for the Dharma Bhava lagna lord",
+      "yantra": {
+        "name": "Mangal Yantra",
+        "sanskrit": "मंगल यन्त्र",
+        "description": "The Mangal Yantra is the geometric form of the warrior channel. For a trikona Mars, install it in the east wall of your home temple paired with a Guru Yantra on the adjacent north-east wall, so that the sign lord and the occupying planet are honoured together. Tuesday sunrise in Mangal hora is the ideal window.",
+        "direction": "East wall (with Guru yantra on north-east)",
+        "install_day": "Tuesday sunrise, Mangal hora",
+        "material": "Copper (traditional) or gold (trikona preferred)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for the Dharma Bhava Mangal",
+      "stotra": {
+        "eyebrow": "Hanuman Chalisa",
+        "title": "Shri Hanuman Chalisa",
+        "sub": "Tulsidas's forty-verse hymn to Hanuman, the exemplar of dharmic courage",
+        "verse": "Shri guru charan saroj raj, nij man mukur sudhari<br>Baranau raghubar bimal jasu, jo dayaku phal chari<br>Buddhiheen tanu janike, sumirau pavan kumar<br>Bal budhi bidya dehu mohi, harahu kalesa bikar",
+        "translation": "Having cleansed the mirror of my mind with the dust of the lotus feet of the divine guru, I describe the pure glory of Raghunath, who grants the four fruits of life. Knowing my body to be without wisdom, I remember the son of the wind god, grant me strength, intelligence, and knowledge, and remove my afflictions and distortions. Hanuman is the classical exemplar of courage in service of dharma, and the Chalisa is the core daily recitation for any Mars in Dharma Bhava.",
+        "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +701,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your ninth house Dharma Bhava", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Travel muhurta", "sub": "Auspicious dates for long journeys", "url": "https://muhurta.vastucart.in/travel-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Job joining muhurta", "sub": "Auspicious dates for new postings", "url": "https://muhurta.vastucart.in/job-joining-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Hanuman Chalisa", "sub": "Daily dharmic courage recitation", "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Mangal Kavacham", "sub": "Protective armour stotra for Mars", "url": "https://stotra.vastucart.in/stotra/mangal-kavacham", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Guru Stotram", "sub": "Honours Guru, the Dhanu sign lord", "url": "https://stotra.vastucart.in/stotra/guru-stotram", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Vishnu Sahasranama", "sub": "Thursday deity recitation for this placement", "url": "https://stotra.vastucart.in/stotra/vishnu-sahasranama", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Sundarkand full path", "sub": "Classical Tuesday Hanuman recitation", "url": "https://stotra.vastucart.in/stotra/sundarkand-full-path", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Teen Mukhi rudraksha source", "sub": "The Mangal rudraksha bead", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Mangal yantra store", "sub": "Copper Mangal yantra for Dharma Bhava", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "1-on-1 with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your ninth house Dharma Bhava",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Travel muhurta",
+            "sub": "Auspicious dates for long journeys",
+            "url": "https://muhurta.vastucart.in/travel-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Job joining muhurta",
+            "sub": "Auspicious dates for new postings",
+            "url": "https://muhurta.vastucart.in/job-joining-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Hanuman Chalisa",
+            "sub": "Daily dharmic courage recitation",
+            "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Mangal Kavacham",
+            "sub": "Protective armour stotra for Mars",
+            "url": "https://stotra.vastucart.in/stotra/mangal-kavacham",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Guru Stotram",
+            "sub": "Honours Guru, the Dhanu sign lord",
+            "url": "https://stotra.vastucart.in/stotra/guru-stotram",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Vishnu Sahasranama",
+            "sub": "Thursday deity recitation for this placement",
+            "url": "https://stotra.vastucart.in/stotra/vishnu-sahasranama",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Sundarkand full path",
+            "sub": "Classical Tuesday Hanuman recitation",
+            "url": "https://stotra.vastucart.in/stotra/sundarkand-full-path",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Teen Mukhi rudraksha source",
+            "sub": "The Mangal rudraksha bead",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Mangal yantra store",
+            "sub": "Copper Mangal yantra for Dharma Bhava",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "1-on-1 with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +801,130 @@
         "title": "Is your Dharma Bhava Mars carrying the Kshatriya signature?",
         "subtitle": "Get a full personalised analysis of your Mars placement, father chart verification, and travel timing.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Hanuman Chalisa", "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Hanuman Chalisa",
+            "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Mars in 9th house, Mesh Lagna",
       "items": [
-        { "q": "Is Mars in the 9th house good for Mesh Lagna?", "a": "Yes, and it is the only Mars placement in the Mesh cluster where the sign is actively friendly (Dhanu is Jupiter's sign, Jupiter is Mars's friend) and the house is a trikona carrying the chart's dharmic blessing. The combination produces a Kshatriya-style native whose courage is oriented toward principle and service rather than personal gain, and the career delivers best when the native embraces the dharmic framing rather than resisting it. The only caveat is the 8L-in-9H father-health signature that the practitioner should verify against Guru's placement elsewhere in the chart." },
-        { "q": "What does Mars in Dhanu mean for an Aries ascendant?", "a": "It means the native's courage runs through a philosophical and dharmic framework rather than through pure impulse. Dhanu is a fiery mutable sign ruled by Guru, and a Mars in Dhanu produces a warrior who fights for ideas as readily as for territory, who travels for training and purpose rather than leisure, and who carries an unusually serious orientation toward questions of meaning from early in life. Military officer careers, strategic advisory, dharma teaching, and international service all suit this combination." },
-        { "q": "How does Mars in 9th house affect father?", "a": "The father is typically commanding, physically capable, and often from a background where authority, service, or principled leadership was the family pattern. The relationship carries a competitive undertone during the teenage years but almost always resolves in adulthood. The practitioner should verify the 8L-in-9H angle against Guru's condition elsewhere in the chart, because a well-placed Jupiter neutralises the longevity concern while a weak Jupiter amplifies it. Never panic, never assume the worst, and always run the full diagnostic before drawing conclusions about father's health." },
-        { "q": "Is Mars in 9th house Manglik for Aries?", "a": "No. Classical Manglik Dosha applies when Mars occupies the 1st, 2nd, 4th, 7th, 8th, or 12th houses. The 9th is not on that list. Natives with this placement should never be told they carry Manglik Dosha simply because their Mars is prominent, and marriage timing is not affected by the standard Kuja Dosha rules for this specific combination." },
-        { "q": "Which gemstone should Mesh Lagna wear for Mars in 9th?", "a": "Red coral (Moonga) is the primary gemstone and can be worn with confidence because the friendly sign plus trikona house combination supports direct amplification cleanly. Wear a natural Italian or Mediterranean red coral of minimum six ratti set in gold (preferred for trikona Mars) or copper on the ring finger of the right hand on a Tuesday morning after Mangal mantra recitation. Yellow sapphire (Pukhraj) is a strong secondary stone that honours Guru as the sign lord. Always consult a practising Jyotishi before permanent wearing." }
+        {
+          "q": "Is Mars in the 9th house good for Mesh Lagna?",
+          "a": "Yes, and it is the only Mars placement in the Mesh cluster where the sign is actively friendly (Dhanu is Jupiter's sign, Jupiter is Mars's friend) and the house is a trikona carrying the chart's dharmic blessing. The combination produces a Kshatriya-style native whose courage is oriented toward principle and service rather than personal gain, and the career delivers best when the native embraces the dharmic framing rather than resisting it. The only caveat is the 8L-in-9H father-health signature that the practitioner should verify against Guru's placement elsewhere in the chart."
+        },
+        {
+          "q": "What does Mars in Dhanu mean for an Aries ascendant?",
+          "a": "It means the native's courage runs through a philosophical and dharmic framework rather than through pure impulse. Dhanu is a fiery mutable sign ruled by Guru, and a Mars in Dhanu produces a warrior who fights for ideas as readily as for territory, who travels for training and purpose rather than leisure, and who carries an unusually serious orientation toward questions of meaning from early in life. Military officer careers, strategic advisory, dharma teaching, and international service all suit this combination."
+        },
+        {
+          "q": "How does Mars in 9th house affect father?",
+          "a": "The father is typically commanding, physically capable, and often from a background where authority, service, or principled leadership was the family pattern. The relationship carries a competitive undertone during the teenage years but almost always resolves in adulthood. The practitioner should verify the 8L-in-9H angle against Guru's condition elsewhere in the chart, because a well-placed Jupiter neutralises the longevity concern while a weak Jupiter amplifies it. Never panic, never assume the worst, and always run the full diagnostic before drawing conclusions about father's health."
+        },
+        {
+          "q": "Is Mars in 9th house Manglik for Aries?",
+          "a": "No. Classical Manglik Dosha applies when Mars occupies the 1st, 2nd, 4th, 7th, 8th, or 12th houses. The 9th is not on that list. Natives with this placement should never be told they carry Manglik Dosha simply because their Mars is prominent, and marriage timing is not affected by the standard Kuja Dosha rules for this specific combination."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Mars in 9th?",
+          "a": "Red coral (Moonga) is the primary gemstone and can be worn with confidence because the friendly sign plus trikona house combination supports direct amplification cleanly. Wear a natural Italian or Mediterranean red coral of minimum six ratti set in gold (preferred for trikona Mars) or copper on the ring finger of the right hand on a Tuesday morning after Mangal mantra recitation. Yellow sapphire (Pukhraj) is a strong secondary stone that honours Guru as the sign lord. Always consult a practising Jyotishi before permanent wearing."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Dharma reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Mangal at the lagna, own sign study", "sub": "Mars in Mesh, the lagna lord at the ascendant", "href": "/jyotish/graha-in-bhava/mars-1st-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Guru in the ninth, Hamsa Yoga", "sub": "Jupiter in own sign Dhanu, exalted dharma", "href": "/jyotish/graha-in-bhava/jupiter-9th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Guru in the fifth, trine-to-trine yoga", "sub": "Jupiter in Simha, wisdom in the house of intelligence", "href": "/jyotish/graha-in-bhava/jupiter-5th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Mangal at the lagna, own sign study",
+          "sub": "Mars in Mesh, the lagna lord at the ascendant",
+          "href": "/jyotish/graha-in-bhava/mars-1st-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Guru in the ninth, Hamsa Yoga",
+          "sub": "Jupiter in own sign Dhanu, exalted dharma",
+          "href": "/jyotish/graha-in-bhava/jupiter-9th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Guru in the fifth, trine-to-trine yoga",
+          "sub": "Jupiter in Simha, wisdom in the house of intelligence",
+          "href": "/jyotish/graha-in-bhava/jupiter-5th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

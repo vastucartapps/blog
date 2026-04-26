@@ -6,40 +6,132 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 11,
   "status": "ready",
   "published_at": "2026-04-13T00:00:00.000Z",
   "updated_at": "2026-04-13T00:00:00.000Z",
-  "tags": ["Mars in 11th house", "Mangal", "Mesh Lagna", "Aries ascendant", "Labha Bhava", "Upachaya", "lagna lord in 11th", "Mangal mahadasha", "vipareet raja yoga", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Mars in 11th house",
+    "Mangal",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Labha Bhava",
+    "Upachaya",
+    "lagna lord in 11th",
+    "Mangal mahadasha",
+    "vipareet raja yoga",
+    "graha in bhava"
+  ],
   "planet_id": "mangal",
   "house_number": 11,
   "lagna_id": "mesha",
   "meta": {
     "title": "Mars in 11th House Mesh Lagna, Wealth and Gains Guide",
-    "description": "Mars in 11th house Mesh Lagna, Mangal in Labha Bhava Upachaya. Gains, elder siblings, dasha and remedies by Pt. Raghav Sharma.",
+    "description": "Mars in 11th house Mesh Lagna, Mangal in Labha Bhava Upachaya. Gains, elder siblings, dasha and remedies by VastuCart Editorial.",
     "focus_keyword": "Mars in 11th house",
-    "secondary_keywords": ["Mesh Lagna", "Labha Bhava", "Mars Upachaya", "Aries ascendant", "Mangal"],
-    "lsi_keywords": ["labha bhava", "upachaya eleventh", "mangal kumbha", "mangal mahadasha", "vipareet raja yoga", "gains through effort", "elder siblings", "large network", "red coral moonga", "not manglik"],
-    "keywords": ["Mars in 11th house Mesh Lagna", "Mangal in Labha Bhava", "Mesh lagna 11th Mars", "Aries ascendant wealth", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Labha Bhava",
+      "Mars Upachaya",
+      "Aries ascendant",
+      "Mangal"
+    ],
+    "lsi_keywords": [
+      "labha bhava",
+      "upachaya eleventh",
+      "mangal kumbha",
+      "mangal mahadasha",
+      "vipareet raja yoga",
+      "gains through effort",
+      "elder siblings",
+      "large network",
+      "red coral moonga",
+      "not manglik"
+    ],
+    "keywords": [
+      "Mars in 11th house Mesh Lagna",
+      "Mangal in Labha Bhava",
+      "Mesh lagna 11th Mars",
+      "Aries ascendant wealth",
+      "Vedic astrology"
+    ],
     "og_title": "Mars in the 11th House of Mesh Lagna, Labha Bhava Wealth",
     "og_description": "Mangal in Labha Bhava for Aries ascendant, Mars Upachaya in the gains house study by a practising Jyotishi.",
     "og_image": "/og/mars-11th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-11th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Mars in 11th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-11th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Mars in 11th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-11th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Mars in 11th house",
-    "secondary_keywords": ["Mesh Lagna", "Labha Bhava", "Mars Upachaya", "Aries ascendant", "Mangal"],
-    "lsi_terms": ["labha bhava", "upachaya eleventh", "mangal kumbha", "mangal mahadasha", "vipareet raja yoga", "gains through effort", "elder siblings", "large network", "red coral moonga", "not manglik"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Labha Bhava",
+      "Mars Upachaya",
+      "Aries ascendant",
+      "Mangal"
+    ],
+    "lsi_terms": [
+      "labha bhava",
+      "upachaya eleventh",
+      "mangal kumbha",
+      "mangal mahadasha",
+      "vipareet raja yoga",
+      "gains through effort",
+      "elder siblings",
+      "large network",
+      "red coral moonga",
+      "not manglik"
+    ],
     "seed_queries": [
-      "mars in 11th house aries lagna", "mangal in 11th house mesh lagna", "mars in kumbha 11th aries", "mangal in labha bhava mesh", "mars in 11th house effects aries", "mars in aquarius mesh lagna", "mars in 11th house wealth aries", "mars in 11th house gains aries", "mars in 11th house career aries", "mars in 11th house friends aries", "mars in 11th house upachaya", "mars in 11th house remedies", "red coral for mars 11th aries", "moonga for mesh lagna 11th", "is mars manglik in 11th house", "mars 11th house elder siblings", "mars in 11th house aries business", "mars in 11th house aries network", "is mars good in 11th house aries", "mars in aquarius aries ascendant", "mangal labha bhava kumbha", "mars 11th house aries prediction", "mars in eleventh house mesh lagna", "mars 11th house mesh ascendant", "mangal in mesh lagna 11th", "mars kumbha lagna mesh chart", "mars 11th house mesh lagna dasha", "mangal mesh lagna wealth", "mars in aquarius aries ascendant career", "vipareet raja yoga 11th mars"
+      "mars in 11th house aries lagna",
+      "mangal in 11th house mesh lagna",
+      "mars in kumbha 11th aries",
+      "mangal in labha bhava mesh",
+      "mars in 11th house effects aries",
+      "mars in aquarius mesh lagna",
+      "mars in 11th house wealth aries",
+      "mars in 11th house gains aries",
+      "mars in 11th house career aries",
+      "mars in 11th house friends aries",
+      "mars in 11th house upachaya",
+      "mars in 11th house remedies",
+      "red coral for mars 11th aries",
+      "moonga for mesh lagna 11th",
+      "is mars manglik in 11th house",
+      "mars 11th house elder siblings",
+      "mars in 11th house aries business",
+      "mars in 11th house aries network",
+      "is mars good in 11th house aries",
+      "mars in aquarius aries ascendant",
+      "mangal labha bhava kumbha",
+      "mars 11th house aries prediction",
+      "mars in eleventh house mesh lagna",
+      "mars 11th house mesh ascendant",
+      "mangal in mesh lagna 11th",
+      "mars kumbha lagna mesh chart",
+      "mars 11th house mesh lagna dasha",
+      "mangal mesh lagna wealth",
+      "mars in aquarius aries ascendant career",
+      "vipareet raja yoga 11th mars"
     ],
     "questions": [
       "Is Mars in the 11th house good for Mesh Lagna?",
@@ -49,36 +141,131 @@
       "Which gemstone should Mesh Lagna wear for Mars in 11th?"
     ],
     "lingual_variations": {
-      "mangal": ["mangal", "mars", "kuja", "bhauma", "angaraka", "mangala"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "mangal": [
+        "mangal",
+        "mars",
+        "kuja",
+        "bhauma",
+        "angaraka",
+        "mangala"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Vipareet raja yoga logic via 8L in 11H", "Elder sibling chart interpretation", "Shani-Mangal sign-lord tension for Mars in Kumbha"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Vipareet raja yoga logic via 8L in 11H",
+      "Elder sibling chart interpretation",
+      "Shani-Mangal sign-lord tension for Mars in Kumbha"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "mars-11th-house-aries-lagna-hero.webp", "filename_og": "mars-11th-house-aries-lagna-og.png", "alt": "Crimson Mangal rising in the eleventh house of a Mesh Lagna kundali", "caption": "Mangal sits in Labha Bhava for Aries ascendant natives, the lagna lord in Upachaya producing the wealth-through-effort signature.", "width": 1200, "height": 630, "format": "webp", "style": "crimson gold editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the eleventh house glowing deep crimson against a gold backdrop, a stylised Mars symbol with a trophy motif, traditional Vedic palette, refined manuscript style, no people.", "negative_prompt": "photorealistic mars, watermark, text, neon, cartoon" },
-    { "filename": "mars-11th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Mars placed in the eleventh house of Mesh", "caption": "The North Indian birth chart with Mangal marked in the eleventh house Labha Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the top-left eleventh house highlighted in crimson with a Mars symbol marked Ma, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "mars-11th-house-aries-lagna-red-coral.webp", "alt": "Natural red coral in copper ring, the gemstone for Mars 11th house Mesh Lagna", "caption": "Red coral recommended without hesitation because the Labha Bhava Upachaya absorbs direct Mars amplification cleanly.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural Italian red coral set in a copper ring, deep orange-red colour, oval cabochon cut, on dark crimson velvet with warm lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "mars-11th-house-aries-lagna-mangal-kavacham.webp", "alt": "Mangal Kavacham Sanskrit verse on parchment with copper spear motif", "caption": "Mangal Kavacham is the classical Tuesday morning recitation for strengthening a well-placed Mars in the gains house.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Mangal Kavacham, hand-painted on aged parchment with copper leaf borders, faint spear and flame motifs in the background, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "mars-11th-house-aries-lagna-hero.webp",
+      "filename_og": "mars-11th-house-aries-lagna-og.png",
+      "alt": "Crimson Mangal rising in the eleventh house of a Mesh Lagna kundali",
+      "caption": "Mangal sits in Labha Bhava for Aries ascendant natives, the lagna lord in Upachaya producing the wealth-through-effort signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "crimson gold editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the eleventh house glowing deep crimson against a gold backdrop, a stylised Mars symbol with a trophy motif, traditional Vedic palette, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic mars, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "mars-11th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Mars placed in the eleventh house of Mesh",
+      "caption": "The North Indian birth chart with Mangal marked in the eleventh house Labha Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the top-left eleventh house highlighted in crimson with a Mars symbol marked Ma, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "mars-11th-house-aries-lagna-red-coral.webp",
+      "alt": "Natural red coral in copper ring, the gemstone for Mars 11th house Mesh Lagna",
+      "caption": "Red coral recommended without hesitation because the Labha Bhava Upachaya absorbs direct Mars amplification cleanly.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural Italian red coral set in a copper ring, deep orange-red colour, oval cabochon cut, on dark crimson velvet with warm lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "mars-11th-house-aries-lagna-mangal-kavacham.webp",
+      "alt": "Mangal Kavacham Sanskrit verse on parchment with copper spear motif",
+      "caption": "Mangal Kavacham is the classical Tuesday morning recitation for strengthening a well-placed Mars in the gains house.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Mangal Kavacham, hand-painted on aged parchment with copper leaf borders, faint spear and flame motifs in the background, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Mars in the 11th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Mangal in Labha Bhava for Aries ascendant natives. The lagna lord in the Upachaya of gains, the classical wealth-through-effort placement, 8th lord vipareet raja yoga potential, and the elder sibling signature that defines the family chapter.",
     "meta": [
-      { "icon": "clock", "value": "11 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "11 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Mangal", "tone": "teal" },
-      { "label": "Labha Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Upachaya" },
-      { "label": "Lagna lord in 11th" },
-      { "label": "Not Manglik" }
+      {
+        "label": "Mangal",
+        "tone": "teal"
+      },
+      {
+        "label": "Labha Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Upachaya"
+      },
+      {
+        "label": "Lagna lord in 11th"
+      },
+      {
+        "label": "Not Manglik"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +273,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Mangal", "sub": "Mars", "icon": "mars" },
-        { "label": "Bhava", "value": "11th", "sub": "Labha Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Strong", "sub": "Upachaya gains", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Mangal",
+          "sub": "Mars",
+          "icon": "mars"
+        },
+        {
+          "label": "Bhava",
+          "value": "11th",
+          "sub": "Labha Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Strong",
+          "sub": "Upachaya gains",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +312,103 @@
       "heading": "Why the gains house rewards the warrior planet",
       "html": "<p>The 11th house is Labha Bhava, the house of gains, income, large networks, elder siblings, friends, fulfillment of desires, and the flow of resources into the native's life from the wider world. Classical texts group the 11th with the 3rd, 6th, and 10th as the four Upachaya houses, and of those four, the 11th is where malefics deliver their most visibly rewarding outcomes because the domain itself is about resource accumulation and ambition fulfillment. Placing Mangal here gives the native a direct channel from personal effort to material gain, and the growth curve compounds across decades in the same way Mars-in-third compounds courage. The difference is that the 11th translates effort into resources rather than into valour.</p><p>Kumbha rashi adds the second layer. Shani rules Kumbha, and the Mars-Shani relationship is formally inimical, which could sound concerning. In practice the Kumbha fixed air sign actually suits a lagna lord in Labha Bhava because the sign teaches discipline, patience, and long-horizon planning, all qualities an unchecked Mars desperately needs. Natives with this combination learn that the fastest way to wealth is almost never the fast way, and they gradually develop a Shani-coloured patience without losing the Mars willingness to act. The third interpretive layer, and the one most practitioners skip, is that Mangal is the 8th lord for Mesh Lagna (Vrishchika is the 8th), and when the 8th lord (a dushthana lord) sits in a dushthana house or in an Upachaya, classical Parashara tradition recognises the vipareet raja yoga, where negative-house lords in negative positions cancel each other out and produce unexpected prosperity. Mars in 11th qualifies through the Upachaya cancellation route, and natives frequently experience sudden wealth events that seem disconnected from their day-to-day effort, which is the vipareet signature expressing.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "The lagna lord in Labha Bhava is not a gift the native waits to receive. It is an engine the native starts themselves, and the chart hands them a resource flow that matches whatever speed they are willing to sustain." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "The lagna lord in Labha Bhava is not a gift the native waits to receive. It is an engine the native starts themselves, and the chart hands them a resource flow that matches whatever speed they are willing to sustain."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "mars", "title": "Mangal, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "mars",
+          "title": "Mangal, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Courage, energy, sibling, land" },
-            { "k": "Own signs", "v": "Mesha (Aries), Vrishchika (Scorpio)" },
-            { "k": "Uchha (exaltation)", "v": "Makara at 28 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Karka at 28 degrees", "tone": "bad" },
-            { "k": "Friends", "v": "Sun, Moon, Jupiter" },
-            { "k": "Enemies", "v": "Mercury, Venus, Saturn", "tone": "bad" },
-            { "k": "Element", "v": "Fire (Agni Tattva)" },
-            { "k": "Role for Mesh", "v": "Lagna lord and 8th lord" }
+            {
+              "k": "Karakatva",
+              "v": "Courage, energy, sibling, land"
+            },
+            {
+              "k": "Own signs",
+              "v": "Mesha (Aries), Vrishchika (Scorpio)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Makara at 28 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Karka at 28 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Moon, Jupiter"
+            },
+            {
+              "k": "Enemies",
+              "v": "Mercury, Venus, Saturn",
+              "tone": "bad"
+            },
+            {
+              "k": "Element",
+              "v": "Fire (Agni Tattva)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "Lagna lord and 8th lord"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Labha Bhava, house profile", "subtitle": "11th house significance",
+          "icon": "triangle-house",
+          "title": "Labha Bhava, house profile",
+          "subtitle": "11th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Labha, Aya Bhava" },
-            { "k": "Rules over", "v": "Gains, income, friends, elder siblings" },
-            { "k": "Natural sign", "v": "Kumbha (Aquarius) for Mesh" },
-            { "k": "Natural ruler", "v": "Shani (Saturn)" },
-            { "k": "Body part", "v": "Legs, ankles, calves" },
-            { "k": "Upachaya house", "v": "Yes, strongest gains house", "tone": "good" },
-            { "k": "Vedic quality", "v": "Lagna lord in gains house", "tone": "good" },
-            { "k": "Manglik status", "v": "Not a Manglik position" }
+            {
+              "k": "Sanskrit name",
+              "v": "Labha, Aya Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Gains, income, friends, elder siblings"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Kumbha (Aquarius) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Shani (Saturn)"
+            },
+            {
+              "k": "Body part",
+              "v": "Legs, ankles, calves"
+            },
+            {
+              "k": "Upachaya house",
+              "v": "Yes, strongest gains house",
+              "tone": "good"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Lagna lord in gains house",
+              "tone": "good"
+            },
+            {
+              "k": "Manglik status",
+              "v": "Not a Manglik position"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +450,48 @@
       "heading": "Where the lagna lord in gains house channels productively",
       "html": "<p>Career paths cluster around fields that reward ambition, network-building, and direct effort-to-income translation. Entrepreneurship is the single strongest fit because the combination literally gives the native the lagna lord (the identity channel) sitting in the gains house, and founding a business is the most direct expression of that alignment. Natives with this placement often become serial entrepreneurs, building ventures during their twenties, harvesting one or two during their thirties, and sometimes transitioning to investment or advisory roles in their forties using the capital and network built earlier. Sales, business development, and trading form the second cluster because the quick-thinking action orientation suits commission-based income and high-volume deal-making.</p><p>Real estate and property investment work exceptionally well because Mars is classically the karaka of land, and the 11th house of gains channels that karaka into wealth rather than into domestic shelter. Sports leadership and fitness businesses fit because the native's own physical capability often becomes the foundation of the career, and coaching, academy ownership, or sports-adjacent product businesses flow naturally from that root. Large network and community building roles, whether in political mobilisation, professional association leadership, or platform company operations, suit the combination because the 11th house rules large groups and Mars gives the decisive energy such roles need. The vipareet raja yoga angle often expresses as sudden wealth events that arrive outside the native's conscious planning, a long-dormant investment appreciating rapidly, an unexpected inheritance, a windfall from a deal the native almost dropped, and these events usually cluster during Mangal or Shani mahadasha windows.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Map your Labha Bhava growth curve", "subtitle": "Generate your free Kundali to check the lagna lord in the gains house.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Mars marked in the eleventh house of Mesh", "planet": "Mangal", "house": 11, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Mangal in Labha Bhava, marked in crimson" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Top-left diamond is the 11th house of gains" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Map your Labha Bhava growth curve",
+        "subtitle": "Generate your free Kundali to check the lagna lord in the gains house.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Mars marked in the eleventh house of Mesh",
+      "planet": "Mangal",
+      "house": 11,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Mangal in Labha Bhava, marked in crimson"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Top-left diamond is the 11th house of gains"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "Elder siblings and the network signature",
@@ -194,13 +504,45 @@
       "heading": "When Mars in 11th delivers its gains chapter",
       "intro_html": "<p>Mangal mahadasha is the defining seven-year wealth window. Shani, Guru and Rahu periods also shape the gains and network story significantly.</p>",
       "rows": [
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "The Labha Bhava activation window. Wealth events, business founding or harvesting, large network expansion, elder sibling collaboration.", "intensity": "Very high", "intensity_bar_width": 95, "intensity_bar_color": "#c94444", "highlight": true },
-        { "mahadasha": "Shani (Saturn)", "duration": "19 years", "themes": "Sign lord of Kumbha. Long consolidation of the wealth, disciplined institutional growth, network maturation into advisory roles.", "intensity": "Very good", "intensity_bar_width": 88, "intensity_bar_color": "#338a95" },
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "9th lord, friend of Mars. Dharmic direction of the wealth, philanthropic giving, teaching through experience.", "intensity": "Very good", "intensity_bar_width": 82, "intensity_bar_color": "#e8840a" },
-        { "mahadasha": "Rahu (North Node)", "duration": "18 years", "themes": "Kumbha co-lord in some traditions. Foreign-market wealth expansion, unconventional income streams, technology gains.", "intensity": "High", "intensity_bar_width": 78, "intensity_bar_color": "#5a4a7a" }
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "The Labha Bhava activation window. Wealth events, business founding or harvesting, large network expansion, elder sibling collaboration.",
+          "intensity": "Very high",
+          "intensity_bar_width": 95,
+          "intensity_bar_color": "#c94444",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Shani (Saturn)",
+          "duration": "19 years",
+          "themes": "Sign lord of Kumbha. Long consolidation of the wealth, disciplined institutional growth, network maturation into advisory roles.",
+          "intensity": "Very good",
+          "intensity_bar_width": 88,
+          "intensity_bar_color": "#338a95"
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "9th lord, friend of Mars. Dharmic direction of the wealth, philanthropic giving, teaching through experience.",
+          "intensity": "Very good",
+          "intensity_bar_width": 82,
+          "intensity_bar_color": "#e8840a"
+        },
+        {
+          "mahadasha": "Rahu (North Node)",
+          "duration": "18 years",
+          "themes": "Kumbha co-lord in some traditions. Foreign-market wealth expansion, unconventional income streams, technology gains.",
+          "intensity": "High",
+          "intensity_bar_width": 78,
+          "intensity_bar_color": "#5a4a7a"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +561,140 @@
       "heading": "Gemstones for Mars in 11th house Mesh Lagna",
       "intro_html": "<p>Red coral (Moonga) is the primary stone and can be worn without hesitation because the 11th house Upachaya absorbs direct Mars amplification.</p>",
       "cards": [
-        { "name": "Moonga (Red Coral)", "role": "primary", "sub": "Mangal-strengthening stone", "icon_variant": "coral", "image_slug": "red-coral", "items": [ { "k": "Metal", "v": "Copper or gold" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Tuesday morning" }, { "k": "Min weight", "v": "6 to 8 Ratti" } ] },
-        { "name": "Natural Red Jasper (alt)", "role": "secondary", "sub": "Milder Mars-aligned alternative", "icon_variant": "coral", "image_slug": "red-coral", "items": [ { "k": "Metal", "v": "Copper" }, { "k": "Finger", "v": "Ring finger" }, { "k": "Day to wear", "v": "Tuesday morning" }, { "k": "Min weight", "v": "7 to 9 Ratti" } ] },
-        { "name": "Consult before wearing Moonga", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Moonga (Red Coral)",
+          "role": "primary",
+          "sub": "Mangal-strengthening stone",
+          "icon_variant": "coral",
+          "image_slug": "red-coral",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Copper or gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Tuesday morning"
+            },
+            {
+              "k": "Min weight",
+              "v": "6 to 8 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Natural Red Jasper (alt)",
+          "role": "secondary",
+          "sub": "Milder Mars-aligned alternative",
+          "icon_variant": "coral",
+          "image_slug": "red-coral",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Copper"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Tuesday morning"
+            },
+            {
+              "k": "Min weight",
+              "v": "7 to 9 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Moonga",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Even a supported Mars deserves a full chart review before daily wear. Always consult a qualified Jyotishi."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Mars in 11th house",
       "intro_html": "<p>The Mangal rudraksha is the Teen Mukhi (three-faced), with the Saat Mukhi (seven-faced) adding Shani sign-lord support for this specific placement.</p>",
       "beads": [
-        { "mukhi": 3, "name": "Teen Mukhi Rudraksha", "sub": "Ruled by Agni and Mangal", "benefit": "The direct rudraksha for Mars. Amplifies the Labha Bhava growth curve, stabilises ambition during Mangal mahadasha, and is the primary bead for any strong Mars in an Upachaya." },
-        { "mukhi": 7, "name": "Saat Mukhi Rudraksha", "sub": "Ruled by Shani and Mahalakshmi", "benefit": "The seven-faced bead that honours both Shani (the Kumbha sign lord) and Mahalakshmi (the wealth deity). Ideal secondary bead for a Mars in Kumbha wealth placement, adding discipline alongside the Mars drive." }
+        {
+          "mukhi": 3,
+          "name": "Teen Mukhi Rudraksha",
+          "sub": "Ruled by Agni and Mangal",
+          "benefit": "The direct rudraksha for Mars. Amplifies the Labha Bhava growth curve, stabilises ambition during Mangal mahadasha, and is the primary bead for any strong Mars in an Upachaya."
+        },
+        {
+          "mukhi": 7,
+          "name": "Saat Mukhi Rudraksha",
+          "sub": "Ruled by Shani and Mahalakshmi",
+          "benefit": "The seven-faced bead that honours both Shani (the Kumbha sign lord) and Mahalakshmi (the wealth deity). Ideal secondary bead for a Mars in Kumbha wealth placement, adding discipline alongside the Mars drive."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Mangal Yantra for the lagna lord in gains", "yantra": { "name": "Mangal Yantra", "sanskrit": "मंगल यन्त्र", "description": "The Mangal Yantra is the geometric form of the lagna lord's energy channel. For this placement install it in the south wall of your office or business workspace rather than the home temple, because the chart channels the energy toward external gains. Tuesday sunrise in Mangal hora is the ideal installation window.", "direction": "South wall (office preferred)", "install_day": "Tuesday sunrise, Mangal hora", "material": "Copper (traditional for Mangal)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Labha Bhava Mangal", "stotra": { "eyebrow": "Mangal Stotra", "title": "Shri Mangal Stotra", "sub": "The classical daily hymn to the warrior planet, recited on Tuesday morning", "verse": "Dharanee garbha sambhootam vidyut kaanti samaprabham<br>Kumaram shakti hastam cha mangalam pranamaamyaham<br>Mangalo bhoomi putrashcha rinahartaa dhana pradaah<br>Sthiraasano mahaakaayah sarva karma virodhakah", "translation": "Born of the womb of the Earth, radiant like lightning, the youth holding the spear, I bow to Mangal. Mangal the son of Earth, remover of debts, bestower of wealth, seated firmly, of great form, dispeller of all obstacles in action. For a Labha Bhava Mars, the Mangal Stotra specifically invokes the wealth-granting form of the warrior planet, and the daily recitation anchors the gains-through-effort signature of the placement.", "url": "https://stotra.vastucart.in/stotra/mangal-stotra" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Mangal Yantra for the lagna lord in gains",
+      "yantra": {
+        "name": "Mangal Yantra",
+        "sanskrit": "मंगल यन्त्र",
+        "description": "The Mangal Yantra is the geometric form of the lagna lord's energy channel. For this placement install it in the south wall of your office or business workspace rather than the home temple, because the chart channels the energy toward external gains. Tuesday sunrise in Mangal hora is the ideal installation window.",
+        "direction": "South wall (office preferred)",
+        "install_day": "Tuesday sunrise, Mangal hora",
+        "material": "Copper (traditional for Mangal)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Labha Bhava Mangal",
+      "stotra": {
+        "eyebrow": "Mangal Stotra",
+        "title": "Shri Mangal Stotra",
+        "sub": "The classical daily hymn to the warrior planet, recited on Tuesday morning",
+        "verse": "Dharanee garbha sambhootam vidyut kaanti samaprabham<br>Kumaram shakti hastam cha mangalam pranamaamyaham<br>Mangalo bhoomi putrashcha rinahartaa dhana pradaah<br>Sthiraasano mahaakaayah sarva karma virodhakah",
+        "translation": "Born of the womb of the Earth, radiant like lightning, the youth holding the spear, I bow to Mangal. Mangal the son of Earth, remover of debts, bestower of wealth, seated firmly, of great form, dispeller of all obstacles in action. For a Labha Bhava Mars, the Mangal Stotra specifically invokes the wealth-granting form of the warrior planet, and the daily recitation anchors the gains-through-effort signature of the placement.",
+        "url": "https://stotra.vastucart.in/stotra/mangal-stotra"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +702,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your eleventh house and the Labha Bhava strength", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Business muhurta", "sub": "Auspicious dates for venture launch", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Job joining muhurta", "sub": "Auspicious dates for new roles", "url": "https://muhurta.vastucart.in/job-joining-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Mangal Stotra", "sub": "Daily wealth-granting Mars hymn", "url": "https://stotra.vastucart.in/stotra/mangal-stotra", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Mangal Kavacham", "sub": "Protective armour stotra for Mars", "url": "https://stotra.vastucart.in/stotra/mangal-kavacham", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Hanuman Chalisa", "sub": "Daily dusk recitation for courage", "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Bajrang Baan", "sub": "Hanuman arrow hymn for protection", "url": "https://stotra.vastucart.in/stotra/bajrang-baan", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Hanuman deity page", "sub": "All stotras and hymns for Hanuman", "url": "https://stotra.vastucart.in/deity/hanuman", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Teen Mukhi rudraksha source", "sub": "The Mangal rudraksha bead", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Mangal yantra store", "sub": "Copper Mangal yantra for Labha Bhava", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "1-on-1 with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your eleventh house and the Labha Bhava strength",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Business muhurta",
+            "sub": "Auspicious dates for venture launch",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Job joining muhurta",
+            "sub": "Auspicious dates for new roles",
+            "url": "https://muhurta.vastucart.in/job-joining-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Mangal Stotra",
+            "sub": "Daily wealth-granting Mars hymn",
+            "url": "https://stotra.vastucart.in/stotra/mangal-stotra",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Mangal Kavacham",
+            "sub": "Protective armour stotra for Mars",
+            "url": "https://stotra.vastucart.in/stotra/mangal-kavacham",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Hanuman Chalisa",
+            "sub": "Daily dusk recitation for courage",
+            "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Bajrang Baan",
+            "sub": "Hanuman arrow hymn for protection",
+            "url": "https://stotra.vastucart.in/stotra/bajrang-baan",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Hanuman deity page",
+            "sub": "All stotras and hymns for Hanuman",
+            "url": "https://stotra.vastucart.in/deity/hanuman",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Teen Mukhi rudraksha source",
+            "sub": "The Mangal rudraksha bead",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Mangal yantra store",
+            "sub": "Copper Mangal yantra for Labha Bhava",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "1-on-1 with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +802,130 @@
         "title": "Is your Upachaya Mars on its gains trajectory?",
         "subtitle": "Get a full personalised analysis of your Labha Bhava Mars, vipareet yoga, and wealth timing windows.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Mangal Stotra", "url": "https://stotra.vastucart.in/stotra/mangal-stotra", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Mangal Stotra",
+            "url": "https://stotra.vastucart.in/stotra/mangal-stotra",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Mars in 11th house, Mesh Lagna",
       "items": [
-        { "q": "Is Mars in the 11th house good for Mesh Lagna?", "a": "Yes, and it is one of the classical wealth-through-effort placements in the Aries ascendant catalogue. The 11th house is an Upachaya where malefics thrive, Mangal is the lagna lord placed in the gains house, and the 8th lord sitting in an Upachaya creates a vipareet raja yoga potential that adds to the favourable reading. The combination delivers a wealth accumulation curve that compounds through the thirties and forties, especially for natives who sustain the hustle through their twenties without burning out." },
-        { "q": "What does Mars in Kumbha mean for an Aries ascendant?", "a": "It means the native's martial energy runs through a Shani-coloured discipline rather than impulsive action. Kumbha teaches patience, long-horizon planning, and network-oriented thinking, and placing Mars here produces a native who sets concrete financial targets and pursues them with sustained effort over years rather than through short bursts. The Shani sign influence also prevents the wealth-orientation from becoming reckless, which is the failure mode of unchecked Mars in simpler sign placements." },
-        { "q": "Is Mars in 11th house Manglik for Aries?", "a": "No. Classical Manglik Dosha applies when Mars occupies the 1st, 2nd, 4th, 7th, 8th, or 12th houses. The 11th is not on that list. Popular astrology occasionally confuses strong Mars placements with Manglik Dosha, but the two concepts are distinct, and a Mars in the 11th does not create any marriage-timing complications that the dosha would otherwise produce." },
-        { "q": "How does Mars in 11th house affect elder siblings?", "a": "The 11th house rules elder siblings in classical Parashara tradition, and Mars here produces elder siblings who are physically capable, driven, and often successful. The childhood relationship frequently includes competitive undertones, especially with older brothers, but the rivalry typically becomes an engine of the native's own drive rather than a lasting source of friction. Many natives find their elder siblings become their most loyal business partners or advisors in the second half of life, once the youthful competition has naturally resolved." },
-        { "q": "Which gemstone should Mesh Lagna wear for Mars in 11th?", "a": "Red coral (Moonga) is the primary gemstone and can be worn without hesitation for this placement. Wear a natural Italian or Mediterranean red coral of minimum six ratti set in copper or gold on the ring finger of the right hand on a Tuesday morning after Mangal mantra recitation. The Upachaya house absorbs direct Mars amplification cleanly, and coral strengthens exactly the wealth channel the chart is already aligned toward. Always consult a practising Jyotishi before permanent wearing." }
+        {
+          "q": "Is Mars in the 11th house good for Mesh Lagna?",
+          "a": "Yes, and it is one of the classical wealth-through-effort placements in the Aries ascendant catalogue. The 11th house is an Upachaya where malefics thrive, Mangal is the lagna lord placed in the gains house, and the 8th lord sitting in an Upachaya creates a vipareet raja yoga potential that adds to the favourable reading. The combination delivers a wealth accumulation curve that compounds through the thirties and forties, especially for natives who sustain the hustle through their twenties without burning out."
+        },
+        {
+          "q": "What does Mars in Kumbha mean for an Aries ascendant?",
+          "a": "It means the native's martial energy runs through a Shani-coloured discipline rather than impulsive action. Kumbha teaches patience, long-horizon planning, and network-oriented thinking, and placing Mars here produces a native who sets concrete financial targets and pursues them with sustained effort over years rather than through short bursts. The Shani sign influence also prevents the wealth-orientation from becoming reckless, which is the failure mode of unchecked Mars in simpler sign placements."
+        },
+        {
+          "q": "Is Mars in 11th house Manglik for Aries?",
+          "a": "No. Classical Manglik Dosha applies when Mars occupies the 1st, 2nd, 4th, 7th, 8th, or 12th houses. The 11th is not on that list. Popular astrology occasionally confuses strong Mars placements with Manglik Dosha, but the two concepts are distinct, and a Mars in the 11th does not create any marriage-timing complications that the dosha would otherwise produce."
+        },
+        {
+          "q": "How does Mars in 11th house affect elder siblings?",
+          "a": "The 11th house rules elder siblings in classical Parashara tradition, and Mars here produces elder siblings who are physically capable, driven, and often successful. The childhood relationship frequently includes competitive undertones, especially with older brothers, but the rivalry typically becomes an engine of the native's own drive rather than a lasting source of friction. Many natives find their elder siblings become their most loyal business partners or advisors in the second half of life, once the youthful competition has naturally resolved."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Mars in 11th?",
+          "a": "Red coral (Moonga) is the primary gemstone and can be worn without hesitation for this placement. Wear a natural Italian or Mediterranean red coral of minimum six ratti set in copper or gold on the ring finger of the right hand on a Tuesday morning after Mangal mantra recitation. The Upachaya house absorbs direct Mars amplification cleanly, and coral strengthens exactly the wealth channel the chart is already aligned toward. Always consult a practising Jyotishi before permanent wearing."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Labha Bhava reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Mangal in the third, Upachaya Parakrama", "sub": "Mars in Mithuna, the courage compounding study", "href": "/jyotish/graha-in-bhava/mars-3rd-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Mangal at the zenith, Ruchaka Yoga", "sub": "Mars exalted in Makara, career crown", "href": "/jyotish/graha-in-bhava/mars-10th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Shani at the zenith, Sasa Yoga", "sub": "Saturn exalted in Tula, the patient architect", "href": "/jyotish/graha-in-bhava/saturn-10th-house-aries-lagna", "icon_variant": "generic" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Mangal in the third, Upachaya Parakrama",
+          "sub": "Mars in Mithuna, the courage compounding study",
+          "href": "/jyotish/graha-in-bhava/mars-3rd-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Mangal at the zenith, Ruchaka Yoga",
+          "sub": "Mars exalted in Makara, career crown",
+          "href": "/jyotish/graha-in-bhava/mars-10th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Shani at the zenith, Sasa Yoga",
+          "sub": "Saturn exalted in Tula, the patient architect",
+          "href": "/jyotish/graha-in-bhava/saturn-10th-house-aries-lagna",
+          "icon_variant": "generic"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

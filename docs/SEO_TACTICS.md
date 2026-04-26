@@ -347,6 +347,81 @@ references the per-author social graph in `lib/authors.ts`.
 This makes VastuCart eligible for Knowledge Graph cards on
 brand searches.
 
+### AA. Rank Math optimisation (LOCKED, Apr 2026)
+
+Tighter on-page SEO levers Rank Math weighs heavily. The
+validator enforces these as hard gates.
+
+#### Title + meta
+
+- `meta.title` ≤ 60 chars, **focus keyword in the first 30 chars**
+- `meta.description` 140 to 150 chars (Rank Math sweet spot)
+- Focus keyword appears once in `meta.description`, inside the
+  first 100 chars
+- `og_title` distinct from `meta.title`, written for social share
+
+#### H2 / H3 hierarchy
+
+- **Primary keyword in at least one H2** (block heading) — Rank
+  Math's "keyword in subheading" rule
+- LSI keywords woven into H3 sub-section headings inside the
+  `scannable-prose` block — covers Rank Math's "additional
+  keywords in headings" check
+- H1 used exactly once (the post `title` rendered by `PostHero`)
+
+#### Scannability + readability
+
+- Paragraphs ≤ 3 sentences, average ≤ 3.5 sentences (validator)
+- Burstiness: sentence-length stddev ≥ 4 (anti-AI signature)
+- Reading grade 8.0 to 9.5 (Flesch-Kincaid approximation)
+- Bullets, numbered lists, bold inside prose blocks for scan flow
+- Active voice — passive constructions flagged at >10% of
+  sentences
+
+#### FAQ + rich result
+
+- 3 to 5 FAQ items, each `q` ≤ 100 chars, each `a` 50 to 90
+  words, schema-emitted as `FAQPage`
+- Questions written for Google's "People Also Ask" — start with
+  Is / What / How / Does / Which
+- Validator checks every question has a question mark and starts
+  with one of those interrogatives
+
+#### External link discipline
+
+- 1 to 2 external links per post, only to whitelisted domains
+  (Wikipedia, vedabase.io, wisdomlib.org, archive.org)
+- Anchor text = entity name, not generic phrase
+- `target="_blank" rel="noopener nofollow"` on all externals
+- Validator hard-fails on >2 externals or non-whitelist domain
+
+#### Image SEO (Rank Math weighting)
+
+- Every image alt 8 to 15 words, includes focus keyword once
+  (validator)
+- Filename = slug + descriptive suffix (validator)
+- WebP format with explicit width/height (CLS = 0)
+- ImageObject schema entry per image (auto-generated)
+
+### AB. E-E-A-T organisational byline (LOCKED, Apr 2026)
+
+After audit, the named-practitioner persona is retired. Author
+becomes `VastuCart Editorial` (Organization byline). Reviewer
+becomes `VastuCart Jyotish Review Panel` (Organization,
+`reviewedBy` schema field).
+
+- No fabricated credentials, no specific years-of-practice
+  claims, no specific article-count claims
+- Schema emits: `author` → editorial Person/Organization,
+  `reviewedBy` → review panel Organization
+- Hero meta strip shows "Reviewed by VastuCart Jyotish Review
+  Panel" + "VastuCart Editorial" byline
+- Past 92 posts migrated by `scripts/migrate-author.ts`
+
+This is the YMYL-safe path: organisational accountability
+beats fabricated individual credentials in 2026 quality rater
+guidelines.
+
 ---
 
 ## What the validator enforces

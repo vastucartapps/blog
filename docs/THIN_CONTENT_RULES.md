@@ -62,6 +62,56 @@ The validator checks no two posts share the same hash.
 (This is a future check — to be added when programmatic
 generation is wired.)
 
+## Rule 7 — Paragraph length ≤ 3 sentences (scannability)
+
+Every paragraph in `prose` and `scannable-prose` blocks must be
+3 sentences or fewer. The validator measures sentences-per-paragraph
+across the post and hard-fails on average > 3.5 or any single
+paragraph > 5 sentences.
+
+Why: long paragraphs read like AI on Surfer / Originality / GPTZero
+and lose Rank Math scannability score points. They also collapse
+the eye-flow pattern Google rewards on mobile.
+
+## Rule 8 — Sentence-length burstiness ≥ minimum variance
+
+Sentence-length variance is measured across each `prose` /
+`scannable-prose` block. If the standard deviation of word counts
+across sentences in a block is below 4 words, the block reads
+like AI and is flagged.
+
+How to pass: mix short punchy sentences (2 to 5 words) with
+longer nuanced ones (15 to 25 words). The natural human cadence
+swings between short and long.
+
+Banned cadence pattern: every sentence between 14 and 18 words.
+That signature flags as AI on every common detector.
+
+## Rule 9 — 8th-9th grade English reading level
+
+The English narrative (excluding italicised Sanskrit terms +
+their parenthetical glosses) must read at a Flesch-Kincaid grade
+of 8.0 to 9.5. Higher is too dense. Lower loses topical
+authority.
+
+Sanskrit terms italicised on first use plus their immediate
+English gloss in parens count as the gloss only, e.g.
+`*trikona (auspicious dharmic angle)*` is measured as the four
+English words "auspicious dharmic angle" plus the Sanskrit
+treated as a proper noun. Repeat occurrences of the Sanskrit
+term (no italics, no gloss) count as a single token.
+
+The validator uses a Flesch-Kincaid-style approximation
+(syllable estimation via vowel-cluster counting). Hard-fail
+on grade > 11 or < 6.
+
+## Rule 10 — High burstiness + topical depth simultaneously
+
+The combination of Rules 7, 8, 9 is the anti-AI signature.
+Pass all three and the post reads as human-authored across
+every common detector. Fail any one and the cluster risks
+demotion.
+
 ---
 
 ## What is allowed to repeat
@@ -69,7 +119,8 @@ generation is wired.)
 Some elements MUST repeat across posts and are exempt from the
 duplication audit:
 
-- Author bio (the same `Pt. Raghav Sharma` paragraph)
+- Author bio (the same `VastuCart Editorial` paragraph)
+- Reviewer block (`VastuCart Jyotish Review Panel`)
 - Internal-links block (same tools listed across posts)
 - Footer disclaimer
 - Stat-strip labels (the cells repeat, only the values change)

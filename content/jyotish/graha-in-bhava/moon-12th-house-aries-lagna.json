@@ -6,40 +6,131 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Moon in 12th house", "Chandra Meena", "Mesh Lagna", "Aries ascendant", "Vyaya Bhava", "4L in 12H", "moksha mother", "Chandra mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Moon in 12th house",
+    "Chandra Meena",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Vyaya Bhava",
+    "4L in 12H",
+    "moksha mother",
+    "Chandra mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "chandra",
   "house_number": 12,
   "lagna_id": "mesha",
   "meta": {
     "title": "Moon in 12th House Mesh Lagna, Moksha Mother Guide",
-    "description": "Moon in 12th house for Mesh Lagna, Chandra in friendly Meena, the 4L in 12H mother-as-moksha signature read by Pt. Raghav Sharma.",
+    "description": "Moon in 12th house for Mesh Lagna, Chandra in friendly Meena, the 4L in 12H mother-as-moksha signature by VastuCart Editorial.",
     "focus_keyword": "Moon in 12th house",
-    "secondary_keywords": ["Mesh Lagna", "Vyaya Bhava", "Chandra Meena", "Aries ascendant", "Moon moksha"],
-    "lsi_keywords": ["vyaya bhava", "chandra meena", "moon in pisces", "4th lord twelfth", "chandra mahadasha", "pearl moti", "moksha mother", "sleep dream significance", "foreign home", "emotional dissolution"],
-    "keywords": ["Moon in 12th house Mesh Lagna", "Chandra in Vyaya Bhava", "Moon in Pisces", "Mesh lagna 12th Moon", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Vyaya Bhava",
+      "Chandra Meena",
+      "Aries ascendant",
+      "Moon moksha"
+    ],
+    "lsi_keywords": [
+      "vyaya bhava",
+      "chandra meena",
+      "moon in pisces",
+      "4th lord twelfth",
+      "chandra mahadasha",
+      "pearl moti",
+      "moksha mother",
+      "sleep dream significance",
+      "foreign home",
+      "emotional dissolution"
+    ],
+    "keywords": [
+      "Moon in 12th house Mesh Lagna",
+      "Chandra in Vyaya Bhava",
+      "Moon in Pisces",
+      "Mesh lagna 12th Moon",
+      "Vedic astrology"
+    ],
     "og_title": "Moon in the 12th House of Mesh Lagna, Mother as Moksha Figure",
     "og_description": "Chandra in friendly Meena in the moksha house for Aries natives, by a practising Jyotishi.",
     "og_image": "/og/moon-12th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/moon-12th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Moon in 12th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/moon-12th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Moon in 12th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/moon-12th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Moon in 12th house",
-    "secondary_keywords": ["Mesh Lagna", "Vyaya Bhava", "Chandra Meena", "Aries ascendant", "Moon moksha"],
-    "lsi_terms": ["vyaya bhava", "chandra meena", "moon in pisces", "4th lord twelfth", "chandra mahadasha", "pearl moti", "moksha mother", "sleep dream significance", "foreign home", "emotional dissolution"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Vyaya Bhava",
+      "Chandra Meena",
+      "Aries ascendant",
+      "Moon moksha"
+    ],
+    "lsi_terms": [
+      "vyaya bhava",
+      "chandra meena",
+      "moon in pisces",
+      "4th lord twelfth",
+      "chandra mahadasha",
+      "pearl moti",
+      "moksha mother",
+      "sleep dream significance",
+      "foreign home",
+      "emotional dissolution"
+    ],
     "seed_queries": [
-      "moon in 12th house aries lagna", "chandra in 12th house mesh lagna", "moon in pisces mesh ascendant", "chandra meena aries lagna", "moon in vyaya bhava mesh", "moon in 12th house sleep aries", "moon in pisces 12th aries", "chandra vyaya bhava mesh", "4l in 12h aries lagna", "moon in 12th house remedies aries", "pearl for moon 12th aries", "moti mesh lagna 12th", "chandra mahadasha aries 12th", "moon in 12th house aries mother", "moon in 12th house aries moksha", "is moon good in 12th house aries", "moon in pisces aries ascendant career", "moksha mother signature", "sleep dream significance moon", "moon 12th house aries prediction", "moon in twelfth house mesh lagna", "moon 12th house mesh ascendant", "chandra in mesh lagna 12th", "moon meena lagna mesh chart", "moon 12th house mesh lagna dasha", "chandra mesh lagna foreign", "dissolution mother emotion", "4th lord twelfth house aries", "moon jupiter friendship meena", "emotional 12th house"
+      "moon in 12th house aries lagna",
+      "chandra in 12th house mesh lagna",
+      "moon in pisces mesh ascendant",
+      "chandra meena aries lagna",
+      "moon in vyaya bhava mesh",
+      "moon in 12th house sleep aries",
+      "moon in pisces 12th aries",
+      "chandra vyaya bhava mesh",
+      "4l in 12h aries lagna",
+      "moon in 12th house remedies aries",
+      "pearl for moon 12th aries",
+      "moti mesh lagna 12th",
+      "chandra mahadasha aries 12th",
+      "moon in 12th house aries mother",
+      "moon in 12th house aries moksha",
+      "is moon good in 12th house aries",
+      "moon in pisces aries ascendant career",
+      "moksha mother signature",
+      "sleep dream significance moon",
+      "moon 12th house aries prediction",
+      "moon in twelfth house mesh lagna",
+      "moon 12th house mesh ascendant",
+      "chandra in mesh lagna 12th",
+      "moon meena lagna mesh chart",
+      "moon 12th house mesh lagna dasha",
+      "chandra mesh lagna foreign",
+      "dissolution mother emotion",
+      "4th lord twelfth house aries",
+      "moon jupiter friendship meena",
+      "emotional 12th house"
     ],
     "questions": [
       "Is Moon in the 12th house bad for Mesh Lagna?",
@@ -49,36 +140,130 @@
       "Which gemstone should Mesh Lagna wear for Moon in 12th?"
     ],
     "lingual_variations": {
-      "chandra": ["chandra", "moon", "soma", "shashanka", "indu"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "chandra": [
+        "chandra",
+        "moon",
+        "soma",
+        "shashanka",
+        "indu"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["4L in 12H mother-as-moksha reading", "Friendly Meena softens dushthana without fear", "Sleep and dream significance reading"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "4L in 12H mother-as-moksha reading",
+      "Friendly Meena softens dushthana without fear",
+      "Sleep and dream significance reading"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "moon-12th-house-aries-lagna-hero.webp", "filename_og": "moon-12th-house-aries-lagna-og.png", "alt": "Silver Chandra in the twelfth house of a Mesh Lagna kundali in Meena", "caption": "Chandra sits in friendly Meena in the twelfth house for Aries ascendant natives, the mother-as-moksha signature and the sleep-and-dream pattern that defines the inner life.", "width": 1200, "height": 630, "format": "webp", "style": "luminous silver-violet editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the twelfth house glowing silver and soft violet, a stylised crescent Moon above a small twin-fish Meena glyph, traditional Vedic palette of silver, deep violet, cream, refined manuscript style, no people.", "negative_prompt": "photorealistic moon, watermark, text, neon, cartoon" },
-    { "filename": "moon-12th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Moon in the twelfth house of Mesh in Meena", "caption": "The North Indian birth chart with Chandra marked in Meena on the twelfth house Vyaya Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the upper-central twelfth house highlighted in silver-violet with a Chandra symbol marked Ch and small twin-fish Meena glyph, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "moon-12th-house-aries-lagna-pearl.webp", "alt": "Natural saltwater pearl in silver ring, gemstone for Moon 12th house Mesh Lagna", "caption": "Pearl is the primary Chandra ratna and works with confidence here because the friendly Meena sign softens the classical dushthana reading.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural saltwater Basra pearl set in a silver ring, soft cream luminescence, round shape, on dark velvet with cool lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "moon-12th-house-aries-lagna-annapurna.webp", "alt": "Annapurna Stotram Sanskrit verse on parchment with lotus and rice-bowl motif", "caption": "Annapurna Stotram recitation strengthens the mother-nourishment channel through the goddess of sustenance.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Annapurna Stotram, hand-painted on aged parchment with gold leaf borders, faint lotus and rice bowl motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "moon-12th-house-aries-lagna-hero.webp",
+      "filename_og": "moon-12th-house-aries-lagna-og.png",
+      "alt": "Silver Chandra in the twelfth house of a Mesh Lagna kundali in Meena",
+      "caption": "Chandra sits in friendly Meena in the twelfth house for Aries ascendant natives, the mother-as-moksha signature and the sleep-and-dream pattern that defines the inner life.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "luminous silver-violet editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the twelfth house glowing silver and soft violet, a stylised crescent Moon above a small twin-fish Meena glyph, traditional Vedic palette of silver, deep violet, cream, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic moon, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "moon-12th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Moon in the twelfth house of Mesh in Meena",
+      "caption": "The North Indian birth chart with Chandra marked in Meena on the twelfth house Vyaya Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the upper-central twelfth house highlighted in silver-violet with a Chandra symbol marked Ch and small twin-fish Meena glyph, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "moon-12th-house-aries-lagna-pearl.webp",
+      "alt": "Natural saltwater pearl in silver ring, gemstone for Moon 12th house Mesh Lagna",
+      "caption": "Pearl is the primary Chandra ratna and works with confidence here because the friendly Meena sign softens the classical dushthana reading.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural saltwater Basra pearl set in a silver ring, soft cream luminescence, round shape, on dark velvet with cool lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "moon-12th-house-aries-lagna-annapurna.webp",
+      "alt": "Annapurna Stotram Sanskrit verse on parchment with lotus and rice-bowl motif",
+      "caption": "Annapurna Stotram recitation strengthens the mother-nourishment channel through the goddess of sustenance.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Annapurna Stotram, hand-painted on aged parchment with gold leaf borders, faint lotus and rice bowl motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Moon in the 12th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Chandra in Vyaya Bhava for Aries ascendant natives. Moon in friendly Meena, the 4L in 12H mother-as-moksha signature, the sleep-and-dream significance, and the foreign home pattern that distinguishes this placement from the grounded Moon 4th home angle.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Chandra", "tone": "teal" },
-      { "label": "Vyaya Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Friendly Meena" },
-      { "label": "4L in 12H" },
-      { "label": "Moksha mother" }
+      {
+        "label": "Chandra",
+        "tone": "teal"
+      },
+      {
+        "label": "Vyaya Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Friendly Meena"
+      },
+      {
+        "label": "4L in 12H"
+      },
+      {
+        "label": "Moksha mother"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +271,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Chandra", "sub": "Moon", "icon": "sun" },
-        { "label": "Bhava", "value": "12th", "sub": "Vyaya Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Softened", "sub": "Friendly sign in dushthana", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Chandra",
+          "sub": "Moon",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "12th",
+          "sub": "Vyaya Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Softened",
+          "sub": "Friendly sign in dushthana",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +310,103 @@
       "heading": "Why the 12th house Moon softens rather than destroys",
       "html": "<p>Students often arrive at this placement carrying the popular astrology reading that any benefic in the 12th house suffers, and the honest practitioner answer is that the popular reading is structurally incomplete. Classical tradition does apply a reduction rule to benefics in dushthana houses, but the reduction is always qualified by the sign dignity and the specific friendly or hostile relationships at play. Moon in Meena is in a friendly water sign, and the two waters reinforce each other rather than fighting. The 12th house is also specifically the house of moksha, sleep, dreams, hidden matters, foreign lands, charity, and the dissolution of self into something larger, and the Moon's karakatvas of mind, mother, and emotional depth genuinely belong to this territory. The placement is not the destruction of the Moon's gifts, it is the relocation of those gifts into the contemplative-dissolution register rather than into the active emotional register other Moon placements produce.</p><p>The 4L in 12H configuration is the second specific feature that needs careful reading because it shapes both the mother relationship and the home-life pattern across decades. When the lord of home and mother occupies the house of dissolution and foreign lands, the mother becomes structurally tied to the moksha and foreign themes. Mothers of natives with this placement are often spiritually inclined, geographically distant from the native for significant parts of adult life, or carry a specific contemplative or charitable orientation that shapes the native's inner world. Home, similarly, tends to be foreign or temporary in ways the 4th-house Moon natives do not experience: the native may live abroad, move frequently, build homes that feel temporary even when they are technically permanent, or experience the concept of home itself as more inward than outward. The third interpretive layer is sleep and dream significance. The 12th house specifically rules sleep, and Moon (the mind-karaka) in this house produces natives with unusually vivid dream life, often with predictive, instructive, or unusually significant dreams that classical texts treat as diagnostic of the placement. Many natives keep dream journals from early adulthood because the chart literally asks them to.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "When the mother-karaka sits in the moksha house of Jupiter's friendly sign, the mother becomes the first bridge to the inner life. The home that other natives build from brick and soil, this native builds in sleep and dream and the quiet spaces between wakefulness." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "When the mother-karaka sits in the moksha house of Jupiter's friendly sign, the mother becomes the first bridge to the inner life. The home that other natives build from brick and soil, this native builds in sleep and dream and the quiet spaces between wakefulness."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Chandra, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Chandra, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Mind, mother, emotion, fluids" },
-            { "k": "Own sign", "v": "Karka (Cancer)" },
-            { "k": "Uchha (exaltation)", "v": "Vrishabha at 3 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Vrishchika at 3 degrees", "tone": "bad" },
-            { "k": "Sign state here", "v": "Friendly Meena", "tone": "good" },
-            { "k": "Phase factor", "v": "Shukla strong, Krishna weaker" },
-            { "k": "Friends", "v": "Sun, Mercury" },
-            { "k": "Role for Mesh", "v": "4th lord (Karka)" }
+            {
+              "k": "Karakatva",
+              "v": "Mind, mother, emotion, fluids"
+            },
+            {
+              "k": "Own sign",
+              "v": "Karka (Cancer)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Vrishabha at 3 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Vrishchika at 3 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Friendly Meena",
+              "tone": "good"
+            },
+            {
+              "k": "Phase factor",
+              "v": "Shukla strong, Krishna weaker"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Mercury"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "4th lord (Karka)"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Vyaya Bhava, house profile", "subtitle": "12th house significance",
+          "icon": "triangle-house",
+          "title": "Vyaya Bhava, house profile",
+          "subtitle": "12th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Vyaya, Moksha Bhava" },
-            { "k": "Rules over", "v": "Losses, foreign, moksha, sleep, hidden" },
-            { "k": "Natural sign", "v": "Meena (Pisces) for Mesh" },
-            { "k": "Natural ruler", "v": "Guru (Jupiter)" },
-            { "k": "Body part", "v": "Feet, left eye, sleep cycle" },
-            { "k": "Classical nature", "v": "Dushthana, moksha house" },
-            { "k": "Vedic quality", "v": "Friendly sign softens dushthana", "tone": "good" },
-            { "k": "Special effect", "v": "Mother becomes moksha figure", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Vyaya, Moksha Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Losses, foreign, moksha, sleep, hidden"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Meena (Pisces) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Guru (Jupiter)"
+            },
+            {
+              "k": "Body part",
+              "v": "Feet, left eye, sleep cycle"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Dushthana, moksha house"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Friendly sign softens dushthana",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Mother becomes moksha figure",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +448,48 @@
       "heading": "Where the contemplative-Moon vocation plays out",
       "html": "<p>Career paths cluster around fields that honour the contemplative depth and foreign or hidden dimensions the placement produces. Contemplative writing and spiritual teaching are the strongest single fit because the chart produces natives whose inner life is unusually rich and whose capacity to put that inner life into written or spoken form grows across decades into a body of work that reaches readers other charts cannot reach. Many natives spend years writing or practising privately before publishing or teaching openly, and the eventual public expression carries a quality of depth that reflects the years of private preparation. Dream and sleep research, sleep medicine, and the psychiatric subspecialties that address nocturnal experience fit the chart because the 12th house rules sleep directly and Moon here gives the native an unusual professional affinity for the sleep domain.</p><p>Foreign service and international charity work suit the chart because the 12th house rules foreign lands and Moon here often produces natives whose vocational calling takes them abroad for significant portions of their career. Psychotherapy and depth counselling fit because the lunar emotional intelligence combined with the 12th house hidden-mind orientation produces natives whose clinical mode reaches psychological territory other therapists approach more cautiously. Art, music, and poetry with inner-life themes suit natives whose creative pull is more aesthetic, and many build careers in forms that specifically express the dream-and-dissolution register the placement understands natively. Hospice, palliative care, and end-of-life services round out the list because the placement gives the native unusual capacity to accompany people through transition themes without emotional destabilisation. Chandra mahadasha is when the vocational direction crystallises, often through a foreign opportunity or a dream that shapes the next decade of the native's working life in ways the native did not consciously plan.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Chandra in Vyaya Bhava placement", "subtitle": "Generate your free Kundali to see your twelfth house Moon.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Moon marked in the twelfth house of Mesh", "planet": "Chandra", "house": 12, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Chandra in Vyaya Bhava in friendly Meena, marked in luminous silver" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Upper-central diamond is the 12th house of moksha" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Chandra in Vyaya Bhava placement",
+        "subtitle": "Generate your free Kundali to see your twelfth house Moon.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Moon marked in the twelfth house of Mesh",
+      "planet": "Chandra",
+      "house": 12,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Chandra in Vyaya Bhava in friendly Meena, marked in luminous silver"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Upper-central diamond is the 12th house of moksha"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The mother-as-moksha and the dream significance",
@@ -194,13 +502,45 @@
       "heading": "When Moon in 12th delivers its Vyaya Bhava chapter",
       "intro_html": "<p>Chandra mahadasha is the defining window for this placement and arrives with the contemplative depth and foreign home pattern crystallising in concrete form.</p>",
       "rows": [
-        { "mahadasha": "Chandra (Moon)", "duration": "10 years", "themes": "The Vyaya Bhava activation window. Mother themes reach their deepest expression, foreign relocation often arrives, contemplative vocation crystallises, dream life intensifies with practical significance.", "intensity": "Very high", "intensity_bar_width": 92, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord and friend of Moon. Bold commitments to the contemplative vocation, decisive foreign moves, the inner life finds active expression.", "intensity": "Very good", "intensity_bar_width": 82, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Fifth lord and friend of Moon. Creative recognition for the contemplative work, dharmic visibility, fatherly figures support the inner vocation.", "intensity": "Good", "intensity_bar_width": 75, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "Lord of the sign Meena and the most aligned planet for this placement. The dispositor of Moon here and the most supportive dasha for the full expression of the moksha-through-mother pattern.", "intensity": "Very high", "intensity_bar_width": 92, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Chandra (Moon)",
+          "duration": "10 years",
+          "themes": "The Vyaya Bhava activation window. Mother themes reach their deepest expression, foreign relocation often arrives, contemplative vocation crystallises, dream life intensifies with practical significance.",
+          "intensity": "Very high",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord and friend of Moon. Bold commitments to the contemplative vocation, decisive foreign moves, the inner life finds active expression.",
+          "intensity": "Very good",
+          "intensity_bar_width": 82,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "Fifth lord and friend of Moon. Creative recognition for the contemplative work, dharmic visibility, fatherly figures support the inner vocation.",
+          "intensity": "Good",
+          "intensity_bar_width": 75,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "Lord of the sign Meena and the most aligned planet for this placement. The dispositor of Moon here and the most supportive dasha for the full expression of the moksha-through-mother pattern.",
+          "intensity": "Very high",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +559,140 @@
       "heading": "Gemstones for Moon in 12th house Mesh Lagna",
       "intro_html": "<p>Pearl is the primary recommendation here because the friendly Meena sign softens the dushthana reading enough to support the gemstone protocol.</p>",
       "cards": [
-        { "name": "Moti (Pearl)", "role": "primary", "sub": "Chandra-strengthening stone for friendly-sign Moon", "icon_variant": "pearl", "image_slug": "pearl", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Small finger, right hand" }, { "k": "Day to wear", "v": "Monday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Moonstone (alt)", "role": "secondary", "sub": "Milder Moon-aligned alternative", "icon_variant": "pearl", "image_slug": "pearl", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Small finger" }, { "k": "Day to wear", "v": "Monday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Moti", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Moti (Pearl)",
+          "role": "primary",
+          "sub": "Chandra-strengthening stone for friendly-sign Moon",
+          "icon_variant": "pearl",
+          "image_slug": "pearl",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Monday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Moonstone (alt)",
+          "role": "secondary",
+          "sub": "Milder Moon-aligned alternative",
+          "icon_variant": "pearl",
+          "image_slug": "pearl",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Monday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Moti",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Pearl in the 12th house is a clean recommendation when the friendly sign applies, but the paksha reading should be confirmed by a qualified Jyotishi."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Moon in 12th house",
       "intro_html": "<p>The Chandra-aligned rudraksha is the Do Mukhi (Two Mukhi), the bead directly ruled by the Moon and the Shiva-Parvati pair.</p>",
       "beads": [
-        { "mukhi": 2, "name": "Do Mukhi Rudraksha", "sub": "Ruled by Chandra and the Shiva-Parvati pair", "benefit": "The classical Moon rudraksha and the safest daily-wear bead for any Chandra strengthening protocol. Supports the contemplative vocation, amplifies the mother-as-moksha signature, and is specifically recommended for natives in contemplative writing, sleep medicine, psychotherapy, or any vocation drawing on inner-life awareness." },
-        { "mukhi": 5, "name": "Panch Mukhi Rudraksha", "sub": "Ruled by Guru, the dispositor of Moon here", "benefit": "The Jupiter rudraksha and the safest daily-wear bead in the tradition. For this placement specifically, the Panch Mukhi honours the dispositor of Moon (Guru rules Meena) and compounds the placement's natural strength by strengthening both planet and sign-lord through Jupiter's dharmic current." }
+        {
+          "mukhi": 2,
+          "name": "Do Mukhi Rudraksha",
+          "sub": "Ruled by Chandra and the Shiva-Parvati pair",
+          "benefit": "The classical Moon rudraksha and the safest daily-wear bead for any Chandra strengthening protocol. Supports the contemplative vocation, amplifies the mother-as-moksha signature, and is specifically recommended for natives in contemplative writing, sleep medicine, psychotherapy, or any vocation drawing on inner-life awareness."
+        },
+        {
+          "mukhi": 5,
+          "name": "Panch Mukhi Rudraksha",
+          "sub": "Ruled by Guru, the dispositor of Moon here",
+          "benefit": "The Jupiter rudraksha and the safest daily-wear bead in the tradition. For this placement specifically, the Panch Mukhi honours the dispositor of Moon (Guru rules Meena) and compounds the placement's natural strength by strengthening both planet and sign-lord through Jupiter's dharmic current."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Chandra Yantra for the moksha Moon", "yantra": { "name": "Chandra Yantra", "sanskrit": "चन्द्र यन्त्र", "description": "The Chandra Yantra is the geometric form of the lunar channel. For Moon in the Mesh 12th house install it in the north-west corner of the bedroom where the native sleeps, the direction classically assigned to Chandra and the sleep-dream dimension. Monday at moonrise is the installation window, and the yantra should be consecrated with Annapurna Stotram recitation and a milk libation.", "direction": "North-west corner (bedroom)", "install_day": "Monday at moonrise, Chandra hora preferred", "material": "Silver (copper acceptable)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Chandra in friendly Meena", "stotra": { "eyebrow": "Annapurna Stotram", "title": "Shri Annapurna Stotram", "sub": "Hymn to Annapurna the mother goddess of nourishment", "verse": "Nityananda kari varabhayakari saundarya ratnakari<br>Nirdhutakhila ghosha nishkala para jyotih svarupa mayi<br>Atma rama shivatmakena manasa sarvada karpasi<br>Bhiksham dehi kripa avalambana kari mata annapurneshwari<br>Adaksha dana kshamaa shakti naveena janma avana kari<br>Bhiksham dehi kripa avalambana kari mata annapurneshwari", "translation": "Giver of eternal bliss, granter of fearlessness, the ocean of beauty, who removes all the uproar of the world, the pure supreme light itself. With a mind ever delighting in the self and united with Shiva, giving at all times. Grant me food, O compassionate mother Annapurna Ishwari. Giver of patience, strength, and renewed life, grant me food, compassionate mother Annapurna Ishwari. The Annapurna Stotram is the classical hymn to the mother goddess of nourishment and is the perfect daily recitation for a chart where the mother-karaka sits in the moksha house and the mother signature is wired into the inner life.", "url": "https://stotra.vastucart.in/stotra/annapurna-stotram" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Chandra Yantra for the moksha Moon",
+      "yantra": {
+        "name": "Chandra Yantra",
+        "sanskrit": "चन्द्र यन्त्र",
+        "description": "The Chandra Yantra is the geometric form of the lunar channel. For Moon in the Mesh 12th house install it in the north-west corner of the bedroom where the native sleeps, the direction classically assigned to Chandra and the sleep-dream dimension. Monday at moonrise is the installation window, and the yantra should be consecrated with Annapurna Stotram recitation and a milk libation.",
+        "direction": "North-west corner (bedroom)",
+        "install_day": "Monday at moonrise, Chandra hora preferred",
+        "material": "Silver (copper acceptable)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Chandra in friendly Meena",
+      "stotra": {
+        "eyebrow": "Annapurna Stotram",
+        "title": "Shri Annapurna Stotram",
+        "sub": "Hymn to Annapurna the mother goddess of nourishment",
+        "verse": "Nityananda kari varabhayakari saundarya ratnakari<br>Nirdhutakhila ghosha nishkala para jyotih svarupa mayi<br>Atma rama shivatmakena manasa sarvada karpasi<br>Bhiksham dehi kripa avalambana kari mata annapurneshwari<br>Adaksha dana kshamaa shakti naveena janma avana kari<br>Bhiksham dehi kripa avalambana kari mata annapurneshwari",
+        "translation": "Giver of eternal bliss, granter of fearlessness, the ocean of beauty, who removes all the uproar of the world, the pure supreme light itself. With a mind ever delighting in the self and united with Shiva, giving at all times. Grant me food, O compassionate mother Annapurna Ishwari. Giver of patience, strength, and renewed life, grant me food, compassionate mother Annapurna Ishwari. The Annapurna Stotram is the classical hymn to the mother goddess of nourishment and is the perfect daily recitation for a chart where the mother-karaka sits in the moksha house and the mother signature is wired into the inner life.",
+        "url": "https://stotra.vastucart.in/stotra/annapurna-stotram"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +700,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your twelfth house Moon placement", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Travel muhurta", "sub": "Auspicious dates for the foreign signature", "url": "https://muhurta.vastucart.in/travel-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Education muhurta", "sub": "Auspicious dates for contemplative study", "url": "https://muhurta.vastucart.in/education-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Annapurna Stotram", "sub": "Mother of nourishment hymn", "url": "https://stotra.vastucart.in/stotra/annapurna-stotram", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Chandra Dosh Nivaran", "sub": "Remedial recitation for afflicted Moon", "url": "https://stotra.vastucart.in/stotra/chandra-dosh-nivaran-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Chandra Stotra", "sub": "Classical lunar invocation", "url": "https://stotra.vastucart.in/stotra/chandra-stotra", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Shiva Ashtottara", "sub": "Shiva as the carrier of Chandra", "url": "https://stotra.vastucart.in/stotra/shiva-ashtottara-stotram", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Narayana Kavacham", "sub": "Vishnu protective hymn for Jupiter dispositor", "url": "https://stotra.vastucart.in/stotra/narayana-kavacham", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Pearl and Moti source", "sub": "Certified Chandra gemstone", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Chandra yantra store", "sub": "Silver Chandra yantra for the bedroom", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Vyaya Bhava Moon analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your twelfth house Moon placement",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Travel muhurta",
+            "sub": "Auspicious dates for the foreign signature",
+            "url": "https://muhurta.vastucart.in/travel-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Education muhurta",
+            "sub": "Auspicious dates for contemplative study",
+            "url": "https://muhurta.vastucart.in/education-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Annapurna Stotram",
+            "sub": "Mother of nourishment hymn",
+            "url": "https://stotra.vastucart.in/stotra/annapurna-stotram",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Chandra Dosh Nivaran",
+            "sub": "Remedial recitation for afflicted Moon",
+            "url": "https://stotra.vastucart.in/stotra/chandra-dosh-nivaran-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Chandra Stotra",
+            "sub": "Classical lunar invocation",
+            "url": "https://stotra.vastucart.in/stotra/chandra-stotra",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Shiva Ashtottara",
+            "sub": "Shiva as the carrier of Chandra",
+            "url": "https://stotra.vastucart.in/stotra/shiva-ashtottara-stotram",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Narayana Kavacham",
+            "sub": "Vishnu protective hymn for Jupiter dispositor",
+            "url": "https://stotra.vastucart.in/stotra/narayana-kavacham",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Pearl and Moti source",
+            "sub": "Certified Chandra gemstone",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Chandra yantra store",
+            "sub": "Silver Chandra yantra for the bedroom",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Vyaya Bhava Moon analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +800,130 @@
         "title": "Is your Vyaya Bhava Moon carrying the mother-as-moksha signature?",
         "subtitle": "Get a full personalised analysis of your twelfth house Chandra, the dream significance, and the foreign home pattern.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Annapurna Stotram", "url": "https://stotra.vastucart.in/stotra/annapurna-stotram", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Annapurna Stotram",
+            "url": "https://stotra.vastucart.in/stotra/annapurna-stotram",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Moon in 12th house, Mesh Lagna",
       "items": [
-        { "q": "Is Moon in the 12th house bad for Mesh Lagna?", "a": "No, the popular reading that frames Moon in the 12th as exclusively negative is overstated. The friendly Meena sign softens the classical dushthana reduction considerably because both the Moon and the sign share watery qualities that reinforce each other. The placement produces specific structural patterns (mother-as-moksha, foreign home signature, vivid dream life, contemplative depth) that are not weaknesses but reassignments of the Moon's gifts from the active emotional register to the contemplative-dissolution register the 12th house rules. The paksha reading should still be confirmed because waxing and waning Moon produce different functional intensities." },
-        { "q": "What does the 4L in 12H signify for Aries natives?", "a": "The 4L is the lord of home, mother, emotional foundation, and inner sukha, and placing it in the 12H creates a specific configuration where these themes become structurally tied to the moksha, foreign, and dissolution dimensions the 12th house rules. Mothers of natives with this placement are often spiritually oriented, geographically distant for periods of the native's adult life, involved in charitable or service work, or carry a quality of inwardness that distinguishes them from more active mothers. Home tends to be foreign or temporary for significant portions of the native's adult life, and the inner sense of belonging runs through contemplation rather than grounded attachment." },
-        { "q": "Does Moon in 12th house disturb sleep?", "a": "Paradoxically the opposite: Moon in 12th produces natives who value sleep unusually highly and often sleep more than peers, but the sleep itself carries unusual vividness and dream intensity. The 12th house rules sleep directly, and Moon here gives the native a rich nocturnal mental life where dreams often carry predictive, instructive, or unusually significant content. Many natives keep dream journals from early adulthood and treat their dream material as meaningful information. Sleep disruption occurs only when the native neglects sleep entirely, and the native usually corrects this quickly because the body signals its need for sleep more strongly than other charts do." },
-        { "q": "How does Moon in friendly Meena soften the dushthana reading?", "a": "Meena is ruled by Jupiter and is specifically a water sign, and both the sign ruler and the element are practically supportive for the Moon even though the technical Moon-Jupiter relationship is classified as neutral. The two waters reinforce each other rather than fighting, and the Jupiter lordship adds the dharmic and protective dimension that softens the dushthana reduction. The placement still carries the 12th house dushthana reduction at a baseline level, but the friendly sign pulls the functional output up into the comfortable mid-strength register rather than leaving it at the purely weak expression popular astrology predicts." },
-        { "q": "Which gemstone should Mesh Lagna wear for Moon in 12th?", "a": "Pearl (Moti) is the primary gemstone and is recommended with confidence here because the friendly Meena sign softens the dushthana reduction enough to support the gemstone protocol. Wear a natural Basra or saltwater pearl of minimum five ratti set in silver on the small finger of the right hand on a Monday at sunrise after Chandra mantra recitation. The paksha reading should still be confirmed by a practising Jyotishi before permanent wearing because shukla paksha natives need lighter gemstone work while krishna paksha natives need stronger compensation. The placement responds well to the pearl protocol once the check is complete." }
+        {
+          "q": "Is Moon in the 12th house bad for Mesh Lagna?",
+          "a": "No, the popular reading that frames Moon in the 12th as exclusively negative is overstated. The friendly Meena sign softens the classical dushthana reduction considerably because both the Moon and the sign share watery qualities that reinforce each other. The placement produces specific structural patterns (mother-as-moksha, foreign home signature, vivid dream life, contemplative depth) that are not weaknesses but reassignments of the Moon's gifts from the active emotional register to the contemplative-dissolution register the 12th house rules. The paksha reading should still be confirmed because waxing and waning Moon produce different functional intensities."
+        },
+        {
+          "q": "What does the 4L in 12H signify for Aries natives?",
+          "a": "The 4L is the lord of home, mother, emotional foundation, and inner sukha, and placing it in the 12H creates a specific configuration where these themes become structurally tied to the moksha, foreign, and dissolution dimensions the 12th house rules. Mothers of natives with this placement are often spiritually oriented, geographically distant for periods of the native's adult life, involved in charitable or service work, or carry a quality of inwardness that distinguishes them from more active mothers. Home tends to be foreign or temporary for significant portions of the native's adult life, and the inner sense of belonging runs through contemplation rather than grounded attachment."
+        },
+        {
+          "q": "Does Moon in 12th house disturb sleep?",
+          "a": "Paradoxically the opposite: Moon in 12th produces natives who value sleep unusually highly and often sleep more than peers, but the sleep itself carries unusual vividness and dream intensity. The 12th house rules sleep directly, and Moon here gives the native a rich nocturnal mental life where dreams often carry predictive, instructive, or unusually significant content. Many natives keep dream journals from early adulthood and treat their dream material as meaningful information. Sleep disruption occurs only when the native neglects sleep entirely, and the native usually corrects this quickly because the body signals its need for sleep more strongly than other charts do."
+        },
+        {
+          "q": "How does Moon in friendly Meena soften the dushthana reading?",
+          "a": "Meena is ruled by Jupiter and is specifically a water sign, and both the sign ruler and the element are practically supportive for the Moon even though the technical Moon-Jupiter relationship is classified as neutral. The two waters reinforce each other rather than fighting, and the Jupiter lordship adds the dharmic and protective dimension that softens the dushthana reduction. The placement still carries the 12th house dushthana reduction at a baseline level, but the friendly sign pulls the functional output up into the comfortable mid-strength register rather than leaving it at the purely weak expression popular astrology predicts."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Moon in 12th?",
+          "a": "Pearl (Moti) is the primary gemstone and is recommended with confidence here because the friendly Meena sign softens the dushthana reduction enough to support the gemstone protocol. Wear a natural Basra or saltwater pearl of minimum five ratti set in silver on the small finger of the right hand on a Monday at sunrise after Chandra mantra recitation. The paksha reading should still be confirmed by a practising Jyotishi before permanent wearing because shukla paksha natives need lighter gemstone work while krishna paksha natives need stronger compensation. The placement responds well to the pearl protocol once the check is complete."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Moksha reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Chandra in the fourth, swakshetra Karka", "sub": "Moon own sign in the home angle, the grounded contrast", "href": "/jyotish/graha-in-bhava/moon-4th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Guru in the twelfth, swakshetra Meena", "sub": "Jupiter own sign in the same moksha house, the dispositor parallel", "href": "/jyotish/graha-in-bhava/jupiter-12th-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Chandra in the ninth, mother as dharmic figure", "sub": "Moon in the dharma trikona, the contrast to the moksha house mother", "href": "/jyotish/graha-in-bhava/moon-9th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Chandra in the fourth, swakshetra Karka",
+          "sub": "Moon own sign in the home angle, the grounded contrast",
+          "href": "/jyotish/graha-in-bhava/moon-4th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Guru in the twelfth, swakshetra Meena",
+          "sub": "Jupiter own sign in the same moksha house, the dispositor parallel",
+          "href": "/jyotish/graha-in-bhava/jupiter-12th-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Chandra in the ninth, mother as dharmic figure",
+          "sub": "Moon in the dharma trikona, the contrast to the moksha house mother",
+          "href": "/jyotish/graha-in-bhava/moon-9th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

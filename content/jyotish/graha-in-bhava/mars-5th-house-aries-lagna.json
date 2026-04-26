@@ -6,40 +6,132 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 11,
   "status": "ready",
   "published_at": "2026-04-13T00:00:00.000Z",
   "updated_at": "2026-04-13T00:00:00.000Z",
-  "tags": ["Mars in 5th house", "Mangal", "Mesh Lagna", "Aries ascendant", "Putra Bhava", "Simha rashi", "lagna lord in 5th", "trikona Mars", "Mangal mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Mars in 5th house",
+    "Mangal",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Putra Bhava",
+    "Simha rashi",
+    "lagna lord in 5th",
+    "trikona Mars",
+    "Mangal mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "mangal",
   "house_number": 5,
   "lagna_id": "mesha",
   "meta": {
     "title": "Mars in 5th House Mesh Lagna, Putra Bhava Mars Guide",
-    "description": "Mars in 5th house Mesh Lagna, Mangal in Putra Bhava Simha. Children, creativity, speculation and remedies by Pt. Raghav Sharma.",
+    "description": "Mars in 5th house Mesh Lagna, Mangal in Putra Bhava Simha. Children, creativity, speculation and remedies by VastuCart Editorial.",
     "focus_keyword": "Mars in 5th house",
-    "secondary_keywords": ["Mesh Lagna", "Putra Bhava", "Mars Simha", "Aries ascendant", "Mangal"],
-    "lsi_keywords": ["putra bhava", "mangal simha", "mangal mahadasha", "lagna lord fifth", "children karaka mars", "speculation risk mars", "creativity passion mars", "trikona mars", "red coral moonga", "fifth house sport"],
-    "keywords": ["Mars in 5th house Mesh Lagna", "Mangal in Putra Bhava", "Mesh lagna 5th Mars", "Aries ascendant children mars", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Putra Bhava",
+      "Mars Simha",
+      "Aries ascendant",
+      "Mangal"
+    ],
+    "lsi_keywords": [
+      "putra bhava",
+      "mangal simha",
+      "mangal mahadasha",
+      "lagna lord fifth",
+      "children karaka mars",
+      "speculation risk mars",
+      "creativity passion mars",
+      "trikona mars",
+      "red coral moonga",
+      "fifth house sport"
+    ],
+    "keywords": [
+      "Mars in 5th house Mesh Lagna",
+      "Mangal in Putra Bhava",
+      "Mesh lagna 5th Mars",
+      "Aries ascendant children mars",
+      "Vedic astrology"
+    ],
     "og_title": "Mars in the 5th House of Mesh Lagna, Putra Bhava Warrior",
     "og_description": "Mangal in Putra Bhava for Aries ascendant, lagna lord in Simha, creativity and children study by a practising Jyotishi.",
     "og_image": "/og/mars-5th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-5th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Mars in 5th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-5th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Mars in 5th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-5th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Mars in 5th house",
-    "secondary_keywords": ["Mesh Lagna", "Putra Bhava", "Mars Simha", "Aries ascendant", "Mangal"],
-    "lsi_terms": ["putra bhava", "mangal simha", "mangal mahadasha", "lagna lord fifth", "children karaka mars", "speculation risk mars", "creativity passion mars", "trikona mars", "red coral moonga", "fifth house sport"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Putra Bhava",
+      "Mars Simha",
+      "Aries ascendant",
+      "Mangal"
+    ],
+    "lsi_terms": [
+      "putra bhava",
+      "mangal simha",
+      "mangal mahadasha",
+      "lagna lord fifth",
+      "children karaka mars",
+      "speculation risk mars",
+      "creativity passion mars",
+      "trikona mars",
+      "red coral moonga",
+      "fifth house sport"
+    ],
     "seed_queries": [
-      "mars in 5th house aries lagna", "mangal in 5th house mesh lagna", "mars in simha 5th aries", "mangal in putra bhava mesh", "mars in 5th house effects aries", "mars in leo mesh lagna", "mars in 5th house children aries", "mars in 5th house creativity aries", "mars in 5th house speculation aries", "mars in 5th house career aries", "mars in 5th house remedies", "red coral for mars 5th aries", "moonga for mesh lagna 5th", "is mars manglik in 5th house", "is mars good in 5th house aries", "mars in 5th house aries sports", "mars in 5th house aries gambling", "mars in 5th house aries education", "mars in leo aries ascendant", "mangal putra bhava simha", "mars 5th house aries prediction", "mars in fifth house mesh lagna", "mars 5th house mesh ascendant", "mangal in mesh lagna 5th", "mars simha lagna mesh chart", "mars 5th house mesh lagna dasha", "mangal mesh lagna children", "mars in leo aries ascendant career", "lagna lord fifth aries raja yoga", "trikona mars aries lagna"
+      "mars in 5th house aries lagna",
+      "mangal in 5th house mesh lagna",
+      "mars in simha 5th aries",
+      "mangal in putra bhava mesh",
+      "mars in 5th house effects aries",
+      "mars in leo mesh lagna",
+      "mars in 5th house children aries",
+      "mars in 5th house creativity aries",
+      "mars in 5th house speculation aries",
+      "mars in 5th house career aries",
+      "mars in 5th house remedies",
+      "red coral for mars 5th aries",
+      "moonga for mesh lagna 5th",
+      "is mars manglik in 5th house",
+      "is mars good in 5th house aries",
+      "mars in 5th house aries sports",
+      "mars in 5th house aries gambling",
+      "mars in 5th house aries education",
+      "mars in leo aries ascendant",
+      "mangal putra bhava simha",
+      "mars 5th house aries prediction",
+      "mars in fifth house mesh lagna",
+      "mars 5th house mesh ascendant",
+      "mangal in mesh lagna 5th",
+      "mars simha lagna mesh chart",
+      "mars 5th house mesh lagna dasha",
+      "mangal mesh lagna children",
+      "mars in leo aries ascendant career",
+      "lagna lord fifth aries raja yoga",
+      "trikona mars aries lagna"
     ],
     "questions": [
       "Is Mars in the 5th house good for Mesh Lagna?",
@@ -49,36 +141,131 @@
       "Which gemstone should Mesh Lagna wear for Mars in 5th?"
     ],
     "lingual_variations": {
-      "mangal": ["mangal", "mars", "kuja", "bhauma", "angaraka", "mangala"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "mangal": [
+        "mangal",
+        "mars",
+        "kuja",
+        "bhauma",
+        "angaraka",
+        "mangala"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Children complication nuance for fiery 5H Mars", "Speculation discipline practice", "Creative sports careers for this placement"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Children complication nuance for fiery 5H Mars",
+      "Speculation discipline practice",
+      "Creative sports careers for this placement"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "mars-5th-house-aries-lagna-hero.webp", "filename_og": "mars-5th-house-aries-lagna-og.png", "alt": "Golden crimson Mangal dancing in the fifth house of a Mesh Lagna kundali", "caption": "Mangal sits in Putra Bhava for Aries ascendant natives, the lagna lord in Simha producing the creative-competitive fire signature.", "width": 1200, "height": 630, "format": "webp", "style": "gold and crimson editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the fifth house glowing warm gold and crimson, a stylised Mars symbol dancing with a flame motif, traditional Vedic palette, refined manuscript style, no people.", "negative_prompt": "photorealistic mars, watermark, text, neon, cartoon" },
-    { "filename": "mars-5th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Mars placed in the fifth house of Mesh", "caption": "The North Indian birth chart with Mangal marked in the fifth house Putra Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the lower-left fifth house highlighted in gold-crimson with a Mars symbol marked Ma, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "mars-5th-house-aries-lagna-red-coral.webp", "alt": "Natural red coral in gold ring, the gemstone for Mars 5th house Mesh Lagna", "caption": "Red coral suits a trikona Mars in Simha because the friendly sign plus the trine house combination supports direct amplification cleanly.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural Italian red coral set in a gold ring, deep orange-red colour, oval cabochon cut, on dark gold velvet with warm lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "mars-5th-house-aries-lagna-surya-mantra.webp", "alt": "Surya mantra Sanskrit verse on parchment with flame motif", "caption": "Surya recitation honours the Simha sign lord and complements the Hanuman Chalisa daily practice for this placement.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Surya Gayatri, hand-painted on aged parchment with gold leaf borders, faint flame motif in the background, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "mars-5th-house-aries-lagna-hero.webp",
+      "filename_og": "mars-5th-house-aries-lagna-og.png",
+      "alt": "Golden crimson Mangal dancing in the fifth house of a Mesh Lagna kundali",
+      "caption": "Mangal sits in Putra Bhava for Aries ascendant natives, the lagna lord in Simha producing the creative-competitive fire signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "gold and crimson editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the fifth house glowing warm gold and crimson, a stylised Mars symbol dancing with a flame motif, traditional Vedic palette, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic mars, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "mars-5th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Mars placed in the fifth house of Mesh",
+      "caption": "The North Indian birth chart with Mangal marked in the fifth house Putra Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the lower-left fifth house highlighted in gold-crimson with a Mars symbol marked Ma, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "mars-5th-house-aries-lagna-red-coral.webp",
+      "alt": "Natural red coral in gold ring, the gemstone for Mars 5th house Mesh Lagna",
+      "caption": "Red coral suits a trikona Mars in Simha because the friendly sign plus the trine house combination supports direct amplification cleanly.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural Italian red coral set in a gold ring, deep orange-red colour, oval cabochon cut, on dark gold velvet with warm lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "mars-5th-house-aries-lagna-surya-mantra.webp",
+      "alt": "Surya mantra Sanskrit verse on parchment with flame motif",
+      "caption": "Surya recitation honours the Simha sign lord and complements the Hanuman Chalisa daily practice for this placement.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Surya Gayatri, hand-painted on aged parchment with gold leaf borders, faint flame motif in the background, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Mars in the 5th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Mangal in Putra Bhava for Aries ascendant natives. The lagna lord in Sun's friendly sign Simha, a trikona raja yoga seed, fiery creative expression, children complications to watch, and the speculation discipline the placement demands.",
     "meta": [
-      { "icon": "clock", "value": "11 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "11 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Mangal", "tone": "teal" },
-      { "label": "Putra Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Simha rashi" },
-      { "label": "Lagna lord in trikona" },
-      { "label": "Not Manglik" }
+      {
+        "label": "Mangal",
+        "tone": "teal"
+      },
+      {
+        "label": "Putra Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Simha rashi"
+      },
+      {
+        "label": "Lagna lord in trikona"
+      },
+      {
+        "label": "Not Manglik"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +273,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Mangal", "sub": "Mars", "icon": "mars" },
-        { "label": "Bhava", "value": "5th", "sub": "Putra Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Strong", "sub": "Friendly sign trikona", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Mangal",
+          "sub": "Mars",
+          "icon": "mars"
+        },
+        {
+          "label": "Bhava",
+          "value": "5th",
+          "sub": "Putra Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Strong",
+          "sub": "Friendly sign trikona",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +312,103 @@
       "heading": "When the warrior planet meets the house of creative fire",
       "html": "<p>The fifth house is Putra Bhava, the trine of intelligence, children, creative self-expression, speculation, purva punya (merit from previous lives), performing arts, sports, and the capacity to take creative and financial risks. Classical texts treat it as the first trikona after the lagna itself and one of the most benefic houses in any chart. A planet in the fifth is said to carry the chart's creative and blessing current, and for malefics specifically, the trikona softens the raw malefic nature and channels it toward creative action rather than destructive action. Mars in the fifth does not lose his fire, he directs it through the creative and competitive domains the house rules, which produces natives with unusual artistic passion paired with the willingness to compete for recognition in the specific field they commit to.</p><p>Simha rashi adds the second layer. Surya rules Simha, Surya is a classical friend of Mars, and the sign itself is fixed fire, royal, dramatic, and performance-oriented. Mars in Simha finds himself in a sign that matches his temperament while adding the Sun's natural authority and recognition-seeking quality. Natives with this combination carry Aries courage through a Leo performance instinct, producing fighters who also perform, athletes who also lead, creative directors who can execute as well as conceive. The shadow layer is the fiery children signature. The 5th house rules children, Mars in the 5th adds combat heat to the parenting channel, and classical texts specifically note that natives with this placement may have fewer children than peers, may experience complications with the first pregnancy, or may have children with unusually strong-willed temperaments that challenge conventional parenting. The warning is not absolute, modern medical care has softened the classical complication reading significantly, but practitioners should always verify the combination carefully against the 5th lord's condition and advise the native to approach family planning with slightly more medical attention than the average case.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "Mars in Putra Bhava is not a placement for quiet creativity, it is the chart of the performer-fighter, the athlete-artist, and the parent whose children will be as fierce as the native themselves." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "Mars in Putra Bhava is not a placement for quiet creativity, it is the chart of the performer-fighter, the athlete-artist, and the parent whose children will be as fierce as the native themselves."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "mars", "title": "Mangal, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "mars",
+          "title": "Mangal, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Courage, energy, sibling, land" },
-            { "k": "Own signs", "v": "Mesha (Aries), Vrishchika (Scorpio)" },
-            { "k": "Uchha (exaltation)", "v": "Makara at 28 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Karka at 28 degrees", "tone": "bad" },
-            { "k": "Friends", "v": "Sun, Moon, Jupiter" },
-            { "k": "Sign-friendly", "v": "Simha (Sun sign)", "tone": "good" },
-            { "k": "Element", "v": "Fire (Agni Tattva)" },
-            { "k": "Role for Mesh", "v": "Lagna lord and 8th lord" }
+            {
+              "k": "Karakatva",
+              "v": "Courage, energy, sibling, land"
+            },
+            {
+              "k": "Own signs",
+              "v": "Mesha (Aries), Vrishchika (Scorpio)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Makara at 28 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Karka at 28 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Moon, Jupiter"
+            },
+            {
+              "k": "Sign-friendly",
+              "v": "Simha (Sun sign)",
+              "tone": "good"
+            },
+            {
+              "k": "Element",
+              "v": "Fire (Agni Tattva)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "Lagna lord and 8th lord"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Putra Bhava, house profile", "subtitle": "5th house significance",
+          "icon": "triangle-house",
+          "title": "Putra Bhava, house profile",
+          "subtitle": "5th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Putra, Vidya Bhava" },
-            { "k": "Rules over", "v": "Children, creativity, speculation, intelligence" },
-            { "k": "Natural sign", "v": "Simha (Leo) for Mesh" },
-            { "k": "Natural ruler", "v": "Surya (Sun)" },
-            { "k": "Body part", "v": "Heart, upper abdomen" },
-            { "k": "Trikona house", "v": "Yes, the first trine", "tone": "good" },
-            { "k": "Vedic quality", "v": "Lagna lord in trikona", "tone": "good" },
-            { "k": "Manglik status", "v": "Not a Manglik position" }
+            {
+              "k": "Sanskrit name",
+              "v": "Putra, Vidya Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Children, creativity, speculation, intelligence"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Simha (Leo) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Surya (Sun)"
+            },
+            {
+              "k": "Body part",
+              "v": "Heart, upper abdomen"
+            },
+            {
+              "k": "Trikona house",
+              "v": "Yes, the first trine",
+              "tone": "good"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Lagna lord in trikona",
+              "tone": "good"
+            },
+            {
+              "k": "Manglik status",
+              "v": "Not a Manglik position"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +450,48 @@
       "heading": "Where the creative fire channels productively",
       "html": "<p>Career paths cluster around fields that reward creative passion paired with decisive action. Sports leadership and professional coaching are among the strongest fits because the combination literally places the competitive planet in the house of performance, and natives with this placement often become the coaches, captains, and athletic leaders whose drive lifts entire teams. Many succeed in sports during their early career and transition into coaching or sports broadcasting as the body slows but the tactical mind remains sharp. Creative direction in action films, live performance, competitive entertainment, and game design work well for the same reason, the combination provides the aesthetic sensibility of the fifth house combined with the executional drive of Mars.</p><p>Competitive investment management, trading desks, and high-conviction asset management suit the combination because the 5th house rules speculation and Mars gives the decisiveness these roles require. The caveat is discipline, natives must build explicit rules around position sizing and risk limits because the unchecked fifth-house Mars impulse can produce the same catastrophic losses it produces gains, and the classical warning about speculation is real. Military education, training academy leadership, and defence instruction roles are classical fits because the combination naturally becomes the senior trainer who teaches the next generation of fighters. Surgery, particularly cardiac surgery and emergency medicine, works because the fifth house rules the heart and Mars provides the precision the work demands. Performing arts with a physical element (dance, theatrical combat, live musical performance with physical intensity) channel the placement productively. Mangal mahadasha is when the creative or competitive career typically peaks, and it almost always involves a public audience or a specific team the native leads personally.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Putra Bhava creative fire", "subtitle": "Generate your free Kundali to see the lagna lord in trikona.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Mars marked in the fifth house of Mesh", "planet": "Mangal", "house": 5, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Mangal in Putra Bhava, marked in gold-crimson" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Lower-left diamond is the 5th house of creativity" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Putra Bhava creative fire",
+        "subtitle": "Generate your free Kundali to see the lagna lord in trikona.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Mars marked in the fifth house of Mesh",
+      "planet": "Mangal",
+      "house": 5,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Mangal in Putra Bhava, marked in gold-crimson"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Lower-left diamond is the 5th house of creativity"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "Children and the Putra Bhava complication",
@@ -194,13 +504,45 @@
       "heading": "When Mars in 5th delivers its creative chapter",
       "intro_html": "<p>Mangal mahadasha is the defining window, and Surya mahadasha is especially potent because Surya is the sign lord and friend of the occupying Mars.</p>",
       "rows": [
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "The Putra Bhava activation window. Creative breakthroughs, sports or performance career peaks, children-linked events, first pregnancy windows.", "intensity": "Very high", "intensity_bar_width": 95, "intensity_bar_color": "#c94444", "highlight": true },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Sign lord of Simha, friend of Mars, natural karaka of intelligence. The most benefic window for this placement, creative recognition, authority peak, children-linked joy.", "intensity": "Very good", "intensity_bar_width": 90, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "9th lord, friend of Mars, natural karaka of children. Dharmic direction to the creativity, teaching roles, children blessing.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#e8840a" },
-        { "mahadasha": "Chandra (Moon)", "duration": "10 years", "themes": "Friend of Mars, water element balance. Emotional depth to the creative fire, public warmth, home-based creative expression.", "intensity": "Good", "intensity_bar_width": 72, "intensity_bar_color": "#7aa8cc" }
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "The Putra Bhava activation window. Creative breakthroughs, sports or performance career peaks, children-linked events, first pregnancy windows.",
+          "intensity": "Very high",
+          "intensity_bar_width": 95,
+          "intensity_bar_color": "#c94444",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "Sign lord of Simha, friend of Mars, natural karaka of intelligence. The most benefic window for this placement, creative recognition, authority peak, children-linked joy.",
+          "intensity": "Very good",
+          "intensity_bar_width": 90,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "9th lord, friend of Mars, natural karaka of children. Dharmic direction to the creativity, teaching roles, children blessing.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#e8840a"
+        },
+        {
+          "mahadasha": "Chandra (Moon)",
+          "duration": "10 years",
+          "themes": "Friend of Mars, water element balance. Emotional depth to the creative fire, public warmth, home-based creative expression.",
+          "intensity": "Good",
+          "intensity_bar_width": 72,
+          "intensity_bar_color": "#7aa8cc"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +561,140 @@
       "heading": "Gemstones for Mars in 5th house Mesh Lagna",
       "intro_html": "<p>Red coral (Moonga) is the primary stone. Ruby (Manik) is a strong secondary because it honours Surya, the Simha sign lord.</p>",
       "cards": [
-        { "name": "Moonga (Red Coral)", "role": "primary", "sub": "Mangal-strengthening stone", "icon_variant": "coral", "image_slug": "red-coral", "items": [ { "k": "Metal", "v": "Gold (trikona preferred)" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Tuesday morning" }, { "k": "Min weight", "v": "6 to 8 Ratti" } ] },
-        { "name": "Manik (Ruby)", "role": "secondary", "sub": "Honours Surya, the Simha sign lord", "icon_variant": "ruby", "image_slug": "ruby", "items": [ { "k": "Metal", "v": "Gold" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Sunday, sunrise" }, { "k": "Min weight", "v": "3 to 5 Ratti" } ] },
-        { "name": "Consult before wearing Moonga", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Moonga (Red Coral)",
+          "role": "primary",
+          "sub": "Mangal-strengthening stone",
+          "icon_variant": "coral",
+          "image_slug": "red-coral",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold (trikona preferred)"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Tuesday morning"
+            },
+            {
+              "k": "Min weight",
+              "v": "6 to 8 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Manik (Ruby)",
+          "role": "secondary",
+          "sub": "Honours Surya, the Simha sign lord",
+          "icon_variant": "ruby",
+          "image_slug": "ruby",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Sunday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "3 to 5 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Moonga",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Always consult a qualified Jyotishi before wearing any gemstone, even a well-supported one. Chart review verifies the combination before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Mars in 5th house",
       "intro_html": "<p>The Mangal rudraksha is the Teen Mukhi, with the Ek Mukhi as the Surya sign-lord complement for this specific placement.</p>",
       "beads": [
-        { "mukhi": 3, "name": "Teen Mukhi Rudraksha", "sub": "Ruled by Agni and Mangal", "benefit": "The direct Mars rudraksha. Amplifies the trikona blessing, stabilises the creative-competitive fire, and is the primary bead for any trine-house Mars. Worn after Tuesday abhishek." },
-        { "mukhi": 1, "name": "Ek Mukhi Rudraksha", "sub": "Ruled by Surya, the Simha sign lord", "benefit": "The rarest and most revered rudraksha. Honours Surya as the sign lord of Simha and amplifies the creative leadership channel of this specific placement. Secondary bead to Teen Mukhi, worn after Sunday puja." }
+        {
+          "mukhi": 3,
+          "name": "Teen Mukhi Rudraksha",
+          "sub": "Ruled by Agni and Mangal",
+          "benefit": "The direct Mars rudraksha. Amplifies the trikona blessing, stabilises the creative-competitive fire, and is the primary bead for any trine-house Mars. Worn after Tuesday abhishek."
+        },
+        {
+          "mukhi": 1,
+          "name": "Ek Mukhi Rudraksha",
+          "sub": "Ruled by Surya, the Simha sign lord",
+          "benefit": "The rarest and most revered rudraksha. Honours Surya as the sign lord of Simha and amplifies the creative leadership channel of this specific placement. Secondary bead to Teen Mukhi, worn after Sunday puja."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Mangal Yantra for the Putra Bhava fire", "yantra": { "name": "Mangal Yantra", "sanskrit": "मंगल यन्त्र", "description": "The Mangal Yantra is the geometric form of the warrior fire channel. For a Putra Bhava Mars install it in the east wall of the home temple alongside a Surya Yantra on the south-east wall to honour the sign lord. Tuesday sunrise in Mangal hora is the ideal installation window.", "direction": "East wall (with Surya yantra on SE)", "install_day": "Tuesday sunrise, Mangal hora", "material": "Gold (trikona preferred) or copper", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for the Putra Bhava Mangal", "stotra": { "eyebrow": "Mangal Stotra", "title": "Shri Mangal Stotra", "sub": "The classical daily hymn to the warrior planet, recited on Tuesday morning", "verse": "Dharanee garbha sambhootam vidyut kaanti samaprabham<br>Kumaram shakti hastam cha mangalam pranamaamyaham<br>Lohito adbhuta roopascha sainyaadhyakshah shatrujit<br>Vrishti kartaa paaheemaam tvam mangalo gnanavardhanah", "translation": "Born of the womb of the Earth, radiant like lightning, the youth holding the spear, I bow to Mangal. Red, of wondrous form, commander of armies, conqueror of enemies, bringer of rain, protect me, O Mangal, increaser of wisdom. For a trikona Mars in Simha, the daily Mangal Stotra anchors the creative-competitive fire alongside the Hanuman Chalisa recited at dusk.", "url": "https://stotra.vastucart.in/stotra/mangal-stotra" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Mangal Yantra for the Putra Bhava fire",
+      "yantra": {
+        "name": "Mangal Yantra",
+        "sanskrit": "मंगल यन्त्र",
+        "description": "The Mangal Yantra is the geometric form of the warrior fire channel. For a Putra Bhava Mars install it in the east wall of the home temple alongside a Surya Yantra on the south-east wall to honour the sign lord. Tuesday sunrise in Mangal hora is the ideal installation window.",
+        "direction": "East wall (with Surya yantra on SE)",
+        "install_day": "Tuesday sunrise, Mangal hora",
+        "material": "Gold (trikona preferred) or copper",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for the Putra Bhava Mangal",
+      "stotra": {
+        "eyebrow": "Mangal Stotra",
+        "title": "Shri Mangal Stotra",
+        "sub": "The classical daily hymn to the warrior planet, recited on Tuesday morning",
+        "verse": "Dharanee garbha sambhootam vidyut kaanti samaprabham<br>Kumaram shakti hastam cha mangalam pranamaamyaham<br>Lohito adbhuta roopascha sainyaadhyakshah shatrujit<br>Vrishti kartaa paaheemaam tvam mangalo gnanavardhanah",
+        "translation": "Born of the womb of the Earth, radiant like lightning, the youth holding the spear, I bow to Mangal. Red, of wondrous form, commander of armies, conqueror of enemies, bringer of rain, protect me, O Mangal, increaser of wisdom. For a trikona Mars in Simha, the daily Mangal Stotra anchors the creative-competitive fire alongside the Hanuman Chalisa recited at dusk.",
+        "url": "https://stotra.vastucart.in/stotra/mangal-stotra"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +702,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your fifth house and trikona Mars", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Vidyarambham muhurta", "sub": "Auspicious dates for education start", "url": "https://muhurta.vastucart.in/education-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Business muhurta", "sub": "Auspicious dates for venture launch", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Mangal Stotra", "sub": "Daily hymn to the warrior planet", "url": "https://stotra.vastucart.in/stotra/mangal-stotra", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Mangal Kavacham", "sub": "Protective armour stotra for Mars", "url": "https://stotra.vastucart.in/stotra/mangal-kavacham", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Aditya Hridayam", "sub": "Sunday Surya sign-lord recitation", "url": "https://stotra.vastucart.in/stotra/aditya-hridayam", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Surya Ashtakam", "sub": "Eight-verse hymn to Surya for Simha lord", "url": "https://stotra.vastucart.in/stotra/surya-ashtakam", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Hanuman Chalisa", "sub": "Daily dusk recitation for Mars courage", "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Teen Mukhi rudraksha source", "sub": "The Mangal rudraksha bead", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Mangal yantra store", "sub": "Gold Mangal yantra for trikona Mars", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "1-on-1 with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your fifth house and trikona Mars",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Vidyarambham muhurta",
+            "sub": "Auspicious dates for education start",
+            "url": "https://muhurta.vastucart.in/education-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Business muhurta",
+            "sub": "Auspicious dates for venture launch",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Mangal Stotra",
+            "sub": "Daily hymn to the warrior planet",
+            "url": "https://stotra.vastucart.in/stotra/mangal-stotra",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Mangal Kavacham",
+            "sub": "Protective armour stotra for Mars",
+            "url": "https://stotra.vastucart.in/stotra/mangal-kavacham",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Aditya Hridayam",
+            "sub": "Sunday Surya sign-lord recitation",
+            "url": "https://stotra.vastucart.in/stotra/aditya-hridayam",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Surya Ashtakam",
+            "sub": "Eight-verse hymn to Surya for Simha lord",
+            "url": "https://stotra.vastucart.in/stotra/surya-ashtakam",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Hanuman Chalisa",
+            "sub": "Daily dusk recitation for Mars courage",
+            "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Teen Mukhi rudraksha source",
+            "sub": "The Mangal rudraksha bead",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Mangal yantra store",
+            "sub": "Gold Mangal yantra for trikona Mars",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "1-on-1 with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +802,130 @@
         "title": "Is your trikona Mars carrying the creative signature?",
         "subtitle": "Get a full personalised analysis of your Putra Bhava Mars, children chapter, and speculation timing.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Mangal Stotra", "url": "https://stotra.vastucart.in/stotra/mangal-stotra", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Mangal Stotra",
+            "url": "https://stotra.vastucart.in/stotra/mangal-stotra",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Mars in 5th house, Mesh Lagna",
       "items": [
-        { "q": "Is Mars in the 5th house good for Mesh Lagna?", "a": "Yes, and it is one of the two friendly-sign trikona Mars placements in the Mesh cluster (the other being Mars in the 9th). The 5th house is a trikona carrying the chart's creative and blessing current, Simha is Sun's sign and the Sun is a classical friend of Mars, and the lagna lord in a trikona is a classical raja yoga seed. The combination produces fiery creative passion, performance ability, and competitive drive, though the children chapter needs careful practitioner reading and the speculation instinct needs explicit discipline." },
-        { "q": "What does Mars in Simha mean for an Aries ascendant?", "a": "It means the native's courage runs through Surya's royal, dramatic, performance-oriented sign. Simha is fixed fire ruled by the Sun, and a Mars in Simha produces a warrior who also performs, an athlete who also leads, a creative director who can execute as well as conceive. The combination adds Leo drama to the Aries fire, making these natives distinctly memorable presences in whatever field they commit to, from sports and creative direction to military education and surgery." },
-        { "q": "How does Mars in 5th house affect children?", "a": "Classical texts describe potentially fewer children than peers, possible first-pregnancy complications, and children with strong-willed temperaments. Modern obstetric care has softened the complication reading significantly, but the strong-willed children observation remains consistent. Natives should prepare for children who push back, avoid authoritarian parenting styles, and channel their competitive energy into supporting the child's independent ambitions. This approach raises children who become the native's closest allies in adulthood rather than battle-lines within the home." },
-        { "q": "Is Mars in 5th house good for speculation?", "a": "The chart gives the instinct and the courage to take large financial positions but does not automatically provide the discipline those positions require. The 5th house rules speculation, Mars gives decisiveness, and the combination produces natives who can win large or lose large depending on how they manage position sizing and stop-loss rules. A written trading plan, a mentor for financial decisions, or explicit risk limits are essential for channelling the speculation instinct into sustained wealth rather than feast-or-famine cycles." },
-        { "q": "Which gemstone should Mesh Lagna wear for Mars in 5th?", "a": "Red coral (Moonga) is the primary gemstone and can be worn with confidence because the friendly sign plus trikona house combination supports direct amplification cleanly. Wear a natural Italian or Mediterranean red coral of minimum six ratti set in gold (preferred for trikona Mars) or copper on the ring finger of the right hand on a Tuesday morning. Ruby (Manik) is a strong secondary stone because it honours Surya as the Simha sign lord. Always consult a practising Jyotishi before permanent wearing." }
+        {
+          "q": "Is Mars in the 5th house good for Mesh Lagna?",
+          "a": "Yes, and it is one of the two friendly-sign trikona Mars placements in the Mesh cluster (the other being Mars in the 9th). The 5th house is a trikona carrying the chart's creative and blessing current, Simha is Sun's sign and the Sun is a classical friend of Mars, and the lagna lord in a trikona is a classical raja yoga seed. The combination produces fiery creative passion, performance ability, and competitive drive, though the children chapter needs careful practitioner reading and the speculation instinct needs explicit discipline."
+        },
+        {
+          "q": "What does Mars in Simha mean for an Aries ascendant?",
+          "a": "It means the native's courage runs through Surya's royal, dramatic, performance-oriented sign. Simha is fixed fire ruled by the Sun, and a Mars in Simha produces a warrior who also performs, an athlete who also leads, a creative director who can execute as well as conceive. The combination adds Leo drama to the Aries fire, making these natives distinctly memorable presences in whatever field they commit to, from sports and creative direction to military education and surgery."
+        },
+        {
+          "q": "How does Mars in 5th house affect children?",
+          "a": "Classical texts describe potentially fewer children than peers, possible first-pregnancy complications, and children with strong-willed temperaments. Modern obstetric care has softened the complication reading significantly, but the strong-willed children observation remains consistent. Natives should prepare for children who push back, avoid authoritarian parenting styles, and channel their competitive energy into supporting the child's independent ambitions. This approach raises children who become the native's closest allies in adulthood rather than battle-lines within the home."
+        },
+        {
+          "q": "Is Mars in 5th house good for speculation?",
+          "a": "The chart gives the instinct and the courage to take large financial positions but does not automatically provide the discipline those positions require. The 5th house rules speculation, Mars gives decisiveness, and the combination produces natives who can win large or lose large depending on how they manage position sizing and stop-loss rules. A written trading plan, a mentor for financial decisions, or explicit risk limits are essential for channelling the speculation instinct into sustained wealth rather than feast-or-famine cycles."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Mars in 5th?",
+          "a": "Red coral (Moonga) is the primary gemstone and can be worn with confidence because the friendly sign plus trikona house combination supports direct amplification cleanly. Wear a natural Italian or Mediterranean red coral of minimum six ratti set in gold (preferred for trikona Mars) or copper on the ring finger of the right hand on a Tuesday morning. Ruby (Manik) is a strong secondary stone because it honours Surya as the Simha sign lord. Always consult a practising Jyotishi before permanent wearing."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Trikona specialist", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Mangal in the ninth, Dharma Bhava", "sub": "Mars in Dhanu, friendly trikona study", "href": "/jyotish/graha-in-bhava/mars-9th-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Surya in the fifth, own sign study", "sub": "Sun in Simha Putra Bhava, intelligence blessing", "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna", "icon_variant": "sun" },
-        { "title": "Guru in the fifth, trine-to-trine yoga", "sub": "Jupiter in Simha, wisdom in the creative house", "href": "/jyotish/graha-in-bhava/jupiter-5th-house-aries-lagna", "icon_variant": "teal" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Mangal in the ninth, Dharma Bhava",
+          "sub": "Mars in Dhanu, friendly trikona study",
+          "href": "/jyotish/graha-in-bhava/mars-9th-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Surya in the fifth, own sign study",
+          "sub": "Sun in Simha Putra Bhava, intelligence blessing",
+          "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna",
+          "icon_variant": "sun"
+        },
+        {
+          "title": "Guru in the fifth, trine-to-trine yoga",
+          "sub": "Jupiter in Simha, wisdom in the creative house",
+          "href": "/jyotish/graha-in-bhava/jupiter-5th-house-aries-lagna",
+          "icon_variant": "teal"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

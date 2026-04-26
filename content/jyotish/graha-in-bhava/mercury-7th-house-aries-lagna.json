@@ -6,40 +6,130 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Mercury in 7th house", "Budha Tula", "Mesh Lagna", "Aries ascendant", "Kalatra Bhava", "3L 6L kalatra", "Budha mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Mercury in 7th house",
+    "Budha Tula",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Kalatra Bhava",
+    "3L 6L kalatra",
+    "Budha mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "budha",
   "house_number": 7,
   "lagna_id": "mesha",
   "meta": {
     "title": "Mercury in 7th House Mesh Lagna, Spouse Intellectual Partner",
-    "description": "Mercury in 7th house for Mesh Lagna, Budha in friendly Tula, the 3L plus 6L in the marriage angle read by Pt. Raghav Sharma.",
+    "description": "Mercury in 7th house for Mesh Lagna, Budha in friendly Tula, the 3L plus 6L in the marriage angle by VastuCart Editorial.",
     "focus_keyword": "Mercury in 7th house",
-    "secondary_keywords": ["Mesh Lagna", "Kalatra Bhava", "Budha Tula", "Aries ascendant", "Mercury marriage"],
-    "lsi_keywords": ["kalatra bhava", "budha tula", "mercury in libra", "3rd lord seventh", "6th lord seventh", "budha mahadasha", "emerald panna", "intellectual spouse", "business partner spouse", "mercury venus friendship"],
-    "keywords": ["Mercury in 7th house Mesh Lagna", "Budha in Kalatra Bhava", "Mercury in Libra", "Mesh lagna 7th Mercury", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Kalatra Bhava",
+      "Budha Tula",
+      "Aries ascendant",
+      "Mercury marriage"
+    ],
+    "lsi_keywords": [
+      "kalatra bhava",
+      "budha tula",
+      "mercury in libra",
+      "3rd lord seventh",
+      "6th lord seventh",
+      "budha mahadasha",
+      "emerald panna",
+      "intellectual spouse",
+      "business partner spouse",
+      "mercury venus friendship"
+    ],
+    "keywords": [
+      "Mercury in 7th house Mesh Lagna",
+      "Budha in Kalatra Bhava",
+      "Mercury in Libra",
+      "Mesh lagna 7th Mercury",
+      "Vedic astrology"
+    ],
     "og_title": "Mercury in the 7th House of Mesh Lagna, Budha in Friendly Tula",
     "og_description": "Mercury in the Venusian friendly sign in the marriage angle for Aries ascendant natives, by a practising Jyotishi.",
     "og_image": "/og/mercury-7th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/mercury-7th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Mercury in 7th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mercury-7th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Mercury in 7th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mercury-7th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Mercury in 7th house",
-    "secondary_keywords": ["Mesh Lagna", "Kalatra Bhava", "Budha Tula", "Aries ascendant", "Mercury marriage"],
-    "lsi_terms": ["kalatra bhava", "budha tula", "mercury in libra", "3rd lord seventh", "6th lord seventh", "budha mahadasha", "emerald panna", "intellectual spouse", "business partner spouse", "mercury venus friendship"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Kalatra Bhava",
+      "Budha Tula",
+      "Aries ascendant",
+      "Mercury marriage"
+    ],
+    "lsi_terms": [
+      "kalatra bhava",
+      "budha tula",
+      "mercury in libra",
+      "3rd lord seventh",
+      "6th lord seventh",
+      "budha mahadasha",
+      "emerald panna",
+      "intellectual spouse",
+      "business partner spouse",
+      "mercury venus friendship"
+    ],
     "seed_queries": [
-      "mercury in 7th house aries lagna", "budha in 7th house mesh lagna", "mercury in libra mesh ascendant", "budha tula aries lagna", "mercury in kalatra bhava mesh", "mercury in 7th house marriage aries", "mercury in libra 7th aries", "budha kalatra bhava mesh", "3l in 7h aries lagna", "6l in 7h aries lagna", "mercury in 7th house remedies aries", "emerald for mercury 7th aries", "panna mesh lagna 7th", "budha mahadasha aries 7th", "mercury in 7th house aries spouse", "mercury in 7th house aries business partner", "is mercury good in 7th house aries", "mercury in libra aries ascendant career", "intellectual spouse signature", "mercury 7th house aries prediction", "mercury in seventh house mesh lagna", "mercury 7th house mesh ascendant", "budha in mesh lagna 7th", "mercury tula lagna mesh chart", "mercury 7th house mesh lagna dasha", "budha mesh lagna marriage", "spouse verbal compatibility", "mercury venus friendship", "3rd lord seventh house aries", "budha raja yoga mesh"
+      "mercury in 7th house aries lagna",
+      "budha in 7th house mesh lagna",
+      "mercury in libra mesh ascendant",
+      "budha tula aries lagna",
+      "mercury in kalatra bhava mesh",
+      "mercury in 7th house marriage aries",
+      "mercury in libra 7th aries",
+      "budha kalatra bhava mesh",
+      "3l in 7h aries lagna",
+      "6l in 7h aries lagna",
+      "mercury in 7th house remedies aries",
+      "emerald for mercury 7th aries",
+      "panna mesh lagna 7th",
+      "budha mahadasha aries 7th",
+      "mercury in 7th house aries spouse",
+      "mercury in 7th house aries business partner",
+      "is mercury good in 7th house aries",
+      "mercury in libra aries ascendant career",
+      "intellectual spouse signature",
+      "mercury 7th house aries prediction",
+      "mercury in seventh house mesh lagna",
+      "mercury 7th house mesh ascendant",
+      "budha in mesh lagna 7th",
+      "mercury tula lagna mesh chart",
+      "mercury 7th house mesh lagna dasha",
+      "budha mesh lagna marriage",
+      "spouse verbal compatibility",
+      "mercury venus friendship",
+      "3rd lord seventh house aries",
+      "budha raja yoga mesh"
     ],
     "questions": [
       "Is Mercury in the 7th house good for Mesh Lagna?",
@@ -49,36 +139,130 @@
       "Which gemstone should Mesh Lagna wear for Mercury in 7th?"
     ],
     "lingual_variations": {
-      "budha": ["budha", "mercury", "saumya", "kumara", "rauhineya"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "budha": [
+        "budha",
+        "mercury",
+        "saumya",
+        "kumara",
+        "rauhineya"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Mercury Venusian friendly sign in kalatra", "3L plus 6L in the marriage house reading", "Spouse as business partner structural prediction"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Mercury Venusian friendly sign in kalatra",
+      "3L plus 6L in the marriage house reading",
+      "Spouse as business partner structural prediction"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "mercury-7th-house-aries-lagna-hero.webp", "filename_og": "mercury-7th-house-aries-lagna-og.png", "alt": "Radiant emerald Budha in the seventh house of a Mesh Lagna kundali in Tula", "caption": "Budha sits in friendly Tula in the seventh house for Aries ascendant natives, the spouse-as-intellectual-partner signature.", "width": 1200, "height": 630, "format": "webp", "style": "luminous emerald-rose editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the seventh house glowing emerald and soft rose, a stylised Mercury caduceus above a small balance-scale Tula glyph, traditional Vedic palette of emerald, rose, gold, refined manuscript style, no people.", "negative_prompt": "photorealistic mercury, watermark, text, neon, cartoon" },
-    { "filename": "mercury-7th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Mercury in the seventh house of Mesh in Tula", "caption": "The North Indian birth chart with Budha marked in Tula on the seventh house Kalatra Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the lower-right seventh house highlighted in emerald with a Budha symbol marked Bu and small scale Tula glyph, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "mercury-7th-house-aries-lagna-emerald.webp", "alt": "Natural Colombian emerald in gold ring, gemstone for Mercury 7th house Mesh Lagna", "caption": "Emerald is the primary Budha ratna and works with confidence here because the friendly Venusian sign supports the gemstone protocol.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural Colombian emerald set in a gold ring, deep green colour, emerald cut, on dark velvet with cool lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "mercury-7th-house-aries-lagna-saraswati-kavacham.webp", "alt": "Saraswati Kavacham Sanskrit verse on parchment with veena and lotus motif", "caption": "Saraswati Kavacham recitation strengthens the speech and intellect channel through the protective armour hymn of the learning deity.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Saraswati Kavacham, hand-painted on aged parchment with gold leaf borders, faint veena and lotus motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "mercury-7th-house-aries-lagna-hero.webp",
+      "filename_og": "mercury-7th-house-aries-lagna-og.png",
+      "alt": "Radiant emerald Budha in the seventh house of a Mesh Lagna kundali in Tula",
+      "caption": "Budha sits in friendly Tula in the seventh house for Aries ascendant natives, the spouse-as-intellectual-partner signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "luminous emerald-rose editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the seventh house glowing emerald and soft rose, a stylised Mercury caduceus above a small balance-scale Tula glyph, traditional Vedic palette of emerald, rose, gold, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic mercury, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "mercury-7th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Mercury in the seventh house of Mesh in Tula",
+      "caption": "The North Indian birth chart with Budha marked in Tula on the seventh house Kalatra Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the lower-right seventh house highlighted in emerald with a Budha symbol marked Bu and small scale Tula glyph, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "mercury-7th-house-aries-lagna-emerald.webp",
+      "alt": "Natural Colombian emerald in gold ring, gemstone for Mercury 7th house Mesh Lagna",
+      "caption": "Emerald is the primary Budha ratna and works with confidence here because the friendly Venusian sign supports the gemstone protocol.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural Colombian emerald set in a gold ring, deep green colour, emerald cut, on dark velvet with cool lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "mercury-7th-house-aries-lagna-saraswati-kavacham.webp",
+      "alt": "Saraswati Kavacham Sanskrit verse on parchment with veena and lotus motif",
+      "caption": "Saraswati Kavacham recitation strengthens the speech and intellect channel through the protective armour hymn of the learning deity.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Saraswati Kavacham, hand-painted on aged parchment with gold leaf borders, faint veena and lotus motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Mercury in the 7th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Budha in Kalatra Bhava for Aries ascendant natives. Mercury in friendly Tula, the 3L plus 6L dual lordship in the marriage angle, and the spouse-as-intellectual-partner signature that defines the partnership and often the business life simultaneously.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Budha", "tone": "teal" },
-      { "label": "Kalatra Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Friendly Tula" },
-      { "label": "3L plus 6L" },
-      { "label": "Intellectual spouse" }
+      {
+        "label": "Budha",
+        "tone": "teal"
+      },
+      {
+        "label": "Kalatra Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Friendly Tula"
+      },
+      {
+        "label": "3L plus 6L"
+      },
+      {
+        "label": "Intellectual spouse"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +270,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Budha", "sub": "Mercury", "icon": "sun" },
-        { "label": "Bhava", "value": "7th", "sub": "Kalatra Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Strong", "sub": "Friendly Venusian sign", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Budha",
+          "sub": "Mercury",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "7th",
+          "sub": "Kalatra Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Strong",
+          "sub": "Friendly Venusian sign",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +309,103 @@
       "heading": "Why Mercury and Venus produce one of the cleanest classical friendships",
       "html": "<p>The Mercury-Venus friendship is one of the most structurally stable planetary relationships in classical Jyotish because the two planets share a fundamental commitment to the refined perception that both aesthetic and analytical work require. Venus is the planet of beauty, balance, and the pleasurable dimension of experience. Mercury is the planet of perception, discrimination, and the cognitive apparatus that notices the subtle differences Venus responds to. Neither planet can do its work without the other at a certain level, and classical texts recognise this by treating their relationship as friendly in both directions. When Mercury sits in Venus's own sign Tula, the friendship expresses at its cleanest: the cognitive apparatus has aesthetic material to work on, and the aesthetic material is processed with the precision that gives Venus his full reach. The result is a native whose intellect is naturally beautiful in its expression and whose aesthetic sense carries an unusual intellectual depth that pure Venus placements do not produce.</p><p>The 3L plus 6L dual lordship in the 7H is the second specific feature that needs careful reading because it shapes the partnership life with unusual specificity. The third lord brings parakrama, communication, and self-effort into the marriage angle. The sixth lord brings service, routine, daily discipline, and the willingness to engage with difficulty into the same marriage angle. The two lordships compound, and the practical effect is that the native's partnership is structurally built around two specific dimensions: verbal connection (3L) and shared work or service (6L). Natives with this placement consistently choose partners who are intellectual peers first and romantic partners second, and the partnerships that last are the ones where the two people can genuinely think together across domains and where daily collaboration is itself the texture of the relationship. The third interpretive layer is aspect. From the 7th, Budha aspects the 1st house (the lagna) with his full opposition aspect, bringing analytical intelligence into the body and identity. Natives often develop their sense of self through conversation with the spouse rather than through solitary introspection, and the partnership becomes the mirror in which the native sees themselves most clearly.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "When Mercury sits in the marriage angle of a friendly sign, the partnership becomes the chart's central workshop. The native does not find themselves in solitude. They find themselves in the conversation with the one partner who can keep up with them." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "When Mercury sits in the marriage angle of a friendly sign, the partnership becomes the chart's central workshop. The native does not find themselves in solitude. They find themselves in the conversation with the one partner who can keep up with them."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Budha, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Budha, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Intellect, speech, commerce, hands" },
-            { "k": "Own signs", "v": "Mithuna, Kanya" },
-            { "k": "Uchha (exaltation)", "v": "Kanya at 15 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Meena at 15 degrees", "tone": "bad" },
-            { "k": "Sign state here", "v": "Friendly Tula", "tone": "good" },
-            { "k": "Friends", "v": "Sun, Venus" },
-            { "k": "Element", "v": "Earth (Prithvi Tattva)" },
-            { "k": "Role for Mesh", "v": "3rd lord and 6th lord" }
+            {
+              "k": "Karakatva",
+              "v": "Intellect, speech, commerce, hands"
+            },
+            {
+              "k": "Own signs",
+              "v": "Mithuna, Kanya"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Kanya at 15 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Meena at 15 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Friendly Tula",
+              "tone": "good"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Venus"
+            },
+            {
+              "k": "Element",
+              "v": "Earth (Prithvi Tattva)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "3rd lord and 6th lord"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Kalatra Bhava, house profile", "subtitle": "7th house significance",
+          "icon": "triangle-house",
+          "title": "Kalatra Bhava, house profile",
+          "subtitle": "7th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Kalatra, Yuvati Bhava" },
-            { "k": "Rules over", "v": "Marriage, spouse, partnership, agreements, public" },
-            { "k": "Natural sign", "v": "Tula (Libra) for Mesh" },
-            { "k": "Natural ruler", "v": "Shukra (Venus)" },
-            { "k": "Body part", "v": "Lower abdomen, kidneys, pelvis" },
-            { "k": "Classical nature", "v": "Kendra, Maraka" },
-            { "k": "Vedic quality", "v": "3L plus 6L in the marriage angle", "tone": "good" },
-            { "k": "Special effect", "v": "Mercury-Venus friendship in own sign", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Kalatra, Yuvati Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Marriage, spouse, partnership, agreements, public"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Tula (Libra) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Shukra (Venus)"
+            },
+            {
+              "k": "Body part",
+              "v": "Lower abdomen, kidneys, pelvis"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Kendra, Maraka"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "3L plus 6L in the marriage angle",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Mercury-Venus friendship in own sign",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +447,48 @@
       "heading": "Where the spouse-as-partner vocation plays out",
       "html": "<p>Career paths cluster around fields that reward collaborative intelligence and the specific capacity to think in partnership rather than in isolation. The strongest single fit is consulting and advisory work with a partner, frequently the spouse. Many natives build their professional identity around a joint enterprise where husband and wife are the two founders. The chart supports this pattern because the 3L plus 6L dual lordship wires communication and service directly into the partnership angle.</p><p>Law, especially legal research and mediation practice, fits the chart because the analytical discipline combined with verbal fluency produces a temperament well-suited to collaborative legal work. Journalism and broadcasting in a duo format fit natives who want to work in front of audiences, and many build podcast or co-authored publishing careers where the conversation with the co-host is itself the product. Teaching and training partnerships work because the chart rewards collaborative pedagogy. Sales and business development suit natives who close deals through relationship. Editorial work and collaborative writing round out the list. Budha mahadasha is when the vocational identity crystallises, often through a specific partnership that opens the next phase of working life.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Budha in Kalatra Bhava placement", "subtitle": "Generate your free Kundali to see your seventh house Mercury.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Mercury marked in the seventh house of Mesh", "planet": "Budha", "house": 7, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Budha in Kalatra Bhava in friendly Tula, marked in emerald" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Lower-right diamond is the 7th house of marriage" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Budha in Kalatra Bhava placement",
+        "subtitle": "Generate your free Kundali to see your seventh house Mercury.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Mercury marked in the seventh house of Mesh",
+      "planet": "Budha",
+      "house": 7,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Budha in Kalatra Bhava in friendly Tula, marked in emerald"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Lower-right diamond is the 7th house of marriage"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The intellectual-spouse signature and the dual lordship",
@@ -194,13 +501,45 @@
       "heading": "When Mercury in 7th delivers its Kalatra Bhava chapter",
       "intro_html": "<p>Budha mahadasha is the defining window for this placement and arrives with marriage, business partnership, or the intellectual collaboration that crystallises the rest of the life.</p>",
       "rows": [
-        { "mahadasha": "Budha (Mercury)", "duration": "17 years", "themes": "The Kalatra Bhava activation window. Marriage often crystallises here, intellectual partnership flowers, business collaboration with spouse or close partner peaks.", "intensity": "Very high", "intensity_bar_width": 95, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "Lord of the sign Tula and friend of Mercury. The dispositor of Mercury here, and the most aligned planet for the placement. Marriage stabilises into refined form, sensual and aesthetic dimensions of partnership peak.", "intensity": "Very high", "intensity_bar_width": 92, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Fifth lord, friend of Mercury. Creative recognition through the partnership, public visibility for the collaborative work, dharmic dimension of the marriage strengthens.", "intensity": "Good", "intensity_bar_width": 78, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord, classical enemy of Mercury but co-located through the chart structure. Volatile window where the partnership friction either resolves into deeper collaboration or peaks as conflict.", "intensity": "Volatile", "intensity_bar_width": 72, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Budha (Mercury)",
+          "duration": "17 years",
+          "themes": "The Kalatra Bhava activation window. Marriage often crystallises here, intellectual partnership flowers, business collaboration with spouse or close partner peaks.",
+          "intensity": "Very high",
+          "intensity_bar_width": 95,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "Lord of the sign Tula and friend of Mercury. The dispositor of Mercury here, and the most aligned planet for the placement. Marriage stabilises into refined form, sensual and aesthetic dimensions of partnership peak.",
+          "intensity": "Very high",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "Fifth lord, friend of Mercury. Creative recognition through the partnership, public visibility for the collaborative work, dharmic dimension of the marriage strengthens.",
+          "intensity": "Good",
+          "intensity_bar_width": 78,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord, classical enemy of Mercury but co-located through the chart structure. Volatile window where the partnership friction either resolves into deeper collaboration or peaks as conflict.",
+          "intensity": "Volatile",
+          "intensity_bar_width": 72,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +558,140 @@
       "heading": "Gemstones for Mercury in 7th house Mesh Lagna",
       "intro_html": "<p>Emerald is the primary recommendation here because the friendly Venusian sign and the kendra placement together support the gemstone protocol with confidence.</p>",
       "cards": [
-        { "name": "Panna (Emerald)", "role": "primary", "sub": "Budha-strengthening stone for friendly-sign Mercury", "icon_variant": "emerald", "image_slug": "emerald", "items": [ { "k": "Metal", "v": "Gold or silver" }, { "k": "Finger", "v": "Small finger, right hand" }, { "k": "Day to wear", "v": "Wednesday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Green Tourmaline (alt)", "role": "secondary", "sub": "Accessible Mercury alternative", "icon_variant": "emerald", "image_slug": "emerald", "items": [ { "k": "Metal", "v": "Gold or silver" }, { "k": "Finger", "v": "Small finger" }, { "k": "Day to wear", "v": "Wednesday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Panna", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Panna (Emerald)",
+          "role": "primary",
+          "sub": "Budha-strengthening stone for friendly-sign Mercury",
+          "icon_variant": "emerald",
+          "image_slug": "emerald",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold or silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Wednesday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Green Tourmaline (alt)",
+          "role": "secondary",
+          "sub": "Accessible Mercury alternative",
+          "icon_variant": "emerald",
+          "image_slug": "emerald",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold or silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Wednesday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Panna",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Emerald at the kalatra angle amplifies partnership themes. Always consult a qualified Jyotishi before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Mercury in 7th house",
       "intro_html": "<p>The Budha-aligned rudraksha is the Char Mukhi (Four Mukhi), the bead directly ruled by Mercury and Brahma.</p>",
       "beads": [
-        { "mukhi": 4, "name": "Char Mukhi Rudraksha", "sub": "Ruled by Budha and Brahma", "benefit": "The classical Mercury rudraksha and the safest daily-wear bead for any Budha strengthening protocol. Supports the verbal-intellectual marriage signature, amplifies the partnership communication channel, and is specifically recommended for natives who build their career alongside their spouse or close partner." },
-        { "mukhi": 6, "name": "Chha Mukhi Rudraksha", "sub": "Ruled by Venus, the dispositor of Mercury here", "benefit": "The Venus bead serves as secondary support for this placement because the dispositor of Mercury here is Shukra (Venus rules Tula). Wearing the Chha Mukhi alongside the Char Mukhi compounds the placement's strength by honouring both planet and sign-lord, and specifically supports the refined aesthetic dimension of the partnership." }
+        {
+          "mukhi": 4,
+          "name": "Char Mukhi Rudraksha",
+          "sub": "Ruled by Budha and Brahma",
+          "benefit": "The classical Mercury rudraksha and the safest daily-wear bead for any Budha strengthening protocol. Supports the verbal-intellectual marriage signature, amplifies the partnership communication channel, and is specifically recommended for natives who build their career alongside their spouse or close partner."
+        },
+        {
+          "mukhi": 6,
+          "name": "Chha Mukhi Rudraksha",
+          "sub": "Ruled by Venus, the dispositor of Mercury here",
+          "benefit": "The Venus bead serves as secondary support for this placement because the dispositor of Mercury here is Shukra (Venus rules Tula). Wearing the Chha Mukhi alongside the Char Mukhi compounds the placement's strength by honouring both planet and sign-lord, and specifically supports the refined aesthetic dimension of the partnership."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Budha Yantra for the Kalatra Mercury", "yantra": { "name": "Budha Yantra", "sanskrit": "बुध यन्त्र", "description": "The Budha Yantra is the geometric form of the Mercury channel. For Mercury in the Mesh 7th house install it in the west wall of the bedroom or shared workspace, the direction classically assigned to the marriage angle. Wednesday at sunrise in Budha hora is the installation window, and the yantra should be consecrated with Saraswati Kavacham recitation and a green dub grass offering.", "direction": "West wall (bedroom or shared workspace)", "install_day": "Wednesday sunrise, Budha hora preferred", "material": "Bronze or copper (gold acceptable)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Budha in the marriage angle", "stotra": { "eyebrow": "Saraswati Kavacham", "title": "Shri Saraswati Kavacham", "sub": "Protective armour stotra for the goddess of learning", "verse": "Shrunushva muni shardula kavacham manadayakam<br>Padmanabhasya patni ya vishnu maya prakirtita<br>Prathamam shrada rupena dvitiyam kaanta rupini<br>Tritiya vag rupena chaturthi saraswati smrita<br>Panchamam kamala rupena shashti vidya ukta<br>Saraswati kavacham pathya sarvam artham labhet sada", "translation": "Listen, O best of sages, to this armour hymn that grants honour. She who is called the wife of Vishnu, Vishnu-Maya, is first in the form of Shraddha (faith), second as the beloved consort, third as the form of speech, fourth remembered as Saraswati, fifth as the lotus goddess, sixth as the goddess of learning. Those who recite the Saraswati Kavacham always attain all desired objects. The Saraswati Kavacham is the protective armour stotra for the learning goddess and is the perfect daily recitation for a chart where Mercury sits in the marriage angle and the verbal-intellectual dimension needs protection and strengthening.", "url": "https://stotra.vastucart.in/stotra/saraswati-kavacham" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Budha Yantra for the Kalatra Mercury",
+      "yantra": {
+        "name": "Budha Yantra",
+        "sanskrit": "बुध यन्त्र",
+        "description": "The Budha Yantra is the geometric form of the Mercury channel. For Mercury in the Mesh 7th house install it in the west wall of the bedroom or shared workspace, the direction classically assigned to the marriage angle. Wednesday at sunrise in Budha hora is the installation window, and the yantra should be consecrated with Saraswati Kavacham recitation and a green dub grass offering.",
+        "direction": "West wall (bedroom or shared workspace)",
+        "install_day": "Wednesday sunrise, Budha hora preferred",
+        "material": "Bronze or copper (gold acceptable)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Budha in the marriage angle",
+      "stotra": {
+        "eyebrow": "Saraswati Kavacham",
+        "title": "Shri Saraswati Kavacham",
+        "sub": "Protective armour stotra for the goddess of learning",
+        "verse": "Shrunushva muni shardula kavacham manadayakam<br>Padmanabhasya patni ya vishnu maya prakirtita<br>Prathamam shrada rupena dvitiyam kaanta rupini<br>Tritiya vag rupena chaturthi saraswati smrita<br>Panchamam kamala rupena shashti vidya ukta<br>Saraswati kavacham pathya sarvam artham labhet sada",
+        "translation": "Listen, O best of sages, to this armour hymn that grants honour. She who is called the wife of Vishnu, Vishnu-Maya, is first in the form of Shraddha (faith), second as the beloved consort, third as the form of speech, fourth remembered as Saraswati, fifth as the lotus goddess, sixth as the goddess of learning. Those who recite the Saraswati Kavacham always attain all desired objects. The Saraswati Kavacham is the protective armour stotra for the learning goddess and is the perfect daily recitation for a chart where Mercury sits in the marriage angle and the verbal-intellectual dimension needs protection and strengthening.",
+        "url": "https://stotra.vastucart.in/stotra/saraswati-kavacham"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +699,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your seventh house Mercury and dual lordship", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Marriage matching tool", "sub": "Check kalatra compatibility with the intellectual partner", "url": "https://www.vastucart.in/tools/marriage-matching", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Marriage muhurta", "sub": "Auspicious dates for the intellectual-partnership marriage", "url": "https://muhurta.vastucart.in/marriage-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Business muhurta", "sub": "Auspicious dates for joint venture launches", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Saraswati Kavacham", "sub": "Protective armour stotra for learning deity", "url": "https://stotra.vastucart.in/stotra/saraswati-kavacham", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Saraswati Stotram", "sub": "Classical Saraswati hymn", "url": "https://stotra.vastucart.in/stotra/saraswati-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Saraswati Hridayam", "sub": "Heart of Saraswati hymn", "url": "https://stotra.vastucart.in/stotra/saraswati-hridayam", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Budha Stotram", "sub": "Classical Mercury hymn", "url": "https://stotra.vastucart.in/stotra/budha-stotram", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Shri Suktam", "sub": "Lakshmi hymn for dispositor Venus", "url": "https://stotra.vastucart.in/stotra/shri-suktam", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Emerald and panna source", "sub": "Certified Mercury gemstone", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Budha yantra store", "sub": "Bronze Budha yantra for the bedroom wall", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Kalatra Mercury analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your seventh house Mercury and dual lordship",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Marriage matching tool",
+            "sub": "Check kalatra compatibility with the intellectual partner",
+            "url": "https://www.vastucart.in/tools/marriage-matching",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Marriage muhurta",
+            "sub": "Auspicious dates for the intellectual-partnership marriage",
+            "url": "https://muhurta.vastucart.in/marriage-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Business muhurta",
+            "sub": "Auspicious dates for joint venture launches",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Saraswati Kavacham",
+            "sub": "Protective armour stotra for learning deity",
+            "url": "https://stotra.vastucart.in/stotra/saraswati-kavacham",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Saraswati Stotram",
+            "sub": "Classical Saraswati hymn",
+            "url": "https://stotra.vastucart.in/stotra/saraswati-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Saraswati Hridayam",
+            "sub": "Heart of Saraswati hymn",
+            "url": "https://stotra.vastucart.in/stotra/saraswati-hridayam",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Budha Stotram",
+            "sub": "Classical Mercury hymn",
+            "url": "https://stotra.vastucart.in/stotra/budha-stotram",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Shri Suktam",
+            "sub": "Lakshmi hymn for dispositor Venus",
+            "url": "https://stotra.vastucart.in/stotra/shri-suktam",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Emerald and panna source",
+            "sub": "Certified Mercury gemstone",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Budha yantra store",
+            "sub": "Bronze Budha yantra for the bedroom wall",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Kalatra Mercury analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +799,130 @@
         "title": "Is your Kalatra Bhava Mercury carrying the intellectual-spouse signature?",
         "subtitle": "Get a full personalised analysis of your seventh house Budha, the marriage timing, and the joint-enterprise pattern the chart is preparing.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Saraswati Kavacham", "url": "https://stotra.vastucart.in/stotra/saraswati-kavacham", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Saraswati Kavacham",
+            "url": "https://stotra.vastucart.in/stotra/saraswati-kavacham",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Mercury in 7th house, Mesh Lagna",
       "items": [
-        { "q": "Is Mercury in the 7th house good for Mesh Lagna?", "a": "Yes, and structurally it is one of the cleanest partnership Mercury placements in the Aries ascendant catalogue. Three structural features converge: the friendly Venusian Tula sign welcomes Mercury through the Mercury-Venus classical friendship, the 7th house is the kendra of marriage, and Mercury is the 3L plus 6L for Mesh which wires both the parakrama (communication) and the service-and-discipline signatures directly into the marriage angle. The result is a native whose partnership is built around verbal compatibility and shared work from the start, producing the spouse-as-intellectual-partner pattern that consistently produces durable adult marriages." },
-        { "q": "Why is Mercury comfortable in Venusian Tula?", "a": "Because Mercury and Venus share a classical friendship rooted in their common commitment to the refined perception that both aesthetic and analytical work require. Venus is the planet of beauty and balance, Mercury is the planet of perception and discrimination, and neither can do its work without the other at a certain level. When Mercury sits in Venus's own sign Tula, the friendship expresses at its cleanest: the cognitive apparatus has aesthetic material to work on, and the aesthetic material is processed with the precision Venus needs. The result is a native whose intellect is naturally beautiful and whose aesthetic sense carries unusual intellectual depth." },
-        { "q": "What does the 3L plus 6L in 7H produce for marriage?", "a": "It places two specific life domains directly into the marriage angle. The 3L brings parakrama, communication, and self-effort into the partnership, meaning the native's marriage is built around dialogue as the primary substance. The 6L brings service, routine, and daily discipline into the same marriage angle, meaning the partnership often involves shared work or collaborative projects. The two compound, and the practical effect is that many natives build businesses with their spouses or find that their spouse becomes their primary professional collaborator even when the formal career is separate." },
-        { "q": "Does Mercury in 7th house guarantee an intellectual spouse?", "a": "It strongly indicates the intellectual-spouse pattern, and clinical reports for this placement are remarkably consistent. Natives with Mercury in 7th consistently choose partners who are intellectual peers first and romantic partners second, often described as marrying their best conversationalist. The partnerships that last are the ones where the two people can keep up with each other across decades and where daily verbal exchange is itself the texture of the relationship. Partnerships that lack this dimension consistently fade regardless of how well other dimensions are working. Practitioners should describe this explicitly in consultation." },
-        { "q": "Which gemstone should Mesh Lagna wear for Mercury in 7th?", "a": "Emerald (Panna) is the primary gemstone and is recommended with confidence here because the friendly Venusian sign and the kendra placement together support the gemstone protocol cleanly. Wear a natural Colombian or Zambian emerald of minimum five ratti set in gold or silver on the small finger of the right hand on a Wednesday at sunrise after Budha mantra recitation. Green tourmaline is the accessible substitute when emerald cost is prohibitive. Always consult a practising Jyotishi before permanent wearing because Mercury at the kalatra angle interacts strongly with marriage-house placements in the rest of the chart." }
+        {
+          "q": "Is Mercury in the 7th house good for Mesh Lagna?",
+          "a": "Yes, and structurally it is one of the cleanest partnership Mercury placements in the Aries ascendant catalogue. Three structural features converge: the friendly Venusian Tula sign welcomes Mercury through the Mercury-Venus classical friendship, the 7th house is the kendra of marriage, and Mercury is the 3L plus 6L for Mesh which wires both the parakrama (communication) and the service-and-discipline signatures directly into the marriage angle. The result is a native whose partnership is built around verbal compatibility and shared work from the start, producing the spouse-as-intellectual-partner pattern that consistently produces durable adult marriages."
+        },
+        {
+          "q": "Why is Mercury comfortable in Venusian Tula?",
+          "a": "Because Mercury and Venus share a classical friendship rooted in their common commitment to the refined perception that both aesthetic and analytical work require. Venus is the planet of beauty and balance, Mercury is the planet of perception and discrimination, and neither can do its work without the other at a certain level. When Mercury sits in Venus's own sign Tula, the friendship expresses at its cleanest: the cognitive apparatus has aesthetic material to work on, and the aesthetic material is processed with the precision Venus needs. The result is a native whose intellect is naturally beautiful and whose aesthetic sense carries unusual intellectual depth."
+        },
+        {
+          "q": "What does the 3L plus 6L in 7H produce for marriage?",
+          "a": "It places two specific life domains directly into the marriage angle. The 3L brings parakrama, communication, and self-effort into the partnership, meaning the native's marriage is built around dialogue as the primary substance. The 6L brings service, routine, and daily discipline into the same marriage angle, meaning the partnership often involves shared work or collaborative projects. The two compound, and the practical effect is that many natives build businesses with their spouses or find that their spouse becomes their primary professional collaborator even when the formal career is separate."
+        },
+        {
+          "q": "Does Mercury in 7th house guarantee an intellectual spouse?",
+          "a": "It strongly indicates the intellectual-spouse pattern, and clinical reports for this placement are remarkably consistent. Natives with Mercury in 7th consistently choose partners who are intellectual peers first and romantic partners second, often described as marrying their best conversationalist. The partnerships that last are the ones where the two people can keep up with each other across decades and where daily verbal exchange is itself the texture of the relationship. Partnerships that lack this dimension consistently fade regardless of how well other dimensions are working. Practitioners should describe this explicitly in consultation."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Mercury in 7th?",
+          "a": "Emerald (Panna) is the primary gemstone and is recommended with confidence here because the friendly Venusian sign and the kendra placement together support the gemstone protocol cleanly. Wear a natural Colombian or Zambian emerald of minimum five ratti set in gold or silver on the small finger of the right hand on a Wednesday at sunrise after Budha mantra recitation. Green tourmaline is the accessible substitute when emerald cost is prohibitive. Always consult a practising Jyotishi before permanent wearing because Mercury at the kalatra angle interacts strongly with marriage-house placements in the rest of the chart."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Kalatra reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Budha at the lagna, digbala Mercury", "sub": "Mercury in Mesha at the body angle, the dual lordship parallel", "href": "/jyotish/graha-in-bhava/mercury-1st-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Budha in the tenth, Saturnian speech vocation", "sub": "Mercury at the career zenith, the 3L+6L parallel in Karma Bhava", "href": "/jyotish/graha-in-bhava/mercury-10th-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Shukra in the seventh, swakshetra Tula", "sub": "Venus own sign in the same marriage angle, the contrast", "href": "/jyotish/graha-in-bhava/venus-7th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Budha at the lagna, digbala Mercury",
+          "sub": "Mercury in Mesha at the body angle, the dual lordship parallel",
+          "href": "/jyotish/graha-in-bhava/mercury-1st-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Budha in the tenth, Saturnian speech vocation",
+          "sub": "Mercury at the career zenith, the 3L+6L parallel in Karma Bhava",
+          "href": "/jyotish/graha-in-bhava/mercury-10th-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Shukra in the seventh, swakshetra Tula",
+          "sub": "Venus own sign in the same marriage angle, the contrast",
+          "href": "/jyotish/graha-in-bhava/venus-7th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

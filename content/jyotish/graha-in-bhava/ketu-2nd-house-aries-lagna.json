@@ -6,40 +6,131 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Ketu in 2nd house", "Ketu Vrishabha", "Mesh Lagna", "Aries ascendant", "Dhana Bhava", "chaya graha", "detached speech", "Ketu mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Ketu in 2nd house",
+    "Ketu Vrishabha",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Dhana Bhava",
+    "chaya graha",
+    "detached speech",
+    "Ketu mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "ketu",
   "house_number": 2,
   "lagna_id": "mesha",
   "meta": {
     "title": "Ketu in 2nd House Mesh Lagna, Detached Speech Moksha",
-    "description": "Ketu in 2nd house for Mesh Lagna, Ketu in Vrishabha, the detachment-from-wealth signature read by Pt. Raghav Sharma.",
+    "description": "Ketu in 2nd house for Mesh Lagna, Ketu in Vrishabha, the detachment-from-wealth signature by VastuCart Editorial.",
     "focus_keyword": "Ketu in 2nd house",
-    "secondary_keywords": ["Mesh Lagna", "Dhana Bhava", "Ketu Vrishabha", "Aries ascendant", "Ketu 2H"],
-    "lsi_keywords": ["dhana bhava", "ketu vrishabha", "ketu in taurus", "ketu second", "ketu mahadasha", "cats eye lehsunia", "detached wealth", "mantra speech", "family disconnect", "moksha karaka"],
-    "keywords": ["Ketu in 2nd house Mesh Lagna", "Ketu in Dhana Bhava", "Ketu in Taurus", "Mesh lagna 2nd Ketu", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dhana Bhava",
+      "Ketu Vrishabha",
+      "Aries ascendant",
+      "Ketu 2H"
+    ],
+    "lsi_keywords": [
+      "dhana bhava",
+      "ketu vrishabha",
+      "ketu in taurus",
+      "ketu second",
+      "ketu mahadasha",
+      "cats eye lehsunia",
+      "detached wealth",
+      "mantra speech",
+      "family disconnect",
+      "moksha karaka"
+    ],
+    "keywords": [
+      "Ketu in 2nd house Mesh Lagna",
+      "Ketu in Dhana Bhava",
+      "Ketu in Taurus",
+      "Mesh lagna 2nd Ketu",
+      "Vedic astrology"
+    ],
     "og_title": "Ketu in the 2nd House of Mesh Lagna, Detached Speech Moksha",
     "og_description": "Ketu in Vrishabha in the Dhana Bhava for Aries natives, by a practising Jyotishi.",
     "og_image": "/og/ketu-2nd-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/ketu-2nd-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Ketu in 2nd House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/ketu-2nd-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Ketu in 2nd House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/ketu-2nd-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Ketu in 2nd house",
-    "secondary_keywords": ["Mesh Lagna", "Dhana Bhava", "Ketu Vrishabha", "Aries ascendant", "Ketu 2H"],
-    "lsi_terms": ["dhana bhava", "ketu vrishabha", "ketu in taurus", "ketu second", "ketu mahadasha", "cats eye lehsunia", "detached wealth", "mantra speech", "family disconnect", "moksha karaka"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dhana Bhava",
+      "Ketu Vrishabha",
+      "Aries ascendant",
+      "Ketu 2H"
+    ],
+    "lsi_terms": [
+      "dhana bhava",
+      "ketu vrishabha",
+      "ketu in taurus",
+      "ketu second",
+      "ketu mahadasha",
+      "cats eye lehsunia",
+      "detached wealth",
+      "mantra speech",
+      "family disconnect",
+      "moksha karaka"
+    ],
     "seed_queries": [
-      "ketu in 2nd house aries lagna", "ketu in 2nd house mesh lagna", "ketu in taurus mesh ascendant", "ketu vrishabha aries lagna", "ketu in dhana bhava mesh", "ketu in 2nd house wealth aries", "ketu in taurus 2nd aries", "ketu dhana bhava mesh", "ketu 2h aries lagna", "ketu in 2nd house remedies aries", "cats eye for ketu 2nd aries", "lehsunia mesh lagna 2nd", "ketu mahadasha aries 2nd", "ketu in 2nd house aries family", "ketu in 2nd house aries speech", "is ketu good in 2nd house aries", "ketu in taurus aries ascendant career", "detached speech ketu", "family disconnect ketu", "ketu 2nd house aries prediction", "ketu in second house mesh lagna", "ketu 2nd house mesh ascendant", "ketu in mesh lagna 2nd", "ketu vrishabha lagna mesh chart", "ketu 2nd house mesh lagna dasha", "ketu mesh lagna wealth", "ketu moksha karaka", "ketu second house aries", "ketu dosh 2nd aries", "ketu mantra 2nd"
+      "ketu in 2nd house aries lagna",
+      "ketu in 2nd house mesh lagna",
+      "ketu in taurus mesh ascendant",
+      "ketu vrishabha aries lagna",
+      "ketu in dhana bhava mesh",
+      "ketu in 2nd house wealth aries",
+      "ketu in taurus 2nd aries",
+      "ketu dhana bhava mesh",
+      "ketu 2h aries lagna",
+      "ketu in 2nd house remedies aries",
+      "cats eye for ketu 2nd aries",
+      "lehsunia mesh lagna 2nd",
+      "ketu mahadasha aries 2nd",
+      "ketu in 2nd house aries family",
+      "ketu in 2nd house aries speech",
+      "is ketu good in 2nd house aries",
+      "ketu in taurus aries ascendant career",
+      "detached speech ketu",
+      "family disconnect ketu",
+      "ketu 2nd house aries prediction",
+      "ketu in second house mesh lagna",
+      "ketu 2nd house mesh ascendant",
+      "ketu in mesh lagna 2nd",
+      "ketu vrishabha lagna mesh chart",
+      "ketu 2nd house mesh lagna dasha",
+      "ketu mesh lagna wealth",
+      "ketu moksha karaka",
+      "ketu second house aries",
+      "ketu dosh 2nd aries",
+      "ketu mantra 2nd"
     ],
     "questions": [
       "Is Ketu in the 2nd house good for Mesh Lagna?",
@@ -49,36 +140,130 @@
       "Which remedies help Mesh Lagna with Ketu in 2nd?"
     ],
     "lingual_variations": {
-      "ketu": ["ketu", "dhvaja", "south node", "shikhi", "chaya graha"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "ketu": [
+        "ketu",
+        "dhvaja",
+        "south node",
+        "shikhi",
+        "chaya graha"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Ketu in Venus sign Vrishabha reading", "Ketu in Dhana Bhava detachment pattern", "Mantra speech as moksha signature"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Ketu in Venus sign Vrishabha reading",
+      "Ketu in Dhana Bhava detachment pattern",
+      "Mantra speech as moksha signature"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "ketu-2nd-house-aries-lagna-hero.webp", "filename_og": "ketu-2nd-house-aries-lagna-og.png", "alt": "Smoky Ketu in the second house of a Mesh Lagna kundali in Vrishabha", "caption": "Ketu sits in Vrishabha in the second house for Aries ascendant natives, the moksha karaka producing the detached-speech signature.", "width": 1200, "height": 630, "format": "webp", "style": "smoky indigo-saffron editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the second house glowing smoky indigo and deep saffron, a stylised Ketu flag symbol above a small bull Vrishabha silhouette, traditional Vedic palette of indigo, saffron, muted gold, refined manuscript style, no people.", "negative_prompt": "photorealistic, watermark, text, neon, cartoon" },
-    { "filename": "ketu-2nd-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Ketu in the second house of Mesh in Vrishabha", "caption": "The North Indian birth chart with Ketu marked in Vrishabha on the second house Dhana Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the second house highlighted in smoky indigo with a Ketu symbol marked Ke and Vrishabha bull glyph, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "ketu-2nd-house-aries-lagna-cats-eye.webp", "alt": "Natural cats eye chrysoberyl, gemstone for Ketu 2nd house Mesh Lagna", "caption": "Cats eye is the classical Ketu ratna but is recommended only after a considered chart review because of the shadow planet's complexity in Dhana Bhava.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural cats eye chrysoberyl set in a silver ring, honey golden colour with a sharp chatoyant line, on dark velvet with cool lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "ketu-2nd-house-aries-lagna-ketu-kavacham.webp", "alt": "Ketu Kavacham Sanskrit verse on parchment with flag motif", "caption": "Ketu Kavacham recitation strengthens the shadow channel through the protective armour hymn for Ketu.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Ketu Kavacham, hand-painted on aged parchment with faded gold leaf borders, faint flag and serpent motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "ketu-2nd-house-aries-lagna-hero.webp",
+      "filename_og": "ketu-2nd-house-aries-lagna-og.png",
+      "alt": "Smoky Ketu in the second house of a Mesh Lagna kundali in Vrishabha",
+      "caption": "Ketu sits in Vrishabha in the second house for Aries ascendant natives, the moksha karaka producing the detached-speech signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "smoky indigo-saffron editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the second house glowing smoky indigo and deep saffron, a stylised Ketu flag symbol above a small bull Vrishabha silhouette, traditional Vedic palette of indigo, saffron, muted gold, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "ketu-2nd-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Ketu in the second house of Mesh in Vrishabha",
+      "caption": "The North Indian birth chart with Ketu marked in Vrishabha on the second house Dhana Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the second house highlighted in smoky indigo with a Ketu symbol marked Ke and Vrishabha bull glyph, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "ketu-2nd-house-aries-lagna-cats-eye.webp",
+      "alt": "Natural cats eye chrysoberyl, gemstone for Ketu 2nd house Mesh Lagna",
+      "caption": "Cats eye is the classical Ketu ratna but is recommended only after a considered chart review because of the shadow planet's complexity in Dhana Bhava.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural cats eye chrysoberyl set in a silver ring, honey golden colour with a sharp chatoyant line, on dark velvet with cool lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "ketu-2nd-house-aries-lagna-ketu-kavacham.webp",
+      "alt": "Ketu Kavacham Sanskrit verse on parchment with flag motif",
+      "caption": "Ketu Kavacham recitation strengthens the shadow channel through the protective armour hymn for Ketu.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Ketu Kavacham, hand-painted on aged parchment with faded gold leaf borders, faint flag and serpent motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Ketu in the 2nd house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Ketu in Dhana Bhava for Aries ascendant natives. Ketu in Vrishabha, the moksha karaka sitting in the wealth and speech house, and the detachment-from-accumulation signature that defines how the native relates to family wealth, food, and vocal expression across the adult decades.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Ketu", "tone": "teal" },
-      { "label": "Dhana Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Vrishabha sign" },
-      { "label": "Chaya graha" },
-      { "label": "Detached speech" }
+      {
+        "label": "Ketu",
+        "tone": "teal"
+      },
+      {
+        "label": "Dhana Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Vrishabha sign"
+      },
+      {
+        "label": "Chaya graha"
+      },
+      {
+        "label": "Detached speech"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +271,30 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Ketu", "sub": "South node", "icon": "sun" },
-        { "label": "Bhava", "value": "2nd", "sub": "Dhana Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Complex", "sub": "Shadow planet in wealth house", "icon": "star" }
+        {
+          "label": "Planet",
+          "value": "Ketu",
+          "sub": "South node",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "2nd",
+          "sub": "Dhana Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Complex",
+          "sub": "Shadow planet in wealth house",
+          "icon": "star"
+        }
       ]
     },
     {
@@ -104,39 +309,100 @@
       "heading": "Why Ketu in Dhana Bhava produces the detachment-from-accumulation signature",
       "html": "<p>Classical Parashari tradition reads the nodes as shadow planets whose behaviour is structural rather than substantive. Rahu amplifies the karakatvas of the house he sits in because the north node hungers; Ketu reduces or refines the karakatvas of the house he sits in because the south node has already completed the lesson the house teaches. When Ketu sits in the 2nd house, the karakatvas of wealth accumulation, family possession, and routine material speech get an internal refinement where the native discovers early that these things are not the source of contentment the peer group assumes them to be. The refinement is usually earned through a past life where the same themes were lived to completion, and the present chart carries the residue of that completion.</p><p>For Mesh natives the practical expression of this refinement is specific and worth describing carefully in consultation. Family wealth is often present but the native feels separate from it, as if the accumulated resources belong to the family more than to them personally. Speech tends toward a distilled mantra register rather than a chatty social register, and natives report that they lose interest in small talk in their twenties and become known for saying little until the moment requires a lot. Food habits run toward the simple rather than the refined despite the Vrishabha sign, and many become vegetarian, minimally indulgent, or drawn to ritual fasting even without formal religious commitment. The reading is distinct from Rahu-in-2nd (which produces hunger for wealth accumulation, experimental speech, and appetite-driven food habits). Ketu produces the mirror pattern where the same karakatvas are approached from the position of someone who has already seen through them.</p>"
     },
-    { "type": "pull-quote", "variant": "teal", "text": "When the moksha karaka sits in the wealth house of Venus's sign, the native is not poor, they are simply finished with possession as a project. The speech becomes mantra, the food becomes prasad, the family resources become something held lightly." },
+    {
+      "type": "pull-quote",
+      "variant": "teal",
+      "text": "When the moksha karaka sits in the wealth house of Venus's sign, the native is not poor, they are simply finished with possession as a project. The speech becomes mantra, the food becomes prasad, the family resources become something held lightly."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Ketu, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Ketu, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Moksha, detachment, past life mastery" },
-            { "k": "Own sign", "v": "None (chaya graha)" },
-            { "k": "Uchha (exaltation)", "v": "Vrishchika (most lineages)", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Vrishabha (most lineages)", "tone": "bad" },
-            { "k": "Sign state here", "v": "Debility or lineage variation" },
-            { "k": "Friends", "v": "Mars, Venus, Saturn (functional)" },
-            { "k": "Element", "v": "Shadow element, tamas predominant" },
-            { "k": "Role for Mesh", "v": "Chaya graha in Dhana Bhava" }
+            {
+              "k": "Karakatva",
+              "v": "Moksha, detachment, past life mastery"
+            },
+            {
+              "k": "Own sign",
+              "v": "None (chaya graha)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Vrishchika (most lineages)",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Vrishabha (most lineages)",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Debility or lineage variation"
+            },
+            {
+              "k": "Friends",
+              "v": "Mars, Venus, Saturn (functional)"
+            },
+            {
+              "k": "Element",
+              "v": "Shadow element, tamas predominant"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "Chaya graha in Dhana Bhava"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Dhana Bhava, house profile", "subtitle": "2nd house significance",
+          "icon": "triangle-house",
+          "title": "Dhana Bhava, house profile",
+          "subtitle": "2nd house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Dhana, Kutumba Bhava" },
-            { "k": "Rules over", "v": "Wealth, family, speech, face, food" },
-            { "k": "Natural sign", "v": "Vrishabha (Taurus) for Mesh" },
-            { "k": "Natural ruler", "v": "Shukra (Venus)" },
-            { "k": "Body part", "v": "Face, mouth, neck, speech apparatus" },
-            { "k": "Classical nature", "v": "Maraka, dhana" },
-            { "k": "Vedic quality", "v": "Moksha karaka in accumulation house" },
-            { "k": "Special effect", "v": "Detachment refinement signature" }
+            {
+              "k": "Sanskrit name",
+              "v": "Dhana, Kutumba Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Wealth, family, speech, face, food"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Vrishabha (Taurus) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Shukra (Venus)"
+            },
+            {
+              "k": "Body part",
+              "v": "Face, mouth, neck, speech apparatus"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Maraka, dhana"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Moksha karaka in accumulation house"
+            },
+            {
+              "k": "Special effect",
+              "v": "Detachment refinement signature"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +444,48 @@
       "heading": "Where the detached-speech vocation plays out",
       "html": "<p>Career paths cluster around fields where the capacity for precise distilled speech, research mastery, and refinement-through-subtraction becomes the vocational asset. The strongest single fit is research work in fields where the native brings a past-life residue of knowledge the present training only surfaces rather than generates. Many natives build careers as historians, archaeologists, classical scholars, or specialised researchers whose published work carries unusual depth relative to the word count. Editing and precision writing also fit because the chart rewards the capacity to cut and refine rather than to generate volume, and many natives become editors whose reputation rests on what they removed rather than what they added.</p><p>Mantra, ritual, and priestly vocation suit this placement because Ketu in the 2nd specifically produces the capacity to speak mantra with the inner emptiness the practice requires. Investigative journalism fits because the chart gives natives the ability to say less while revealing more, and many build careers where the reputation for not speaking casually becomes the professional credential that makes sources trust them with sensitive information. Occult sciences and Jyotish consultation are a natural fit because the 8th-house aspect supplies the research depth the work requires. Minimalist design and craft practice suit natives whose pull is more visual, since the refinement-through-subtraction signature expresses naturally through aesthetic reduction. Ketu mahadasha is when the vocation crystallises, often through a specific research or mantra project that becomes the native's definitive professional signature.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Ketu in Dhana Bhava placement", "subtitle": "Generate your free Kundali to see your second house Ketu.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Ketu marked in the second house of Mesh", "planet": "Ketu", "house": 2, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Ketu in Dhana Bhava in Vrishabha, marked in smoky saffron" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Second house is the seat of wealth and speech" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Ketu in Dhana Bhava placement",
+        "subtitle": "Generate your free Kundali to see your second house Ketu.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Ketu marked in the second house of Mesh",
+      "planet": "Ketu",
+      "house": 2,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Ketu in Dhana Bhava in Vrishabha, marked in smoky saffron"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Second house is the seat of wealth and speech"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The detachment-from-accumulation signature and the mantra-speech reading",
@@ -194,13 +498,45 @@
       "heading": "When Ketu in 2nd delivers its Dhana Bhava chapter",
       "intro_html": "<p>Ketu mahadasha is the defining window for this placement and arrives with the detachment-refinement signature crystallising into a specific research or mantra vocation the native carries forward.</p>",
       "rows": [
-        { "mahadasha": "Ketu", "duration": "7 years", "themes": "The Dhana Bhava refinement window. Detachment from ordinary accumulation becomes conscious, mantra or research vocation crystallises, speech register deepens noticeably.", "intensity": "Very high", "intensity_bar_width": 90, "intensity_bar_color": "#338a95", "highlight": true },
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "Sign dispositor of Ketu here and the most aligned planet for remedial work. Refined relationship, marriage-and-household settles into the post-refinement register, aesthetic dimension of the distilled speech vocation reaches its peak expression.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#e8840a" },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Trikona lord for Mesh. Authority layer arrives on top of the detachment signature, and the native's distilled speech reaches the recognised vocational expression.", "intensity": "Very good", "intensity_bar_width": 80, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Chandra (Moon)", "duration": "10 years", "themes": "Kendra lord for Mesh. Emotional foundation settles around the vocational refinement, and mother-and-home dimensions of the family wealth reading stabilise.", "intensity": "Good", "intensity_bar_width": 70, "intensity_bar_color": "#f4b942" }
+        {
+          "mahadasha": "Ketu",
+          "duration": "7 years",
+          "themes": "The Dhana Bhava refinement window. Detachment from ordinary accumulation becomes conscious, mantra or research vocation crystallises, speech register deepens noticeably.",
+          "intensity": "Very high",
+          "intensity_bar_width": 90,
+          "intensity_bar_color": "#338a95",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "Sign dispositor of Ketu here and the most aligned planet for remedial work. Refined relationship, marriage-and-household settles into the post-refinement register, aesthetic dimension of the distilled speech vocation reaches its peak expression.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#e8840a"
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "Trikona lord for Mesh. Authority layer arrives on top of the detachment signature, and the native's distilled speech reaches the recognised vocational expression.",
+          "intensity": "Very good",
+          "intensity_bar_width": 80,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Chandra (Moon)",
+          "duration": "10 years",
+          "themes": "Kendra lord for Mesh. Emotional foundation settles around the vocational refinement, and mother-and-home dimensions of the family wealth reading stabilise.",
+          "intensity": "Good",
+          "intensity_bar_width": 70,
+          "intensity_bar_color": "#f4b942"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +555,140 @@
       "heading": "Gemstones for Ketu in 2nd house Mesh Lagna",
       "intro_html": "<p>Cats eye is the classical Ketu gemstone but is recommended only after a considered chart review. For this placement the safer primary path is often remedial work through Shukra and Ganapati rather than direct Ketu stone wearing.</p>",
       "cards": [
-        { "name": "Lehsunia (Cats Eye)", "role": "primary", "sub": "Classical Ketu stone, consult before wearing", "icon_variant": "cats-eye", "image_slug": "cats-eye", "items": [ { "k": "Metal", "v": "Silver or panchadhatu" }, { "k": "Finger", "v": "Middle finger, right hand" }, { "k": "Day to wear", "v": "Tuesday evening" }, { "k": "Min weight", "v": "4 to 6 Ratti" } ] },
-        { "name": "Pearl (alt)", "role": "secondary", "sub": "Chandra stone for emotional settlement", "icon_variant": "pearl", "image_slug": "pearl", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Little finger" }, { "k": "Day to wear", "v": "Monday sunrise" }, { "k": "Min weight", "v": "4 to 6 Ratti" } ] },
-        { "name": "Consult before wearing Lehsunia", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Lehsunia (Cats Eye)",
+          "role": "primary",
+          "sub": "Classical Ketu stone, consult before wearing",
+          "icon_variant": "cats-eye",
+          "image_slug": "cats-eye",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver or panchadhatu"
+            },
+            {
+              "k": "Finger",
+              "v": "Middle finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Tuesday evening"
+            },
+            {
+              "k": "Min weight",
+              "v": "4 to 6 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Pearl (alt)",
+          "role": "secondary",
+          "sub": "Chandra stone for emotional settlement",
+          "icon_variant": "pearl",
+          "image_slug": "pearl",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Little finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Monday sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "4 to 6 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Lehsunia",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Cats eye for Ketu in Dhana Bhava is a complex recommendation and always requires a practising Jyotishi review before any permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Ketu in 2nd house",
       "intro_html": "<p>The Ketu-aligned rudraksha is the Nau Mukhi, the nine-face bead classically ruled by Devi and considered supportive for Ketu placements.</p>",
       "beads": [
-        { "mukhi": 9, "name": "Nau Mukhi Rudraksha", "sub": "Classical Ketu support bead", "benefit": "The Nau Mukhi is the primary bead for Ketu strengthening protocols and is specifically aligned with the shakti energies that stabilise the shadow planet. Supports the detachment-refinement signature, honours the moksha karaka function, and is specifically recommended for natives building careers around mantra, research, or distilled vocational speech." },
-        { "mukhi": 6, "name": "Chha Mukhi Rudraksha", "sub": "Ruled by Venus, the dispositor of Ketu here", "benefit": "The Venus bead serves as secondary support because the dispositor of Ketu in Vrishabha is Shukra. Wearing the Chha Mukhi alongside the Nau Mukhi supports the chart's primary remedial pathway by honouring both the shadow planet and its sign-dispositor together, which the placement structurally invites." }
+        {
+          "mukhi": 9,
+          "name": "Nau Mukhi Rudraksha",
+          "sub": "Classical Ketu support bead",
+          "benefit": "The Nau Mukhi is the primary bead for Ketu strengthening protocols and is specifically aligned with the shakti energies that stabilise the shadow planet. Supports the detachment-refinement signature, honours the moksha karaka function, and is specifically recommended for natives building careers around mantra, research, or distilled vocational speech."
+        },
+        {
+          "mukhi": 6,
+          "name": "Chha Mukhi Rudraksha",
+          "sub": "Ruled by Venus, the dispositor of Ketu here",
+          "benefit": "The Venus bead serves as secondary support because the dispositor of Ketu in Vrishabha is Shukra. Wearing the Chha Mukhi alongside the Nau Mukhi supports the chart's primary remedial pathway by honouring both the shadow planet and its sign-dispositor together, which the placement structurally invites."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Ketu Yantra for the shadow Ketu in Dhana Bhava", "yantra": { "name": "Ketu Yantra", "sanskrit": "केतु यन्त्र", "description": "The Ketu Yantra is the geometric form of the shadow channel. For Ketu in the Mesh 2nd house install it on the south-west wall of the home altar or study. Tuesday evening in Ketu hora is the installation window, and the yantra should be consecrated with Ketu Kavacham recitation and a durva grass offering.", "direction": "South-west wall (altar or study)", "install_day": "Tuesday evening, Ketu hora preferred", "material": "Copper or panchadhatu", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Ketu in Vrishabha", "stotra": { "eyebrow": "Ketu Kavacham", "title": "Shri Ketu Kavacham", "sub": "Protective armour hymn for Ketu", "verse": "Om ketum krinvan aketave pesho marya apesase<br>Samushadbhir ajayatha<br>Om chitraverayata dhimahi sarparajaya dhimahi<br>Tanno ketuh prachodayat<br>Palayet sarvato ketuh shikhi varnah sadaiva mam", "translation": "Om, making the flagless one flag-bearing, shaping form from the formless, born with the dawns. Om, may we know the varied-bodied, let us meditate on the king of serpents, may Ketu inspire us. May Ketu the flame-coloured protect me from every direction at all times. The Ketu Kavacham is the protective armour hymn for the shadow south node and is the daily recitation recommended for a chart where Ketu sits in the wealth house and the refinement signature is the native's central vocational pressure.", "url": "https://stotra.vastucart.in/stotra/ketu-kavacham" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Ketu Yantra for the shadow Ketu in Dhana Bhava",
+      "yantra": {
+        "name": "Ketu Yantra",
+        "sanskrit": "केतु यन्त्र",
+        "description": "The Ketu Yantra is the geometric form of the shadow channel. For Ketu in the Mesh 2nd house install it on the south-west wall of the home altar or study. Tuesday evening in Ketu hora is the installation window, and the yantra should be consecrated with Ketu Kavacham recitation and a durva grass offering.",
+        "direction": "South-west wall (altar or study)",
+        "install_day": "Tuesday evening, Ketu hora preferred",
+        "material": "Copper or panchadhatu",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Ketu in Vrishabha",
+      "stotra": {
+        "eyebrow": "Ketu Kavacham",
+        "title": "Shri Ketu Kavacham",
+        "sub": "Protective armour hymn for Ketu",
+        "verse": "Om ketum krinvan aketave pesho marya apesase<br>Samushadbhir ajayatha<br>Om chitraverayata dhimahi sarparajaya dhimahi<br>Tanno ketuh prachodayat<br>Palayet sarvato ketuh shikhi varnah sadaiva mam",
+        "translation": "Om, making the flagless one flag-bearing, shaping form from the formless, born with the dawns. Om, may we know the varied-bodied, let us meditate on the king of serpents, may Ketu inspire us. May Ketu the flame-coloured protect me from every direction at all times. The Ketu Kavacham is the protective armour hymn for the shadow south node and is the daily recitation recommended for a chart where Ketu sits in the wealth house and the refinement signature is the native's central vocational pressure.",
+        "url": "https://stotra.vastucart.in/stotra/ketu-kavacham"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +696,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your second house Ketu and its dispositor", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Research muhurta", "sub": "Auspicious dates for research project launches", "url": "https://muhurta.vastucart.in/education-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Business muhurta", "sub": "Auspicious dates for family business decisions", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Ketu Kavacham", "sub": "Protective armour hymn for Ketu", "url": "https://stotra.vastucart.in/stotra/ketu-kavacham", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Ketu Stotram", "sub": "Classical Ketu hymn", "url": "https://stotra.vastucart.in/stotra/ketu-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Ketu Sahasranama", "sub": "Thousand names of Ketu", "url": "https://stotra.vastucart.in/stotra/ketu-sahasranama", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Ganesha Atharvashirsha", "sub": "Ganapati hymn for Ketu remedies", "url": "https://stotra.vastucart.in/stotra/ganesh-atharvashirsha", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Ganesh Chalisa", "sub": "Forty-verse Ganapati hymn", "url": "https://stotra.vastucart.in/stotra/ganesh-chalisa", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Cats eye and gemstone source", "sub": "Certified Lehsunia for Ketu", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Ketu yantra store", "sub": "Copper Ketu yantra for the altar", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Ketu 2H analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your second house Ketu and its dispositor",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Research muhurta",
+            "sub": "Auspicious dates for research project launches",
+            "url": "https://muhurta.vastucart.in/education-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Business muhurta",
+            "sub": "Auspicious dates for family business decisions",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Ketu Kavacham",
+            "sub": "Protective armour hymn for Ketu",
+            "url": "https://stotra.vastucart.in/stotra/ketu-kavacham",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Ketu Stotram",
+            "sub": "Classical Ketu hymn",
+            "url": "https://stotra.vastucart.in/stotra/ketu-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Ketu Sahasranama",
+            "sub": "Thousand names of Ketu",
+            "url": "https://stotra.vastucart.in/stotra/ketu-sahasranama",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Ganesha Atharvashirsha",
+            "sub": "Ganapati hymn for Ketu remedies",
+            "url": "https://stotra.vastucart.in/stotra/ganesh-atharvashirsha",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ganesh Chalisa",
+            "sub": "Forty-verse Ganapati hymn",
+            "url": "https://stotra.vastucart.in/stotra/ganesh-chalisa",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Cats eye and gemstone source",
+            "sub": "Certified Lehsunia for Ketu",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Ketu yantra store",
+            "sub": "Copper Ketu yantra for the altar",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Ketu 2H analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +796,130 @@
         "title": "Is your Dhana Bhava Ketu carrying the detachment-refinement signature?",
         "subtitle": "Get a full personalised analysis of your second house Ketu, the family wealth detachment pattern, and the mantra-speech timing the chart produces.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Ketu Kavacham", "url": "https://stotra.vastucart.in/stotra/ketu-kavacham", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Ketu Kavacham",
+            "url": "https://stotra.vastucart.in/stotra/ketu-kavacham",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Ketu in 2nd house, Mesh Lagna",
       "items": [
-        { "q": "Is Ketu in the 2nd house good for Mesh Lagna?", "a": "The reading is complex and deserves careful framing. Ketu is a shadow planet with no sign ownership of its own, and Vrishabha is the debility sign according to most classical lineages, though some streams vary. In Dhana Bhava the placement produces the detachment-from-accumulation signature where the native is refined out of ordinary grasping for family wealth, routine speech, and conventional food patterns. Popular astrology reads this as destructive, but the practitioner reading is that Ketu subtracts ordinary attachment to the house karakatvas and produces a specific inner refinement the native can channel into research, mantra, or distilled vocational speech." },
-        { "q": "What does Ketu in Dhana Bhava produce for Aries natives?", "a": "It produces the detachment-refinement signature where the native experiences early disinterest in possession as a project. Family wealth is often present but held lightly, speech trends toward the distilled mantra register rather than chatty social flow, and food habits run toward simplicity despite the Vrishabha sign influence. The vocational fit clusters around research, mantra, editing, investigative journalism, occult sciences, and minimalist craft practice because these are the fields where the refinement-through-subtraction signature becomes the professional asset rather than a blockage. Natives who accept the detachment as a feature rather than resist it as a defect report the placement as quietly productive." },
-        { "q": "Does Ketu in 2nd house affect family wealth?", "a": "Yes, but not in the straightforward way popular astrology describes. Family wealth is often present in the native's life but held at a noticeable internal distance, and natives frequently report that the accumulated family resources feel more like the family's wealth than theirs personally. The practical effect is that the native is less driven by inheritance goals than peers and often makes vocational choices that confuse family members who expected them to step into accumulation-focused roles. Clear boundaries around family wealth discussions and explicit conversation about the native's different relationship to possession usually prevent the relational friction the placement can otherwise produce." },
-        { "q": "How does Ketu in Vrishabha express through the Venus sign?", "a": "The Ketu-Shukra relationship is functionally cooperative even though most lineages place Ketu's debility in Vrishabha, and the sign dispositor Shukra becomes the chart's primary remedial pathway. The native often develops a specifically refined aesthetic sense where their detachment from accumulation turns into taste for the one beautiful thing rather than many ordinary ones. Venus remedies, including Shri Suktam recitation, Friday observance, and care for the refined aesthetic dimension of life, strengthen the placement significantly and often matter more than direct Ketu remedies for the long-term functioning of the chart." },
-        { "q": "Which remedies help Mesh Lagna with Ketu in 2nd?", "a": "The primary remedial channel is daily Ganapati worship because Ketu placements specifically respond to Ganesha practice at the ritual level. Daily Ganesha Atharvashirsha or Ganesh Chalisa recitation, offerings of durva grass and modak, and a Friday observance for the Shukra dispositor compound well across months. Mantra discipline for the native's own speech is the second remedial path because the chart structurally rewards deliberate cultivation of the distilled vocal register. Cats eye (Lehsunia) is the classical Ketu stone but is recommended only after a careful chart review because shadow planet gemstones can be unpredictable, and the safer primary path for most natives is the ritual and mantra remedies through Ganapati and Venus." }
+        {
+          "q": "Is Ketu in the 2nd house good for Mesh Lagna?",
+          "a": "The reading is complex and deserves careful framing. Ketu is a shadow planet with no sign ownership of its own, and Vrishabha is the debility sign according to most classical lineages, though some streams vary. In Dhana Bhava the placement produces the detachment-from-accumulation signature where the native is refined out of ordinary grasping for family wealth, routine speech, and conventional food patterns. Popular astrology reads this as destructive, but the practitioner reading is that Ketu subtracts ordinary attachment to the house karakatvas and produces a specific inner refinement the native can channel into research, mantra, or distilled vocational speech."
+        },
+        {
+          "q": "What does Ketu in Dhana Bhava produce for Aries natives?",
+          "a": "It produces the detachment-refinement signature where the native experiences early disinterest in possession as a project. Family wealth is often present but held lightly, speech trends toward the distilled mantra register rather than chatty social flow, and food habits run toward simplicity despite the Vrishabha sign influence. The vocational fit clusters around research, mantra, editing, investigative journalism, occult sciences, and minimalist craft practice because these are the fields where the refinement-through-subtraction signature becomes the professional asset rather than a blockage. Natives who accept the detachment as a feature rather than resist it as a defect report the placement as quietly productive."
+        },
+        {
+          "q": "Does Ketu in 2nd house affect family wealth?",
+          "a": "Yes, but not in the straightforward way popular astrology describes. Family wealth is often present in the native's life but held at a noticeable internal distance, and natives frequently report that the accumulated family resources feel more like the family's wealth than theirs personally. The practical effect is that the native is less driven by inheritance goals than peers and often makes vocational choices that confuse family members who expected them to step into accumulation-focused roles. Clear boundaries around family wealth discussions and explicit conversation about the native's different relationship to possession usually prevent the relational friction the placement can otherwise produce."
+        },
+        {
+          "q": "How does Ketu in Vrishabha express through the Venus sign?",
+          "a": "The Ketu-Shukra relationship is functionally cooperative even though most lineages place Ketu's debility in Vrishabha, and the sign dispositor Shukra becomes the chart's primary remedial pathway. The native often develops a specifically refined aesthetic sense where their detachment from accumulation turns into taste for the one beautiful thing rather than many ordinary ones. Venus remedies, including Shri Suktam recitation, Friday observance, and care for the refined aesthetic dimension of life, strengthen the placement significantly and often matter more than direct Ketu remedies for the long-term functioning of the chart."
+        },
+        {
+          "q": "Which remedies help Mesh Lagna with Ketu in 2nd?",
+          "a": "The primary remedial channel is daily Ganapati worship because Ketu placements specifically respond to Ganesha practice at the ritual level. Daily Ganesha Atharvashirsha or Ganesh Chalisa recitation, offerings of durva grass and modak, and a Friday observance for the Shukra dispositor compound well across months. Mantra discipline for the native's own speech is the second remedial path because the chart structurally rewards deliberate cultivation of the distilled vocal register. Cats eye (Lehsunia) is the classical Ketu stone but is recommended only after a careful chart review because shadow planet gemstones can be unpredictable, and the safer primary path for most natives is the ritual and mantra remedies through Ganapati and Venus."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Ketu reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Ketu in the first, detached self", "sub": "Ketu in the Mesh lagna itself, inner refinement", "href": "/jyotish/graha-in-bhava/ketu-1st-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Rahu in the second, hunger for wealth", "sub": "The mirror nodal placement in the same Dhana Bhava", "href": "/jyotish/graha-in-bhava/rahu-2nd-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Sun in the second, authoritative voice", "sub": "The 5L trikona lord in the same wealth angle", "href": "/jyotish/graha-in-bhava/sun-2nd-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Ketu in the first, detached self",
+          "sub": "Ketu in the Mesh lagna itself, inner refinement",
+          "href": "/jyotish/graha-in-bhava/ketu-1st-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Rahu in the second, hunger for wealth",
+          "sub": "The mirror nodal placement in the same Dhana Bhava",
+          "href": "/jyotish/graha-in-bhava/rahu-2nd-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Sun in the second, authoritative voice",
+          "sub": "The 5L trikona lord in the same wealth angle",
+          "href": "/jyotish/graha-in-bhava/sun-2nd-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

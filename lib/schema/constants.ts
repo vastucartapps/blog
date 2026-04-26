@@ -29,6 +29,19 @@ export function personId(authorSlug: string): string {
   return PERSON_IDS[authorSlug] ?? PERSON_IDS["vastucart-editorial"];
 }
 
+// 3a. Reviewer organisations — collective panels (no individuals).
+// E-E-A-T-safe, scalable, no fabricated credentials. Locked Apr 2026.
+export const REVIEWER_ORG_IDS: Record<string, string> = {
+  "vastucart-jyotish-review-panel": `${SITE_URL}/reviewers/vastucart-jyotish-review-panel#organization`,
+};
+
+export function reviewerOrgId(slug: string): string {
+  return (
+    REVIEWER_ORG_IDS[slug] ??
+    REVIEWER_ORG_IDS["vastucart-jyotish-review-panel"]
+  );
+}
+
 // 4. Brand facts (locked, identical across every subdomain)
 export const BRAND = {
   name: "VastuCart",

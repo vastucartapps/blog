@@ -6,40 +6,131 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Moon in 9th house", "Chandra Dhanu", "Mesh Lagna", "Aries ascendant", "Dharma Bhava", "4L in 9H", "kendra trikona raja yoga", "Chandra mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Moon in 9th house",
+    "Chandra Dhanu",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Dharma Bhava",
+    "4L in 9H",
+    "kendra trikona raja yoga",
+    "Chandra mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "chandra",
   "house_number": 9,
   "lagna_id": "mesha",
   "meta": {
     "title": "Moon in 9th House Mesh Lagna, Mother as Dharmic Figure",
-    "description": "Moon in 9th house for Mesh Lagna, Chandra in friendly Dhanu, the 4L in 9H kendra-trikona raja yoga read by Pt. Raghav Sharma.",
+    "description": "Moon in 9th house for Mesh Lagna, Chandra in friendly Dhanu, the 4L in 9H kendra-trikona raja yoga by VastuCart Editorial.",
     "focus_keyword": "Moon in 9th house",
-    "secondary_keywords": ["Mesh Lagna", "Dharma Bhava", "Chandra Dhanu", "Aries ascendant", "Mother dharma"],
-    "lsi_keywords": ["dharma bhava", "chandra dhanu", "moon in sagittarius", "4th lord ninth", "chandra mahadasha", "pearl moti", "kendra trikona raja yoga", "mother as guru", "dharmic mother", "long journey"],
-    "keywords": ["Moon in 9th house Mesh Lagna", "Chandra in Dharma Bhava", "Moon in Sagittarius", "Mesh lagna 9th Moon", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dharma Bhava",
+      "Chandra Dhanu",
+      "Aries ascendant",
+      "Mother dharma"
+    ],
+    "lsi_keywords": [
+      "dharma bhava",
+      "chandra dhanu",
+      "moon in sagittarius",
+      "4th lord ninth",
+      "chandra mahadasha",
+      "pearl moti",
+      "kendra trikona raja yoga",
+      "mother as guru",
+      "dharmic mother",
+      "long journey"
+    ],
+    "keywords": [
+      "Moon in 9th house Mesh Lagna",
+      "Chandra in Dharma Bhava",
+      "Moon in Sagittarius",
+      "Mesh lagna 9th Moon",
+      "Vedic astrology"
+    ],
     "og_title": "Moon in the 9th House of Mesh Lagna, Kendra-Trikona Raja Yoga",
     "og_description": "Chandra in friendly Dhanu in the dharma trikona for Aries natives, the mother-as-dharmic-figure signature by a practising Jyotishi.",
     "og_image": "/og/moon-9th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/moon-9th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Moon in 9th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/moon-9th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Moon in 9th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/moon-9th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Moon in 9th house",
-    "secondary_keywords": ["Mesh Lagna", "Dharma Bhava", "Chandra Dhanu", "Aries ascendant", "Mother dharma"],
-    "lsi_terms": ["dharma bhava", "chandra dhanu", "moon in sagittarius", "4th lord ninth", "chandra mahadasha", "pearl moti", "kendra trikona raja yoga", "mother as guru", "dharmic mother", "long journey"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dharma Bhava",
+      "Chandra Dhanu",
+      "Aries ascendant",
+      "Mother dharma"
+    ],
+    "lsi_terms": [
+      "dharma bhava",
+      "chandra dhanu",
+      "moon in sagittarius",
+      "4th lord ninth",
+      "chandra mahadasha",
+      "pearl moti",
+      "kendra trikona raja yoga",
+      "mother as guru",
+      "dharmic mother",
+      "long journey"
+    ],
     "seed_queries": [
-      "moon in 9th house aries lagna", "chandra in 9th house mesh lagna", "moon in sagittarius mesh ascendant", "chandra dhanu aries lagna", "moon in dharma bhava mesh", "moon in 9th house career aries", "moon in sagittarius 9th aries", "chandra dharma bhava mesh", "4l in 9h aries lagna raja yoga", "moon in 9th house remedies aries", "pearl for moon 9th aries", "moti mesh lagna 9th", "chandra mahadasha aries 9th", "moon in 9th house aries mother", "moon in 9th house aries dharma", "is moon good in 9th house aries", "moon in sagittarius aries ascendant career", "kendra trikona raja yoga moon", "mother as guru aries", "moon 9th house aries prediction", "moon in ninth house mesh lagna", "moon 9th house mesh ascendant", "chandra in mesh lagna 9th", "moon dhanu lagna mesh chart", "moon 9th house mesh lagna dasha", "chandra mesh lagna dharma", "foreign mother aries", "long journey moon", "4th lord ninth house aries", "chandra raja yoga mesh"
+      "moon in 9th house aries lagna",
+      "chandra in 9th house mesh lagna",
+      "moon in sagittarius mesh ascendant",
+      "chandra dhanu aries lagna",
+      "moon in dharma bhava mesh",
+      "moon in 9th house career aries",
+      "moon in sagittarius 9th aries",
+      "chandra dharma bhava mesh",
+      "4l in 9h aries lagna raja yoga",
+      "moon in 9th house remedies aries",
+      "pearl for moon 9th aries",
+      "moti mesh lagna 9th",
+      "chandra mahadasha aries 9th",
+      "moon in 9th house aries mother",
+      "moon in 9th house aries dharma",
+      "is moon good in 9th house aries",
+      "moon in sagittarius aries ascendant career",
+      "kendra trikona raja yoga moon",
+      "mother as guru aries",
+      "moon 9th house aries prediction",
+      "moon in ninth house mesh lagna",
+      "moon 9th house mesh ascendant",
+      "chandra in mesh lagna 9th",
+      "moon dhanu lagna mesh chart",
+      "moon 9th house mesh lagna dasha",
+      "chandra mesh lagna dharma",
+      "foreign mother aries",
+      "long journey moon",
+      "4th lord ninth house aries",
+      "chandra raja yoga mesh"
     ],
     "questions": [
       "Is Moon in the 9th house good for Mesh Lagna?",
@@ -49,36 +140,130 @@
       "Which gemstone should Mesh Lagna wear for Moon in 9th?"
     ],
     "lingual_variations": {
-      "chandra": ["chandra", "moon", "soma", "shashanka", "indu"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "chandra": [
+        "chandra",
+        "moon",
+        "soma",
+        "shashanka",
+        "indu"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["4L in 9H kendra-to-trikona raja yoga reading", "Mother as dharmic figure signature", "Moon-Jupiter friendship in the dharma house"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "4L in 9H kendra-to-trikona raja yoga reading",
+      "Mother as dharmic figure signature",
+      "Moon-Jupiter friendship in the dharma house"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "moon-9th-house-aries-lagna-hero.webp", "filename_og": "moon-9th-house-aries-lagna-og.png", "alt": "Silver Chandra in the ninth house of a Mesh Lagna kundali in Dhanu", "caption": "Chandra sits in friendly Dhanu in the ninth house for Aries ascendant natives, the kendra-to-trikona raja yoga and the mother-as-dharmic-figure signature.", "width": 1200, "height": 630, "format": "webp", "style": "luminous silver-saffron editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the ninth house glowing silver and saffron, a stylised crescent Moon above a small bow-and-arrow Dhanu glyph, traditional Vedic palette of silver, saffron, deep teal, refined manuscript style, no people.", "negative_prompt": "photorealistic moon, watermark, text, neon, cartoon" },
-    { "filename": "moon-9th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Moon in the ninth house of Mesh in Dhanu", "caption": "The North Indian birth chart with Chandra marked in Dhanu on the ninth house Dharma Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the upper-left ninth house highlighted in silver with a Chandra symbol marked Ch and small archer Dhanu glyph, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "moon-9th-house-aries-lagna-pearl.webp", "alt": "Natural saltwater pearl in silver ring, gemstone for Moon 9th house Mesh Lagna", "caption": "Pearl is the primary Chandra ratna and works with high confidence here because the friendly sign and trikona placement together support the gemstone protocol.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural saltwater Basra pearl set in a silver ring, soft cream luminescence, round shape, on dark velvet with cool lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "moon-9th-house-aries-lagna-chandra-sahasranama.webp", "alt": "Chandra Sahasranama Sanskrit verse on parchment with crescent moon and lotus motif", "caption": "Chandra Sahasranama recitation strengthens the lunar channel through the thousand names of the Moon.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Chandra Sahasranama, hand-painted on aged parchment with gold and silver leaf borders, faint crescent moon and lotus motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "moon-9th-house-aries-lagna-hero.webp",
+      "filename_og": "moon-9th-house-aries-lagna-og.png",
+      "alt": "Silver Chandra in the ninth house of a Mesh Lagna kundali in Dhanu",
+      "caption": "Chandra sits in friendly Dhanu in the ninth house for Aries ascendant natives, the kendra-to-trikona raja yoga and the mother-as-dharmic-figure signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "luminous silver-saffron editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the ninth house glowing silver and saffron, a stylised crescent Moon above a small bow-and-arrow Dhanu glyph, traditional Vedic palette of silver, saffron, deep teal, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic moon, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "moon-9th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Moon in the ninth house of Mesh in Dhanu",
+      "caption": "The North Indian birth chart with Chandra marked in Dhanu on the ninth house Dharma Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the upper-left ninth house highlighted in silver with a Chandra symbol marked Ch and small archer Dhanu glyph, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "moon-9th-house-aries-lagna-pearl.webp",
+      "alt": "Natural saltwater pearl in silver ring, gemstone for Moon 9th house Mesh Lagna",
+      "caption": "Pearl is the primary Chandra ratna and works with high confidence here because the friendly sign and trikona placement together support the gemstone protocol.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural saltwater Basra pearl set in a silver ring, soft cream luminescence, round shape, on dark velvet with cool lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "moon-9th-house-aries-lagna-chandra-sahasranama.webp",
+      "alt": "Chandra Sahasranama Sanskrit verse on parchment with crescent moon and lotus motif",
+      "caption": "Chandra Sahasranama recitation strengthens the lunar channel through the thousand names of the Moon.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Chandra Sahasranama, hand-painted on aged parchment with gold and silver leaf borders, faint crescent moon and lotus motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Moon in the 9th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Chandra in Dharma Bhava for Aries ascendant natives. Moon in friendly Dhanu, the 4L in 9H kendra-to-trikona raja yoga, the mother-as-dharmic-figure signature, and the long-journey pattern that shapes the inner spiritual life of the native.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Chandra", "tone": "teal" },
-      { "label": "Dharma Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Friendly Dhanu" },
-      { "label": "4L in 9H" },
-      { "label": "Mother dharma" }
+      {
+        "label": "Chandra",
+        "tone": "teal"
+      },
+      {
+        "label": "Dharma Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Friendly Dhanu"
+      },
+      {
+        "label": "4L in 9H"
+      },
+      {
+        "label": "Mother dharma"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +271,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Chandra", "sub": "Moon", "icon": "sun" },
-        { "label": "Bhava", "value": "9th", "sub": "Dharma Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Very strong", "sub": "Kendra-trikona raja yoga", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Chandra",
+          "sub": "Moon",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "9th",
+          "sub": "Dharma Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Very strong",
+          "sub": "Kendra-trikona raja yoga",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +310,103 @@
       "heading": "Why the 4L in 9H produces the mother-as-guru pattern",
       "html": "<p>The most useful interpretive frame for understanding Moon in 9th of Mesh is the mother-as-dharmic-figure reading, which captures both the structural truth and the lived experience the chart produces. Popular astrology often treats the 9th house father-signature as the default, but the 9th house in classical tradition is broader than that: it is the house of all dharmic transmission, and the dharmic figure can be the father, the teacher, the grandfather, the guru, or the mother depending on which planet occupies the house. When Chandra (the karaka of mother) sits in the 9th, the chart is explicitly naming the mother as the dharmic transmitter, and the reading is unusually consistent in clinical reports for natives with this placement: their mother is the one who introduced them to prayer, to scripture, to dharmic practice, to pilgrimage, and to the inner orientation that the native carries into adulthood as their own.</p><p>The 4L in 9H configuration is the second specific feature that deserves careful reading because it forms a clean kendra-to-trikona raja yoga. Classical Parashari texts list kendra-to-trikona raja yogas among the three cleanest raja yoga patterns because they connect the foundation of the chart (the four kendras that supply structural support) with the dharmic pillars (the three trikonas that supply meaning and blessing). When the 4L occupies the 9H, the home and mother angle flows into the dharma house, and the combination produces a native whose domestic and spiritual life become inseparable. The home becomes the place where dharmic practice happens. The mother becomes the teacher. The native's emotional grounding and their spiritual orientation are not two separate things, they are one continuous expression. The third interpretive layer is aspect. From the 9th, Chandra aspects the 3rd house with his full opposition aspect, bringing the dharmic-emotional current into the parakrama and communication angle. Natives often become teachers, writers, or communicators whose output carries an unmistakable dharmic quality that readers and students recognise even when the surface topic is secular.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "When the home lord sits in the dharma house of Jupiter's sign, the mother becomes the first teacher and the home becomes the first temple. The native does not need to travel far to find their lineage. They were born into it already." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "When the home lord sits in the dharma house of Jupiter's sign, the mother becomes the first teacher and the home becomes the first temple. The native does not need to travel far to find their lineage. They were born into it already."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Chandra, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Chandra, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Mind, mother, emotion, fluids" },
-            { "k": "Own sign", "v": "Karka (Cancer)" },
-            { "k": "Uchha (exaltation)", "v": "Vrishabha at 3 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Vrishchika at 3 degrees", "tone": "bad" },
-            { "k": "Sign state here", "v": "Friendly Dhanu", "tone": "good" },
-            { "k": "Phase factor", "v": "Shukla strong, Krishna weaker" },
-            { "k": "Friends", "v": "Sun, Mercury" },
-            { "k": "Role for Mesh", "v": "4th lord (Karka)" }
+            {
+              "k": "Karakatva",
+              "v": "Mind, mother, emotion, fluids"
+            },
+            {
+              "k": "Own sign",
+              "v": "Karka (Cancer)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Vrishabha at 3 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Vrishchika at 3 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Friendly Dhanu",
+              "tone": "good"
+            },
+            {
+              "k": "Phase factor",
+              "v": "Shukla strong, Krishna weaker"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Mercury"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "4th lord (Karka)"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Dharma Bhava, house profile", "subtitle": "9th house significance",
+          "icon": "triangle-house",
+          "title": "Dharma Bhava, house profile",
+          "subtitle": "9th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Dharma, Bhagya, Pita Bhava" },
-            { "k": "Rules over", "v": "Dharma, father, teacher, long journeys, fortune" },
-            { "k": "Natural sign", "v": "Dhanu (Sagittarius) for Mesh" },
-            { "k": "Natural ruler", "v": "Guru (Jupiter)" },
-            { "k": "Body part", "v": "Hips, thighs, upper legs" },
-            { "k": "Classical nature", "v": "Trikona, Bhagya" },
-            { "k": "Vedic quality", "v": "4L in 9H kendra-trikona raja yoga", "tone": "good" },
-            { "k": "Special effect", "v": "Mother becomes dharmic transmitter", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Dharma, Bhagya, Pita Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Dharma, father, teacher, long journeys, fortune"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Dhanu (Sagittarius) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Guru (Jupiter)"
+            },
+            {
+              "k": "Body part",
+              "v": "Hips, thighs, upper legs"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Trikona, Bhagya"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "4L in 9H kendra-trikona raja yoga",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Mother becomes dharmic transmitter",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +448,48 @@
       "heading": "Where the dharmic-maternal vocation plays out",
       "html": "<p>Career paths cluster around fields where the dharmic-emotional combination can express directly, and the strongest single fit is teaching with a religious or philosophical dimension. Many natives spend years as teachers within traditions that value emotional-dharmic transmission, becoming the teachers whose students remember not just what they taught but how the teaching felt. The placement specifically supports teaching in settings where the student relationship is as important as the curriculum.</p><p>Counselling, therapy, and emotional guidance work because the lunar empathetic intelligence combined with dharmic orientation produces natives whose mode of help is both emotionally attuned and morally grounded. Writing on spiritual and family themes fits natives whose vocational pull is more literary. Hospice and palliative care suit the chart because the Moon's mother-karakatva combined with the 9th house dharmic orientation produces unusual capacity to accompany people through the spiritual dimension of transition. Travel writing and cultural scholarship channel the 9th house long-journey signature. Dharmic non-profit leadership rounds out the list. Chandra mahadasha is when the vocation crystallises, often through a family event or pilgrimage that opens the rest of the working life.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Chandra in dharma trikona", "subtitle": "Generate your free Kundali to see the kendra-trikona raja yoga in your chart.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Moon marked in the ninth house of Mesh", "planet": "Chandra", "house": 9, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Chandra in Dharma Bhava in friendly Dhanu, marked in luminous silver" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Upper-left diamond is the 9th house of dharma" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Chandra in dharma trikona",
+        "subtitle": "Generate your free Kundali to see the kendra-trikona raja yoga in your chart.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Moon marked in the ninth house of Mesh",
+      "planet": "Chandra",
+      "house": 9,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Chandra in Dharma Bhava in friendly Dhanu, marked in luminous silver"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Upper-left diamond is the 9th house of dharma"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The mother-as-guru and the long-journey signature",
@@ -194,13 +502,45 @@
       "heading": "When Moon in 9th delivers its Dharma Bhava chapter",
       "intro_html": "<p>Chandra mahadasha is the defining window for this placement and arrives with the dharmic vocation crystallising through a mother-event or a long journey that shapes the rest of the life.</p>",
       "rows": [
-        { "mahadasha": "Chandra (Moon)", "duration": "10 years", "themes": "The Dharma Bhava activation window. Mother themes peak, long journeys or pilgrimages produce formative experiences, the dharmic vocation crystallises into recognised form.", "intensity": "Very high", "intensity_bar_width": 92, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord and friend of Moon. Bold dharmic commitments, decisive teaching steps, the warmth of the chart finds Aries directness in the dharmic domain.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Fifth lord, friend of Moon. Creative and dharmic recognition, public visibility for the teaching vocation, fatherly figures support the dharmic work.", "intensity": "Good", "intensity_bar_width": 78, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "Lord of the sign Dhanu and the most aligned planet for this placement. The dharmic vocation reaches its fullest expression, lineage authority crystallises, the mother's inheritance becomes the native's own teaching.", "intensity": "Very high", "intensity_bar_width": 92, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Chandra (Moon)",
+          "duration": "10 years",
+          "themes": "The Dharma Bhava activation window. Mother themes peak, long journeys or pilgrimages produce formative experiences, the dharmic vocation crystallises into recognised form.",
+          "intensity": "Very high",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord and friend of Moon. Bold dharmic commitments, decisive teaching steps, the warmth of the chart finds Aries directness in the dharmic domain.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "Fifth lord, friend of Moon. Creative and dharmic recognition, public visibility for the teaching vocation, fatherly figures support the dharmic work.",
+          "intensity": "Good",
+          "intensity_bar_width": 78,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "Lord of the sign Dhanu and the most aligned planet for this placement. The dharmic vocation reaches its fullest expression, lineage authority crystallises, the mother's inheritance becomes the native's own teaching.",
+          "intensity": "Very high",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +559,140 @@
       "heading": "Gemstones for Moon in 9th house Mesh Lagna",
       "intro_html": "<p>Pearl is the primary recommendation here because the friendly sign and trikona placement together support the gemstone protocol with high confidence.</p>",
       "cards": [
-        { "name": "Moti (Pearl)", "role": "primary", "sub": "Chandra-strengthening stone for dharmic Moon", "icon_variant": "pearl", "image_slug": "pearl", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Small finger, right hand" }, { "k": "Day to wear", "v": "Monday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Moonstone (alt)", "role": "secondary", "sub": "Milder Moon-aligned alternative", "icon_variant": "pearl", "image_slug": "pearl", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Small finger" }, { "k": "Day to wear", "v": "Monday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Moti", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Moti (Pearl)",
+          "role": "primary",
+          "sub": "Chandra-strengthening stone for dharmic Moon",
+          "icon_variant": "pearl",
+          "image_slug": "pearl",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Monday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Moonstone (alt)",
+          "role": "secondary",
+          "sub": "Milder Moon-aligned alternative",
+          "icon_variant": "pearl",
+          "image_slug": "pearl",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Monday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Moti",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Pearl works strongly with the dharmic Moon, but the paksha reading should be confirmed by a qualified Jyotishi before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Moon in 9th house",
       "intro_html": "<p>The Chandra-aligned rudraksha is the Do Mukhi (Two Mukhi), the bead directly ruled by the Moon and the Shiva-Parvati pair.</p>",
       "beads": [
-        { "mukhi": 2, "name": "Do Mukhi Rudraksha", "sub": "Ruled by Chandra and the Shiva-Parvati pair", "benefit": "The classical Moon rudraksha and the safest daily-wear bead for any Chandra strengthening protocol. Supports the dharmic Moon, amplifies the mother-as-teacher signature, and is specifically recommended for natives in teaching, counselling, or contemplative writing vocations." },
-        { "mukhi": 5, "name": "Panch Mukhi Rudraksha", "sub": "Ruled by Guru, the dispositor of Moon here", "benefit": "The Jupiter rudraksha and the safest daily-wear bead in the tradition. For this placement specifically, the Panch Mukhi honours the dispositor of Moon (Guru rules Dhanu) and compounds the placement's strength by strengthening both planet and sign-lord through Jupiter's dharmic current." }
+        {
+          "mukhi": 2,
+          "name": "Do Mukhi Rudraksha",
+          "sub": "Ruled by Chandra and the Shiva-Parvati pair",
+          "benefit": "The classical Moon rudraksha and the safest daily-wear bead for any Chandra strengthening protocol. Supports the dharmic Moon, amplifies the mother-as-teacher signature, and is specifically recommended for natives in teaching, counselling, or contemplative writing vocations."
+        },
+        {
+          "mukhi": 5,
+          "name": "Panch Mukhi Rudraksha",
+          "sub": "Ruled by Guru, the dispositor of Moon here",
+          "benefit": "The Jupiter rudraksha and the safest daily-wear bead in the tradition. For this placement specifically, the Panch Mukhi honours the dispositor of Moon (Guru rules Dhanu) and compounds the placement's strength by strengthening both planet and sign-lord through Jupiter's dharmic current."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Chandra Yantra for the dharmic Moon", "yantra": { "name": "Chandra Yantra", "sanskrit": "चन्द्र यन्त्र", "description": "The Chandra Yantra is the geometric form of the lunar channel. For Moon in the Mesh 9th house install it in the north-west corner of the home puja space or library. Monday at moonrise is the installation window, and the yantra should be consecrated with Chandra Sahasranama recitation and a milk libation.", "direction": "North-west corner (puja space or library)", "install_day": "Monday at moonrise, Chandra hora preferred", "material": "Silver (copper acceptable)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Chandra in friendly Dhanu", "stotra": { "eyebrow": "Chandra Sahasranama", "title": "Shri Chandra Sahasranama", "sub": "Thousand names of the Moon, classical lunar comprehensive hymn", "verse": "Chandram bhaskara rupaabhaam subhra vasthradharam shubham<br>Atreyam kasyapam somam amritam amrit ashanam<br>Shyama pada sarojakyam hima ambu dhara sandaram<br>Shri chandram nirmal kaanti sita pancha mukha ajaram", "translation": "I bow to Chandra who has the form of the Sun, wearing white garments, auspicious, son of Atri, born of Kashyapa lineage, Soma, the nectar, consumer of nectar. I bow to the one with dark lotus-like feet, surrounded by rivers of snow water. Shri Chandra of pure brilliance, cool, five-faced, ageless. The Chandra Sahasranama invokes the thousand names of the Moon and is the most comprehensive hymn to Chandra, ideal for a chart where the Moon sits in the dharma trikona and the full range of lunar expressions needs daily strengthening.", "url": "https://stotra.vastucart.in/stotra/chandra-sahasranama" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Chandra Yantra for the dharmic Moon",
+      "yantra": {
+        "name": "Chandra Yantra",
+        "sanskrit": "चन्द्र यन्त्र",
+        "description": "The Chandra Yantra is the geometric form of the lunar channel. For Moon in the Mesh 9th house install it in the north-west corner of the home puja space or library. Monday at moonrise is the installation window, and the yantra should be consecrated with Chandra Sahasranama recitation and a milk libation.",
+        "direction": "North-west corner (puja space or library)",
+        "install_day": "Monday at moonrise, Chandra hora preferred",
+        "material": "Silver (copper acceptable)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Chandra in friendly Dhanu",
+      "stotra": {
+        "eyebrow": "Chandra Sahasranama",
+        "title": "Shri Chandra Sahasranama",
+        "sub": "Thousand names of the Moon, classical lunar comprehensive hymn",
+        "verse": "Chandram bhaskara rupaabhaam subhra vasthradharam shubham<br>Atreyam kasyapam somam amritam amrit ashanam<br>Shyama pada sarojakyam hima ambu dhara sandaram<br>Shri chandram nirmal kaanti sita pancha mukha ajaram",
+        "translation": "I bow to Chandra who has the form of the Sun, wearing white garments, auspicious, son of Atri, born of Kashyapa lineage, Soma, the nectar, consumer of nectar. I bow to the one with dark lotus-like feet, surrounded by rivers of snow water. Shri Chandra of pure brilliance, cool, five-faced, ageless. The Chandra Sahasranama invokes the thousand names of the Moon and is the most comprehensive hymn to Chandra, ideal for a chart where the Moon sits in the dharma trikona and the full range of lunar expressions needs daily strengthening.",
+        "url": "https://stotra.vastucart.in/stotra/chandra-sahasranama"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +700,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your ninth house Moon and kendra-trikona raja yoga", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Travel muhurta", "sub": "Auspicious dates for pilgrimage and long journeys", "url": "https://muhurta.vastucart.in/travel-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Education muhurta", "sub": "Auspicious dates for dharmic study start", "url": "https://muhurta.vastucart.in/education-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Chandra Sahasranama", "sub": "Thousand names of the Moon", "url": "https://stotra.vastucart.in/stotra/chandra-sahasranama", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Chandra Stotra", "sub": "Classical lunar invocation", "url": "https://stotra.vastucart.in/stotra/chandra-stotra", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Soma Suktam", "sub": "Vedic hymn to the lunar nectar deity", "url": "https://stotra.vastucart.in/stotra/soma-suktam", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Chandrashekhar Ashtakam", "sub": "Hymn to Shiva who carries the moon", "url": "https://stotra.vastucart.in/stotra/chandrashekhar-ashtakam", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Annapurna Stotram", "sub": "Mother of nourishment hymn", "url": "https://stotra.vastucart.in/stotra/annapurna-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Pearl and Moti source", "sub": "Certified Chandra gemstone", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Chandra yantra store", "sub": "Silver Chandra yantra for the puja space", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Kendra-trikona analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your ninth house Moon and kendra-trikona raja yoga",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Travel muhurta",
+            "sub": "Auspicious dates for pilgrimage and long journeys",
+            "url": "https://muhurta.vastucart.in/travel-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Education muhurta",
+            "sub": "Auspicious dates for dharmic study start",
+            "url": "https://muhurta.vastucart.in/education-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Chandra Sahasranama",
+            "sub": "Thousand names of the Moon",
+            "url": "https://stotra.vastucart.in/stotra/chandra-sahasranama",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Chandra Stotra",
+            "sub": "Classical lunar invocation",
+            "url": "https://stotra.vastucart.in/stotra/chandra-stotra",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Soma Suktam",
+            "sub": "Vedic hymn to the lunar nectar deity",
+            "url": "https://stotra.vastucart.in/stotra/soma-suktam",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Chandrashekhar Ashtakam",
+            "sub": "Hymn to Shiva who carries the moon",
+            "url": "https://stotra.vastucart.in/stotra/chandrashekhar-ashtakam",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Annapurna Stotram",
+            "sub": "Mother of nourishment hymn",
+            "url": "https://stotra.vastucart.in/stotra/annapurna-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Pearl and Moti source",
+            "sub": "Certified Chandra gemstone",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Chandra yantra store",
+            "sub": "Silver Chandra yantra for the puja space",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Kendra-trikona analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +800,130 @@
         "title": "Is your Dharma Bhava Moon carrying the mother-as-guru signature?",
         "subtitle": "Get a full personalised analysis of your ninth house Chandra, the dharmic inheritance, and the long-journey pattern the chart is preparing.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Chandra Sahasranama", "url": "https://stotra.vastucart.in/stotra/chandra-sahasranama", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Chandra Sahasranama",
+            "url": "https://stotra.vastucart.in/stotra/chandra-sahasranama",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Moon in 9th house, Mesh Lagna",
       "items": [
-        { "q": "Is Moon in the 9th house good for Mesh Lagna?", "a": "Yes, and structurally it is one of the cleanest dharmic Moon placements in the Aries ascendant catalogue. Three structural strengths converge: the friendly Dhanu sign welcomes the lunar expression through Jupiter's favourable disposition, the 9th house is the trikona of dharma naturally aligned with the wisdom-karaka Moon, and Chandra is the 4L for Mesh which makes this a 4L-in-9H kendra-to-trikona raja yoga. The result is a native whose home and mother figure carry the dharmic current directly, producing families where the dharmic orientation runs through the maternal channel." },
-        { "q": "What does the 4L in 9H raja yoga produce for Aries ascendant?", "a": "Classical Parashari texts list kendra-to-trikona raja yogas among the three cleanest raja yoga patterns because they connect the foundation of the chart (kendras) with the dharmic pillars (trikonas). When the 4L occupies the 9H, the home and mother angle flows into the dharma house. The practical effect is that the native's domestic and spiritual life become inseparable. The home becomes the place where dharmic practice happens, the mother becomes the teacher, and the native's emotional grounding and spiritual orientation flow as one continuous expression." },
-        { "q": "Does Moon in 9th house make the mother a dharmic figure?", "a": "Yes, almost without exception in clinical reports. The 9th house is the dharmic transmission house, and when Chandra (the karaka of mother) sits there, the chart is explicitly naming the mother as the dharmic transmitter. Mothers of natives with this placement are typically spiritually oriented in some specific way: they pray at home, take children to temples, read scripture aloud, observe ritual fasts, or maintain a household practice that shapes the child's religious formation. The transmission is usually informal, and many natives do not recognise it as teaching until they look back from their thirties." },
-        { "q": "How does Moon in friendly Dhanu strengthen the dharma signature?", "a": "Dhanu is Jupiter's sign, and Jupiter is the natural karaka of the 9th house dharma, so placing Moon in Dhanu in the 9th creates a triple alignment where the planet, the sign, and the house all work in the same direction. The lunar emotional current is supported by Jupiter's dharmic disposition, the trikona of dharma is reinforced by the dharmic ruler of the sign, and the Moon expresses through a medium that welcomes its contemplative dimension. Natives experience this as a clean fit between their inner dharmic orientation and the outer life their chart actually delivers." },
-        { "q": "Which gemstone should Mesh Lagna wear for Moon in 9th?", "a": "Pearl (Moti) is the primary gemstone and is recommended with high confidence here because the friendly sign and trikona placement together support the gemstone protocol cleanly. Wear a natural Basra or saltwater pearl of minimum five ratti set in silver on the small finger of the right hand on a Monday at sunrise after Chandra mantra recitation. The placement reading should still be confirmed against the lunar phase at birth because shukla paksha natives typically need lighter gemstone work while krishna paksha natives need stronger compensation. Always consult a practising Jyotishi before permanent wearing." }
+        {
+          "q": "Is Moon in the 9th house good for Mesh Lagna?",
+          "a": "Yes, and structurally it is one of the cleanest dharmic Moon placements in the Aries ascendant catalogue. Three structural strengths converge: the friendly Dhanu sign welcomes the lunar expression through Jupiter's favourable disposition, the 9th house is the trikona of dharma naturally aligned with the wisdom-karaka Moon, and Chandra is the 4L for Mesh which makes this a 4L-in-9H kendra-to-trikona raja yoga. The result is a native whose home and mother figure carry the dharmic current directly, producing families where the dharmic orientation runs through the maternal channel."
+        },
+        {
+          "q": "What does the 4L in 9H raja yoga produce for Aries ascendant?",
+          "a": "Classical Parashari texts list kendra-to-trikona raja yogas among the three cleanest raja yoga patterns because they connect the foundation of the chart (kendras) with the dharmic pillars (trikonas). When the 4L occupies the 9H, the home and mother angle flows into the dharma house. The practical effect is that the native's domestic and spiritual life become inseparable. The home becomes the place where dharmic practice happens, the mother becomes the teacher, and the native's emotional grounding and spiritual orientation flow as one continuous expression."
+        },
+        {
+          "q": "Does Moon in 9th house make the mother a dharmic figure?",
+          "a": "Yes, almost without exception in clinical reports. The 9th house is the dharmic transmission house, and when Chandra (the karaka of mother) sits there, the chart is explicitly naming the mother as the dharmic transmitter. Mothers of natives with this placement are typically spiritually oriented in some specific way: they pray at home, take children to temples, read scripture aloud, observe ritual fasts, or maintain a household practice that shapes the child's religious formation. The transmission is usually informal, and many natives do not recognise it as teaching until they look back from their thirties."
+        },
+        {
+          "q": "How does Moon in friendly Dhanu strengthen the dharma signature?",
+          "a": "Dhanu is Jupiter's sign, and Jupiter is the natural karaka of the 9th house dharma, so placing Moon in Dhanu in the 9th creates a triple alignment where the planet, the sign, and the house all work in the same direction. The lunar emotional current is supported by Jupiter's dharmic disposition, the trikona of dharma is reinforced by the dharmic ruler of the sign, and the Moon expresses through a medium that welcomes its contemplative dimension. Natives experience this as a clean fit between their inner dharmic orientation and the outer life their chart actually delivers."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Moon in 9th?",
+          "a": "Pearl (Moti) is the primary gemstone and is recommended with high confidence here because the friendly sign and trikona placement together support the gemstone protocol cleanly. Wear a natural Basra or saltwater pearl of minimum five ratti set in silver on the small finger of the right hand on a Monday at sunrise after Chandra mantra recitation. The placement reading should still be confirmed against the lunar phase at birth because shukla paksha natives typically need lighter gemstone work while krishna paksha natives need stronger compensation. Always consult a practising Jyotishi before permanent wearing."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Raja yoga reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Chandra in the fourth, swakshetra Karka", "sub": "Moon own sign in the home angle, the deepest 4L expression", "href": "/jyotish/graha-in-bhava/moon-4th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Chandra in the fifth, kendra-trikona raja yoga", "sub": "Moon in the creative trikona, the parallel raja yoga study", "href": "/jyotish/graha-in-bhava/moon-5th-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Surya in the ninth, trine-to-trine dharma", "sub": "Sun in the same dharma trikona, the father parallel", "href": "/jyotish/graha-in-bhava/sun-9th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Chandra in the fourth, swakshetra Karka",
+          "sub": "Moon own sign in the home angle, the deepest 4L expression",
+          "href": "/jyotish/graha-in-bhava/moon-4th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Chandra in the fifth, kendra-trikona raja yoga",
+          "sub": "Moon in the creative trikona, the parallel raja yoga study",
+          "href": "/jyotish/graha-in-bhava/moon-5th-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Surya in the ninth, trine-to-trine dharma",
+          "sub": "Sun in the same dharma trikona, the father parallel",
+          "href": "/jyotish/graha-in-bhava/sun-9th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

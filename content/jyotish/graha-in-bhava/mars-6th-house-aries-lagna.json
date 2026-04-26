@@ -6,40 +6,133 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 11,
   "status": "ready",
   "published_at": "2026-04-13T00:00:00.000Z",
   "updated_at": "2026-04-13T00:00:00.000Z",
-  "tags": ["Mars in 6th house", "Mangal", "Mesh Lagna", "Aries ascendant", "Ripu Bhava", "Ari Bhava", "Upachaya", "Dushthana", "vipareet raja yoga", "Mangal mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Mars in 6th house",
+    "Mangal",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Ripu Bhava",
+    "Ari Bhava",
+    "Upachaya",
+    "Dushthana",
+    "vipareet raja yoga",
+    "Mangal mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "mangal",
   "house_number": 6,
   "lagna_id": "mesha",
   "meta": {
     "title": "Mars in 6th House Mesh Lagna, Enemy Destroyer Guide",
-    "description": "Mars in 6th house Mesh Lagna, Mangal in Ripu Bhava Upachaya. Enemies, litigation, career and remedies by Pt. Raghav Sharma.",
+    "description": "Mars in 6th house Mesh Lagna, Mangal in Ripu Bhava Upachaya. Enemies, litigation, career and remedies by VastuCart Editorial.",
     "focus_keyword": "Mars in 6th house",
-    "secondary_keywords": ["Mesh Lagna", "Ripu Bhava", "Mars Upachaya", "Aries ascendant", "Mangal 6th"],
-    "lsi_keywords": ["ripu bhava", "ari bhava", "upachaya dushthana", "mangal kanya", "mangal mahadasha", "vipareet raja yoga", "shatru nashak", "debt destroyer", "litigation winner", "red coral moonga"],
-    "keywords": ["Mars in 6th house Mesh Lagna", "Mangal in Ripu Bhava", "Mesh lagna 6th Mars", "Aries ascendant enemies", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Ripu Bhava",
+      "Mars Upachaya",
+      "Aries ascendant",
+      "Mangal 6th"
+    ],
+    "lsi_keywords": [
+      "ripu bhava",
+      "ari bhava",
+      "upachaya dushthana",
+      "mangal kanya",
+      "mangal mahadasha",
+      "vipareet raja yoga",
+      "shatru nashak",
+      "debt destroyer",
+      "litigation winner",
+      "red coral moonga"
+    ],
+    "keywords": [
+      "Mars in 6th house Mesh Lagna",
+      "Mangal in Ripu Bhava",
+      "Mesh lagna 6th Mars",
+      "Aries ascendant enemies",
+      "Vedic astrology"
+    ],
     "og_title": "Mars in the 6th House of Mesh Lagna, Enemy Destroyer",
     "og_description": "Mangal in Ripu Bhava for Aries ascendant, classical Vipareet Raja Yoga by house, combat study by a practising Jyotishi.",
     "og_image": "/og/mars-6th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-6th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Mars in 6th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-6th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Mars in 6th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/mars-6th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Mars in 6th house",
-    "secondary_keywords": ["Mesh Lagna", "Ripu Bhava", "Mars Upachaya", "Aries ascendant", "Mangal 6th"],
-    "lsi_terms": ["ripu bhava", "ari bhava", "upachaya dushthana", "mangal kanya", "mangal mahadasha", "vipareet raja yoga", "shatru nashak", "debt destroyer", "litigation winner", "red coral moonga"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Ripu Bhava",
+      "Mars Upachaya",
+      "Aries ascendant",
+      "Mangal 6th"
+    ],
+    "lsi_terms": [
+      "ripu bhava",
+      "ari bhava",
+      "upachaya dushthana",
+      "mangal kanya",
+      "mangal mahadasha",
+      "vipareet raja yoga",
+      "shatru nashak",
+      "debt destroyer",
+      "litigation winner",
+      "red coral moonga"
+    ],
     "seed_queries": [
-      "mars in 6th house aries lagna", "mangal in 6th house mesh lagna", "mars in kanya 6th aries", "mangal in ripu bhava mesh", "mars in 6th house effects aries", "mars in virgo mesh lagna", "mars in 6th house enemies aries", "mars in 6th house disease aries", "mars in 6th house litigation aries", "mars in 6th house career aries", "mars in 6th house upachaya", "mars in 6th house remedies", "red coral for mars 6th aries", "moonga for mesh lagna 6th", "is mars manglik in 6th house", "vipareet raja yoga 8l 6h aries", "mars 6th house destroys enemies", "mars in 6th house aries debt", "mars in 6th house aries health", "is mars good in 6th house aries", "mars in virgo aries ascendant", "mangal ripu bhava kanya", "mars 6th house aries prediction", "mars in sixth house mesh lagna", "mars 6th house mesh ascendant", "mangal in mesh lagna 6th", "mars kanya lagna mesh chart", "mars 6th house mesh lagna dasha", "mangal mesh lagna shatru", "mars in virgo aries ascendant career"
+      "mars in 6th house aries lagna",
+      "mangal in 6th house mesh lagna",
+      "mars in kanya 6th aries",
+      "mangal in ripu bhava mesh",
+      "mars in 6th house effects aries",
+      "mars in virgo mesh lagna",
+      "mars in 6th house enemies aries",
+      "mars in 6th house disease aries",
+      "mars in 6th house litigation aries",
+      "mars in 6th house career aries",
+      "mars in 6th house upachaya",
+      "mars in 6th house remedies",
+      "red coral for mars 6th aries",
+      "moonga for mesh lagna 6th",
+      "is mars manglik in 6th house",
+      "vipareet raja yoga 8l 6h aries",
+      "mars 6th house destroys enemies",
+      "mars in 6th house aries debt",
+      "mars in 6th house aries health",
+      "is mars good in 6th house aries",
+      "mars in virgo aries ascendant",
+      "mangal ripu bhava kanya",
+      "mars 6th house aries prediction",
+      "mars in sixth house mesh lagna",
+      "mars 6th house mesh ascendant",
+      "mangal in mesh lagna 6th",
+      "mars kanya lagna mesh chart",
+      "mars 6th house mesh lagna dasha",
+      "mangal mesh lagna shatru",
+      "mars in virgo aries ascendant career"
     ],
     "questions": [
       "Is Mars in the 6th house good for Mesh Lagna?",
@@ -49,36 +142,131 @@
       "Which gemstone should Mesh Lagna wear for Mars in 6th?"
     ],
     "lingual_variations": {
-      "mangal": ["mangal", "mars", "kuja", "bhauma", "angaraka", "mangala"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "mangal": [
+        "mangal",
+        "mars",
+        "kuja",
+        "bhauma",
+        "angaraka",
+        "mangala"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Upachaya-plus-dushthana dual nature explanation", "Vipareet raja yoga via 8L in 6H house position", "Disease and immunity inversion for strong 6H Mars"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Upachaya-plus-dushthana dual nature explanation",
+      "Vipareet raja yoga via 8L in 6H house position",
+      "Disease and immunity inversion for strong 6H Mars"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "mars-6th-house-aries-lagna-hero.webp", "filename_og": "mars-6th-house-aries-lagna-og.png", "alt": "Crimson Mangal striking in the sixth house of a Mesh Lagna kundali", "caption": "Mangal sits in Ripu Bhava for Aries ascendant natives, the classical enemy-destroyer placement with Vipareet Raja Yoga by house position.", "width": 1200, "height": 630, "format": "webp", "style": "warrior editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the sixth house glowing blood red, a stylised Mars symbol with a raised sword motif, traditional Vedic palette of crimson, steel, copper, refined manuscript style, no people.", "negative_prompt": "photorealistic mars, watermark, text, neon, cartoon" },
-    { "filename": "mars-6th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Mars placed in the sixth house of Mesh", "caption": "The North Indian birth chart with Mangal marked in the sixth house Ripu Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the left-lower sixth house highlighted in blood red with a Mars symbol marked Ma, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "mars-6th-house-aries-lagna-red-coral.webp", "alt": "Natural red coral in copper ring, the gemstone for Mars 6th house Mesh Lagna", "caption": "Red coral suits this placement because the Upachaya dushthana house absorbs direct Mars amplification for combat and health outcomes.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural Italian red coral set in a copper ring, deep orange-red colour, oval cabochon cut, on dark crimson velvet with warm lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "mars-6th-house-aries-lagna-hanuman-bahuk.webp", "alt": "Hanuman Bahuk Sanskrit verse on parchment with mace motif", "caption": "Hanuman Bahuk is the classical recitation for disease-conquering Mars placements and is especially aligned with 6th house Mangal.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Hanuman Bahuk, hand-painted on aged parchment with gold leaf borders, faint mace motif in the background, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "mars-6th-house-aries-lagna-hero.webp",
+      "filename_og": "mars-6th-house-aries-lagna-og.png",
+      "alt": "Crimson Mangal striking in the sixth house of a Mesh Lagna kundali",
+      "caption": "Mangal sits in Ripu Bhava for Aries ascendant natives, the classical enemy-destroyer placement with Vipareet Raja Yoga by house position.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "warrior editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the sixth house glowing blood red, a stylised Mars symbol with a raised sword motif, traditional Vedic palette of crimson, steel, copper, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic mars, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "mars-6th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Mars placed in the sixth house of Mesh",
+      "caption": "The North Indian birth chart with Mangal marked in the sixth house Ripu Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the left-lower sixth house highlighted in blood red with a Mars symbol marked Ma, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "mars-6th-house-aries-lagna-red-coral.webp",
+      "alt": "Natural red coral in copper ring, the gemstone for Mars 6th house Mesh Lagna",
+      "caption": "Red coral suits this placement because the Upachaya dushthana house absorbs direct Mars amplification for combat and health outcomes.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural Italian red coral set in a copper ring, deep orange-red colour, oval cabochon cut, on dark crimson velvet with warm lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "mars-6th-house-aries-lagna-hanuman-bahuk.webp",
+      "alt": "Hanuman Bahuk Sanskrit verse on parchment with mace motif",
+      "caption": "Hanuman Bahuk is the classical recitation for disease-conquering Mars placements and is especially aligned with 6th house Mangal.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Hanuman Bahuk, hand-painted on aged parchment with gold leaf borders, faint mace motif in the background, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Mars in the 6th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Mangal in Ripu Bhava for Aries ascendant natives. The lagna lord in the house of enemies, the classical Upachaya and Dushthana dual nature, the Vipareet Raja Yoga by house position, and the disease-conquering immunity signature.",
     "meta": [
-      { "icon": "clock", "value": "11 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "11 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Mangal", "tone": "teal" },
-      { "label": "Ripu Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Upachaya Dushthana" },
-      { "label": "Vipareet Raja Yoga" },
-      { "label": "Not Manglik" }
+      {
+        "label": "Mangal",
+        "tone": "teal"
+      },
+      {
+        "label": "Ripu Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Upachaya Dushthana"
+      },
+      {
+        "label": "Vipareet Raja Yoga"
+      },
+      {
+        "label": "Not Manglik"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +274,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Mangal", "sub": "Mars", "icon": "mars" },
-        { "label": "Bhava", "value": "6th", "sub": "Ripu Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Very strong", "sub": "Upachaya dushthana", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Mangal",
+          "sub": "Mars",
+          "icon": "mars"
+        },
+        {
+          "label": "Bhava",
+          "value": "6th",
+          "sub": "Ripu Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Very strong",
+          "sub": "Upachaya dushthana",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +313,103 @@
       "heading": "Why the house of enemies rewards the warrior planet",
       "html": "<p>The sixth house is Ripu Bhava, also called Ari Bhava or Shatru Sthana, the domain of enemies, litigation, debts, disease, obstacles, daily routine, service, subordinates, and pets. Classical tradition groups it with the 3rd, 10th, and 11th as the four Upachaya houses where malefics grow stronger over time. At the same time, it is one of the three Dushthana houses (6, 8, 12) which classically trouble benefic planets. A malefic like Mangal who enters this house effectively finds his ideal battleground, a place where strength and aggression are not just tolerated but actively required for the native to thrive. Classical Parashara tradition calls Mars in the 6th one of the clearest shatru-nashak (enemy-destroyer) placements, and the reading is unusually consistent across practitioners and across centuries.</p><p>Kanya rashi adds a second layer. Budha rules Kanya, and while Budha and Mangal are formally enemies, the sign itself brings a methodical, analytical, detail-oriented quality that sharpens the Mars action into precision rather than blunting it. Natives with this combination do not just fight their enemies, they analyse them, plan the fight, and execute with surgical accuracy. The Kanya colouring is the reason so many Mars-in-sixth natives end up in surgery, combat journalism, litigation, and military intelligence, fields where the fight is won by method as much as by courage. The third and most important layer is the Vipareet Raja Yoga signature. For Mesh Lagna, Mars is the 8th lord (owning Vrishchika), and placing the 8th lord in the 6th creates a dushthana-lord-in-dushthana arrangement that classical texts name as one of the cleanest forms of Vipareet Raja Yoga. The yoga mechanism is unexpected prosperity arising from situations that appeared to be losses. In consulting practice, I read this as the native being given more from confrontation than others receive from cooperation.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "Mars in Ripu Bhava does not ask the native to avoid conflict, it asks them to master it. The chart is not handing them peace, it is handing them the weapon and the training ground to build their own." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "Mars in Ripu Bhava does not ask the native to avoid conflict, it asks them to master it. The chart is not handing them peace, it is handing them the weapon and the training ground to build their own."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "mars", "title": "Mangal, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "mars",
+          "title": "Mangal, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Courage, energy, sibling, land" },
-            { "k": "Own signs", "v": "Mesha (Aries), Vrishchika (Scorpio)" },
-            { "k": "Uchha (exaltation)", "v": "Makara at 28 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Karka at 28 degrees", "tone": "bad" },
-            { "k": "Friends", "v": "Sun, Moon, Jupiter" },
-            { "k": "Enemies", "v": "Mercury, Venus", "tone": "bad" },
-            { "k": "Element", "v": "Fire (Agni Tattva)" },
-            { "k": "Role for Mesh", "v": "Lagna lord and 8th lord" }
+            {
+              "k": "Karakatva",
+              "v": "Courage, energy, sibling, land"
+            },
+            {
+              "k": "Own signs",
+              "v": "Mesha (Aries), Vrishchika (Scorpio)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Makara at 28 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Karka at 28 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Moon, Jupiter"
+            },
+            {
+              "k": "Enemies",
+              "v": "Mercury, Venus",
+              "tone": "bad"
+            },
+            {
+              "k": "Element",
+              "v": "Fire (Agni Tattva)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "Lagna lord and 8th lord"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Ripu Bhava, house profile", "subtitle": "6th house significance",
+          "icon": "triangle-house",
+          "title": "Ripu Bhava, house profile",
+          "subtitle": "6th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Ripu, Ari, Shatru Bhava" },
-            { "k": "Rules over", "v": "Enemies, debt, disease, litigation" },
-            { "k": "Natural sign", "v": "Kanya (Virgo) for Mesh" },
-            { "k": "Natural ruler", "v": "Budha (Mercury)" },
-            { "k": "Body part", "v": "Abdomen, intestines" },
-            { "k": "Dual nature", "v": "Upachaya and Dushthana", "tone": "good" },
-            { "k": "Vedic quality", "v": "8L in 6H = Vipareet Raja Yoga", "tone": "good" },
-            { "k": "Manglik status", "v": "Not a Manglik position" }
+            {
+              "k": "Sanskrit name",
+              "v": "Ripu, Ari, Shatru Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Enemies, debt, disease, litigation"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Kanya (Virgo) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Budha (Mercury)"
+            },
+            {
+              "k": "Body part",
+              "v": "Abdomen, intestines"
+            },
+            {
+              "k": "Dual nature",
+              "v": "Upachaya and Dushthana",
+              "tone": "good"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "8L in 6H = Vipareet Raja Yoga",
+              "tone": "good"
+            },
+            {
+              "k": "Manglik status",
+              "v": "Not a Manglik position"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +451,48 @@
       "heading": "Where the enemy-destroyer energy channels productively",
       "html": "<p>Career paths cluster around fields where winning against active opposition is the job itself. Surgery, and specifically trauma surgery, emergency medicine, and combat medicine are the strongest fits because they combine the precision Kanya brings with the Mars capacity to act decisively under life-and-death pressure. Orthopaedic surgery, general surgery, and battlefield or disaster medicine all suit the combination. Military intelligence, special operations, and tactical roles in defence services form the second cluster, where the analytical Kanya quality pairs with Mars courage to produce natives who plan and execute complex operations that conventional infantry officers would not be trusted with.</p><p>Litigation, advocacy, and prosecution work are classical fits because the sixth house rules legal conflict and Mars gives the native the aggressive instinct trial work demands. Criminal prosecution in particular often becomes a lifetime calling. Debt restructuring, financial recovery, bankruptcy law, and workout advisory work suit because the sixth house rules debt and Mars gives the nerve to operate where most professionals withdraw. Security, investigation, and forensic work, whether private investigation, internal audit, or fraud detection, match the chart's watching-for-threats temperament. Combat sports, martial arts instruction, and elite athletic coaching round out the list because the physical capability is real and the 6th house rules daily discipline, which elite athletic careers require absolutely. Mangal mahadasha is typically the defining window for this placement, and Vipareet Raja Yoga wealth events often cluster during Mangal antardasha phases inside other mahadashas, especially when the native is engaged in an active confrontation at the time.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Ripu Bhava combat signature", "subtitle": "Generate your free Kundali to map the Vipareet Raja Yoga potential.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Mars marked in the sixth house of Mesh", "planet": "Mangal", "house": 6, "lagna": "Mesh", "legend": [ { "color": "rose", "text": "Mangal in Ripu Bhava, marked in deep crimson" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Left-lower diamond is the 6th house of enemies" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Ripu Bhava combat signature",
+        "subtitle": "Generate your free Kundali to map the Vipareet Raja Yoga potential.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Mars marked in the sixth house of Mesh",
+      "planet": "Mangal",
+      "house": 6,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "rose",
+          "text": "Mangal in Ripu Bhava, marked in deep crimson"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Left-lower diamond is the 6th house of enemies"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "Enemies, debts, and the disease inversion",
@@ -194,13 +505,45 @@
       "heading": "When Mars in 6th fires most powerfully",
       "intro_html": "<p>Mangal mahadasha is the defining seven-year window for this placement, but because of the Vipareet Raja Yoga, Guru, Shani and Shukra periods also deliver significantly.</p>",
       "rows": [
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "The Ripu Bhava peak. Career leaps through confrontation, litigation victories, debt clearance, enemy destruction, Vipareet yoga wealth events.", "intensity": "Very high", "intensity_bar_width": 95, "intensity_bar_color": "#c94444", "highlight": true },
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "9th lord, friend of Mars. Dharmic direction to the combat energy, teaching through hard-won experience, wealth through advisory.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#e8840a" },
-        { "mahadasha": "Shani (Saturn)", "duration": "19 years", "themes": "Karma and discipline lord. Long institutional consolidation of the combat career, formal authority, recognition through persistence.", "intensity": "Good", "intensity_bar_width": 78, "intensity_bar_color": "#338a95" },
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "Seventh house lord, sign co-dispositor of Kanya through aesthetic channel. Business partnerships, lifestyle harvest of earlier wealth.", "intensity": "Mixed", "intensity_bar_width": 68, "intensity_bar_color": "#7aa8cc" }
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "The Ripu Bhava peak. Career leaps through confrontation, litigation victories, debt clearance, enemy destruction, Vipareet yoga wealth events.",
+          "intensity": "Very high",
+          "intensity_bar_width": 95,
+          "intensity_bar_color": "#c94444",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "9th lord, friend of Mars. Dharmic direction to the combat energy, teaching through hard-won experience, wealth through advisory.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#e8840a"
+        },
+        {
+          "mahadasha": "Shani (Saturn)",
+          "duration": "19 years",
+          "themes": "Karma and discipline lord. Long institutional consolidation of the combat career, formal authority, recognition through persistence.",
+          "intensity": "Good",
+          "intensity_bar_width": 78,
+          "intensity_bar_color": "#338a95"
+        },
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "Seventh house lord, sign co-dispositor of Kanya through aesthetic channel. Business partnerships, lifestyle harvest of earlier wealth.",
+          "intensity": "Mixed",
+          "intensity_bar_width": 68,
+          "intensity_bar_color": "#7aa8cc"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +562,140 @@
       "heading": "Gemstones for Mars in 6th house Mesh Lagna",
       "intro_html": "<p>Red coral (Moonga) is the primary stone, recommended without hesitation because the Upachaya dushthana absorbs direct Mars amplification cleanly.</p>",
       "cards": [
-        { "name": "Moonga (Red Coral)", "role": "primary", "sub": "Mangal-strengthening stone", "icon_variant": "coral", "image_slug": "red-coral", "items": [ { "k": "Metal", "v": "Copper or gold" }, { "k": "Finger", "v": "Ring finger, right hand" }, { "k": "Day to wear", "v": "Tuesday morning" }, { "k": "Min weight", "v": "6 to 8 Ratti" } ] },
-        { "name": "Natural Red Jasper (alt)", "role": "secondary", "sub": "Milder Mars-aligned alternative", "icon_variant": "coral", "image_slug": "red-coral", "items": [ { "k": "Metal", "v": "Copper" }, { "k": "Finger", "v": "Ring finger" }, { "k": "Day to wear", "v": "Tuesday morning" }, { "k": "Min weight", "v": "7 to 9 Ratti" } ] },
-        { "name": "Consult before wearing Moonga", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Moonga (Red Coral)",
+          "role": "primary",
+          "sub": "Mangal-strengthening stone",
+          "icon_variant": "coral",
+          "image_slug": "red-coral",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Copper or gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Tuesday morning"
+            },
+            {
+              "k": "Min weight",
+              "v": "6 to 8 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Natural Red Jasper (alt)",
+          "role": "secondary",
+          "sub": "Milder Mars-aligned alternative",
+          "icon_variant": "coral",
+          "image_slug": "red-coral",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Copper"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Tuesday morning"
+            },
+            {
+              "k": "Min weight",
+              "v": "7 to 9 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Moonga",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Even a supported Mars placement deserves a full chart review before permanent gemstone wearing. Always consult a qualified Jyotishi."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Mars in 6th house",
       "intro_html": "<p>The Mangal rudraksha is the Teen Mukhi, with the Gyarah Mukhi providing Hanuman's disease-conquering protection.</p>",
       "beads": [
-        { "mukhi": 3, "name": "Teen Mukhi Rudraksha", "sub": "Ruled by Agni and Mangal", "benefit": "The direct Mars rudraksha. Amplifies the combat signature, stabilises the digestive fire, and supports the Vipareet Raja Yoga expression during Mangal mahadasha." },
-        { "mukhi": 11, "name": "Gyarah Mukhi Rudraksha", "sub": "Ruled by Hanuman, the disease-conqueror", "benefit": "The Hanuman bead specifically aligned with the 6th house Mars because Hanuman is the classical vanquisher of disease and enemies. The single most effective secondary bead for this placement." }
+        {
+          "mukhi": 3,
+          "name": "Teen Mukhi Rudraksha",
+          "sub": "Ruled by Agni and Mangal",
+          "benefit": "The direct Mars rudraksha. Amplifies the combat signature, stabilises the digestive fire, and supports the Vipareet Raja Yoga expression during Mangal mahadasha."
+        },
+        {
+          "mukhi": 11,
+          "name": "Gyarah Mukhi Rudraksha",
+          "sub": "Ruled by Hanuman, the disease-conqueror",
+          "benefit": "The Hanuman bead specifically aligned with the 6th house Mars because Hanuman is the classical vanquisher of disease and enemies. The single most effective secondary bead for this placement."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Mangal Yantra for the enemy destroyer", "yantra": { "name": "Mangal Yantra", "sanskrit": "मंगल यन्त्र", "description": "The Mangal Yantra is the geometric form of the warrior energy. For this placement install it in the south wall of your office or home workspace on a Tuesday morning during Mangal hora, and pair the installation with Hanuman Chalisa recitation for best effect.", "direction": "South wall", "install_day": "Tuesday morning, Mangal hora", "material": "Copper (traditional for Mangal)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for the Ripu Bhava Mangal", "stotra": { "eyebrow": "Hanuman Bahuk", "title": "Shri Hanuman Bahuk", "sub": "Tulsidas's hymn to Hanuman for relief from disease and suffering", "verse": "Sindhu taran siya soch bimochan karamashta rudrachchanarayana<br>Khalbat dahan kalpay kelanaraj bajra ratan ratanabhinayana<br>Prachandapaunchumar brindasanhar dukarmanishaachar bada<br>Bahuk dukhaha kapisa barada daasa tulasidas kah bagha", "translation": "Crosser of the ocean, remover of Sita's grief, the eight-armed form of Rudra-Narayana, destroyer of the wicked, gem of the kalpa, jewel-lamp of the eyes, fierce as the wind, destroyer of the demon hordes, great slayer of the evil-doing night-walkers, remover of the suffering of Bahuk, king of monkeys, boon-giver, hear the call of your servant Tulsidas. The Hanuman Bahuk is the classical hymn for disease and suffering, and the perfect recitation for a Mars in Ripu Bhava.", "url": "https://stotra.vastucart.in/stotra/hanuman-bahuk" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Mangal Yantra for the enemy destroyer",
+      "yantra": {
+        "name": "Mangal Yantra",
+        "sanskrit": "मंगल यन्त्र",
+        "description": "The Mangal Yantra is the geometric form of the warrior energy. For this placement install it in the south wall of your office or home workspace on a Tuesday morning during Mangal hora, and pair the installation with Hanuman Chalisa recitation for best effect.",
+        "direction": "South wall",
+        "install_day": "Tuesday morning, Mangal hora",
+        "material": "Copper (traditional for Mangal)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for the Ripu Bhava Mangal",
+      "stotra": {
+        "eyebrow": "Hanuman Bahuk",
+        "title": "Shri Hanuman Bahuk",
+        "sub": "Tulsidas's hymn to Hanuman for relief from disease and suffering",
+        "verse": "Sindhu taran siya soch bimochan karamashta rudrachchanarayana<br>Khalbat dahan kalpay kelanaraj bajra ratan ratanabhinayana<br>Prachandapaunchumar brindasanhar dukarmanishaachar bada<br>Bahuk dukhaha kapisa barada daasa tulasidas kah bagha",
+        "translation": "Crosser of the ocean, remover of Sita's grief, the eight-armed form of Rudra-Narayana, destroyer of the wicked, gem of the kalpa, jewel-lamp of the eyes, fierce as the wind, destroyer of the demon hordes, great slayer of the evil-doing night-walkers, remover of the suffering of Bahuk, king of monkeys, boon-giver, hear the call of your servant Tulsidas. The Hanuman Bahuk is the classical hymn for disease and suffering, and the perfect recitation for a Mars in Ripu Bhava.",
+        "url": "https://stotra.vastucart.in/stotra/hanuman-bahuk"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +703,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your sixth house and Vipareet yoga signature", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Business muhurta", "sub": "Auspicious dates for venture launch", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Job joining muhurta", "sub": "Auspicious dates for starting new roles", "url": "https://muhurta.vastucart.in/job-joining-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Hanuman Bahuk", "sub": "Disease and suffering relief stotra", "url": "https://stotra.vastucart.in/stotra/hanuman-bahuk", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Hanuman Chalisa", "sub": "Daily dusk recitation for courage", "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Mangal Kavacham", "sub": "Protective armour stotra for Mars", "url": "https://stotra.vastucart.in/stotra/mangal-kavacham", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Sankat Mochan Hanuman Ashtak", "sub": "Eight-verse hymn for obstacle removal", "url": "https://stotra.vastucart.in/stotra/sankat-mochan-hanuman-ashtak", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Hanuman deity page", "sub": "All stotras and hymns for Hanuman", "url": "https://stotra.vastucart.in/deity/hanuman", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Teen Mukhi rudraksha source", "sub": "The Mangal rudraksha bead", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Mangal yantra store", "sub": "Copper Mangal yantra for Ripu Bhava", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Vipareet yoga verification with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your sixth house and Vipareet yoga signature",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Business muhurta",
+            "sub": "Auspicious dates for venture launch",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Job joining muhurta",
+            "sub": "Auspicious dates for starting new roles",
+            "url": "https://muhurta.vastucart.in/job-joining-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Hanuman Bahuk",
+            "sub": "Disease and suffering relief stotra",
+            "url": "https://stotra.vastucart.in/stotra/hanuman-bahuk",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Hanuman Chalisa",
+            "sub": "Daily dusk recitation for courage",
+            "url": "https://stotra.vastucart.in/stotra/hanuman-chalisa",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Mangal Kavacham",
+            "sub": "Protective armour stotra for Mars",
+            "url": "https://stotra.vastucart.in/stotra/mangal-kavacham",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Sankat Mochan Hanuman Ashtak",
+            "sub": "Eight-verse hymn for obstacle removal",
+            "url": "https://stotra.vastucart.in/stotra/sankat-mochan-hanuman-ashtak",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Hanuman deity page",
+            "sub": "All stotras and hymns for Hanuman",
+            "url": "https://stotra.vastucart.in/deity/hanuman",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Teen Mukhi rudraksha source",
+            "sub": "The Mangal rudraksha bead",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Mangal yantra store",
+            "sub": "Copper Mangal yantra for Ripu Bhava",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Vipareet yoga verification with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +803,130 @@
         "title": "Is your Vipareet Raja Yoga active?",
         "subtitle": "Get a full personalised analysis of your Ripu Bhava Mars, combat signature, and wealth-through-conflict potential.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Hanuman Bahuk", "url": "https://stotra.vastucart.in/stotra/hanuman-bahuk", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Hanuman Bahuk",
+            "url": "https://stotra.vastucart.in/stotra/hanuman-bahuk",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Mars in 6th house, Mesh Lagna",
       "items": [
-        { "q": "Is Mars in the 6th house good for Mesh Lagna?", "a": "Yes, and it is one of the classical enemy-destroyer placements in the Aries ascendant catalogue. The 6th house is both Upachaya (growing for malefics) and Dushthana (difficult for benefics), and Mars as a malefic in this dual-nature house finds his ideal battleground. For Mesh Lagna specifically, the placement also creates a Vipareet Raja Yoga because Mangal is the 8th lord and placing the 8th lord in the 6th is a classical dushthana-lord-in-dushthana cancellation that produces unexpected prosperity through conflict." },
-        { "q": "What does Mars in Kanya mean for an Aries ascendant?", "a": "It means the native's martial energy runs through Mercury's analytical, detail-oriented sign, producing a warrior who plans the fight before fighting and executes with surgical precision. This is why Mars-in-Kanya natives so often end up in surgery, military intelligence, litigation, and investigation, fields where the fight is won by method as much as by courage. The Kanya colour slows the native's anger but makes the eventual response more decisive." },
-        { "q": "Does Mars in 6th house destroy enemies?", "a": "Yes, in the classical sense. Parashara tradition specifically names Mars in the 6th as a shatru-nashak (enemy-destroyer) placement, and the reading is unusually consistent. Natives with this combination rarely lose to active opposition, their enemies frequently defeat themselves through their own overreach, and in consulting practice I observe this pattern so reliably that I use it as a diagnostic marker when verifying ambiguous Mesh Lagna birth times. The combat energy is real, the victory signature is real, and the chart reads cleanly on this point." },
-        { "q": "Is Mars in 6th house Manglik for Aries?", "a": "No. Classical Manglik Dosha applies when Mars occupies the 1st, 2nd, 4th, 7th, 8th, or 12th houses. The 6th is not on that list. Natives with this placement should never be told they carry Manglik Dosha, and marriage timing is not affected by the standard Kuja Dosha rules for this combination, though the chart should always be reviewed for other unrelated factors." },
-        { "q": "Which gemstone should Mesh Lagna wear for Mars in 6th?", "a": "Red coral (Moonga) is the primary gemstone and can be recommended without hesitation. Wear a natural Italian or Mediterranean red coral of minimum six ratti set in copper or gold on the ring finger of the right hand on a Tuesday morning after Mangal mantra recitation. The Upachaya dushthana house absorbs direct Mars amplification cleanly, and coral strengthens exactly the combat channel the chart is already aligned toward. Always consult a practising Jyotishi before permanent wearing." }
+        {
+          "q": "Is Mars in the 6th house good for Mesh Lagna?",
+          "a": "Yes, and it is one of the classical enemy-destroyer placements in the Aries ascendant catalogue. The 6th house is both Upachaya (growing for malefics) and Dushthana (difficult for benefics), and Mars as a malefic in this dual-nature house finds his ideal battleground. For Mesh Lagna specifically, the placement also creates a Vipareet Raja Yoga because Mangal is the 8th lord and placing the 8th lord in the 6th is a classical dushthana-lord-in-dushthana cancellation that produces unexpected prosperity through conflict."
+        },
+        {
+          "q": "What does Mars in Kanya mean for an Aries ascendant?",
+          "a": "It means the native's martial energy runs through Mercury's analytical, detail-oriented sign, producing a warrior who plans the fight before fighting and executes with surgical precision. This is why Mars-in-Kanya natives so often end up in surgery, military intelligence, litigation, and investigation, fields where the fight is won by method as much as by courage. The Kanya colour slows the native's anger but makes the eventual response more decisive."
+        },
+        {
+          "q": "Does Mars in 6th house destroy enemies?",
+          "a": "Yes, in the classical sense. Parashara tradition specifically names Mars in the 6th as a shatru-nashak (enemy-destroyer) placement, and the reading is unusually consistent. Natives with this combination rarely lose to active opposition, their enemies frequently defeat themselves through their own overreach, and in consulting practice I observe this pattern so reliably that I use it as a diagnostic marker when verifying ambiguous Mesh Lagna birth times. The combat energy is real, the victory signature is real, and the chart reads cleanly on this point."
+        },
+        {
+          "q": "Is Mars in 6th house Manglik for Aries?",
+          "a": "No. Classical Manglik Dosha applies when Mars occupies the 1st, 2nd, 4th, 7th, 8th, or 12th houses. The 6th is not on that list. Natives with this placement should never be told they carry Manglik Dosha, and marriage timing is not affected by the standard Kuja Dosha rules for this combination, though the chart should always be reviewed for other unrelated factors."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Mars in 6th?",
+          "a": "Red coral (Moonga) is the primary gemstone and can be recommended without hesitation. Wear a natural Italian or Mediterranean red coral of minimum six ratti set in copper or gold on the ring finger of the right hand on a Tuesday morning after Mangal mantra recitation. The Upachaya dushthana house absorbs direct Mars amplification cleanly, and coral strengthens exactly the combat channel the chart is already aligned toward. Always consult a practising Jyotishi before permanent wearing."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Vipareet Yoga reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Mangal in the third, Upachaya Parakrama", "sub": "Mars in Mithuna, courage in the growth house", "href": "/jyotish/graha-in-bhava/mars-3rd-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Mangal in the eleventh, Labha Bhava", "sub": "Mars in Kumbha, wealth through effort", "href": "/jyotish/graha-in-bhava/mars-11th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Mangal in the eighth, own sign study", "sub": "Mars in Vrishchika, longevity and transformation", "href": "/jyotish/graha-in-bhava/mars-8th-house-aries-lagna", "icon_variant": "generic" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Mangal in the third, Upachaya Parakrama",
+          "sub": "Mars in Mithuna, courage in the growth house",
+          "href": "/jyotish/graha-in-bhava/mars-3rd-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Mangal in the eleventh, Labha Bhava",
+          "sub": "Mars in Kumbha, wealth through effort",
+          "href": "/jyotish/graha-in-bhava/mars-11th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Mangal in the eighth, own sign study",
+          "sub": "Mars in Vrishchika, longevity and transformation",
+          "href": "/jyotish/graha-in-bhava/mars-8th-house-aries-lagna",
+          "icon_variant": "generic"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

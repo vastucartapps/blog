@@ -130,3 +130,38 @@ To be defined per template, but the same principle applies:
   Outbound links to third parties (Wikipedia, Britannica, government sites)
   do not carry `rel="nofollow"` either, but third-party non-authoritative
   sites should be `rel="nofollow noopener"`.
+
+## External link whitelist (locked)
+
+Posts may include 1 to 2 external links per post, **only** to
+domains in this whitelist. The validator hard-fails any external
+URL outside this list — no competitor links, no fabricated
+sources, no marketing affiliates.
+
+| Domain               | Use for                                          | rel             |
+|----------------------|--------------------------------------------------|-----------------|
+| `en.wikipedia.org`   | entity definitions, classical texts, scholars    | `noopener`      |
+| `vedabase.io`        | Sanskrit scripture references (free)             | `noopener`      |
+| `wisdomlib.org`      | encyclopedic Vedic / Sanskrit definitions        | `noopener`      |
+| `archive.org`        | primary classical text PDFs and historical docs  | `noopener`      |
+
+### Anchor text rules for external links
+
+- Anchor text MUST be the entity name. Examples that pass:
+  - "[Brihat Parashara Hora Shastra](https://en.wikipedia.org/wiki/Brihat_Parashara_Hora_Shastra)"
+  - "[Aditya Hridayam](https://vedabase.io/en/library/...)"
+  - "[Surya Siddhanta](https://wisdomlib.org/...)"
+- Anchor text that fails:
+  - "click here", "read more", "this article", "source"
+  - Generic exact-match keyword stuffing like "best vedic astrology guide"
+- All external links MUST open in a new tab (`target="_blank"`)
+  and carry `rel="noopener nofollow"`. The validator enforces both.
+
+### How to insert in post content
+
+External links go inside `prose` or `scannable-prose` `html` /
+`subsections[].html`. Never in the `internal-links` block (that
+block is for VastuCart network only). Never in CTAs.
+
+The validator uses the whitelist regex to scan all `<a href="...">`
+inside content blocks and reject any external host not in the list.

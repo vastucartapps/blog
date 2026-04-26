@@ -8,6 +8,7 @@ import {
   personId,
   type SchemaEntity,
 } from "./constants";
+import { reviewerOrgRef } from "./reviewer";
 import {
   bhavaConceptId,
   categoryConceptIds,
@@ -109,6 +110,12 @@ export function buildBlogPostingSchemas(
     dateModified: post.updated_at,
     author: { "@id": personId(post.author_id) },
     publisher: ORG_REF,
+    ...(post.reviewer_id
+      ? (() => {
+          const ref = reviewerOrgRef(post.reviewer_id);
+          return ref ? { reviewedBy: ref } : {};
+        })()
+      : {}),
     articleSection: cat?.label ?? post.category,
     keywords: post.tags.join(", "),
     wordCount,

@@ -153,3 +153,236 @@ These appear in the schema entry AND in the IPTC metadata of the file when the A
 | Image sitemap entry | High — discovery |
 
 A post that ships without proper image SEO leaves ~30% of its potential image search traffic on the table. Locked.
+
+---
+
+## 11. SVG-first authoring → WebP delivery pipeline
+
+The generative image API is gated behind cost and quota. The
+SVG-first pipeline gives every post real, on-disk, on-brand
+images today, with zero API calls, while keeping the same WebP
+delivery contract Google expects.
+
+### Pipeline
+
+1. **Author writes SVG inline** during post creation. SVG is text,
+   so the author can hand-craft it from the templates below.
+2. SVG saved at `public/posts/{slug}/{slug}-{suffix}.svg`.
+3. **`scripts/svg-to-webp.ts`** runs (locally or in CI). Reads
+   every `.svg` in `public/posts/`, rasterises via `sharp` at the
+   target dimensions, writes the matching `.webp` next to it.
+4. The post `image_manifest` references the `.webp` filename.
+   The renderer uses `next/image` with explicit `width` and
+   `height`. CLS = 0.
+5. **`scripts/backfill-post-images.ts`** runs in a separate
+   terminal for past posts. Walks `content/`, finds posts whose
+   `image_manifest` files are missing, generates SVGs from the
+   templates using the manifest's `style` + `slot` + planet/lagna
+   metadata, runs the conversion.
+
+### SVG templates by image type
+
+Each template is a self-contained `<svg>` block. Substitute
+`{slug}`, `{planet_glyph}`, `{sign_glyph}`, `{house_number}`,
+`{primary_color}`, `{accent_color}` from the post JSON and the
+brand palette.
+
+#### 11.1 Hero illustration (1200×630)
+
+A compositional hero with planet glyph + sign glyph + brand
+gradient. Saved as `public/posts/{slug}/{slug}-hero.svg` →
+converted to `{slug}-hero.webp`.
+
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630"
+     role="img" aria-label="{alt}">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="{primary_color}"/>
+      <stop offset="100%" stop-color="#013F47"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.7" cy="0.4" r="0.5">
+      <stop offset="0%" stop-color="{accent_color}" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="{accent_color}" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="850" cy="280" r="220" fill="url(#glow)"/>
+  <!-- planet glyph: large, top-right -->
+  <text x="850" y="320" text-anchor="middle"
+        font-family="serif" font-size="240"
+        fill="{accent_color}" opacity="0.85">{planet_glyph}</text>
+  <!-- sign glyph: small, bottom-right -->
+  <text x="850" y="500" text-anchor="middle"
+        font-family="serif" font-size="80"
+        fill="#faf6ef" opacity="0.7">{sign_glyph}</text>
+  <!-- house number watermark: bottom-left -->
+  <text x="120" y="540" font-family="serif" font-size="180"
+        fill="#faf6ef" opacity="0.08" font-weight="700">{house_number}</text>
+  <!-- brand band: bottom strip -->
+  <rect x="0" y="600" width="1200" height="30" fill="#013F47"/>
+</svg>
+```
+
+Planet glyphs (Unicode astrological): ☉ Sun, ☽ Moon, ♂ Mars,
+☿ Mercury, ♃ Jupiter, ♀ Venus, ♄ Saturn, ☊ Rahu, ☋ Ketu.
+
+Sign glyphs: ♈ Mesha, ♉ Vrishabha, ♊ Mithuna, ♋ Karka, ♌ Simha,
+♍ Kanya, ♎ Tula, ♏ Vrishchika, ♐ Dhanu, ♑ Makara, ♒ Kumbha,
+♓ Meena.
+
+Brand colour pairs per planet:
+- Sun → primary `#e8840a`, accent `#FFD27A`
+- Moon → primary `#338a95`, accent `#E0F4F7`
+- Mars → primary `#c94444`, accent `#FFB7B7`
+- Mercury → primary `#338a95`, accent `#9FE5C8`
+- Jupiter → primary `#f4b942`, accent `#FFE9B0`
+- Venus → primary `#e8840a`, accent `#FFE0EC`
+- Saturn → primary `#013F47`, accent `#9DA8AC`
+- Rahu → primary `#013F47`, accent `#7B6FB7`
+- Ketu → primary `#338a95`, accent `#9DA8AC`
+
+#### 11.2 Kundali chart diagram (1024×1024)
+
+North Indian diamond chart with the placement house highlighted.
+Saved as `{slug}-north-indian-kundali.svg`.
+
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024"
+     role="img" aria-label="{alt}">
+  <rect width="1024" height="1024" fill="#faf6ef"/>
+  <!-- outer square -->
+  <rect x="62" y="62" width="900" height="900"
+        fill="none" stroke="#013F47" stroke-width="3"/>
+  <!-- diagonals -->
+  <line x1="62" y1="62" x2="962" y2="962" stroke="#013F47" stroke-width="2"/>
+  <line x1="962" y1="62" x2="62" y2="962" stroke="#013F47" stroke-width="2"/>
+  <!-- mid cross -->
+  <line x1="512" y1="62" x2="512" y2="962" stroke="#013F47" stroke-width="2" opacity="0"/>
+  <line x1="62" y1="512" x2="962" y2="512" stroke="#013F47" stroke-width="2" opacity="0"/>
+  <!-- inner diamond -->
+  <polygon points="512,62 962,512 512,962 62,512"
+           fill="none" stroke="#013F47" stroke-width="3"/>
+  <!-- highlight target house with primary_color fill at 0.18 opacity -->
+  <!-- (template substitutes the polygon for house N) -->
+  <!-- planet glyph centred in highlighted house -->
+  <text x="{glyph_x}" y="{glyph_y}" text-anchor="middle"
+        font-family="serif" font-size="64"
+        fill="{primary_color}">{planet_glyph}</text>
+  <!-- house numbers in Devanagari around the chart -->
+  <!-- ... -->
+</svg>
+```
+
+A reusable helper `lib/svg/kundali.ts` produces the polygon for
+each house number 1–12 so authors do not hand-code coordinates.
+
+#### 11.3 Gemstone vignette (1024×768)
+
+Stylised gemstone illustration. Reuses
+`public/gemstones/{slug}.png` if available and that asset is
+listed in `VALID_GEMSTONE_SLUGS`.
+
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768"
+     role="img" aria-label="{alt}">
+  <defs>
+    <radialGradient id="velvet" cx="0.5" cy="0.5" r="0.7">
+      <stop offset="0%" stop-color="#1a2530"/>
+      <stop offset="100%" stop-color="#000"/>
+    </radialGradient>
+  </defs>
+  <rect width="1024" height="768" fill="url(#velvet)"/>
+  <image href="/gemstones/{gemstone_slug}.png"
+         x="262" y="134" width="500" height="500"
+         preserveAspectRatio="xMidYMid meet"/>
+  <text x="512" y="700" text-anchor="middle"
+        font-family="serif" font-size="36" fill="#faf6ef">
+    {gemstone_name_sanskrit} ({gemstone_name_english})
+  </text>
+</svg>
+```
+
+#### 11.4 Stotra parchment (1024×768)
+
+Sanskrit verse on parchment background.
+
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768"
+     role="img" aria-label="{alt}">
+  <defs>
+    <linearGradient id="parchment" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FBF5E2"/>
+      <stop offset="100%" stop-color="#E8DDB7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="768" fill="url(#parchment)"/>
+  <rect x="40" y="40" width="944" height="688"
+        fill="none" stroke="#c9a84c" stroke-width="6"/>
+  <text x="512" y="200" text-anchor="middle"
+        font-family="'Noto Sans Devanagari', serif"
+        font-size="56" fill="#013F47">
+    {stotra_devanagari_first_line}
+  </text>
+  <text x="512" y="280" text-anchor="middle"
+        font-family="'Noto Sans Devanagari', serif"
+        font-size="48" fill="#013F47">
+    {stotra_devanagari_second_line}
+  </text>
+  <text x="512" y="500" text-anchor="middle"
+        font-family="serif" font-style="italic"
+        font-size="32" fill="#5a4a30">
+    — {stotra_name}
+  </text>
+</svg>
+```
+
+### svg-to-webp.ts contract
+
+```bash
+# Convert every .svg in public/posts/ to .webp at the target
+# dimensions read from the SVG viewBox.
+npx tsx scripts/svg-to-webp.ts
+
+# Convert a specific post directory
+npx tsx scripts/svg-to-webp.ts --post sun-2nd-house-aries-lagna
+
+# Force regenerate even if .webp newer than .svg
+npx tsx scripts/svg-to-webp.ts --force
+```
+
+Output: WebP files at the matching path, lossless palette
+optimisation, target size ≤ 200 KB for hero (1200×630), ≤ 100 KB
+for in-body (1024×768 / 1024×1024).
+
+### backfill-post-images.ts contract
+
+For the parallel agent terminal:
+
+```bash
+# Walk content/, generate missing SVGs from templates, run
+# conversion. Reports progress per post.
+npx tsx scripts/backfill-post-images.ts
+
+# Limit to a subset
+npx tsx scripts/backfill-post-images.ts --category jyotish --subcategory graha-in-bhava
+```
+
+The script reads each post's `image_manifest`, identifies missing
+files in `public/posts/{slug}/`, picks the right template based on
+the `slot` field (`hero` → 11.1, `kundali` → 11.2, `gemstone` →
+11.3, `stotra` → 11.4), substitutes the metadata, writes the SVG,
+and runs the conversion. Idempotent.
+
+### Aspect ratios (locked)
+
+| Slot              | SVG viewBox | WebP output | Use                  |
+|-------------------|-------------|-------------|----------------------|
+| hero              | 1200×630    | 1200×630    | OG image, hero figure|
+| kundali-chart     | 1024×1024   | 1024×1024   | square diagram       |
+| in-body figure    | 1024×768    | 1024×768    | mid-article          |
+| gemstone vignette | 1024×768    | 1024×768    | gemstone block       |
+| stotra parchment  | 1024×768    | 1024×768    | stotra block         |
+
+All SVGs include a `role="img"` and `aria-label` matching the
+manifest `alt`. Accessibility-first.

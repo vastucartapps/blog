@@ -6,40 +6,132 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-13T00:00:00.000Z",
   "updated_at": "2026-04-13T00:00:00.000Z",
-  "tags": ["Rahu in 10th house", "Mesh Lagna", "Aries ascendant", "Karma Bhava", "Makara rashi Rahu", "Rahu mahadasha", "hessonite gomed", "BPHS favourable Rahu", "foreign career", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Rahu in 10th house",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Karma Bhava",
+    "Makara rashi Rahu",
+    "Rahu mahadasha",
+    "hessonite gomed",
+    "BPHS favourable Rahu",
+    "foreign career",
+    "graha in bhava"
+  ],
   "planet_id": "rahu",
   "house_number": 10,
   "lagna_id": "mesha",
   "meta": {
     "title": "Rahu in 10th House for Mesh Lagna, Career Rise Guide",
-    "description": "Rahu in 10th house for Mesh Lagna, the north node in Karma Bhava and Makara rashi. Career, foreign rise, Rahu mahadasha and remedies by Pt. Raghav Sharma.",
+    "description": "Rahu in 10th house for Mesh Lagna, the north node in Karma Bhava and Makara rashi. Career, foreign rise, Rahu mahadasha and remedies by VastuCart Editorial.",
     "focus_keyword": "Rahu in 10th house",
-    "secondary_keywords": ["Mesh Lagna", "Karma Bhava Rahu", "Rahu Makara", "Aries ascendant", "Rahu mahadasha"],
-    "lsi_keywords": ["karma bhava rahu", "rahu makara", "rahu 18 year mahadasha", "hessonite gomed", "foreign career rise", "rahu dasha effects", "bphs rahu tenth", "sudden elevation", "unorthodox profession", "tenth house rahu"],
-    "keywords": ["Rahu in 10th house Mesh Lagna", "Rahu in Karma Bhava", "Mesh lagna 10th Rahu", "Aries ascendant foreign career", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Karma Bhava Rahu",
+      "Rahu Makara",
+      "Aries ascendant",
+      "Rahu mahadasha"
+    ],
+    "lsi_keywords": [
+      "karma bhava rahu",
+      "rahu makara",
+      "rahu 18 year mahadasha",
+      "hessonite gomed",
+      "foreign career rise",
+      "rahu dasha effects",
+      "bphs rahu tenth",
+      "sudden elevation",
+      "unorthodox profession",
+      "tenth house rahu"
+    ],
+    "keywords": [
+      "Rahu in 10th house Mesh Lagna",
+      "Rahu in Karma Bhava",
+      "Mesh lagna 10th Rahu",
+      "Aries ascendant foreign career",
+      "Vedic astrology"
+    ],
     "og_title": "Rahu in the 10th House of Mesh Lagna, the Career Zenith",
     "og_description": "North node in Karma Bhava for Aries ascendant, Rahu in Makara at the zenith, a full career rise study by a practising Jyotishi.",
     "og_image": "/og/rahu-10th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/rahu-10th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Rahu in 10th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/rahu-10th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Rahu in 10th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/rahu-10th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Rahu in 10th house",
-    "secondary_keywords": ["Mesh Lagna", "Karma Bhava Rahu", "Rahu Makara", "Aries ascendant", "Rahu mahadasha"],
-    "lsi_terms": ["karma bhava rahu", "rahu makara", "rahu 18 year mahadasha", "hessonite gomed", "foreign career rise", "rahu dasha effects", "bphs rahu tenth", "sudden elevation", "unorthodox profession", "tenth house rahu"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Karma Bhava Rahu",
+      "Rahu Makara",
+      "Aries ascendant",
+      "Rahu mahadasha"
+    ],
+    "lsi_terms": [
+      "karma bhava rahu",
+      "rahu makara",
+      "rahu 18 year mahadasha",
+      "hessonite gomed",
+      "foreign career rise",
+      "rahu dasha effects",
+      "bphs rahu tenth",
+      "sudden elevation",
+      "unorthodox profession",
+      "tenth house rahu"
+    ],
     "seed_queries": [
-      "rahu in 10th house aries lagna", "rahu in karma bhava mesh lagna", "rahu in makara mesh lagna", "rahu 10th house effects aries", "rahu in 10th house career aries", "rahu in 10th house foreign aries", "rahu in 10th house fame aries", "rahu in 10th house remedies", "hessonite for rahu 10th aries", "gomed for mesh lagna 10th", "rahu mahadasha aries 10th", "rahu in 10th house aries tech", "rahu in 10th house aries media", "rahu in 10th house aries politics", "is rahu good in 10th house aries", "rahu in capricorn aries ascendant", "rahu karma bhava makara", "rahu 10th house aries prediction", "rahu in tenth house mesh lagna", "rahu 10th house mesh ascendant", "rahu in mesh lagna 10th", "rahu makara lagna mesh chart", "rahu 10th house mesh lagna dasha", "rahu mesh lagna career", "rahu in capricorn aries ascendant career", "bphs rahu in tenth house", "parashara rahu 10th house", "rahu 10th house rise and fall", "rahu 10th house aries wealth", "rahu 10th house government favour"
+      "rahu in 10th house aries lagna",
+      "rahu in karma bhava mesh lagna",
+      "rahu in makara mesh lagna",
+      "rahu 10th house effects aries",
+      "rahu in 10th house career aries",
+      "rahu in 10th house foreign aries",
+      "rahu in 10th house fame aries",
+      "rahu in 10th house remedies",
+      "hessonite for rahu 10th aries",
+      "gomed for mesh lagna 10th",
+      "rahu mahadasha aries 10th",
+      "rahu in 10th house aries tech",
+      "rahu in 10th house aries media",
+      "rahu in 10th house aries politics",
+      "is rahu good in 10th house aries",
+      "rahu in capricorn aries ascendant",
+      "rahu karma bhava makara",
+      "rahu 10th house aries prediction",
+      "rahu in tenth house mesh lagna",
+      "rahu 10th house mesh ascendant",
+      "rahu in mesh lagna 10th",
+      "rahu makara lagna mesh chart",
+      "rahu 10th house mesh lagna dasha",
+      "rahu mesh lagna career",
+      "rahu in capricorn aries ascendant career",
+      "bphs rahu in tenth house",
+      "parashara rahu 10th house",
+      "rahu 10th house rise and fall",
+      "rahu 10th house aries wealth",
+      "rahu 10th house government favour"
     ],
     "questions": [
       "Is Rahu in the 10th house good for Mesh Lagna?",
@@ -49,36 +141,130 @@
       "Which gemstone should Mesh Lagna wear for Rahu in 10th?"
     ],
     "lingual_variations": {
-      "rahu": ["rahu", "north node", "dragon head", "raahu", "ascending node"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "rahu": [
+        "rahu",
+        "north node",
+        "dragon head",
+        "raahu",
+        "ascending node"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["BPHS exact verse on Rahu in tenth house", "Shani-Rahu sign synergy in Makara", "Rise-and-fall pattern timing inside 18-year mahadasha"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "BPHS exact verse on Rahu in tenth house",
+      "Shani-Rahu sign synergy in Makara",
+      "Rise-and-fall pattern timing inside 18-year mahadasha"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "rahu-10th-house-aries-lagna-hero.webp", "filename_og": "rahu-10th-house-aries-lagna-og.png", "alt": "Smoky Rahu at the zenith of a Mesh Lagna kundali", "caption": "Rahu sits at Karma Bhava for Aries ascendant natives, the north node in Makara producing the sudden rise and foreign career signature.", "width": 1200, "height": 630, "format": "webp", "style": "smoky editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the tenth house glowing indigo-smoke, a stylised Rahu head motif with dark swirls, traditional Vedic palette tempered with smoky indigo and dark silver, refined manuscript style, no people.", "negative_prompt": "photorealistic, watermark, text, neon, cartoon" },
-    { "filename": "rahu-10th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Rahu placed in the tenth house of Mesh", "caption": "The North Indian birth chart with Rahu marked at the zenith tenth house Karma Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the top-central tenth house highlighted in smoky indigo with a Rahu symbol marked Ra, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "rahu-10th-house-aries-lagna-hessonite.webp", "alt": "Natural hessonite gomed in silver setting, the gemstone for Rahu 10th house", "caption": "A certified natural Ceylon hessonite set in silver, the Rahu-strengthening stone for Aries natives with the north node at the career zenith.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural honey-cinnamon hessonite set in a silver ring, translucent deep amber colour, faceted oval cut, on dark indigo velvet with cool lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "rahu-10th-house-aries-lagna-durga-kavach.webp", "alt": "Durga Kavach Sanskrit verse on parchment with trident motif", "caption": "Durga Kavach recitation is the core protective practice for Rahu, the Devi worship framework classical texts recommend for north node placements.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Durga Kavach, hand-painted on aged parchment with gold leaf borders, faint trident motif in the background, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "rahu-10th-house-aries-lagna-hero.webp",
+      "filename_og": "rahu-10th-house-aries-lagna-og.png",
+      "alt": "Smoky Rahu at the zenith of a Mesh Lagna kundali",
+      "caption": "Rahu sits at Karma Bhava for Aries ascendant natives, the north node in Makara producing the sudden rise and foreign career signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "smoky editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the tenth house glowing indigo-smoke, a stylised Rahu head motif with dark swirls, traditional Vedic palette tempered with smoky indigo and dark silver, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "rahu-10th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Rahu placed in the tenth house of Mesh",
+      "caption": "The North Indian birth chart with Rahu marked at the zenith tenth house Karma Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the top-central tenth house highlighted in smoky indigo with a Rahu symbol marked Ra, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "rahu-10th-house-aries-lagna-hessonite.webp",
+      "alt": "Natural hessonite gomed in silver setting, the gemstone for Rahu 10th house",
+      "caption": "A certified natural Ceylon hessonite set in silver, the Rahu-strengthening stone for Aries natives with the north node at the career zenith.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural honey-cinnamon hessonite set in a silver ring, translucent deep amber colour, faceted oval cut, on dark indigo velvet with cool lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "rahu-10th-house-aries-lagna-durga-kavach.webp",
+      "alt": "Durga Kavach Sanskrit verse on parchment with trident motif",
+      "caption": "Durga Kavach recitation is the core protective practice for Rahu, the Devi worship framework classical texts recommend for north node placements.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Durga Kavach, hand-painted on aged parchment with gold leaf borders, faint trident motif in the background, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Rahu in the 10th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Rahu at the career zenith of an Aries ascendant chart. The north node in Shani's sign Makara, classical BPHS favourable placement, sudden rise and foreign career signatures, and the eighteen-year mahadasha that delivers them.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Rahu", "tone": "teal" },
-      { "label": "Karma Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Makara rashi" },
-      { "label": "BPHS favourable" },
-      { "label": "18-year mahadasha" }
+      {
+        "label": "Rahu",
+        "tone": "teal"
+      },
+      {
+        "label": "Karma Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Makara rashi"
+      },
+      {
+        "label": "BPHS favourable"
+      },
+      {
+        "label": "18-year mahadasha"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +272,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Rahu", "sub": "North Node", "icon": "rahu" },
-        { "label": "Bhava", "value": "10th", "sub": "Karma Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Strong", "sub": "BPHS favourable", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Rahu",
+          "sub": "North Node",
+          "icon": "rahu"
+        },
+        {
+          "label": "Bhava",
+          "value": "10th",
+          "sub": "Karma Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Strong",
+          "sub": "BPHS favourable",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +311,104 @@
       "heading": "When the north node climbs to the zenith of the chart",
       "html": "<p>The tenth house is Karma Bhava, the zenith of the kundali, and classical texts treat any planet here as a significator of career and public reputation. Rahu in particular receives favourable commentary in BPHS because the north node at the top of the chart amplifies whatever the native is known for, multiplies the scale at which they operate, and opens doors to institutions, territories, and audiences that other placements cannot reach. The shadow planet's hunger for expansion finds its most productive channel in the karma house because career is the one domain where human ambition genuinely rewards the boundary-breaking intensity that Rahu represents.</p><p>Makara rashi adds a second layer. Shani rules Makara, and Shani governs discipline, institutional structure, and the long horizon of patient effort. Rahu in Shani's sign is not in enemy territory, it is in an ally's territory. Both planets work through endurance rather than flash, both succeed in domains the conventional establishment avoids, and both reward natives who build slowly through the twenties and then accelerate dramatically in their mid-thirties. For Mesh Lagna this placement produces a career arc that looks unremarkable for the first decade out of school, then begins compounding in unexpected directions, and by the mid to late thirties often places the native in positions of institutional visibility that their early career simply could not have predicted. Foreign connections, technology adoption, and unconventional industry choices show up frequently, because Rahu's natural signature is the territory no one else has colonised yet.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "Rahu at the zenith does not hand the native a polished career path. It hands them a ladder nobody else has noticed, and rewards the ones brave enough to climb it without a map." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "Rahu at the zenith does not hand the native a polished career path. It hands them a ladder nobody else has noticed, and rewards the ones brave enough to climb it without a map."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "rahu", "title": "Rahu, node profile", "subtitle": "Key attributes for this placement",
+          "icon": "rahu",
+          "title": "Rahu, node profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Ambition, foreign, unconventional, mass scale" },
-            { "k": "Preferred sign", "v": "Vrishabha (best expression)" },
-            { "k": "Uchha (exaltation)", "v": "Vrishabha per BPHS tradition", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Vrishchika per BPHS tradition", "tone": "bad" },
-            { "k": "Friends", "v": "Saturn, Venus, Mercury" },
-            { "k": "Enemies", "v": "Sun, Moon, Mars", "tone": "bad" },
-            { "k": "Mahadasha length", "v": "18 years" },
-            { "k": "Deity", "v": "Durga (adhidevata)" }
+            {
+              "k": "Karakatva",
+              "v": "Ambition, foreign, unconventional, mass scale"
+            },
+            {
+              "k": "Preferred sign",
+              "v": "Vrishabha (best expression)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Vrishabha per BPHS tradition",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Vrishchika per BPHS tradition",
+              "tone": "bad"
+            },
+            {
+              "k": "Friends",
+              "v": "Saturn, Venus, Mercury"
+            },
+            {
+              "k": "Enemies",
+              "v": "Sun, Moon, Mars",
+              "tone": "bad"
+            },
+            {
+              "k": "Mahadasha length",
+              "v": "18 years"
+            },
+            {
+              "k": "Deity",
+              "v": "Durga (adhidevata)"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Karma Bhava, house profile", "subtitle": "10th house significance",
+          "icon": "triangle-house",
+          "title": "Karma Bhava, house profile",
+          "subtitle": "10th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Karma, Rajya Bhava" },
-            { "k": "Rules over", "v": "Career, reputation, authority, public karma" },
-            { "k": "Natural sign", "v": "Makara (Capricorn) for Mesh" },
-            { "k": "Natural ruler", "v": "Shani (Saturn)" },
-            { "k": "Body part", "v": "Knees, bone structure" },
-            { "k": "Kendra house", "v": "Yes, the zenith angle", "tone": "good" },
-            { "k": "Vedic quality", "v": "BPHS favourable for Rahu", "tone": "good" },
-            { "k": "Special effect", "v": "Sudden elevation signature", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Karma, Rajya Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Career, reputation, authority, public karma"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Makara (Capricorn) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Shani (Saturn)"
+            },
+            {
+              "k": "Body part",
+              "v": "Knees, bone structure"
+            },
+            {
+              "k": "Kendra house",
+              "v": "Yes, the zenith angle",
+              "tone": "good"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "BPHS favourable for Rahu",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Sudden elevation signature",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +450,48 @@
       "heading": "Why unorthodox paths deliver more than conventional ones",
       "html": "<p>Career paths cluster around frontier territories where the conventional establishment has not yet written the rules. Technology leadership is the single strongest modern fit because Rahu rules the domain of whatever is new, and technology careers reward the boundary-breaking curiosity that the north node represents. Software engineering leadership, product roles in emerging categories, technical co-founder positions, and senior engineering management at companies operating in new markets all suit these natives. Foreign trade and international consulting form the second cluster because Rahu is classically associated with foreign lands, cross-cultural work, and any career that involves moving between jurisdictions or dealing with markets the native did not grow up in.</p><p>Media, film, and digital platform careers work because the tenth house public visibility channel pairs with the Rahu capacity for mass appeal to produce natives who can build audiences where other people cannot. Politics and public affairs are a classical Rahu-in-tenth fit because BPHS explicitly mentions government favour and political elevation as effects of this placement. Cryptocurrency, alternative finance, venture capital, and any frontier area of financial markets suit these natives because the Makara Shani colouring adds institutional credibility to the Rahu hunger for the new. Unorthodox research, innovation roles inside otherwise conventional organisations, and any position that requires the native to be the internal advocate for a direction the rest of the team does not yet understand, also works. The wealth picture is volatile in the first half of the Rahu mahadasha and consolidates significantly in the second half. The single most important career rule is to finish things. Rahu natives who build a completed track record before chasing the next opportunity compound reputation enormously, while those who leave projects half-done before harvesting the reputation benefit end up recycling through the same lessons each decade.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "See your Rahu placement at the zenith", "subtitle": "Generate your free Kundali to check if your tenth house carries the north node.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Rahu marked at the zenith of Mesh", "planet": "Rahu", "house": 10, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Rahu in Karma Bhava, marked in smoky indigo" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Top-central diamond is the 10th house" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "See your Rahu placement at the zenith",
+        "subtitle": "Generate your free Kundali to check if your tenth house carries the north node.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Rahu marked at the zenith of Mesh",
+      "planet": "Rahu",
+      "house": 10,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Rahu in Karma Bhava, marked in smoky indigo"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Top-central diamond is the 10th house"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The classical rise-and-fall pattern",
@@ -194,13 +504,45 @@
       "heading": "When Rahu in 10th fires most powerfully",
       "intro_html": "<p>Rahu mahadasha is the defining eighteen-year career window for this placement. Shani, Guru and Budha periods also shape the trajectory significantly.</p>",
       "rows": [
-        { "mahadasha": "Rahu (North Node)", "duration": "18 years", "themes": "The full zenith career window. Sudden elevation, foreign connections, public visibility, government recognition, institutional breakthroughs, rise-and-fall risk inside later antardashas.", "intensity": "Very high", "intensity_bar_width": 95, "intensity_bar_color": "#5a4a7a", "highlight": true },
-        { "mahadasha": "Shani (Saturn)", "duration": "19 years", "themes": "Makara sign lord, friend of Rahu. Slow consolidation of the Rahu elevations, institutional seniority, disciplined career expansion.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#338a95" },
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "9th lord, dharma benefic. The rebuilding mahadasha if Rahu delivered a crash. Wisdom applied to career, teaching, recognition settles.", "intensity": "Good", "intensity_bar_width": 78, "intensity_bar_color": "#e8840a" },
-        { "mahadasha": "Budha (Mercury)", "duration": "17 years", "themes": "Intellectual pursuits, communication, consulting, writing, trade. Works well for Rahu natives who build knowledge businesses.", "intensity": "Good", "intensity_bar_width": 72, "intensity_bar_color": "#7aa8cc" }
+        {
+          "mahadasha": "Rahu (North Node)",
+          "duration": "18 years",
+          "themes": "The full zenith career window. Sudden elevation, foreign connections, public visibility, government recognition, institutional breakthroughs, rise-and-fall risk inside later antardashas.",
+          "intensity": "Very high",
+          "intensity_bar_width": 95,
+          "intensity_bar_color": "#5a4a7a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Shani (Saturn)",
+          "duration": "19 years",
+          "themes": "Makara sign lord, friend of Rahu. Slow consolidation of the Rahu elevations, institutional seniority, disciplined career expansion.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#338a95"
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "9th lord, dharma benefic. The rebuilding mahadasha if Rahu delivered a crash. Wisdom applied to career, teaching, recognition settles.",
+          "intensity": "Good",
+          "intensity_bar_width": 78,
+          "intensity_bar_color": "#e8840a"
+        },
+        {
+          "mahadasha": "Budha (Mercury)",
+          "duration": "17 years",
+          "themes": "Intellectual pursuits, communication, consulting, writing, trade. Works well for Rahu natives who build knowledge businesses.",
+          "intensity": "Good",
+          "intensity_bar_width": 72,
+          "intensity_bar_color": "#7aa8cc"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -225,29 +567,140 @@
       "heading": "Gemstones for Rahu in 10th house Mesh Lagna",
       "intro_html": "<p>The primary stone for Rahu is hessonite (Gomed). It is one of the most commonly mismatched stones and should never be worn without a full chart review.</p>",
       "cards": [
-        { "name": "Gomed (Hessonite)", "role": "primary", "sub": "Rahu-strengthening stone", "icon_variant": "hessonite", "image_slug": "hessonite", "items": [ { "k": "Metal", "v": "Silver or panchdhatu" }, { "k": "Finger", "v": "Middle finger, right hand" }, { "k": "Day to wear", "v": "Saturday, sunrise" }, { "k": "Min weight", "v": "6 to 8 Ratti" } ] },
-        { "name": "Natural Agate (alt)", "role": "secondary", "sub": "Milder Rahu-aligned alternative", "icon_variant": "hessonite", "image_slug": "hessonite", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Middle finger" }, { "k": "Day to wear", "v": "Saturday, sunrise" }, { "k": "Min weight", "v": "7 to 9 Ratti" } ] },
-        { "name": "Consult before wearing Gomed", "role": "shop", "sub": "Rahu dosha verification by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Gomed (Hessonite)",
+          "role": "primary",
+          "sub": "Rahu-strengthening stone",
+          "icon_variant": "hessonite",
+          "image_slug": "hessonite",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver or panchdhatu"
+            },
+            {
+              "k": "Finger",
+              "v": "Middle finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Saturday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "6 to 8 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Natural Agate (alt)",
+          "role": "secondary",
+          "sub": "Milder Rahu-aligned alternative",
+          "icon_variant": "hessonite",
+          "image_slug": "hessonite",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Middle finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Saturday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "7 to 9 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Gomed",
+          "role": "shop",
+          "sub": "Rahu dosha verification by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Hessonite is one of the most sensitive gemstones in the Vedic system. Never wear it without a full chart review by a qualified Jyotishi."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Rahu in 10th house",
       "intro_html": "<p>The Rahu-aligned rudraksha is the Ath Mukhi (eight-faced), directly associated with Ganesha. The Nau Mukhi adds Durga's protective armour.</p>",
       "beads": [
-        { "mukhi": 8, "name": "Ath Mukhi Rudraksha", "sub": "Ruled by Ganesha, remover of obstacles", "benefit": "The direct rudraksha for Rahu. Removes hidden obstacles the shadow planet creates, stabilises ambition, and is the primary bead for any career-positioned Rahu. Worn after Ganesha puja on Saturday or Chaturthi." },
-        { "mukhi": 9, "name": "Nau Mukhi Rudraksha", "sub": "Ruled by Durga, Rahu's adhidevata", "benefit": "The Durga bead. Strengthens the protective Devi channel that Rahu responds to, reduces rise-and-fall volatility, and anchors the native through institutional transitions during the Rahu mahadasha." }
+        {
+          "mukhi": 8,
+          "name": "Ath Mukhi Rudraksha",
+          "sub": "Ruled by Ganesha, remover of obstacles",
+          "benefit": "The direct rudraksha for Rahu. Removes hidden obstacles the shadow planet creates, stabilises ambition, and is the primary bead for any career-positioned Rahu. Worn after Ganesha puja on Saturday or Chaturthi."
+        },
+        {
+          "mukhi": 9,
+          "name": "Nau Mukhi Rudraksha",
+          "sub": "Ruled by Durga, Rahu's adhidevata",
+          "benefit": "The Durga bead. Strengthens the protective Devi channel that Rahu responds to, reduces rise-and-fall volatility, and anchors the native through institutional transitions during the Rahu mahadasha."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Rahu Yantra for the zenith north node", "yantra": { "name": "Rahu Yantra", "sanskrit": "राहु यन्त्र", "description": "The Rahu Yantra is the geometric form of the shadow planet's ambition channel. Installing it in the south-west wall of your work space stabilises the Karma Bhava Rahu and anchors the Saturday ritual routine. For a zenith Rahu it works best when installed during a Saturday sunrise in Rahu kaal avoided (install just before Rahu kaal, not during).", "direction": "South-west wall", "install_day": "Saturday sunrise (not during Rahu kaal)", "material": "Silver or panchdhatu alloy", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Rahu", "stotra": { "eyebrow": "Rahu Kavacham", "title": "Rahu Kavacham", "sub": "The protective armour hymn for the north node, recited on Saturday morning", "verse": "Pranamami sadaa raahum shoorpakaaram kireetinam<br>Sainhikeyam karaalaasyam lokaanaam abhayapradam<br>Neelaambaro neelavapuh kireeti khadgee gadee<br>Charma dhaaro raahuh krodhamaana charuh", "translation": "I bow before Rahu, the winnower-shaped, crowned one, son of Simhika, of terrible visage, the giver of fearlessness to the worlds. Dark-clothed, dark-bodied, crowned, sword-wielder, mace-bearer, shield-holder, Rahu of measured wrath. The Rahu Kavacham is the primary protective recitation for any strong Rahu placement, and Durga Kavach is the secondary deity-level remedy.", "url": "https://stotra.vastucart.in/stotra/rahu-kavacham" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Rahu Yantra for the zenith north node",
+      "yantra": {
+        "name": "Rahu Yantra",
+        "sanskrit": "राहु यन्त्र",
+        "description": "The Rahu Yantra is the geometric form of the shadow planet's ambition channel. Installing it in the south-west wall of your work space stabilises the Karma Bhava Rahu and anchors the Saturday ritual routine. For a zenith Rahu it works best when installed during a Saturday sunrise in Rahu kaal avoided (install just before Rahu kaal, not during).",
+        "direction": "South-west wall",
+        "install_day": "Saturday sunrise (not during Rahu kaal)",
+        "material": "Silver or panchdhatu alloy",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Rahu",
+      "stotra": {
+        "eyebrow": "Rahu Kavacham",
+        "title": "Rahu Kavacham",
+        "sub": "The protective armour hymn for the north node, recited on Saturday morning",
+        "verse": "Pranamami sadaa raahum shoorpakaaram kireetinam<br>Sainhikeyam karaalaasyam lokaanaam abhayapradam<br>Neelaambaro neelavapuh kireeti khadgee gadee<br>Charma dhaaro raahuh krodhamaana charuh",
+        "translation": "I bow before Rahu, the winnower-shaped, crowned one, son of Simhika, of terrible visage, the giver of fearlessness to the worlds. Dark-clothed, dark-bodied, crowned, sword-wielder, mace-bearer, shield-holder, Rahu of measured wrath. The Rahu Kavacham is the primary protective recitation for any strong Rahu placement, and Durga Kavach is the secondary deity-level remedy.",
+        "url": "https://stotra.vastucart.in/stotra/rahu-kavacham"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -255,21 +708,111 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map the tenth house and Rahu placement", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Job joining muhurta", "sub": "Auspicious dates for starting employment", "url": "https://muhurta.vastucart.in/job-joining-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Business muhurta", "sub": "Auspicious dates for venture launch", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Rahu Kavacham", "sub": "Protective armour stotra for Rahu", "url": "https://stotra.vastucart.in/stotra/rahu-kavacham", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Rahu Dosh Nivaran", "sub": "Remedial recitation for Rahu affliction", "url": "https://stotra.vastucart.in/stotra/rahu-dosh-nivaran-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Rahu-Ketu Stotram", "sub": "Combined node recitation", "url": "https://stotra.vastucart.in/stotra/rahu-ketu-stotram", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Durga Kavach", "sub": "Rahu's adhidevata protective hymn", "url": "https://stotra.vastucart.in/stotra/durga-kavach", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Durga Chalisa", "sub": "Daily Devi recitation for Rahu natives", "url": "https://stotra.vastucart.in/stotra/durga-chalisa", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Sankat Nashan Ganesh Stotra", "sub": "Obstacle removal for Rahu decisions", "url": "https://stotra.vastucart.in/stotra/sankat-nashan-ganesh-stotra", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Durga deity page", "sub": "All stotras and hymns for Durga", "url": "https://stotra.vastucart.in/deity/durga", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Ath Mukhi rudraksha source", "sub": "The Rahu rudraksha bead", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Rahu yantra store", "sub": "Silver Rahu yantra for the zenith north node", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Rahu dasha review with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map the tenth house and Rahu placement",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Job joining muhurta",
+            "sub": "Auspicious dates for starting employment",
+            "url": "https://muhurta.vastucart.in/job-joining-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Business muhurta",
+            "sub": "Auspicious dates for venture launch",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Rahu Kavacham",
+            "sub": "Protective armour stotra for Rahu",
+            "url": "https://stotra.vastucart.in/stotra/rahu-kavacham",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Rahu Dosh Nivaran",
+            "sub": "Remedial recitation for Rahu affliction",
+            "url": "https://stotra.vastucart.in/stotra/rahu-dosh-nivaran-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Rahu-Ketu Stotram",
+            "sub": "Combined node recitation",
+            "url": "https://stotra.vastucart.in/stotra/rahu-ketu-stotram",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Durga Kavach",
+            "sub": "Rahu's adhidevata protective hymn",
+            "url": "https://stotra.vastucart.in/stotra/durga-kavach",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Durga Chalisa",
+            "sub": "Daily Devi recitation for Rahu natives",
+            "url": "https://stotra.vastucart.in/stotra/durga-chalisa",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Sankat Nashan Ganesh Stotra",
+            "sub": "Obstacle removal for Rahu decisions",
+            "url": "https://stotra.vastucart.in/stotra/sankat-nashan-ganesh-stotra",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Durga deity page",
+            "sub": "All stotras and hymns for Durga",
+            "url": "https://stotra.vastucart.in/deity/durga",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ath Mukhi rudraksha source",
+            "sub": "The Rahu rudraksha bead",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Rahu yantra store",
+            "sub": "Silver Rahu yantra for the zenith north node",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Rahu dasha review with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -279,55 +822,130 @@
         "title": "Is your Rahu mahadasha active or approaching?",
         "subtitle": "Get a full personalised analysis of your Rahu placement, mahadasha timing windows, and career trajectory.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Rahu Kavacham", "url": "https://stotra.vastucart.in/stotra/rahu-kavacham", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Rahu Kavacham",
+            "url": "https://stotra.vastucart.in/stotra/rahu-kavacham",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Rahu in 10th house, Mesh Lagna",
       "items": [
-        { "q": "Is Rahu in the 10th house good for Mesh Lagna?", "a": "Yes, and the Brihat Parashara Hora Shastra lists this as one of the favourable positions for Rahu. The north node at the career zenith classically gives sudden worldly rise, government or institutional recognition, foreign connections, and the capacity to succeed in markets the conventional establishment has not yet mapped. For Mesh Lagna the placement gains an additional benefit because Rahu sits in Makara, Shani's sign, and Shani is a classical friend of Rahu, so the sign does not fight the placement." },
-        { "q": "What does Rahu in Makara mean for an Aries ascendant?", "a": "It means the native's career is built through discipline and institutional patience rather than through flash. Rahu's boundary-breaking ambition finds its most productive channel in a sign that rewards endurance, and the native typically spends the first decade out of school building quietly before the recognition phase begins in the mid-thirties. Foreign markets, technology frontiers, politics, and unconventional professions suit this placement because the Shani-Rahu combination rewards natives who can hold a long horizon while operating at the edge of what is currently understood." },
-        { "q": "How does Rahu in 10th house affect career and fame?", "a": "Dramatically and in a specific sequence. The first decade of career looks ordinary or even slow. The mid-thirties through mid-forties deliver sudden elevation, often through a foreign connection or a frontier opportunity that was not visible earlier. Mass audience visibility is common, government or institutional recognition is classical, and wealth through unconventional channels is the dominant pattern. The rise-and-fall risk applies mainly to natives who skip the consolidation phase during the Rahu mahadasha, and the remedy is to finish projects before chasing the next ones." },
-        { "q": "When does the Rahu mahadasha activate for Mesh Lagna?", "a": "The Rahu mahadasha is eighteen years long and arrives at different points in different lives depending on the birth nakshatra. When it does arrive, it is the single most defining career window of the chart for this placement. The first six years typically deliver the rapid elevation phase, the middle six years deliver the visibility and recognition peak, and the last six years either deliver consolidation (for natives who built carefully) or correction (for natives who did not). Always check the specific antardasha sequence with a practitioner before drawing conclusions about a particular year." },
-        { "q": "Which gemstone should Mesh Lagna wear for Rahu in 10th?", "a": "Hessonite (Gomed) is the primary gemstone. Wear a natural Ceylon hessonite of minimum six ratti set in silver or panchdhatu on the middle finger of the right hand on a Saturday at sunrise after Rahu mantra recitation. Hessonite is unusually sensitive among Vedic gemstones and should never be worn without a full chart review because it amplifies whatever Rahu is already doing, for better or worse. Always consult a practicing Jyotishi before permanent wearing." }
+        {
+          "q": "Is Rahu in the 10th house good for Mesh Lagna?",
+          "a": "Yes, and the Brihat Parashara Hora Shastra lists this as one of the favourable positions for Rahu. The north node at the career zenith classically gives sudden worldly rise, government or institutional recognition, foreign connections, and the capacity to succeed in markets the conventional establishment has not yet mapped. For Mesh Lagna the placement gains an additional benefit because Rahu sits in Makara, Shani's sign, and Shani is a classical friend of Rahu, so the sign does not fight the placement."
+        },
+        {
+          "q": "What does Rahu in Makara mean for an Aries ascendant?",
+          "a": "It means the native's career is built through discipline and institutional patience rather than through flash. Rahu's boundary-breaking ambition finds its most productive channel in a sign that rewards endurance, and the native typically spends the first decade out of school building quietly before the recognition phase begins in the mid-thirties. Foreign markets, technology frontiers, politics, and unconventional professions suit this placement because the Shani-Rahu combination rewards natives who can hold a long horizon while operating at the edge of what is currently understood."
+        },
+        {
+          "q": "How does Rahu in 10th house affect career and fame?",
+          "a": "Dramatically and in a specific sequence. The first decade of career looks ordinary or even slow. The mid-thirties through mid-forties deliver sudden elevation, often through a foreign connection or a frontier opportunity that was not visible earlier. Mass audience visibility is common, government or institutional recognition is classical, and wealth through unconventional channels is the dominant pattern. The rise-and-fall risk applies mainly to natives who skip the consolidation phase during the Rahu mahadasha, and the remedy is to finish projects before chasing the next ones."
+        },
+        {
+          "q": "When does the Rahu mahadasha activate for Mesh Lagna?",
+          "a": "The Rahu mahadasha is eighteen years long and arrives at different points in different lives depending on the birth nakshatra. When it does arrive, it is the single most defining career window of the chart for this placement. The first six years typically deliver the rapid elevation phase, the middle six years deliver the visibility and recognition peak, and the last six years either deliver consolidation (for natives who built carefully) or correction (for natives who did not). Always check the specific antardasha sequence with a practitioner before drawing conclusions about a particular year."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Rahu in 10th?",
+          "a": "Hessonite (Gomed) is the primary gemstone. Wear a natural Ceylon hessonite of minimum six ratti set in silver or panchdhatu on the middle finger of the right hand on a Saturday at sunrise after Rahu mantra recitation. Hessonite is unusually sensitive among Vedic gemstones and should never be worn without a full chart review because it amplifies whatever Rahu is already doing, for better or worse. Always consult a practicing Jyotishi before permanent wearing."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Rahu specialist", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Mangal at the zenith, Ruchaka Yoga", "sub": "Mars exalted in Makara, the crown of the chart", "href": "/jyotish/graha-in-bhava/mars-10th-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Shani in the tenth, own sign study", "sub": "Saturn in Makara, the patient career architect", "href": "/jyotish/graha-in-bhava/saturn-10th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Chandra at the tenth, career karaka", "sub": "Moon in Makara, public visibility study", "href": "/jyotish/graha-in-bhava/moon-10th-house-aries-lagna", "icon_variant": "moon" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Mangal at the zenith, Ruchaka Yoga",
+          "sub": "Mars exalted in Makara, the crown of the chart",
+          "href": "/jyotish/graha-in-bhava/mars-10th-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Shani in the tenth, own sign study",
+          "sub": "Saturn in Makara, the patient career architect",
+          "href": "/jyotish/graha-in-bhava/saturn-10th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Chandra at the tenth, career karaka",
+          "sub": "Moon in Makara, public visibility study",
+          "href": "/jyotish/graha-in-bhava/moon-10th-house-aries-lagna",
+          "icon_variant": "moon"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

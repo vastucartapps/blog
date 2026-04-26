@@ -6,40 +6,132 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-13T00:00:00.000Z",
   "updated_at": "2026-04-13T00:00:00.000Z",
-  "tags": ["Moon in 1st house", "Chandra Mesha", "Mesh Lagna", "Aries ascendant", "Tanu Bhava", "4L in 1H raja yoga", "shukla paksha", "krishna paksha", "Chandra mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Moon in 1st house",
+    "Chandra Mesha",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Tanu Bhava",
+    "4L in 1H raja yoga",
+    "shukla paksha",
+    "krishna paksha",
+    "Chandra mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "chandra",
   "house_number": 1,
   "lagna_id": "mesha",
   "meta": {
     "title": "Moon in 1st House Mesh Lagna, Chandra Mesha Lagna Guide",
-    "description": "Moon in 1st house for Mesh Lagna, Chandra in Mesha at the ascendant, the waxing-waning diagnostic and 4L raja yoga read by Pt. Raghav Sharma.",
+    "description": "Moon in 1st house for Mesh Lagna, Chandra in Mesha at the ascendant, the waxing-waning diagnostic and 4L raja yoga by VastuCart Editorial.",
     "focus_keyword": "Moon in 1st house",
-    "secondary_keywords": ["Mesh Lagna", "Tanu Bhava", "Chandra Mesha", "Aries ascendant", "Moon in lagna"],
-    "lsi_keywords": ["tanu bhava", "chandra mesha", "moon in aries", "4th lord first", "chandra mahadasha", "pearl moti", "shukla paksha moon", "krishna paksha moon", "emotional identity", "fire water tension"],
-    "keywords": ["Moon in 1st house Mesh Lagna", "Chandra in Tanu Bhava", "Moon in Aries", "Mesh lagna 1st Moon", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Tanu Bhava",
+      "Chandra Mesha",
+      "Aries ascendant",
+      "Moon in lagna"
+    ],
+    "lsi_keywords": [
+      "tanu bhava",
+      "chandra mesha",
+      "moon in aries",
+      "4th lord first",
+      "chandra mahadasha",
+      "pearl moti",
+      "shukla paksha moon",
+      "krishna paksha moon",
+      "emotional identity",
+      "fire water tension"
+    ],
+    "keywords": [
+      "Moon in 1st house Mesh Lagna",
+      "Chandra in Tanu Bhava",
+      "Moon in Aries",
+      "Mesh lagna 1st Moon",
+      "Vedic astrology"
+    ],
     "og_title": "Moon in the 1st House of Mesh Lagna, Chandra Mesha at the Lagna",
     "og_description": "Chandra in Mesha at the ascendant for Aries natives, waxing-waning diagnostic by a practising Jyotishi.",
     "og_image": "/og/moon-1st-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/moon-1st-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Moon in 1st House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/moon-1st-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Moon in 1st House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/moon-1st-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Moon in 1st house",
-    "secondary_keywords": ["Mesh Lagna", "Tanu Bhava", "Chandra Mesha", "Aries ascendant", "Moon in lagna"],
-    "lsi_terms": ["tanu bhava", "chandra mesha", "moon in aries", "4th lord first", "chandra mahadasha", "pearl moti", "shukla paksha", "krishna paksha", "emotional identity", "moon mars friendship"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Tanu Bhava",
+      "Chandra Mesha",
+      "Aries ascendant",
+      "Moon in lagna"
+    ],
+    "lsi_terms": [
+      "tanu bhava",
+      "chandra mesha",
+      "moon in aries",
+      "4th lord first",
+      "chandra mahadasha",
+      "pearl moti",
+      "shukla paksha",
+      "krishna paksha",
+      "emotional identity",
+      "moon mars friendship"
+    ],
     "seed_queries": [
-      "moon in 1st house aries lagna", "chandra in 1st house mesh lagna", "moon in aries mesh ascendant", "chandra mesha aries lagna", "moon in lagna mesh", "moon in 1st house career aries", "moon in aries 1st house effects", "chandra tanu bhava mesh", "4l in 1h aries lagna raja yoga", "moon in 1st house remedies aries", "pearl for moon 1st aries", "moti mesh lagna 1st", "chandra mahadasha aries 1st", "moon in 1st house aries personality", "moon in 1st house aries mother", "is moon good in 1st house aries", "moon in aries aries ascendant career", "shukla paksha moon mesh", "krishna paksha moon mesh", "moon 1st house aries prediction", "moon in first house mesh lagna", "moon 1st house mesh ascendant", "chandra in mesh lagna 1st", "moon mesha lagna mesh chart", "moon 1st house mesh lagna dasha", "chandra mesh lagna emotion", "moon aries ascendant identity", "fire water tension moon aries", "4th lord first house aries", "chandra raja yoga mesh"
+      "moon in 1st house aries lagna",
+      "chandra in 1st house mesh lagna",
+      "moon in aries mesh ascendant",
+      "chandra mesha aries lagna",
+      "moon in lagna mesh",
+      "moon in 1st house career aries",
+      "moon in aries 1st house effects",
+      "chandra tanu bhava mesh",
+      "4l in 1h aries lagna raja yoga",
+      "moon in 1st house remedies aries",
+      "pearl for moon 1st aries",
+      "moti mesh lagna 1st",
+      "chandra mahadasha aries 1st",
+      "moon in 1st house aries personality",
+      "moon in 1st house aries mother",
+      "is moon good in 1st house aries",
+      "moon in aries aries ascendant career",
+      "shukla paksha moon mesh",
+      "krishna paksha moon mesh",
+      "moon 1st house aries prediction",
+      "moon in first house mesh lagna",
+      "moon 1st house mesh ascendant",
+      "chandra in mesh lagna 1st",
+      "moon mesha lagna mesh chart",
+      "moon 1st house mesh lagna dasha",
+      "chandra mesh lagna emotion",
+      "moon aries ascendant identity",
+      "fire water tension moon aries",
+      "4th lord first house aries",
+      "chandra raja yoga mesh"
     ],
     "questions": [
       "Is Moon in the 1st house good for Mesh Lagna?",
@@ -49,36 +141,130 @@
       "Which gemstone should Mesh Lagna wear for Moon in 1st?"
     ],
     "lingual_variations": {
-      "chandra": ["chandra", "moon", "soma", "shashanka", "indu"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "chandra": [
+        "chandra",
+        "moon",
+        "soma",
+        "shashanka",
+        "indu"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Waxing vs waning Moon diagnostic for lagna placement", "4L in 1H specific raja yoga reading", "Fire-water tension at the ascendant"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Waxing vs waning Moon diagnostic for lagna placement",
+      "4L in 1H specific raja yoga reading",
+      "Fire-water tension at the ascendant"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "moon-1st-house-aries-lagna-hero.webp", "filename_og": "moon-1st-house-aries-lagna-og.png", "alt": "Silver Chandra at the lagna of a Mesh Lagna kundali in Mesha", "caption": "Chandra sits in Mesha on the lagna for Aries ascendant natives, the body becomes the vessel for the lunar tide and the 4th lord rises into the personality.", "width": 1200, "height": 630, "format": "webp", "style": "luminous silver editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the first house glowing silver, a stylised crescent Moon over a small ram glyph, traditional Vedic palette of silver, pearl white, deep indigo and saffron, refined manuscript style, no people.", "negative_prompt": "photorealistic moon, watermark, text, neon, cartoon" },
-    { "filename": "moon-1st-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Moon placed in the first house of Mesh", "caption": "The North Indian birth chart with Chandra marked in Mesha on the first house Tanu Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the central first house highlighted in silver with a Chandra symbol marked Ch, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "moon-1st-house-aries-lagna-pearl.webp", "alt": "Natural saltwater pearl in silver ring, gemstone for Mesh Lagna Moon in 1st house", "caption": "Pearl is the primary Chandra ratna and works strongly here because the Moon at the lagna is the chart's most personal placement.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural saltwater Basra pearl set in a silver ring, soft cream luminescence, round shape, on dark velvet with cool lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "moon-1st-house-aries-lagna-soma-suktam.webp", "alt": "Soma Suktam Sanskrit verse on parchment with crescent moon and lotus motif", "caption": "Soma Suktam recitation anchors the lunar tide that the lagna placement specifically activates.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Soma Suktam, hand-painted on aged parchment with gold and silver leaf borders, faint crescent moon and lotus motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "moon-1st-house-aries-lagna-hero.webp",
+      "filename_og": "moon-1st-house-aries-lagna-og.png",
+      "alt": "Silver Chandra at the lagna of a Mesh Lagna kundali in Mesha",
+      "caption": "Chandra sits in Mesha on the lagna for Aries ascendant natives, the body becomes the vessel for the lunar tide and the 4th lord rises into the personality.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "luminous silver editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the first house glowing silver, a stylised crescent Moon over a small ram glyph, traditional Vedic palette of silver, pearl white, deep indigo and saffron, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic moon, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "moon-1st-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Moon placed in the first house of Mesh",
+      "caption": "The North Indian birth chart with Chandra marked in Mesha on the first house Tanu Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the central first house highlighted in silver with a Chandra symbol marked Ch, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "moon-1st-house-aries-lagna-pearl.webp",
+      "alt": "Natural saltwater pearl in silver ring, gemstone for Mesh Lagna Moon in 1st house",
+      "caption": "Pearl is the primary Chandra ratna and works strongly here because the Moon at the lagna is the chart's most personal placement.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural saltwater Basra pearl set in a silver ring, soft cream luminescence, round shape, on dark velvet with cool lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "moon-1st-house-aries-lagna-soma-suktam.webp",
+      "alt": "Soma Suktam Sanskrit verse on parchment with crescent moon and lotus motif",
+      "caption": "Soma Suktam recitation anchors the lunar tide that the lagna placement specifically activates.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Soma Suktam, hand-painted on aged parchment with gold and silver leaf borders, faint crescent moon and lotus motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Moon in the 1st house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Chandra at the ascendant of Mesh Lagna. Moon in Mesha, Mars's friendly sign, the body as a vessel for the lunar tide, the 4L in 1H raja yoga, and the waxing-versus-waning diagnostic that decides whether the placement reads as strength or vulnerability.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Chandra", "tone": "teal" },
-      { "label": "Tanu Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Mesha friendly" },
-      { "label": "4L in 1H" },
-      { "label": "Paksha diagnostic" }
+      {
+        "label": "Chandra",
+        "tone": "teal"
+      },
+      {
+        "label": "Tanu Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesha friendly"
+      },
+      {
+        "label": "4L in 1H"
+      },
+      {
+        "label": "Paksha diagnostic"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +272,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Chandra", "sub": "Moon", "icon": "sun" },
-        { "label": "Bhava", "value": "1st", "sub": "Tanu Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Paksha-dependent", "sub": "Friendly Mesha", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Chandra",
+          "sub": "Moon",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "1st",
+          "sub": "Tanu Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Paksha-dependent",
+          "sub": "Friendly Mesha",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +311,103 @@
       "heading": "Why the paksha decides whether the Moon delivers or struggles",
       "html": "<p>Students often ask whether Moon in the 1st of Mesh is a good or bad placement, and the honest practitioner answer is that the question cannot be answered without first checking the lunar phase at birth. The Moon is the only planet in Vedic astrology whose functional strength varies measurably with its phase relationship to the Sun, and the rule is straightforward. A waxing Moon (shukla paksha, from one day after the new moon through the full moon) is functionally benefic and grows in strength as it approaches the full moon. A waning Moon (krishna paksha, from one day after the full moon through the new moon) is functionally weaker and grows more vulnerable as it approaches the new moon. The shukla paksha Moon at the lagna of Mesh produces a native whose emotional life is rich, generous, and visibly nourishing to family and community. The krishna paksha Moon at the same position produces a native who feels the lunar themes (sensitivity, mother, home) more as private burdens than as public gifts.</p><p>The 4L in 1H configuration is the second specific structural feature that deserves careful attention. For Mesh Lagna, Chandra owns Karka, and Karka falls on the fourth house, the deepest of the four kendras and the seat of sukha, mother, vahana (vehicles), property, education, and the inner sense of belonging. Placing this 4L in the 1H creates a clean kendra-to-kendra raja yoga where the lord of one foundation angle occupies another, and the practical effect is that the native's personal identity carries the qualities of the fourth house from birth. Mother is the dominant relational figure in childhood. Home is the emotional reference point throughout life. Property and vehicles often come earlier than peers expect. Education is taken personally rather than instrumentally. The third interpretive layer is aspect. From the first, Chandra aspects the seventh house with his full opposition aspect, bringing the lunar tide into the marriage and partnership domain in ways that shape spouse choice and emotional dynamics in the partnership.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "When the Moon sits at the lagna, the body itself becomes a tide chart. Friends learn to read your phases the way sailors read the sea, and the work of the placement is to honour the rhythm rather than fight it." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "When the Moon sits at the lagna, the body itself becomes a tide chart. Friends learn to read your phases the way sailors read the sea, and the work of the placement is to honour the rhythm rather than fight it."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Chandra, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Chandra, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Mind, mother, emotion, fluids" },
-            { "k": "Own sign", "v": "Karka (Cancer)" },
-            { "k": "Uchha (exaltation)", "v": "Vrishabha at 3 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Vrishchika at 3 degrees", "tone": "bad" },
-            { "k": "Sign state here", "v": "Friendly Mesha", "tone": "good" },
-            { "k": "Phase factor", "v": "Shukla strong, Krishna weak" },
-            { "k": "Friends", "v": "Sun, Mercury" },
-            { "k": "Role for Mesh", "v": "4th lord (Karka)" }
+            {
+              "k": "Karakatva",
+              "v": "Mind, mother, emotion, fluids"
+            },
+            {
+              "k": "Own sign",
+              "v": "Karka (Cancer)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Vrishabha at 3 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Vrishchika at 3 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Friendly Mesha",
+              "tone": "good"
+            },
+            {
+              "k": "Phase factor",
+              "v": "Shukla strong, Krishna weak"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Mercury"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "4th lord (Karka)"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Tanu Bhava, house profile", "subtitle": "1st house significance",
+          "icon": "triangle-house",
+          "title": "Tanu Bhava, house profile",
+          "subtitle": "1st house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Tanu, Lagna Bhava" },
-            { "k": "Rules over", "v": "Body, identity, vitality, head" },
-            { "k": "Natural sign", "v": "Mesha (Aries) for Mesh" },
-            { "k": "Natural ruler", "v": "Mangal (Mars)" },
-            { "k": "Body part", "v": "Head, brain, complexion" },
-            { "k": "Classical nature", "v": "Kendra, Trikona" },
-            { "k": "Vedic quality", "v": "4L in 1H kendra-kendra raja yoga", "tone": "good" },
-            { "k": "Special effect", "v": "Body becomes vessel for lunar tide", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Tanu, Lagna Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Body, identity, vitality, head"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Mesha (Aries) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Mangal (Mars)"
+            },
+            {
+              "k": "Body part",
+              "v": "Head, brain, complexion"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Kendra, Trikona"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "4L in 1H kendra-kendra raja yoga",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Body becomes vessel for lunar tide",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +449,48 @@
       "heading": "Where the lunar identity channel plays out",
       "html": "<p>Career paths cluster around fields that reward emotional intelligence and visible warmth, and the strongest single fit is hospitality and food service leadership. The Moon as 4L of home placed at the lagna produces a native whose entire vocational instinct is to make other people feel at home, and hotels, restaurants, guest houses, and food businesses become natural career territory. Many natives with this placement run family hospitality operations or rise into senior roles at large hospitality groups where the personal warmth becomes a competitive advantage that systems cannot replicate. Maternal and child healthcare is the parallel professional fit because the Moon karakatva covers mother, milk, and the early-life nutritional cycle, and natives are often drawn into obstetrics, paediatrics, lactation consulting, child psychology, and early-childhood education.</p><p>Counselling and therapy roles work because the empathetic absorption the placement produces becomes a clinical tool when channelled through training. Natives often find their way into counselling, therapy, social work, and emotional support roles where the ability to read other people's internal weather is precisely the skill the work requires. Real estate and property development suit the chart because the 4L at the lagna keeps the native's mind on home and land throughout life, and many natives with this placement build property portfolios as a parallel income stream even when their primary career is elsewhere. Dairy, agriculture, and water-based businesses (mineral water, beverages, fishing, irrigation) channel the Chandra karakatva of fluids productively. Public-facing service roles where the warmth shows (front-of-house management, customer care leadership, community organising) round out the list. Chandra mahadasha is typically when the vocation crystallises, and the placement responds particularly well to female mentors and maternal-figure bosses who recognise the empathetic gifts the chart carries.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Chandra paksha and lagna strength", "subtitle": "Generate your free Kundali to see whether you carry the shukla or krishna lunar phase.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Moon marked in the first house of Mesh", "planet": "Chandra", "house": 1, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Chandra at the lagna in Mesha, marked in luminous silver" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Central diamond is the 1st house of Tanu Bhava" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Chandra paksha and lagna strength",
+        "subtitle": "Generate your free Kundali to see whether you carry the shukla or krishna lunar phase.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Moon marked in the first house of Mesh",
+      "planet": "Chandra",
+      "house": 1,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Chandra at the lagna in Mesha, marked in luminous silver"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Central diamond is the 1st house of Tanu Bhava"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The paksha diagnostic and fire-water tension",
@@ -194,13 +503,45 @@
       "heading": "When Moon in 1st delivers its Tanu Bhava chapter",
       "intro_html": "<p>Chandra mahadasha is the defining window for this placement and arrives with the emotional and identity awakening that the lagna position specifically produces.</p>",
       "rows": [
-        { "mahadasha": "Chandra (Moon)", "duration": "10 years", "themes": "The Tanu Bhava activation window. Identity crystallises around the lunar themes, mother becomes dominant support, home and property accumulate, emotional intelligence becomes vocational asset.", "intensity": "Very high", "intensity_bar_width": 92, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord and friend of Moon. Bold identity moves, decisive personal commitments, the body grows into its full Mesh-Chandra signature.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Fifth lord, friend of Moon. Creative recognition, public visibility for the empathetic vocational gifts, fatherly figures support the lunar identity.", "intensity": "Good", "intensity_bar_width": 78, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "Ninth lord, friend of Moon. Dharmic deepening of the empathetic gifts, teaching or mentoring roles, wisdom about the lunar tide accumulates.", "intensity": "Very high", "intensity_bar_width": 88, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Chandra (Moon)",
+          "duration": "10 years",
+          "themes": "The Tanu Bhava activation window. Identity crystallises around the lunar themes, mother becomes dominant support, home and property accumulate, emotional intelligence becomes vocational asset.",
+          "intensity": "Very high",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord and friend of Moon. Bold identity moves, decisive personal commitments, the body grows into its full Mesh-Chandra signature.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "Fifth lord, friend of Moon. Creative recognition, public visibility for the empathetic vocational gifts, fatherly figures support the lunar identity.",
+          "intensity": "Good",
+          "intensity_bar_width": 78,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "Ninth lord, friend of Moon. Dharmic deepening of the empathetic gifts, teaching or mentoring roles, wisdom about the lunar tide accumulates.",
+          "intensity": "Very high",
+          "intensity_bar_width": 88,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +560,140 @@
       "heading": "Gemstones for Moon in 1st house Mesh Lagna",
       "intro_html": "<p>Pearl is the primary gemstone here and works particularly well for krishna paksha natives where the phase reduces the Moon's functional strength.</p>",
       "cards": [
-        { "name": "Moti (Pearl)", "role": "primary", "sub": "Chandra-strengthening stone for Moon at the lagna", "icon_variant": "pearl", "image_slug": "pearl", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Small finger, right hand" }, { "k": "Day to wear", "v": "Monday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Moonstone (alt)", "role": "secondary", "sub": "Milder Moon-aligned alternative", "icon_variant": "pearl", "image_slug": "pearl", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Small finger" }, { "k": "Day to wear", "v": "Monday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Moti", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Moti (Pearl)",
+          "role": "primary",
+          "sub": "Chandra-strengthening stone for Moon at the lagna",
+          "icon_variant": "pearl",
+          "image_slug": "pearl",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Monday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Moonstone (alt)",
+          "role": "secondary",
+          "sub": "Milder Moon-aligned alternative",
+          "icon_variant": "pearl",
+          "image_slug": "pearl",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Monday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Moti",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Pearl works strongly with the Moon at the lagna but the paksha reading should be confirmed by a qualified Jyotishi before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Moon in 1st house",
       "intro_html": "<p>The Chandra-aligned rudraksha is the Do Mukhi (Two Mukhi), the bead directly ruled by the Moon and Shiva-Parvati pair.</p>",
       "beads": [
-        { "mukhi": 2, "name": "Do Mukhi Rudraksha", "sub": "Ruled by Chandra and the Shiva-Parvati pair", "benefit": "The classical Moon rudraksha and the safest daily-wear bead for any Chandra strengthening protocol. Supports the lunar tide at the lagna, balances the fire-water tension of the placement, and is specifically recommended for natives who feel the krishna paksha vulnerability and need consistent emotional regulation support." },
-        { "mukhi": 1, "name": "Ek Mukhi Rudraksha", "sub": "Ruled by Surya, secondary support for the friendly Sun", "benefit": "The rarest and most revered bead. Supports the friendship between Chandra and Surya that this placement carries, strengthens the lagna identity through the Sun and Moon together, and is recommended for natives stepping into public-facing leadership roles where the empathetic gifts must hold under pressure." }
+        {
+          "mukhi": 2,
+          "name": "Do Mukhi Rudraksha",
+          "sub": "Ruled by Chandra and the Shiva-Parvati pair",
+          "benefit": "The classical Moon rudraksha and the safest daily-wear bead for any Chandra strengthening protocol. Supports the lunar tide at the lagna, balances the fire-water tension of the placement, and is specifically recommended for natives who feel the krishna paksha vulnerability and need consistent emotional regulation support."
+        },
+        {
+          "mukhi": 1,
+          "name": "Ek Mukhi Rudraksha",
+          "sub": "Ruled by Surya, secondary support for the friendly Sun",
+          "benefit": "The rarest and most revered bead. Supports the friendship between Chandra and Surya that this placement carries, strengthens the lagna identity through the Sun and Moon together, and is recommended for natives stepping into public-facing leadership roles where the empathetic gifts must hold under pressure."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Chandra Yantra for the lagna Moon", "yantra": { "name": "Chandra Yantra", "sanskrit": "चन्द्र यन्त्र", "description": "The Chandra Yantra is the geometric form of the lunar channel. For Moon at the Mesh lagna install it in the north-west corner of the bedroom or puja space, the direction classically assigned to Chandra. Monday at moonrise is the installation window, and the yantra should be consecrated with Soma Suktam recitation and a milk libation.", "direction": "North-west corner (bedroom or puja space)", "install_day": "Monday at moonrise, Chandra hora preferred", "material": "Silver (copper acceptable)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Chandra at the lagna", "stotra": { "eyebrow": "Soma Suktam", "title": "Shri Soma Suktam", "sub": "Vedic Rigveda hymn to Soma the lunar nectar deity, ancient lunar invocation", "verse": "Imam stomam arhate jatavedase rathamiva sam mahema manishaya<br>Bhadra hi nah pramatir asya samsadi agne sakhye ma rishama vayam tava<br>Soma raja amritam adhi yoyuvanah suvarbhuta bhuvanasya gopah<br>Tvayedam vishvam bhuvanam vavridhanam tava vrate trivishtape niveshitam", "translation": "May we offer this praise to the all-knowing one, like a chariot fashioned with care. May his protection be benevolent in our assembly. O Agni, in friendship with you may we never come to harm. King Soma, immortal and youthful, has become the protector of all worlds. By you all this universe has grown, settled within your sacred ordinance in the threefold heavens. The Soma Suktam is the most ancient hymn to the lunar nectar deity and is the perfect daily recitation for a chart where the Moon sits at the lagna.", "url": "https://stotra.vastucart.in/stotra/soma-suktam" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Chandra Yantra for the lagna Moon",
+      "yantra": {
+        "name": "Chandra Yantra",
+        "sanskrit": "चन्द्र यन्त्र",
+        "description": "The Chandra Yantra is the geometric form of the lunar channel. For Moon at the Mesh lagna install it in the north-west corner of the bedroom or puja space, the direction classically assigned to Chandra. Monday at moonrise is the installation window, and the yantra should be consecrated with Soma Suktam recitation and a milk libation.",
+        "direction": "North-west corner (bedroom or puja space)",
+        "install_day": "Monday at moonrise, Chandra hora preferred",
+        "material": "Silver (copper acceptable)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Chandra at the lagna",
+      "stotra": {
+        "eyebrow": "Soma Suktam",
+        "title": "Shri Soma Suktam",
+        "sub": "Vedic Rigveda hymn to Soma the lunar nectar deity, ancient lunar invocation",
+        "verse": "Imam stomam arhate jatavedase rathamiva sam mahema manishaya<br>Bhadra hi nah pramatir asya samsadi agne sakhye ma rishama vayam tava<br>Soma raja amritam adhi yoyuvanah suvarbhuta bhuvanasya gopah<br>Tvayedam vishvam bhuvanam vavridhanam tava vrate trivishtape niveshitam",
+        "translation": "May we offer this praise to the all-knowing one, like a chariot fashioned with care. May his protection be benevolent in our assembly. O Agni, in friendship with you may we never come to harm. King Soma, immortal and youthful, has become the protector of all worlds. By you all this universe has grown, settled within your sacred ordinance in the threefold heavens. The Soma Suktam is the most ancient hymn to the lunar nectar deity and is the perfect daily recitation for a chart where the Moon sits at the lagna.",
+        "url": "https://stotra.vastucart.in/stotra/soma-suktam"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +701,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your first house Moon and paksha strength", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Marriage muhurta", "sub": "Auspicious dates for the lunar partnership signature", "url": "https://muhurta.vastucart.in/marriage-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Griha pravesh muhurta", "sub": "Auspicious dates for entering a new home", "url": "https://muhurta.vastucart.in/griha-pravesh-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Soma Suktam", "sub": "Vedic hymn to the lunar nectar deity", "url": "https://stotra.vastucart.in/stotra/soma-suktam", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Chandra Sahasranama", "sub": "Thousand names of Chandra", "url": "https://stotra.vastucart.in/stotra/chandra-sahasranama", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Chandra Stotra", "sub": "Classical lunar invocation", "url": "https://stotra.vastucart.in/stotra/chandra-stotra", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Chandrashekhar Ashtakam", "sub": "Hymn to Shiva who carries the moon", "url": "https://stotra.vastucart.in/stotra/chandrashekhar-ashtakam", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Annapurna Stotram", "sub": "Mother of nourishment hymn for the 4L lord", "url": "https://stotra.vastucart.in/stotra/annapurna-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Pearl and silver source", "sub": "Certified Moti gemstone", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Chandra yantra store", "sub": "Silver Chandra yantra for the bedroom", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Paksha analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your first house Moon and paksha strength",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Marriage muhurta",
+            "sub": "Auspicious dates for the lunar partnership signature",
+            "url": "https://muhurta.vastucart.in/marriage-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Griha pravesh muhurta",
+            "sub": "Auspicious dates for entering a new home",
+            "url": "https://muhurta.vastucart.in/griha-pravesh-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Soma Suktam",
+            "sub": "Vedic hymn to the lunar nectar deity",
+            "url": "https://stotra.vastucart.in/stotra/soma-suktam",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Chandra Sahasranama",
+            "sub": "Thousand names of Chandra",
+            "url": "https://stotra.vastucart.in/stotra/chandra-sahasranama",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Chandra Stotra",
+            "sub": "Classical lunar invocation",
+            "url": "https://stotra.vastucart.in/stotra/chandra-stotra",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Chandrashekhar Ashtakam",
+            "sub": "Hymn to Shiva who carries the moon",
+            "url": "https://stotra.vastucart.in/stotra/chandrashekhar-ashtakam",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Annapurna Stotram",
+            "sub": "Mother of nourishment hymn for the 4L lord",
+            "url": "https://stotra.vastucart.in/stotra/annapurna-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Pearl and silver source",
+            "sub": "Certified Moti gemstone",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Chandra yantra store",
+            "sub": "Silver Chandra yantra for the bedroom",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Paksha analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +801,130 @@
         "title": "Is your Tanu Bhava Moon shukla or krishna paksha?",
         "subtitle": "Get a full personalised analysis of your lagna Chandra, paksha strength, and the lunar tide that shapes your identity.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Soma Suktam", "url": "https://stotra.vastucart.in/stotra/soma-suktam", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Soma Suktam",
+            "url": "https://stotra.vastucart.in/stotra/soma-suktam",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Moon in 1st house, Mesh Lagna",
       "items": [
-        { "q": "Is Moon in the 1st house good for Mesh Lagna?", "a": "Yes on the structural level, with the important qualification that the paksha reading decides the functional strength. Mesha is Mars's sign and Mars is friendly to the Moon, so the sign relationship is comfortable. Chandra is also the 4L for Mesh Lagna, and placing the 4L in the 1H creates a kendra-to-kendra raja yoga where the lord of the home angle occupies the body angle. Shukla paksha natives experience this as a clear strength. Krishna paksha natives experience the same configuration with reduced functional strength and need to work with the lunar rhythm more consciously." },
-        { "q": "What does Chandra in Mesha mean for an Aries ascendant?", "a": "It means the body and identity become a vessel for the lunar tide while still carrying the fiery Mesh frame. The face is rounder and softer than typical Aries natives, the complexion is fairer, the eyes are moister and dreamier, and the temperament is reflective and emotionally attuned even when it is also courageous and pioneering. The fire-water tension produces an emotional life that runs hot, peaks intensely, and dissipates quickly, leaving the native somewhat exhausted by their own internal weather even when external life is stable." },
-        { "q": "Does the waxing or waning Moon matter for this placement?", "a": "It matters more than almost any other variable in the chart. Shukla paksha (waxing Moon, day after Amavasya through Purnima) gives the placement its full benefic functional strength and produces a native whose lunar gifts are clear assets. Krishna paksha (waning Moon, day after Purnima through Amavasya) reduces the functional strength and shifts the reading toward emotional vulnerability the native must manage actively. The day-of-birth check is the first step in any serious reading of this placement." },
-        { "q": "How does Moon in 1st house affect mother and home?", "a": "The 4L in 1H configuration places the lord of mother, home, and emotional foundation at the lagna of body and identity, which makes mother the dominant relational figure in childhood and home the emotional reference point throughout life. Property and vehicles tend to arrive earlier than peers expect because the 4L karakatvas are wired directly into the personality. Natives often inherit family property, build property portfolios, and treat home as a primary spiritual practice rather than just a physical shelter." },
-        { "q": "Which gemstone should Mesh Lagna wear for Moon in 1st?", "a": "Pearl (Moti) is the primary gemstone and is recommended with confidence here, particularly for krishna paksha natives where the phase reduces the Moon's functional strength and the gemstone supplies the missing lunar support. Wear a natural Basra or saltwater pearl of minimum five ratti set in silver on the small finger of the right hand on a Monday at sunrise after Chandra mantra recitation. The pearl works to stabilise the emotional tide and usually shows results within three to six months of consistent wearing. Always consult a practising Jyotishi for paksha confirmation before permanent wearing." }
+        {
+          "q": "Is Moon in the 1st house good for Mesh Lagna?",
+          "a": "Yes on the structural level, with the important qualification that the paksha reading decides the functional strength. Mesha is Mars's sign and Mars is friendly to the Moon, so the sign relationship is comfortable. Chandra is also the 4L for Mesh Lagna, and placing the 4L in the 1H creates a kendra-to-kendra raja yoga where the lord of the home angle occupies the body angle. Shukla paksha natives experience this as a clear strength. Krishna paksha natives experience the same configuration with reduced functional strength and need to work with the lunar rhythm more consciously."
+        },
+        {
+          "q": "What does Chandra in Mesha mean for an Aries ascendant?",
+          "a": "It means the body and identity become a vessel for the lunar tide while still carrying the fiery Mesh frame. The face is rounder and softer than typical Aries natives, the complexion is fairer, the eyes are moister and dreamier, and the temperament is reflective and emotionally attuned even when it is also courageous and pioneering. The fire-water tension produces an emotional life that runs hot, peaks intensely, and dissipates quickly, leaving the native somewhat exhausted by their own internal weather even when external life is stable."
+        },
+        {
+          "q": "Does the waxing or waning Moon matter for this placement?",
+          "a": "It matters more than almost any other variable in the chart. Shukla paksha (waxing Moon, day after Amavasya through Purnima) gives the placement its full benefic functional strength and produces a native whose lunar gifts are clear assets. Krishna paksha (waning Moon, day after Purnima through Amavasya) reduces the functional strength and shifts the reading toward emotional vulnerability the native must manage actively. The day-of-birth check is the first step in any serious reading of this placement."
+        },
+        {
+          "q": "How does Moon in 1st house affect mother and home?",
+          "a": "The 4L in 1H configuration places the lord of mother, home, and emotional foundation at the lagna of body and identity, which makes mother the dominant relational figure in childhood and home the emotional reference point throughout life. Property and vehicles tend to arrive earlier than peers expect because the 4L karakatvas are wired directly into the personality. Natives often inherit family property, build property portfolios, and treat home as a primary spiritual practice rather than just a physical shelter."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Moon in 1st?",
+          "a": "Pearl (Moti) is the primary gemstone and is recommended with confidence here, particularly for krishna paksha natives where the phase reduces the Moon's functional strength and the gemstone supplies the missing lunar support. Wear a natural Basra or saltwater pearl of minimum five ratti set in silver on the small finger of the right hand on a Monday at sunrise after Chandra mantra recitation. The pearl works to stabilise the emotional tide and usually shows results within three to six months of consistent wearing. Always consult a practising Jyotishi for paksha confirmation before permanent wearing."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Paksha reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Chandra in the fourth, own sign Karka", "sub": "Moon swakshetra in the home angle, the deepest 4L expression", "href": "/jyotish/graha-in-bhava/moon-4th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Chandra at the zenith, 4L in 10th", "sub": "Moon in Makara, the career karaka in the Saturnian sign", "href": "/jyotish/graha-in-bhava/moon-10th-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Mangal at the lagna swakshetra", "sub": "Mars in his own sign Mesha, lagna lord at the body", "href": "/jyotish/graha-in-bhava/mars-1st-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Chandra in the fourth, own sign Karka",
+          "sub": "Moon swakshetra in the home angle, the deepest 4L expression",
+          "href": "/jyotish/graha-in-bhava/moon-4th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Chandra at the zenith, 4L in 10th",
+          "sub": "Moon in Makara, the career karaka in the Saturnian sign",
+          "href": "/jyotish/graha-in-bhava/moon-10th-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Mangal at the lagna swakshetra",
+          "sub": "Mars in his own sign Mesha, lagna lord at the body",
+          "href": "/jyotish/graha-in-bhava/mars-1st-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

@@ -6,40 +6,131 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Ketu in 9th house", "Ketu Dhanu", "Mesh Lagna", "Aries ascendant", "Dharma Bhava", "moksha karaka", "sannyasa indicator", "Ketu mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Ketu in 9th house",
+    "Ketu Dhanu",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Dharma Bhava",
+    "moksha karaka",
+    "sannyasa indicator",
+    "Ketu mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "ketu",
   "house_number": 9,
   "lagna_id": "mesha",
   "meta": {
     "title": "Ketu in 9th House Mesh Lagna, Sannyasa Dharma Guide",
-    "description": "Ketu in 9th house for Mesh Lagna, the south node in friendly Dhanu, the sannyasa indicator read with nuance by Pt. Raghav Sharma.",
+    "description": "Ketu in 9th house for Mesh Lagna, the south node in friendly Dhanu, the sannyasa indicator read with nuance by VastuCart Editorial.",
     "focus_keyword": "Ketu in 9th house",
-    "secondary_keywords": ["Mesh Lagna", "Dharma Bhava", "Ketu Dhanu", "Aries ascendant", "Ketu sannyasa"],
-    "lsi_keywords": ["dharma bhava", "ketu dhanu", "south node sagittarius", "ketu in dharma", "ketu mahadasha", "cats eye lehsunia", "moksha karaka", "sannyasa indicator", "father karma", "guru detachment"],
-    "keywords": ["Ketu in 9th house Mesh Lagna", "Ketu in Dharma Bhava", "Ketu in Sagittarius", "Mesh lagna 9th Ketu", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dharma Bhava",
+      "Ketu Dhanu",
+      "Aries ascendant",
+      "Ketu sannyasa"
+    ],
+    "lsi_keywords": [
+      "dharma bhava",
+      "ketu dhanu",
+      "south node sagittarius",
+      "ketu in dharma",
+      "ketu mahadasha",
+      "cats eye lehsunia",
+      "moksha karaka",
+      "sannyasa indicator",
+      "father karma",
+      "guru detachment"
+    ],
+    "keywords": [
+      "Ketu in 9th house Mesh Lagna",
+      "Ketu in Dharma Bhava",
+      "Ketu in Sagittarius",
+      "Mesh lagna 9th Ketu",
+      "Vedic astrology"
+    ],
     "og_title": "Ketu in the 9th House of Mesh Lagna, Sannyasa Dharma Indicator",
     "og_description": "Ketu in friendly Dhanu in the dharma trikona for Aries natives, read with practitioner nuance.",
     "og_image": "/og/ketu-9th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/ketu-9th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Ketu in 9th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/ketu-9th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Ketu in 9th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/ketu-9th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Ketu in 9th house",
-    "secondary_keywords": ["Mesh Lagna", "Dharma Bhava", "Ketu Dhanu", "Aries ascendant", "Ketu sannyasa"],
-    "lsi_terms": ["dharma bhava", "ketu dhanu", "south node sagittarius", "ketu in dharma", "ketu mahadasha", "cats eye lehsunia", "moksha karaka", "sannyasa indicator", "father karma", "guru detachment"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Dharma Bhava",
+      "Ketu Dhanu",
+      "Aries ascendant",
+      "Ketu sannyasa"
+    ],
+    "lsi_terms": [
+      "dharma bhava",
+      "ketu dhanu",
+      "south node sagittarius",
+      "ketu in dharma",
+      "ketu mahadasha",
+      "cats eye lehsunia",
+      "moksha karaka",
+      "sannyasa indicator",
+      "father karma",
+      "guru detachment"
+    ],
     "seed_queries": [
-      "ketu in 9th house aries lagna", "ketu in 9th house mesh lagna", "ketu in sagittarius mesh ascendant", "ketu dhanu aries lagna", "ketu in dharma bhava mesh", "ketu in 9th house spirituality aries", "ketu in sagittarius 9th aries", "ketu dharma bhava effects", "south node 9th house aries", "ketu in 9th house remedies aries", "cats eye for ketu 9th aries", "lehsunia mesh lagna 9th", "ketu mahadasha aries 9th", "ketu in 9th house aries father", "ketu in 9th house aries guru", "is ketu bad in 9th house aries", "ketu in sagittarius aries ascendant", "ketu sannyasa indicator", "moksha in dharma trikona", "ketu 9th house aries prediction", "ketu in ninth house mesh lagna", "ketu 9th house mesh ascendant", "south node in mesh lagna 9th", "ketu dhanu lagna mesh chart", "ketu 9th house mesh lagna dasha", "ketu mesh lagna sannyasa", "ketu dharma detachment", "father karma ketu", "ketu guru aries", "ketu pilgrimage signature"
+      "ketu in 9th house aries lagna",
+      "ketu in 9th house mesh lagna",
+      "ketu in sagittarius mesh ascendant",
+      "ketu dhanu aries lagna",
+      "ketu in dharma bhava mesh",
+      "ketu in 9th house spirituality aries",
+      "ketu in sagittarius 9th aries",
+      "ketu dharma bhava effects",
+      "south node 9th house aries",
+      "ketu in 9th house remedies aries",
+      "cats eye for ketu 9th aries",
+      "lehsunia mesh lagna 9th",
+      "ketu mahadasha aries 9th",
+      "ketu in 9th house aries father",
+      "ketu in 9th house aries guru",
+      "is ketu bad in 9th house aries",
+      "ketu in sagittarius aries ascendant",
+      "ketu sannyasa indicator",
+      "moksha in dharma trikona",
+      "ketu 9th house aries prediction",
+      "ketu in ninth house mesh lagna",
+      "ketu 9th house mesh ascendant",
+      "south node in mesh lagna 9th",
+      "ketu dhanu lagna mesh chart",
+      "ketu 9th house mesh lagna dasha",
+      "ketu mesh lagna sannyasa",
+      "ketu dharma detachment",
+      "father karma ketu",
+      "ketu guru aries",
+      "ketu pilgrimage signature"
     ],
     "questions": [
       "Is Ketu in the 9th house bad for Mesh Lagna?",
@@ -49,36 +140,129 @@
       "Which gemstone should Mesh Lagna wear for Ketu in 9th?"
     ],
     "lingual_variations": {
-      "ketu": ["ketu", "south node", "shikhi", "dhwajagra"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "ketu": [
+        "ketu",
+        "south node",
+        "shikhi",
+        "dhwajagra"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Ketu in dharma trikona without fear-mongering", "Sannyasa indicator with practitioner nuance", "Father-karma-completion reading"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Ketu in dharma trikona without fear-mongering",
+      "Sannyasa indicator with practitioner nuance",
+      "Father-karma-completion reading"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "ketu-9th-house-aries-lagna-hero.webp", "filename_og": "ketu-9th-house-aries-lagna-og.png", "alt": "Smoky Ketu in the ninth house of a Mesh Lagna kundali in Dhanu", "caption": "Ketu sits in friendly Dhanu in the ninth house for Aries ascendant natives, the moksha karaka in the dharma trikona producing the sannyasa indicator.", "width": 1200, "height": 630, "format": "webp", "style": "smoky violet-saffron editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the ninth house glowing smoky violet against saffron, a stylised flag-on-staff Ketu glyph above a small bow-and-arrow Dhanu glyph, traditional Vedic palette of smoke grey, violet, deep saffron, refined manuscript style, no people.", "negative_prompt": "photorealistic ketu, watermark, text, neon, cartoon" },
-    { "filename": "ketu-9th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Ketu in the ninth house of Mesh in Dhanu", "caption": "The North Indian birth chart with Ketu marked in Dhanu on the ninth house Dharma Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the upper-left ninth house highlighted in smoky violet with a Ketu flag glyph marked Ke and small archer Dhanu glyph, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "ketu-9th-house-aries-lagna-cats-eye.webp", "alt": "Natural chrysoberyl cat's eye in silver ring, gemstone for Ketu 9th house Mesh Lagna", "caption": "Cat's eye is the primary Ketu ratna and is recommended only after careful chart confirmation because the dharma placement amplifies faith themes sharply.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural chrysoberyl cat's eye gemstone set in a silver ring, honey-yellow with bright white chatoyancy band, on dark velvet with low lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "ketu-9th-house-aries-lagna-ganesh-pancharatnam.webp", "alt": "Ganesh Pancharatnam Sanskrit verse on parchment with elephant-head and lotus motif", "caption": "Ganesh Pancharatnam recitation strengthens the Ketu channel through Ganesha the classical patron deity of the south node.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Ganesh Pancharatnam, hand-painted on aged parchment with gold leaf borders, faint elephant-head and lotus motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "ketu-9th-house-aries-lagna-hero.webp",
+      "filename_og": "ketu-9th-house-aries-lagna-og.png",
+      "alt": "Smoky Ketu in the ninth house of a Mesh Lagna kundali in Dhanu",
+      "caption": "Ketu sits in friendly Dhanu in the ninth house for Aries ascendant natives, the moksha karaka in the dharma trikona producing the sannyasa indicator.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "smoky violet-saffron editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the ninth house glowing smoky violet against saffron, a stylised flag-on-staff Ketu glyph above a small bow-and-arrow Dhanu glyph, traditional Vedic palette of smoke grey, violet, deep saffron, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic ketu, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "ketu-9th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Ketu in the ninth house of Mesh in Dhanu",
+      "caption": "The North Indian birth chart with Ketu marked in Dhanu on the ninth house Dharma Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the upper-left ninth house highlighted in smoky violet with a Ketu flag glyph marked Ke and small archer Dhanu glyph, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "ketu-9th-house-aries-lagna-cats-eye.webp",
+      "alt": "Natural chrysoberyl cat's eye in silver ring, gemstone for Ketu 9th house Mesh Lagna",
+      "caption": "Cat's eye is the primary Ketu ratna and is recommended only after careful chart confirmation because the dharma placement amplifies faith themes sharply.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural chrysoberyl cat's eye gemstone set in a silver ring, honey-yellow with bright white chatoyancy band, on dark velvet with low lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "ketu-9th-house-aries-lagna-ganesh-pancharatnam.webp",
+      "alt": "Ganesh Pancharatnam Sanskrit verse on parchment with elephant-head and lotus motif",
+      "caption": "Ganesh Pancharatnam recitation strengthens the Ketu channel through Ganesha the classical patron deity of the south node.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Ganesh Pancharatnam, hand-painted on aged parchment with gold leaf borders, faint elephant-head and lotus motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Ketu in the 9th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Ketu in Dharma Bhava for Aries ascendant natives. The south node in friendly Dhanu in the dharma trikona, the classical sannyasa indicator read with the nuance the placement actually requires, and the father-karma-completion signature that shapes the inner spiritual life.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Ketu", "tone": "teal" },
-      { "label": "Dharma Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Friendly Dhanu" },
-      { "label": "Sannyasa indicator" },
-      { "label": "Moksha in dharma" }
+      {
+        "label": "Ketu",
+        "tone": "teal"
+      },
+      {
+        "label": "Dharma Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Friendly Dhanu"
+      },
+      {
+        "label": "Sannyasa indicator"
+      },
+      {
+        "label": "Moksha in dharma"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +270,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Ketu", "sub": "South node", "icon": "sun" },
-        { "label": "Bhava", "value": "9th", "sub": "Dharma Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Mystical", "sub": "Moksha in dharma", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Ketu",
+          "sub": "South node",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "9th",
+          "sub": "Dharma Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Mystical",
+          "sub": "Moksha in dharma",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +309,103 @@
       "heading": "Why the sannyasa label needs careful reading rather than literal application",
       "html": "<p>Students often arrive at this placement carrying anxiety because popular astrology has labelled it as the sannyasa indicator, and the honest practitioner answer is that the label is technically correct but commonly misapplied. Classical texts use the term sannyasa yoga for placements where the chart strongly inclines the native toward the renunciate life, but the actual classical reading is more nuanced than the popular interpretation. The texts list multiple yogas for sannyasa, and most of them require several conditions to be present simultaneously (Ketu in 9th alone is one factor among many, not a sufficient cause). When the chart has only this one indicator, the sannyasa expression is usually internal rather than external: the native lives a householder life but carries a renunciate orientation inwardly. They marry but feel slightly removed from the conventional script. They work but treat the work as service rather than as career. They participate in family rituals but the participation feels chosen rather than automatic. The full external sannyasa expression appears only when the chart stacks several indicators together, and even then it is rare.</p><p>The dharma-trikona Ketu specifically deserves attention because it produces a recognisable inner experience that practitioners should describe to natives in consultation. The placement creates a tension between the inherited religious form (the 9th house) and the south node's pull toward direct experience over form (Ketu's nature). Natives often grow up in religious households and feel uncomfortable with the conventional rituals and teachings even when they cannot articulate why. They eventually find their way to a different lineage, a different teacher, a different practice, or a contemplative path that matches their inner orientation more accurately, and the discovery usually happens in their twenties or thirties through an unexpected encounter with a person, a book, or a place that opens the alternative. The third interpretive layer is the father reading. The 9th house is the father house and Ketu signifies past karma, so the placement often indicates that the native's karmic relationship with the father carries unfinished business from a previous life. Fathers of natives with this placement are typically religious or principled in some specific way, but the relationship between father and native is often distant or complicated even when both want it to be closer, and the distance is structural rather than personal.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "Ketu in the dharma house does not refuse faith. It refuses the inherited form of faith, and asks the native to find the substance the form was protecting through their own direct experience instead." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "Ketu in the dharma house does not refuse faith. It refuses the inherited form of faith, and asks the native to find the substance the form was protecting through their own direct experience instead."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Ketu, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Ketu, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Moksha, detachment, past karma" },
-            { "k": "Own sign", "v": "None (shadow planet)" },
-            { "k": "Uchha (exaltation)", "v": "Vrishchika (some traditions)", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Vrishabha (some traditions)", "tone": "bad" },
-            { "k": "Sign state here", "v": "Friendly Dhanu", "tone": "good" },
-            { "k": "Friends", "v": "Mars, Venus, Saturn, Jupiter" },
-            { "k": "Element", "v": "Fire (shadow)" },
-            { "k": "Role for Mesh", "v": "No house lordship (shadow)" }
+            {
+              "k": "Karakatva",
+              "v": "Moksha, detachment, past karma"
+            },
+            {
+              "k": "Own sign",
+              "v": "None (shadow planet)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Vrishchika (some traditions)",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Vrishabha (some traditions)",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Friendly Dhanu",
+              "tone": "good"
+            },
+            {
+              "k": "Friends",
+              "v": "Mars, Venus, Saturn, Jupiter"
+            },
+            {
+              "k": "Element",
+              "v": "Fire (shadow)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "No house lordship (shadow)"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Dharma Bhava, house profile", "subtitle": "9th house significance",
+          "icon": "triangle-house",
+          "title": "Dharma Bhava, house profile",
+          "subtitle": "9th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Dharma, Bhagya, Pita Bhava" },
-            { "k": "Rules over", "v": "Dharma, father, teacher, long journeys, fortune" },
-            { "k": "Natural sign", "v": "Dhanu (Sagittarius) for Mesh" },
-            { "k": "Natural ruler", "v": "Guru (Jupiter)" },
-            { "k": "Body part", "v": "Hips, thighs, upper legs" },
-            { "k": "Classical nature", "v": "Trikona, Bhagya" },
-            { "k": "Vedic quality", "v": "Moksha karaka in dharma trikona", "tone": "good" },
-            { "k": "Special effect", "v": "Sannyasa indicator with nuance", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Dharma, Bhagya, Pita Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Dharma, father, teacher, long journeys, fortune"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Dhanu (Sagittarius) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Guru (Jupiter)"
+            },
+            {
+              "k": "Body part",
+              "v": "Hips, thighs, upper legs"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Trikona, Bhagya"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Moksha karaka in dharma trikona",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Sannyasa indicator with nuance",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +447,48 @@
       "heading": "Where the moksha-in-dharma vocation plays out",
       "html": "<p>Career paths cluster around fields that allow the native to engage with dharmic themes outside conventional institutional structures. Independent spiritual teaching and contemplative writing are the strongest single fit. Many natives spend years studying within an established tradition before recognising that their actual vocation is to teach the substance they discovered in a form the inherited tradition would not accommodate. They often become independent teachers in their thirties or forties, building small communities around contemplative practices, philosophical writing, or scriptural commentary drawing on multiple traditions. Research in religion, philosophy, and theology suits natives whose vocational pull is more academic.</p><p>Hospice, palliative care, and end-of-life work fit the chart because the moksha karaka in the dharma trikona produces natives with unusual capacity to be present with dying. Yoga and meditation instruction outside institutional structures suit natives whose practice is rooted in personal experience rather than certification. Anthropology, comparative religion, and the scholarly study of how traditions evolve fit because the placement gives the native a structural perspective institutional adherents lack. Long-form journalism on spiritual and ethical themes rounds out the list. Ketu mahadasha is when the dharmic vocation crystallises, often through a sudden break from a conventional career path the native had been forcing themselves to walk, with the new direction arriving through an unexpected encounter with a teacher, text, or place.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Ketu in dharma trikona placement", "subtitle": "Generate your free Kundali to see whether your south node sits in the dharma house.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Ketu marked in the ninth house of Mesh", "planet": "Ketu", "house": 9, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Ketu in Dharma Bhava in friendly Dhanu, marked in smoky violet" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Upper-left diamond is the 9th house of dharma" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Ketu in dharma trikona placement",
+        "subtitle": "Generate your free Kundali to see whether your south node sits in the dharma house.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Ketu marked in the ninth house of Mesh",
+      "planet": "Ketu",
+      "house": 9,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Ketu in Dharma Bhava in friendly Dhanu, marked in smoky violet"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Upper-left diamond is the 9th house of dharma"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The sannyasa nuance and the father-karma reading",
@@ -194,13 +501,45 @@
       "heading": "When Ketu in 9th delivers its Dharma Bhava chapter",
       "intro_html": "<p>Ketu mahadasha is the defining window for this placement and arrives with the spiritual reorientation away from inherited form toward direct experience.</p>",
       "rows": [
-        { "mahadasha": "Ketu (South Node)", "duration": "7 years", "themes": "The Dharma Bhava activation window. Spiritual direction shifts away from inherited form, the teacher outside the family lineage appears, contemplative practice deepens or formalises.", "intensity": "Very high", "intensity_bar_width": 92, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "Friendly to Ketu in classical texts. Refined spiritual community forms around the new orientation, marriage and partnership stabilise alongside the contemplative path.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Fifth lord. Creative recognition for the contemplative gifts, dharmic visibility for the teaching work, fatherly figures support the new direction.", "intensity": "Good", "intensity_bar_width": 75, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "Lord of the sign Dhanu and the most aligned planet for this placement. The dharmic vocation reaches its fullest expression, teaching authority arrives, the direct experience becomes transmissible to students.", "intensity": "Very high", "intensity_bar_width": 90, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Ketu (South Node)",
+          "duration": "7 years",
+          "themes": "The Dharma Bhava activation window. Spiritual direction shifts away from inherited form, the teacher outside the family lineage appears, contemplative practice deepens or formalises.",
+          "intensity": "Very high",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "Friendly to Ketu in classical texts. Refined spiritual community forms around the new orientation, marriage and partnership stabilise alongside the contemplative path.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "Fifth lord. Creative recognition for the contemplative gifts, dharmic visibility for the teaching work, fatherly figures support the new direction.",
+          "intensity": "Good",
+          "intensity_bar_width": 75,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "Lord of the sign Dhanu and the most aligned planet for this placement. The dharmic vocation reaches its fullest expression, teaching authority arrives, the direct experience becomes transmissible to students.",
+          "intensity": "Very high",
+          "intensity_bar_width": 90,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +558,140 @@
       "heading": "Gemstones for Ketu in 9th house Mesh Lagna",
       "intro_html": "<p>Cat's eye is the primary Ketu gemstone but is recommended only after careful chart confirmation because the dharma placement amplifies faith themes sharply.</p>",
       "cards": [
-        { "name": "Lehsunia (Cat's Eye)", "role": "primary", "sub": "Ketu-strengthening chrysoberyl", "icon_variant": "cats-eye", "image_slug": "cats-eye", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Small finger, right hand" }, { "k": "Day to wear", "v": "Wednesday or Tuesday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Hessonite (alt)", "role": "secondary", "sub": "Companion node stone for the Rahu-Ketu axis", "icon_variant": "hessonite", "image_slug": "hessonite", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Middle finger" }, { "k": "Day to wear", "v": "Saturday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Lehsunia", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Lehsunia (Cat's Eye)",
+          "role": "primary",
+          "sub": "Ketu-strengthening chrysoberyl",
+          "icon_variant": "cats-eye",
+          "image_slug": "cats-eye",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Wednesday or Tuesday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Hessonite (alt)",
+          "role": "secondary",
+          "sub": "Companion node stone for the Rahu-Ketu axis",
+          "icon_variant": "hessonite",
+          "image_slug": "hessonite",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Middle finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Saturday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Lehsunia",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Cat's eye in the dharma trikona amplifies faith themes sharply. Always consult a qualified Jyotishi before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Ketu in 9th house",
       "intro_html": "<p>The Ketu-aligned rudraksha is the Ashta Mukhi (Eight Mukhi), the bead directly ruled by Ganesha and the south node.</p>",
       "beads": [
-        { "mukhi": 8, "name": "Ashta Mukhi Rudraksha", "sub": "Ruled by Ganesha and Ketu", "benefit": "The classical Ketu rudraksha and the bead specifically associated with Ganesha as the patron deity of the south node. Removes obstacles to the contemplative path, supports the spiritual practice the placement asks for, and stabilises the inner orientation when the dharma signature is calling for change." },
-        { "mukhi": 5, "name": "Panch Mukhi Rudraksha", "sub": "Ruled by Guru, the dispositor of Ketu here", "benefit": "The Jupiter rudraksha and the safest daily-wear bead in the tradition. For this placement specifically, the Panch Mukhi honours the dispositor of Ketu (Guru rules Dhanu) and compounds the placement's natural strength by strengthening both planet and sign-lord through the deity-lineage Jupiter carries." }
+        {
+          "mukhi": 8,
+          "name": "Ashta Mukhi Rudraksha",
+          "sub": "Ruled by Ganesha and Ketu",
+          "benefit": "The classical Ketu rudraksha and the bead specifically associated with Ganesha as the patron deity of the south node. Removes obstacles to the contemplative path, supports the spiritual practice the placement asks for, and stabilises the inner orientation when the dharma signature is calling for change."
+        },
+        {
+          "mukhi": 5,
+          "name": "Panch Mukhi Rudraksha",
+          "sub": "Ruled by Guru, the dispositor of Ketu here",
+          "benefit": "The Jupiter rudraksha and the safest daily-wear bead in the tradition. For this placement specifically, the Panch Mukhi honours the dispositor of Ketu (Guru rules Dhanu) and compounds the placement's natural strength by strengthening both planet and sign-lord through the deity-lineage Jupiter carries."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Ketu Yantra for the dharma placement", "yantra": { "name": "Ketu Yantra", "sanskrit": "केतु यन्त्र", "description": "The Ketu Yantra is the geometric form of the south node channel. For Ketu in the Mesh 9th house install it in a small contemplative corner of the home or library, ideally where the native sits for daily reading or meditation. Wednesday or Tuesday at sunrise is the installation window, and the yantra should be consecrated with Ganesh Pancharatnam recitation and a dub grass offering.", "direction": "Contemplative corner (library or meditation space)", "install_day": "Wednesday or Tuesday sunrise, Ketu hora preferred", "material": "Iron or panchaloha (mixed metal)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Ketu in dharma trikona", "stotra": { "eyebrow": "Ganesh Pancharatnam", "title": "Shri Ganesh Pancharatnam", "sub": "Five-jewel hymn to Ganesha by Adi Shankaracharya", "verse": "Mudakaratta modakam sada vimukti sadhakam<br>Kala dharavatamsakam vilasi loka rakshakam<br>Anaya kaika nayakam vinashitebha daityakam<br>Natashubhashu nashakam namami tam vinayakam<br>Natetaratibhikaram navoditarka bhasvaram", "translation": "He who joyfully holds the modaka sweet, who is always the giver of liberation, who wears the digit of the moon as ornament, the playful protector of the worlds, the leader who has no need for a leader, who destroyed the elephant demon, who removes the inauspicious for those who bow to him, I salute that Vinayaka. He who terrifies those who do not bow, who is brilliant as the newly risen sun. The Ganesh Pancharatnam is the five-jewel hymn to Ganesha by Adi Shankaracharya and is the perfect daily recitation for a chart where Ketu sits in the dharma trikona and the contemplative path needs Ganapati's blessing.", "url": "https://stotra.vastucart.in/stotra/ganesh-pancharatnam" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Ketu Yantra for the dharma placement",
+      "yantra": {
+        "name": "Ketu Yantra",
+        "sanskrit": "केतु यन्त्र",
+        "description": "The Ketu Yantra is the geometric form of the south node channel. For Ketu in the Mesh 9th house install it in a small contemplative corner of the home or library, ideally where the native sits for daily reading or meditation. Wednesday or Tuesday at sunrise is the installation window, and the yantra should be consecrated with Ganesh Pancharatnam recitation and a dub grass offering.",
+        "direction": "Contemplative corner (library or meditation space)",
+        "install_day": "Wednesday or Tuesday sunrise, Ketu hora preferred",
+        "material": "Iron or panchaloha (mixed metal)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Ketu in dharma trikona",
+      "stotra": {
+        "eyebrow": "Ganesh Pancharatnam",
+        "title": "Shri Ganesh Pancharatnam",
+        "sub": "Five-jewel hymn to Ganesha by Adi Shankaracharya",
+        "verse": "Mudakaratta modakam sada vimukti sadhakam<br>Kala dharavatamsakam vilasi loka rakshakam<br>Anaya kaika nayakam vinashitebha daityakam<br>Natashubhashu nashakam namami tam vinayakam<br>Natetaratibhikaram navoditarka bhasvaram",
+        "translation": "He who joyfully holds the modaka sweet, who is always the giver of liberation, who wears the digit of the moon as ornament, the playful protector of the worlds, the leader who has no need for a leader, who destroyed the elephant demon, who removes the inauspicious for those who bow to him, I salute that Vinayaka. He who terrifies those who do not bow, who is brilliant as the newly risen sun. The Ganesh Pancharatnam is the five-jewel hymn to Ganesha by Adi Shankaracharya and is the perfect daily recitation for a chart where Ketu sits in the dharma trikona and the contemplative path needs Ganapati's blessing.",
+        "url": "https://stotra.vastucart.in/stotra/ganesh-pancharatnam"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +699,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your ninth house Ketu placement", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Education muhurta", "sub": "Auspicious dates for spiritual study start", "url": "https://muhurta.vastucart.in/education-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Travel muhurta", "sub": "Auspicious dates for retreat or pilgrimage", "url": "https://muhurta.vastucart.in/travel-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Ganesh Pancharatnam", "sub": "Five-jewel Ganesha hymn by Shankaracharya", "url": "https://stotra.vastucart.in/stotra/ganesh-pancharatnam", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Ganesh Atharvashirsha", "sub": "Upanishadic Ganesha hymn", "url": "https://stotra.vastucart.in/stotra/ganesh-atharvashirsha", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Ketu Stotram", "sub": "Classical south node hymn", "url": "https://stotra.vastucart.in/stotra/ketu-stotram", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Ketu Sahasranama", "sub": "Thousand names of Ketu", "url": "https://stotra.vastucart.in/stotra/ketu-sahasranama", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Ketu Dosh Nivaran", "sub": "Remedial recitation for Ketu affliction", "url": "https://stotra.vastucart.in/stotra/ketu-dosh-nivaran-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Cat's eye source", "sub": "Certified Lehsunia chrysoberyl", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Ketu yantra store", "sub": "Iron Ketu yantra for the contemplative corner", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Sannyasa indicator analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your ninth house Ketu placement",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Education muhurta",
+            "sub": "Auspicious dates for spiritual study start",
+            "url": "https://muhurta.vastucart.in/education-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Travel muhurta",
+            "sub": "Auspicious dates for retreat or pilgrimage",
+            "url": "https://muhurta.vastucart.in/travel-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Ganesh Pancharatnam",
+            "sub": "Five-jewel Ganesha hymn by Shankaracharya",
+            "url": "https://stotra.vastucart.in/stotra/ganesh-pancharatnam",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Ganesh Atharvashirsha",
+            "sub": "Upanishadic Ganesha hymn",
+            "url": "https://stotra.vastucart.in/stotra/ganesh-atharvashirsha",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Ketu Stotram",
+            "sub": "Classical south node hymn",
+            "url": "https://stotra.vastucart.in/stotra/ketu-stotram",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Ketu Sahasranama",
+            "sub": "Thousand names of Ketu",
+            "url": "https://stotra.vastucart.in/stotra/ketu-sahasranama",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ketu Dosh Nivaran",
+            "sub": "Remedial recitation for Ketu affliction",
+            "url": "https://stotra.vastucart.in/stotra/ketu-dosh-nivaran-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Cat's eye source",
+            "sub": "Certified Lehsunia chrysoberyl",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Ketu yantra store",
+            "sub": "Iron Ketu yantra for the contemplative corner",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Sannyasa indicator analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +799,130 @@
         "title": "Is your Dharma Bhava Ketu carrying the sannyasa indicator?",
         "subtitle": "Get a full personalised analysis of your ninth house Ketu, the father-karma reading, and the contemplative vocation pull.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Ganesh Pancharatnam", "url": "https://stotra.vastucart.in/stotra/ganesh-pancharatnam", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Ganesh Pancharatnam",
+            "url": "https://stotra.vastucart.in/stotra/ganesh-pancharatnam",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Ketu in 9th house, Mesh Lagna",
       "items": [
-        { "q": "Is Ketu in the 9th house bad for Mesh Lagna?", "a": "No, the popular reading that frames Ketu in the dharma trikona as exclusively negative is structurally inaccurate. The friendly Dhanu sign welcomes the Ketu themes more readily than other signs would, and the 9th house dharma trikona is the natural seat for the moksha karaka. The placement produces natives whose inner relationship with faith carries the south node's signature: detachment from inherited religious form combined with unusually direct intuition of the underlying spiritual reality. The native often appears religious from the outside but experiences the inner dimension as something different from the conventional version their family handed them." },
-        { "q": "Does Ketu in 9th house indicate sannyasa?", "a": "Technically yes, this is one of the classical sannyasa yoga indicators, but the indication needs careful nuance. Classical texts list multiple yogas for the renunciate life, and most require several factors stacked together. Ketu in 9th alone is one factor among many, not a sufficient cause. When the chart has only this one indicator, the sannyasa expression is usually internal rather than external: the native lives a householder life but carries a renunciate orientation inwardly. Full external sannyasa appears only when several indicators stack together. Practitioners should explain this nuance rather than predicting literal monastic life." },
-        { "q": "What does Ketu in dharma trikona do to faith?", "a": "It produces a tension between inherited religious form (the 9th house) and the south node's pull toward direct experience over form (Ketu's nature). Natives often grow up in religious households and feel uncomfortable with the conventional rituals even when they cannot articulate why. They eventually find their way to a different lineage, a different teacher, or a contemplative path that matches their inner orientation more accurately, and the discovery usually happens in their twenties or thirties through an unexpected encounter with a person, book, or place that opens the alternative." },
-        { "q": "How does Ketu in 9th house affect the father?", "a": "The 9th house is the father house and Ketu signifies past karma, so the placement often indicates that the native's karmic relationship with the father carries unfinished business from a previous life. Fathers of natives with this placement are typically religious or principled in some specific way, but the relationship between father and native is often distant, complicated, or marked by some specific difficulty even when both want it to be closer. The distance is structural rather than personal. Many natives experience a significant inner shift in their relationship with their father after the father's death, recognising the love beneath the structural distance." },
-        { "q": "Which gemstone should Mesh Lagna wear for Ketu in 9th?", "a": "Cat's eye (Lehsunia, made from chrysoberyl) is the primary Ketu gemstone, but it is recommended only after especially careful chart confirmation by a practising Jyotishi because Ketu in the dharma trikona amplifies faith themes sharply and the gemstone must be timed to a moment when the native is ready for the amplification. Wear a natural chrysoberyl cat's eye of minimum five ratti set in silver on the small finger of the right hand on a Wednesday or Tuesday at sunrise after Ketu mantra recitation. Hessonite is the companion node stone. Never wear cat's eye without a confirmed reading." }
+        {
+          "q": "Is Ketu in the 9th house bad for Mesh Lagna?",
+          "a": "No, the popular reading that frames Ketu in the dharma trikona as exclusively negative is structurally inaccurate. The friendly Dhanu sign welcomes the Ketu themes more readily than other signs would, and the 9th house dharma trikona is the natural seat for the moksha karaka. The placement produces natives whose inner relationship with faith carries the south node's signature: detachment from inherited religious form combined with unusually direct intuition of the underlying spiritual reality. The native often appears religious from the outside but experiences the inner dimension as something different from the conventional version their family handed them."
+        },
+        {
+          "q": "Does Ketu in 9th house indicate sannyasa?",
+          "a": "Technically yes, this is one of the classical sannyasa yoga indicators, but the indication needs careful nuance. Classical texts list multiple yogas for the renunciate life, and most require several factors stacked together. Ketu in 9th alone is one factor among many, not a sufficient cause. When the chart has only this one indicator, the sannyasa expression is usually internal rather than external: the native lives a householder life but carries a renunciate orientation inwardly. Full external sannyasa appears only when several indicators stack together. Practitioners should explain this nuance rather than predicting literal monastic life."
+        },
+        {
+          "q": "What does Ketu in dharma trikona do to faith?",
+          "a": "It produces a tension between inherited religious form (the 9th house) and the south node's pull toward direct experience over form (Ketu's nature). Natives often grow up in religious households and feel uncomfortable with the conventional rituals even when they cannot articulate why. They eventually find their way to a different lineage, a different teacher, or a contemplative path that matches their inner orientation more accurately, and the discovery usually happens in their twenties or thirties through an unexpected encounter with a person, book, or place that opens the alternative."
+        },
+        {
+          "q": "How does Ketu in 9th house affect the father?",
+          "a": "The 9th house is the father house and Ketu signifies past karma, so the placement often indicates that the native's karmic relationship with the father carries unfinished business from a previous life. Fathers of natives with this placement are typically religious or principled in some specific way, but the relationship between father and native is often distant, complicated, or marked by some specific difficulty even when both want it to be closer. The distance is structural rather than personal. Many natives experience a significant inner shift in their relationship with their father after the father's death, recognising the love beneath the structural distance."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Ketu in 9th?",
+          "a": "Cat's eye (Lehsunia, made from chrysoberyl) is the primary Ketu gemstone, but it is recommended only after especially careful chart confirmation by a practising Jyotishi because Ketu in the dharma trikona amplifies faith themes sharply and the gemstone must be timed to a moment when the native is ready for the amplification. Wear a natural chrysoberyl cat's eye of minimum five ratti set in silver on the small finger of the right hand on a Wednesday or Tuesday at sunrise after Ketu mantra recitation. Hessonite is the companion node stone. Never wear cat's eye without a confirmed reading."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Sannyasa reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Ketu at the lagna in Mesha", "sub": "South node at the body, the warrior-monk parallel", "href": "/jyotish/graha-in-bhava/ketu-1st-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Ketu in the seventh, the kalatra mirror", "sub": "South node in the marriage angle, the partnership pedagogy", "href": "/jyotish/graha-in-bhava/ketu-7th-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Surya in the ninth, friendly Dhanu", "sub": "Sun in the same dharma trikona, the contrast study", "href": "/jyotish/graha-in-bhava/sun-9th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Ketu at the lagna in Mesha",
+          "sub": "South node at the body, the warrior-monk parallel",
+          "href": "/jyotish/graha-in-bhava/ketu-1st-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Ketu in the seventh, the kalatra mirror",
+          "sub": "South node in the marriage angle, the partnership pedagogy",
+          "href": "/jyotish/graha-in-bhava/ketu-7th-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Surya in the ninth, friendly Dhanu",
+          "sub": "Sun in the same dharma trikona, the contrast study",
+          "href": "/jyotish/graha-in-bhava/sun-9th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

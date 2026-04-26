@@ -6,40 +6,131 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Ketu in 7th house", "Ketu Tula", "Mesh Lagna", "Aries ascendant", "Kalatra Bhava", "marriage detachment", "spouse signature", "Ketu mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Ketu in 7th house",
+    "Ketu Tula",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Kalatra Bhava",
+    "marriage detachment",
+    "spouse signature",
+    "Ketu mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "ketu",
   "house_number": 7,
   "lagna_id": "mesha",
   "meta": {
     "title": "Ketu in 7th House Mesh Lagna, Kalatra Detachment Guide",
-    "description": "Ketu in 7th house for Mesh Lagna, the south node in friendly Tula, marriage-detachment signature read with practitioner nuance by Pt. Raghav Sharma.",
+    "description": "Ketu in 7th house for Mesh Lagna, the south node in friendly Tula, marriage-detachment signature read with practitioner nuance by VastuCart Editorial.",
     "focus_keyword": "Ketu in 7th house",
-    "secondary_keywords": ["Mesh Lagna", "Kalatra Bhava", "Ketu Tula", "Aries ascendant", "Ketu marriage"],
-    "lsi_keywords": ["kalatra bhava", "ketu tula", "south node libra", "ketu marriage delay", "ketu mahadasha", "cats eye lehsunia", "unconventional spouse", "foreign spouse", "monastic signature", "kalatra detachment"],
-    "keywords": ["Ketu in 7th house Mesh Lagna", "Ketu in Kalatra Bhava", "Ketu in Libra", "Mesh lagna 7th Ketu", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Kalatra Bhava",
+      "Ketu Tula",
+      "Aries ascendant",
+      "Ketu marriage"
+    ],
+    "lsi_keywords": [
+      "kalatra bhava",
+      "ketu tula",
+      "south node libra",
+      "ketu marriage delay",
+      "ketu mahadasha",
+      "cats eye lehsunia",
+      "unconventional spouse",
+      "foreign spouse",
+      "monastic signature",
+      "kalatra detachment"
+    ],
+    "keywords": [
+      "Ketu in 7th house Mesh Lagna",
+      "Ketu in Kalatra Bhava",
+      "Ketu in Libra",
+      "Mesh lagna 7th Ketu",
+      "Vedic astrology"
+    ],
     "og_title": "Ketu in the 7th House of Mesh Lagna, the Kalatra Detachment Reading",
     "og_description": "Ketu in friendly Tula in the marriage angle for Aries ascendant natives, read with practitioner nuance.",
     "og_image": "/og/ketu-7th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/ketu-7th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Ketu in 7th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/ketu-7th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Ketu in 7th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/ketu-7th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Ketu in 7th house",
-    "secondary_keywords": ["Mesh Lagna", "Kalatra Bhava", "Ketu Tula", "Aries ascendant", "Ketu marriage"],
-    "lsi_terms": ["kalatra bhava", "ketu tula", "south node libra", "ketu marriage delay", "ketu mahadasha", "cats eye lehsunia", "unconventional spouse", "foreign spouse", "monastic vocation signature", "lagna ketu opposition"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Kalatra Bhava",
+      "Ketu Tula",
+      "Aries ascendant",
+      "Ketu marriage"
+    ],
+    "lsi_terms": [
+      "kalatra bhava",
+      "ketu tula",
+      "south node libra",
+      "ketu marriage delay",
+      "ketu mahadasha",
+      "cats eye lehsunia",
+      "unconventional spouse",
+      "foreign spouse",
+      "monastic vocation signature",
+      "lagna ketu opposition"
+    ],
     "seed_queries": [
-      "ketu in 7th house aries lagna", "ketu in 7th house mesh lagna", "ketu in libra mesh ascendant", "ketu tula aries lagna", "ketu in kalatra bhava mesh", "ketu in 7th house marriage aries", "ketu in libra 7th aries", "ketu kalatra bhava effects", "south node 7th house aries", "ketu in 7th house remedies aries", "cats eye for ketu 7th aries", "lehsunia mesh lagna 7th", "ketu mahadasha aries 7th", "ketu in 7th house aries spouse", "ketu in 7th house aries detachment", "is ketu bad in 7th house aries", "ketu in libra aries ascendant career", "ketu marriage delay", "ketu monastic signature", "ketu 7th house aries prediction", "ketu in seventh house mesh lagna", "ketu 7th house mesh ascendant", "south node in mesh lagna 7th", "ketu tula lagna mesh chart", "ketu 7th house mesh lagna dasha", "ketu mesh lagna spouse foreign", "ketu kalatra dosha mesh", "ketu opposition lagna", "ketu mars opposition", "ketu sannyasa lagna 7th"
+      "ketu in 7th house aries lagna",
+      "ketu in 7th house mesh lagna",
+      "ketu in libra mesh ascendant",
+      "ketu tula aries lagna",
+      "ketu in kalatra bhava mesh",
+      "ketu in 7th house marriage aries",
+      "ketu in libra 7th aries",
+      "ketu kalatra bhava effects",
+      "south node 7th house aries",
+      "ketu in 7th house remedies aries",
+      "cats eye for ketu 7th aries",
+      "lehsunia mesh lagna 7th",
+      "ketu mahadasha aries 7th",
+      "ketu in 7th house aries spouse",
+      "ketu in 7th house aries detachment",
+      "is ketu bad in 7th house aries",
+      "ketu in libra aries ascendant career",
+      "ketu marriage delay",
+      "ketu monastic signature",
+      "ketu 7th house aries prediction",
+      "ketu in seventh house mesh lagna",
+      "ketu 7th house mesh ascendant",
+      "south node in mesh lagna 7th",
+      "ketu tula lagna mesh chart",
+      "ketu 7th house mesh lagna dasha",
+      "ketu mesh lagna spouse foreign",
+      "ketu kalatra dosha mesh",
+      "ketu opposition lagna",
+      "ketu mars opposition",
+      "ketu sannyasa lagna 7th"
     ],
     "questions": [
       "Is Ketu in the 7th house bad for marriage in Mesh Lagna?",
@@ -49,36 +140,129 @@
       "Which gemstone should Mesh Lagna wear for Ketu in 7th?"
     ],
     "lingual_variations": {
-      "ketu": ["ketu", "south node", "shikhi", "dhwajagra"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "ketu": [
+        "ketu",
+        "south node",
+        "shikhi",
+        "dhwajagra"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Ketu kalatra without fear-mongering reading", "Lagna-Ketu opposition self-other axis tension", "Friendly sign Tula softening the detachment intensity"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Ketu kalatra without fear-mongering reading",
+      "Lagna-Ketu opposition self-other axis tension",
+      "Friendly sign Tula softening the detachment intensity"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "ketu-7th-house-aries-lagna-hero.webp", "filename_og": "ketu-7th-house-aries-lagna-og.png", "alt": "Smoky Ketu in the seventh house of a Mesh Lagna kundali in Tula", "caption": "Ketu sits in friendly Tula in the seventh house for Aries ascendant natives, the marriage-detachment signature softened by the Venus rulership of the sign.", "width": 1200, "height": 630, "format": "webp", "style": "smoky violet editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the seventh house glowing smoky violet, a stylised flag-on-staff Ketu glyph above a small balance scale, traditional Vedic palette of smoke grey, violet, deep saffron, refined manuscript style, no people.", "negative_prompt": "photorealistic ketu, watermark, text, neon, cartoon" },
-    { "filename": "ketu-7th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Ketu in the seventh house of Mesh", "caption": "The North Indian birth chart with Ketu marked in Tula on the seventh house Kalatra Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the lower-right seventh house highlighted in smoky violet with a Ketu flag glyph marked Ke, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "ketu-7th-house-aries-lagna-cats-eye.webp", "alt": "Natural chrysoberyl cat's eye in silver ring, gemstone for Ketu 7th house", "caption": "Cat's eye is the primary Ketu ratna and is recommended only after careful chart confirmation because the kalatra placement amplifies marriage themes sharply.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural chrysoberyl cat's eye gemstone set in a silver ring, honey-yellow with bright white chatoyancy band, on dark velvet with low lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "ketu-7th-house-aries-lagna-ketu-kavacham.webp", "alt": "Ketu Kavacham Sanskrit verse on parchment with flag and serpent motif", "caption": "Ketu Kavacham recitation strengthens the south node channel that the kalatra placement specifically activates.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Ketu Kavacham, hand-painted on aged parchment with gold leaf borders, faint flag and serpent motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "ketu-7th-house-aries-lagna-hero.webp",
+      "filename_og": "ketu-7th-house-aries-lagna-og.png",
+      "alt": "Smoky Ketu in the seventh house of a Mesh Lagna kundali in Tula",
+      "caption": "Ketu sits in friendly Tula in the seventh house for Aries ascendant natives, the marriage-detachment signature softened by the Venus rulership of the sign.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "smoky violet editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the seventh house glowing smoky violet, a stylised flag-on-staff Ketu glyph above a small balance scale, traditional Vedic palette of smoke grey, violet, deep saffron, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic ketu, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "ketu-7th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Ketu in the seventh house of Mesh",
+      "caption": "The North Indian birth chart with Ketu marked in Tula on the seventh house Kalatra Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the lower-right seventh house highlighted in smoky violet with a Ketu flag glyph marked Ke, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "ketu-7th-house-aries-lagna-cats-eye.webp",
+      "alt": "Natural chrysoberyl cat's eye in silver ring, gemstone for Ketu 7th house",
+      "caption": "Cat's eye is the primary Ketu ratna and is recommended only after careful chart confirmation because the kalatra placement amplifies marriage themes sharply.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural chrysoberyl cat's eye gemstone set in a silver ring, honey-yellow with bright white chatoyancy band, on dark velvet with low lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "ketu-7th-house-aries-lagna-ketu-kavacham.webp",
+      "alt": "Ketu Kavacham Sanskrit verse on parchment with flag and serpent motif",
+      "caption": "Ketu Kavacham recitation strengthens the south node channel that the kalatra placement specifically activates.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Ketu Kavacham, hand-painted on aged parchment with gold leaf borders, faint flag and serpent motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Ketu in the 7th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Ketu in Kalatra Bhava for Aries ascendant natives. The south node in friendly Tula in the marriage angle, the famous detachment-from-spouse signature, and the lagna-Ketu opposition that places the self-other axis at the centre of the native's spiritual work.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Ketu", "tone": "teal" },
-      { "label": "Kalatra Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Friendly Tula" },
-      { "label": "Lagna opposition" },
-      { "label": "Detachment" }
+      {
+        "label": "Ketu",
+        "tone": "teal"
+      },
+      {
+        "label": "Kalatra Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Friendly Tula"
+      },
+      {
+        "label": "Lagna opposition"
+      },
+      {
+        "label": "Detachment"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +270,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Ketu", "sub": "South node", "icon": "sun" },
-        { "label": "Bhava", "value": "7th", "sub": "Kalatra Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Mystical", "sub": "Self-other axis", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Ketu",
+          "sub": "South node",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "7th",
+          "sub": "Kalatra Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Mystical",
+          "sub": "Self-other axis",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +309,103 @@
       "heading": "Why the popular kalatra-dosha reading misses the structural truth",
       "html": "<p>Students often arrive at this placement carrying anxiety because popular astrology labels it as marriage-killing, and the honest practitioner answer is that the label is overstated and structurally wrong in most cases. Ketu in 7th does not preclude marriage. It produces a specific marriage signature that requires the native to approach partnership consciously rather than by default. Marriages happen for natives with this placement at roughly the same rates as for other 7th house configurations. What differs is the type of marriage that lasts, the timing at which it arrives, and the kind of partner the native is structurally prepared to recognise.</p><p>The actual marriage signature this placement produces shows three specific patterns. First, marriage arrives later than peers, frequently in the early to mid thirties, because the chart asks the native to grow into self-other awareness before partnership. Rushed marriages in the twenties consistently underperform later ones. Second, the spouse often carries a Ketu signature: foreign nationality, contemplative orientation, unusual life history, or significant age difference. Third, the marriage that lasts tends to be unusually deep but quiet, with less social performance and more inner intimacy. The lagna-Ketu opposition (Mars at lagna directly aspecting Ketu in the 7th) places the self-other axis at the structural centre of the spiritual work. Natives who learn to honour both sides of the dialogue rather than choosing one over the other develop the rare relational maturity the placement is capable of producing.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "Ketu in the marriage angle does not refuse the partnership. It refuses the unconscious version of the partnership, and the work of the placement is to learn that the conscious version is worth waiting for." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "Ketu in the marriage angle does not refuse the partnership. It refuses the unconscious version of the partnership, and the work of the placement is to learn that the conscious version is worth waiting for."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Ketu, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Ketu, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Moksha, detachment, past karma" },
-            { "k": "Own sign", "v": "None (shadow planet)" },
-            { "k": "Uchha (exaltation)", "v": "Vrishchika (some traditions)", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Vrishabha (some traditions)", "tone": "bad" },
-            { "k": "Sign state here", "v": "Friendly Tula", "tone": "good" },
-            { "k": "Friends", "v": "Mars, Venus, Saturn" },
-            { "k": "Element", "v": "Fire (shadow)" },
-            { "k": "Role for Mesh", "v": "No house lordship (shadow)" }
+            {
+              "k": "Karakatva",
+              "v": "Moksha, detachment, past karma"
+            },
+            {
+              "k": "Own sign",
+              "v": "None (shadow planet)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Vrishchika (some traditions)",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Vrishabha (some traditions)",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Friendly Tula",
+              "tone": "good"
+            },
+            {
+              "k": "Friends",
+              "v": "Mars, Venus, Saturn"
+            },
+            {
+              "k": "Element",
+              "v": "Fire (shadow)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "No house lordship (shadow)"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Kalatra Bhava, house profile", "subtitle": "7th house significance",
+          "icon": "triangle-house",
+          "title": "Kalatra Bhava, house profile",
+          "subtitle": "7th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Kalatra, Yuvati Bhava" },
-            { "k": "Rules over", "v": "Marriage, spouse, partnership, agreements" },
-            { "k": "Natural sign", "v": "Tula (Libra) for Mesh" },
-            { "k": "Natural ruler", "v": "Shukra (Venus)" },
-            { "k": "Body part", "v": "Lower abdomen, kidneys, pelvis" },
-            { "k": "Classical nature", "v": "Kendra, Maraka" },
-            { "k": "Vedic quality", "v": "Self-other axis at the body-mirror", "tone": "good" },
-            { "k": "Special effect", "v": "Lagna lord opposition produces dialogue", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Kalatra, Yuvati Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Marriage, spouse, partnership, agreements"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Tula (Libra) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Shukra (Venus)"
+            },
+            {
+              "k": "Body part",
+              "v": "Lower abdomen, kidneys, pelvis"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Kendra, Maraka"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Self-other axis at the body-mirror",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Lagna lord opposition produces dialogue",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +447,48 @@
       "heading": "Where the self-other axis vocation plays out",
       "html": "<p>Career paths cluster around fields that draw on the unusual relational depth the placement produces. Counselling, couples therapy, and mediation are the strongest single fit because the chart's central training ground is the self-other axis. Many natives spend their twenties and thirties processing their own relational pedagogy and then move into counselling work in their late thirties or forties when the personal experience translates into clinical capacity. Foreign service and diplomatic work fit because the 7th house rules partnerships at the public level, and Ketu's foreign signature combined with the partnership house often produces natives whose vocation involves cross-border negotiation or diplomatic posting.</p><p>Spiritual teaching with relational focus suits natives whose contemplative pull is strong and who want to teach in the householder context. Independent consulting and advisory work suit the chart because natives often find their best work happens one-on-one with clients rather than inside large institutions. Research, writing, and contemplative scholarship suit those whose strongest mode is solitary work that nonetheless deals with relational themes. Hospitality with international clientele rounds out the list. Ketu mahadasha is when vocational direction crystallises, often through a sudden shift away from a conventional career toward work that draws on the self-other axis.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Ketu kalatra placement", "subtitle": "Generate your free Kundali to see whether your south node sits in the marriage angle.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Ketu marked in the seventh house of Mesh", "planet": "Ketu", "house": 7, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Ketu in Kalatra Bhava in friendly Tula, marked in smoky violet" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Lower-right diamond is the 7th house of marriage" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Ketu kalatra placement",
+        "subtitle": "Generate your free Kundali to see whether your south node sits in the marriage angle.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Ketu marked in the seventh house of Mesh",
+      "planet": "Ketu",
+      "house": 7,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Ketu in Kalatra Bhava in friendly Tula, marked in smoky violet"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Lower-right diamond is the 7th house of marriage"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The lagna-Ketu opposition and the actual marriage signature",
@@ -194,13 +501,45 @@
       "heading": "When Ketu in 7th delivers its Kalatra Bhava chapter",
       "intro_html": "<p>Ketu mahadasha is the defining window for this placement and arrives with the marriage decision, the spouse arrival, or the relational reorientation that the chart has been preparing.</p>",
       "rows": [
-        { "mahadasha": "Ketu (South Node)", "duration": "7 years", "themes": "The Kalatra Bhava activation window. Marriage often arrives or transforms decisively, the spouse with the Ketu signature appears, the self-other axis reaches its crystallisation moment.", "intensity": "Very high", "intensity_bar_width": 92, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "Lord of the sign Tula and friend of Ketu. The marriage stabilises into refined daily form, partnership flowers, sensual life integrates with the contemplative orientation.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Fifth lord. Creative recognition through the partnership work, dharmic visibility for the relational vocation, fatherly figures support the marriage decision.", "intensity": "Good", "intensity_bar_width": 75, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord opposing Ketu directly. The window where the inner self-other dialogue either resolves into mature partnership or peaks as relational reorientation.", "intensity": "Volatile", "intensity_bar_width": 78, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Ketu (South Node)",
+          "duration": "7 years",
+          "themes": "The Kalatra Bhava activation window. Marriage often arrives or transforms decisively, the spouse with the Ketu signature appears, the self-other axis reaches its crystallisation moment.",
+          "intensity": "Very high",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "Lord of the sign Tula and friend of Ketu. The marriage stabilises into refined daily form, partnership flowers, sensual life integrates with the contemplative orientation.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "Fifth lord. Creative recognition through the partnership work, dharmic visibility for the relational vocation, fatherly figures support the marriage decision.",
+          "intensity": "Good",
+          "intensity_bar_width": 75,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord opposing Ketu directly. The window where the inner self-other dialogue either resolves into mature partnership or peaks as relational reorientation.",
+          "intensity": "Volatile",
+          "intensity_bar_width": 78,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +558,140 @@
       "heading": "Gemstones for Ketu in 7th house Mesh Lagna",
       "intro_html": "<p>Cat's eye is the primary Ketu gemstone but is recommended only after careful chart confirmation because the kalatra placement requires especially careful timing.</p>",
       "cards": [
-        { "name": "Lehsunia (Cat's Eye)", "role": "primary", "sub": "Ketu-strengthening chrysoberyl", "icon_variant": "cats-eye", "image_slug": "cats-eye", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Small finger, right hand" }, { "k": "Day to wear", "v": "Wednesday or Tuesday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Hessonite (alt)", "role": "secondary", "sub": "Companion node stone for the Rahu-Ketu axis", "icon_variant": "hessonite", "image_slug": "hessonite", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Middle finger" }, { "k": "Day to wear", "v": "Saturday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Lehsunia", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Lehsunia (Cat's Eye)",
+          "role": "primary",
+          "sub": "Ketu-strengthening chrysoberyl",
+          "icon_variant": "cats-eye",
+          "image_slug": "cats-eye",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Wednesday or Tuesday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Hessonite (alt)",
+          "role": "secondary",
+          "sub": "Companion node stone for the Rahu-Ketu axis",
+          "icon_variant": "hessonite",
+          "image_slug": "hessonite",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Middle finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Saturday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Lehsunia",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Cat's eye in the marriage house amplifies kalatra themes sharply. Always consult a qualified Jyotishi before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Ketu in 7th house",
       "intro_html": "<p>The Ketu-aligned rudraksha is the Ashta Mukhi (Eight Mukhi), the bead directly ruled by Ganesha and the south node.</p>",
       "beads": [
-        { "mukhi": 8, "name": "Ashta Mukhi Rudraksha", "sub": "Ruled by Ganesha and Ketu", "benefit": "The classical Ketu rudraksha and the bead specifically associated with Ganesha as the patron deity of the south node. Removes obstacles to conscious partnership, supports the relational pedagogy the placement asks for, and stabilises the inner orientation when the disengagement pull is strong." },
-        { "mukhi": 6, "name": "Chha Mukhi Rudraksha", "sub": "Ruled by Venus, supports the dispositor", "benefit": "The six-mukhi bead is the Venus bead and serves as secondary support for this placement because the dispositor of Ketu here is Shukra. Wearing the Chha Mukhi alongside the Ashta Mukhi compounds the placement's natural strength by honouring both the planet and his sign-lord." }
+        {
+          "mukhi": 8,
+          "name": "Ashta Mukhi Rudraksha",
+          "sub": "Ruled by Ganesha and Ketu",
+          "benefit": "The classical Ketu rudraksha and the bead specifically associated with Ganesha as the patron deity of the south node. Removes obstacles to conscious partnership, supports the relational pedagogy the placement asks for, and stabilises the inner orientation when the disengagement pull is strong."
+        },
+        {
+          "mukhi": 6,
+          "name": "Chha Mukhi Rudraksha",
+          "sub": "Ruled by Venus, supports the dispositor",
+          "benefit": "The six-mukhi bead is the Venus bead and serves as secondary support for this placement because the dispositor of Ketu here is Shukra. Wearing the Chha Mukhi alongside the Ashta Mukhi compounds the placement's natural strength by honouring both the planet and his sign-lord."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Ketu Yantra for the kalatra placement", "yantra": { "name": "Ketu Yantra", "sanskrit": "केतु यन्त्र", "description": "The Ketu Yantra is the geometric form of the south node channel. For Ketu in the Mesh 7th house install it in a small contemplative corner of the home, ideally where the native sits for daily reflection on partnership matters. Wednesday or Tuesday at sunrise is the installation window, and the yantra should be consecrated with Ketu Kavacham recitation and a dub grass offering.", "direction": "Contemplative corner (relational reflection space)", "install_day": "Wednesday or Tuesday sunrise, Ketu hora preferred", "material": "Iron or panchaloha (mixed metal)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Ketu in the marriage angle", "stotra": { "eyebrow": "Ketu Kavacham", "title": "Shri Ketu Kavacham", "sub": "Protective armour stotra for the south node, the classical Ketu containment hymn", "verse": "Ketur namaste shashi tulya rupam<br>Sa namaste pitamaha mukhya<br>Sa namaste pingala lochanaya<br>Tvam namaste sarva pitra svarupa", "translation": "Salutations to Ketu, whose form is like the moon. Salutations to you, foremost among the ancestors. Salutations to you, the tawny-eyed one. Salutations to you, the form of all the ancestors. The Ketu Kavacham is the protective armour stotra for the south node and is the classical hymn for natives who need a containing field around the disengagement pull while still honouring the contemplative depth the placement produces.", "url": "https://stotra.vastucart.in/stotra/ketu-kavacham" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Ketu Yantra for the kalatra placement",
+      "yantra": {
+        "name": "Ketu Yantra",
+        "sanskrit": "केतु यन्त्र",
+        "description": "The Ketu Yantra is the geometric form of the south node channel. For Ketu in the Mesh 7th house install it in a small contemplative corner of the home, ideally where the native sits for daily reflection on partnership matters. Wednesday or Tuesday at sunrise is the installation window, and the yantra should be consecrated with Ketu Kavacham recitation and a dub grass offering.",
+        "direction": "Contemplative corner (relational reflection space)",
+        "install_day": "Wednesday or Tuesday sunrise, Ketu hora preferred",
+        "material": "Iron or panchaloha (mixed metal)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Ketu in the marriage angle",
+      "stotra": {
+        "eyebrow": "Ketu Kavacham",
+        "title": "Shri Ketu Kavacham",
+        "sub": "Protective armour stotra for the south node, the classical Ketu containment hymn",
+        "verse": "Ketur namaste shashi tulya rupam<br>Sa namaste pitamaha mukhya<br>Sa namaste pingala lochanaya<br>Tvam namaste sarva pitra svarupa",
+        "translation": "Salutations to Ketu, whose form is like the moon. Salutations to you, foremost among the ancestors. Salutations to you, the tawny-eyed one. Salutations to you, the form of all the ancestors. The Ketu Kavacham is the protective armour stotra for the south node and is the classical hymn for natives who need a containing field around the disengagement pull while still honouring the contemplative depth the placement produces.",
+        "url": "https://stotra.vastucart.in/stotra/ketu-kavacham"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +699,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your seventh house Ketu placement", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Marriage matching tool", "sub": "Check kalatra compatibility with the conscious partner", "url": "https://www.vastucart.in/tools/marriage-matching", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Marriage muhurta", "sub": "Auspicious dates for the conscious marriage", "url": "https://muhurta.vastucart.in/marriage-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Travel muhurta", "sub": "Auspicious dates for retreat or pilgrimage", "url": "https://muhurta.vastucart.in/travel-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Ketu Kavacham", "sub": "Protective armour stotra for the south node", "url": "https://stotra.vastucart.in/stotra/ketu-kavacham", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Ketu Stotram", "sub": "Classical south node hymn", "url": "https://stotra.vastucart.in/stotra/ketu-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Ketu Sahasranama", "sub": "Thousand names of Ketu", "url": "https://stotra.vastucart.in/stotra/ketu-sahasranama", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Ketu Dosh Nivaran", "sub": "Remedial recitation for Ketu affliction", "url": "https://stotra.vastucart.in/stotra/ketu-dosh-nivaran-stotram", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Ganesh Pancharatnam", "sub": "Five-jewel Ganesha hymn for the patron deity", "url": "https://stotra.vastucart.in/stotra/ganesh-pancharatnam", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Cat's eye source", "sub": "Certified Lehsunia chrysoberyl", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Ketu yantra store", "sub": "Iron Ketu yantra for the contemplative corner", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Kalatra analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your seventh house Ketu placement",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Marriage matching tool",
+            "sub": "Check kalatra compatibility with the conscious partner",
+            "url": "https://www.vastucart.in/tools/marriage-matching",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Marriage muhurta",
+            "sub": "Auspicious dates for the conscious marriage",
+            "url": "https://muhurta.vastucart.in/marriage-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Travel muhurta",
+            "sub": "Auspicious dates for retreat or pilgrimage",
+            "url": "https://muhurta.vastucart.in/travel-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Ketu Kavacham",
+            "sub": "Protective armour stotra for the south node",
+            "url": "https://stotra.vastucart.in/stotra/ketu-kavacham",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Ketu Stotram",
+            "sub": "Classical south node hymn",
+            "url": "https://stotra.vastucart.in/stotra/ketu-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Ketu Sahasranama",
+            "sub": "Thousand names of Ketu",
+            "url": "https://stotra.vastucart.in/stotra/ketu-sahasranama",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Ketu Dosh Nivaran",
+            "sub": "Remedial recitation for Ketu affliction",
+            "url": "https://stotra.vastucart.in/stotra/ketu-dosh-nivaran-stotram",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ganesh Pancharatnam",
+            "sub": "Five-jewel Ganesha hymn for the patron deity",
+            "url": "https://stotra.vastucart.in/stotra/ganesh-pancharatnam",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Cat's eye source",
+            "sub": "Certified Lehsunia chrysoberyl",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Ketu yantra store",
+            "sub": "Iron Ketu yantra for the contemplative corner",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Kalatra analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +799,130 @@
         "title": "Is your Kalatra Bhava Ketu carrying the conscious-marriage signature?",
         "subtitle": "Get a full personalised analysis of your seventh house Ketu, the spouse pattern, and the timing the chart is preparing.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Ketu Kavacham", "url": "https://stotra.vastucart.in/stotra/ketu-kavacham", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Ketu Kavacham",
+            "url": "https://stotra.vastucart.in/stotra/ketu-kavacham",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Ketu in 7th house, Mesh Lagna",
       "items": [
-        { "q": "Is Ketu in the 7th house bad for marriage in Mesh Lagna?", "a": "No, the popular reading that Ketu in the 7th means no marriage is overstated and structurally inaccurate in most cases. Ketu in the 7th does not preclude marriage, it produces a specific kind of marriage signature that requires the native to approach partnership consciously rather than by default. Marriages happen for natives with this placement at roughly the same rates as for other 7th house configurations. What differs is the type of marriage that lasts, the timing at which it arrives, and the kind of partner the native is structurally prepared to recognise. Tula is also a friendly sign for Ketu through Venus, which softens the harsher edges the popular reading exaggerates." },
-        { "q": "Does Ketu in 7th house guarantee marriage delay?", "a": "It strongly indicates marriage delay relative to peers, with most natives marrying in the early to mid thirties rather than the early to mid twenties. The delay is structural and the chart specifically asks the native to grow into their own self-other awareness before entering partnership. Rushed marriages in the twenties consistently underperform what later marriages produce for natives with this placement. The singleness in the twenties is not failure, it is the chart's preparation phase. Natives who use the time consciously typically meet their lifelong partner shortly after the inner work crosses a threshold the chart had been waiting for." },
-        { "q": "What kind of spouse does Ketu in 7th give to Mesh natives?", "a": "The spouse typically carries a Ketu signature themselves, recognisable through one or more of these markers: foreign nationality, contemplative or spiritual orientation, unusual life history, significant age difference, or a personal relationship to detachment that matches the native's chart. The pairing recognises itself when both partners come together. The marriage that lasts is usually deeper but quieter than peer marriages, with less conventional social performance and more inner intimacy. Practitioners should ask about the partner's background when this placement appears because the Ketu-signature partner is the structural prediction the chart is making." },
-        { "q": "How does the lagna-Ketu opposition shape the inner life?", "a": "Mars sits at the lagna for any Mesh chart and Ketu sits at the 7th in this placement, which puts them in direct mutual aspect. Mars represents the self in its most active asserting form, and Ketu represents the dissolution of self into something larger. The opposition does not cancel either side, it places both at the centre of the native's life and asks for a working relationship between them. The inner experience is one of constant dialogue between self-assertion and surrender. Natives who learn to honour both sides simultaneously develop the rare relational maturity the placement is capable of supporting." },
-        { "q": "Which gemstone should Mesh Lagna wear for Ketu in 7th?", "a": "Cat's eye (Lehsunia, made from chrysoberyl) is the primary Ketu gemstone, but it is recommended only after especially careful chart confirmation by a practising Jyotishi because Ketu in the marriage house amplifies kalatra themes sharply and the gemstone must be timed to a moment when the marriage chart is ready. Wear a natural chrysoberyl cat's eye of minimum five ratti set in silver on the small finger of the right hand on a Wednesday or Tuesday at sunrise after Ketu mantra recitation. Hessonite is the companion node stone for the full axis. Never wear cat's eye without a confirmed reading." }
+        {
+          "q": "Is Ketu in the 7th house bad for marriage in Mesh Lagna?",
+          "a": "No, the popular reading that Ketu in the 7th means no marriage is overstated and structurally inaccurate in most cases. Ketu in the 7th does not preclude marriage, it produces a specific kind of marriage signature that requires the native to approach partnership consciously rather than by default. Marriages happen for natives with this placement at roughly the same rates as for other 7th house configurations. What differs is the type of marriage that lasts, the timing at which it arrives, and the kind of partner the native is structurally prepared to recognise. Tula is also a friendly sign for Ketu through Venus, which softens the harsher edges the popular reading exaggerates."
+        },
+        {
+          "q": "Does Ketu in 7th house guarantee marriage delay?",
+          "a": "It strongly indicates marriage delay relative to peers, with most natives marrying in the early to mid thirties rather than the early to mid twenties. The delay is structural and the chart specifically asks the native to grow into their own self-other awareness before entering partnership. Rushed marriages in the twenties consistently underperform what later marriages produce for natives with this placement. The singleness in the twenties is not failure, it is the chart's preparation phase. Natives who use the time consciously typically meet their lifelong partner shortly after the inner work crosses a threshold the chart had been waiting for."
+        },
+        {
+          "q": "What kind of spouse does Ketu in 7th give to Mesh natives?",
+          "a": "The spouse typically carries a Ketu signature themselves, recognisable through one or more of these markers: foreign nationality, contemplative or spiritual orientation, unusual life history, significant age difference, or a personal relationship to detachment that matches the native's chart. The pairing recognises itself when both partners come together. The marriage that lasts is usually deeper but quieter than peer marriages, with less conventional social performance and more inner intimacy. Practitioners should ask about the partner's background when this placement appears because the Ketu-signature partner is the structural prediction the chart is making."
+        },
+        {
+          "q": "How does the lagna-Ketu opposition shape the inner life?",
+          "a": "Mars sits at the lagna for any Mesh chart and Ketu sits at the 7th in this placement, which puts them in direct mutual aspect. Mars represents the self in its most active asserting form, and Ketu represents the dissolution of self into something larger. The opposition does not cancel either side, it places both at the centre of the native's life and asks for a working relationship between them. The inner experience is one of constant dialogue between self-assertion and surrender. Natives who learn to honour both sides simultaneously develop the rare relational maturity the placement is capable of supporting."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Ketu in 7th?",
+          "a": "Cat's eye (Lehsunia, made from chrysoberyl) is the primary Ketu gemstone, but it is recommended only after especially careful chart confirmation by a practising Jyotishi because Ketu in the marriage house amplifies kalatra themes sharply and the gemstone must be timed to a moment when the marriage chart is ready. Wear a natural chrysoberyl cat's eye of minimum five ratti set in silver on the small finger of the right hand on a Wednesday or Tuesday at sunrise after Ketu mantra recitation. Hessonite is the companion node stone for the full axis. Never wear cat's eye without a confirmed reading."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Kalatra reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Ketu at the lagna in Mesha", "sub": "South node at the body, the warrior-monk contrast", "href": "/jyotish/graha-in-bhava/ketu-1st-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Mangal in the seventh, Manglik central case", "sub": "Mars debilitated in Tula, the marriage angle parallel", "href": "/jyotish/graha-in-bhava/mars-7th-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Shukra in the seventh, swakshetra Tula", "sub": "Venus own sign in the marriage angle, the contrast", "href": "/jyotish/graha-in-bhava/venus-7th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Ketu at the lagna in Mesha",
+          "sub": "South node at the body, the warrior-monk contrast",
+          "href": "/jyotish/graha-in-bhava/ketu-1st-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Mangal in the seventh, Manglik central case",
+          "sub": "Mars debilitated in Tula, the marriage angle parallel",
+          "href": "/jyotish/graha-in-bhava/mars-7th-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Shukra in the seventh, swakshetra Tula",
+          "sub": "Venus own sign in the marriage angle, the contrast",
+          "href": "/jyotish/graha-in-bhava/venus-7th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

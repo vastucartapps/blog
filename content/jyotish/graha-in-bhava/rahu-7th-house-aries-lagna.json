@@ -6,40 +6,131 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Rahu in 7th house", "Rahu Tula", "Mesh Lagna", "Aries ascendant", "Kalatra Bhava", "north node marriage", "foreign spouse", "Rahu mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Rahu in 7th house",
+    "Rahu Tula",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Kalatra Bhava",
+    "north node marriage",
+    "foreign spouse",
+    "Rahu mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "rahu",
   "house_number": 7,
   "lagna_id": "mesha",
   "meta": {
     "title": "Rahu in 7th House Mesh Lagna, Kalatra Amplification Guide",
-    "description": "Rahu in 7th house for Mesh Lagna, the north node in friendly Tula, foreign spouse amplification read by Pt. Raghav Sharma.",
+    "description": "Rahu in 7th house for Mesh Lagna, the north node in friendly Tula, foreign spouse amplification by VastuCart Editorial.",
     "focus_keyword": "Rahu in 7th house",
-    "secondary_keywords": ["Mesh Lagna", "Kalatra Bhava", "Rahu Tula", "Aries ascendant", "Rahu marriage"],
-    "lsi_keywords": ["kalatra bhava", "rahu tula", "north node libra", "rahu marriage amplification", "rahu mahadasha", "hessonite gomed", "foreign spouse signature", "unconventional marriage", "spouse foreign", "lagna rahu opposition"],
-    "keywords": ["Rahu in 7th house Mesh Lagna", "Rahu in Kalatra Bhava", "Rahu in Libra", "Mesh lagna 7th Rahu", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Kalatra Bhava",
+      "Rahu Tula",
+      "Aries ascendant",
+      "Rahu marriage"
+    ],
+    "lsi_keywords": [
+      "kalatra bhava",
+      "rahu tula",
+      "north node libra",
+      "rahu marriage amplification",
+      "rahu mahadasha",
+      "hessonite gomed",
+      "foreign spouse signature",
+      "unconventional marriage",
+      "spouse foreign",
+      "lagna rahu opposition"
+    ],
+    "keywords": [
+      "Rahu in 7th house Mesh Lagna",
+      "Rahu in Kalatra Bhava",
+      "Rahu in Libra",
+      "Mesh lagna 7th Rahu",
+      "Vedic astrology"
+    ],
     "og_title": "Rahu in the 7th House of Mesh Lagna, Kalatra Amplification Signature",
     "og_description": "Rahu in friendly Tula in the marriage angle for Aries natives, foreign spouse and unconventional partnership reading.",
     "og_image": "/og/rahu-7th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/rahu-7th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Rahu in 7th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/rahu-7th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Rahu in 7th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/rahu-7th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Rahu in 7th house",
-    "secondary_keywords": ["Mesh Lagna", "Kalatra Bhava", "Rahu Tula", "Aries ascendant", "Rahu marriage"],
-    "lsi_terms": ["kalatra bhava", "rahu tula", "north node libra", "rahu marriage amplification", "rahu mahadasha", "hessonite gomed", "foreign spouse signature", "unconventional marriage", "lagna rahu opposition", "marriage as vehicle"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Kalatra Bhava",
+      "Rahu Tula",
+      "Aries ascendant",
+      "Rahu marriage"
+    ],
+    "lsi_terms": [
+      "kalatra bhava",
+      "rahu tula",
+      "north node libra",
+      "rahu marriage amplification",
+      "rahu mahadasha",
+      "hessonite gomed",
+      "foreign spouse signature",
+      "unconventional marriage",
+      "lagna rahu opposition",
+      "marriage as vehicle"
+    ],
     "seed_queries": [
-      "rahu in 7th house aries lagna", "rahu in 7th house mesh lagna", "rahu in libra mesh ascendant", "rahu tula aries lagna", "rahu in kalatra bhava mesh", "rahu in 7th house marriage aries", "rahu in libra 7th aries", "rahu kalatra bhava effects", "north node 7th house aries", "rahu in 7th house remedies aries", "hessonite for rahu 7th aries", "gomed mesh lagna 7th", "rahu mahadasha aries 7th", "rahu in 7th house aries spouse", "rahu in 7th house aries foreign spouse", "is rahu bad in 7th house aries", "rahu in libra aries ascendant marriage", "rahu marriage amplification", "foreign spouse rahu 7th", "rahu 7th house aries prediction", "rahu in seventh house mesh lagna", "rahu 7th house mesh ascendant", "north node in mesh lagna 7th", "rahu tula lagna mesh chart", "rahu 7th house mesh lagna dasha", "rahu mesh lagna spouse foreign", "rahu unconventional marriage", "rahu opposition lagna 7", "rahu mars opposition", "rahu spouse signature mesh"
+      "rahu in 7th house aries lagna",
+      "rahu in 7th house mesh lagna",
+      "rahu in libra mesh ascendant",
+      "rahu tula aries lagna",
+      "rahu in kalatra bhava mesh",
+      "rahu in 7th house marriage aries",
+      "rahu in libra 7th aries",
+      "rahu kalatra bhava effects",
+      "north node 7th house aries",
+      "rahu in 7th house remedies aries",
+      "hessonite for rahu 7th aries",
+      "gomed mesh lagna 7th",
+      "rahu mahadasha aries 7th",
+      "rahu in 7th house aries spouse",
+      "rahu in 7th house aries foreign spouse",
+      "is rahu bad in 7th house aries",
+      "rahu in libra aries ascendant marriage",
+      "rahu marriage amplification",
+      "foreign spouse rahu 7th",
+      "rahu 7th house aries prediction",
+      "rahu in seventh house mesh lagna",
+      "rahu 7th house mesh ascendant",
+      "north node in mesh lagna 7th",
+      "rahu tula lagna mesh chart",
+      "rahu 7th house mesh lagna dasha",
+      "rahu mesh lagna spouse foreign",
+      "rahu unconventional marriage",
+      "rahu opposition lagna 7",
+      "rahu mars opposition",
+      "rahu spouse signature mesh"
     ],
     "questions": [
       "Is Rahu in the 7th house bad for marriage in Mesh Lagna?",
@@ -49,36 +140,129 @@
       "Which gemstone should Mesh Lagna wear for Rahu in 7th?"
     ],
     "lingual_variations": {
-      "rahu": ["rahu", "north node", "tama", "svarbhanu"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "rahu": [
+        "rahu",
+        "north node",
+        "tama",
+        "svarbhanu"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Rahu kalatra without fear-mongering", "Foreign spouse amplification reading", "Rahu vs Ketu 7th house contrast for the same lagna"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Rahu kalatra without fear-mongering",
+      "Foreign spouse amplification reading",
+      "Rahu vs Ketu 7th house contrast for the same lagna"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "rahu-7th-house-aries-lagna-hero.webp", "filename_og": "rahu-7th-house-aries-lagna-og.png", "alt": "Smoky Rahu in the seventh house of a Mesh Lagna kundali in Tula", "caption": "Rahu sits in friendly Tula in the seventh house for Aries ascendant natives, the marriage-as-amplification-vehicle and foreign spouse signature.", "width": 1200, "height": 630, "format": "webp", "style": "smoky indigo editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the seventh house glowing smoky indigo, a stylised serpent-head Rahu glyph above a small balance scale, traditional Vedic palette of dark indigo, smoke grey, deep saffron, refined manuscript style, no people.", "negative_prompt": "photorealistic rahu, watermark, text, neon, cartoon" },
-    { "filename": "rahu-7th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Rahu in the seventh house of Mesh", "caption": "The North Indian birth chart with Rahu marked in Tula on the seventh house Kalatra Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the lower-right seventh house highlighted in smoky indigo with a Rahu serpent glyph marked Ra, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "rahu-7th-house-aries-lagna-hessonite.webp", "alt": "Natural hessonite garnet in silver ring, gemstone for Rahu 7th house Mesh Lagna", "caption": "Hessonite is the primary Rahu ratna and is recommended only after careful chart confirmation because the kalatra placement amplifies marriage themes sharply.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural Sri Lankan hessonite garnet set in a silver ring, honey-amber colour, cushion cut, on dark velvet with low lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "rahu-7th-house-aries-lagna-durga-saptashloki.webp", "alt": "Durga Saptashloki Sanskrit verse on parchment with trishul and lotus motif", "caption": "Durga Saptashloki recitation strengthens the Rahu channel through Durga the classical patron deity of the north node.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Durga Saptashloki, hand-painted on aged parchment with gold leaf borders, faint trishul and lotus motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "rahu-7th-house-aries-lagna-hero.webp",
+      "filename_og": "rahu-7th-house-aries-lagna-og.png",
+      "alt": "Smoky Rahu in the seventh house of a Mesh Lagna kundali in Tula",
+      "caption": "Rahu sits in friendly Tula in the seventh house for Aries ascendant natives, the marriage-as-amplification-vehicle and foreign spouse signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "smoky indigo editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the seventh house glowing smoky indigo, a stylised serpent-head Rahu glyph above a small balance scale, traditional Vedic palette of dark indigo, smoke grey, deep saffron, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic rahu, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "rahu-7th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Rahu in the seventh house of Mesh",
+      "caption": "The North Indian birth chart with Rahu marked in Tula on the seventh house Kalatra Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the lower-right seventh house highlighted in smoky indigo with a Rahu serpent glyph marked Ra, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "rahu-7th-house-aries-lagna-hessonite.webp",
+      "alt": "Natural hessonite garnet in silver ring, gemstone for Rahu 7th house Mesh Lagna",
+      "caption": "Hessonite is the primary Rahu ratna and is recommended only after careful chart confirmation because the kalatra placement amplifies marriage themes sharply.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural Sri Lankan hessonite garnet set in a silver ring, honey-amber colour, cushion cut, on dark velvet with low lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "rahu-7th-house-aries-lagna-durga-saptashloki.webp",
+      "alt": "Durga Saptashloki Sanskrit verse on parchment with trishul and lotus motif",
+      "caption": "Durga Saptashloki recitation strengthens the Rahu channel through Durga the classical patron deity of the north node.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Durga Saptashloki, hand-painted on aged parchment with gold leaf borders, faint trishul and lotus motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Rahu in the 7th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Rahu in Kalatra Bhava for Aries ascendant natives. The north node in friendly Tula in the marriage angle, the foreign-spouse amplification signature, and the marriage-as-amplification-vehicle reading that distinguishes this placement from the Ketu 7th detachment.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Rahu", "tone": "teal" },
-      { "label": "Kalatra Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Friendly Tula" },
-      { "label": "Foreign spouse" },
-      { "label": "Lagna opposition" }
+      {
+        "label": "Rahu",
+        "tone": "teal"
+      },
+      {
+        "label": "Kalatra Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Friendly Tula"
+      },
+      {
+        "label": "Foreign spouse"
+      },
+      {
+        "label": "Lagna opposition"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +270,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Rahu", "sub": "North node", "icon": "sun" },
-        { "label": "Bhava", "value": "7th", "sub": "Kalatra Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Amplifying", "sub": "Foreign spouse signature", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Rahu",
+          "sub": "North node",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "7th",
+          "sub": "Kalatra Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Amplifying",
+          "sub": "Foreign spouse signature",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +309,103 @@
       "heading": "Why Rahu in the marriage angle is the amplification vehicle rather than the marriage destroyer",
       "html": "<p>Students often arrive at this placement carrying anxiety from popular astrology readings that label it as marriage-destroying. The honest practitioner answer is that Rahu in the 7th does not destroy marriage. It produces a specific kind of marriage signature that is unconventional in form, amplified in intensity, and usually involves a partner whose background, nationality, age, or life history differs significantly from what the native's family expected. Marriages happen for natives with this placement at roughly the same rates as for other 7th house configurations. What differs is the type of marriage that arrives, the kind of partner the native is structurally drawn to, and the role the marriage plays in the native's broader life direction. Rahu is the planet of unprocessed desire, and his presence in the kalatra house means the native's desire stream meets its destination through the partnership rather than through other channels.</p><p>The marriage-as-amplification-vehicle reading is the second specific feature that practitioners need to read carefully. For natives with this placement, the marriage is rarely just a personal bond. It is the structural channel through which the broader Rahu themes (foreign experience, unconventional life path, exposure to difference, amplified ambition) enter the native's daily life. Many natives meet their spouse abroad, marry into a foreign family, marry someone whose career takes the native into a foreign country, or marry someone from a different culture, religion, class, or generation than their family ever imagined. The pattern is so consistent in clinical reports that practitioners can usually predict the foreign or unconventional element before the native confirms it. The third interpretive layer is the contrast with Ketu in 7th. Both nodal placements in the marriage angle produce non-conventional marriage signatures, but they work in opposite directions. Ketu in 7th produces detachment from partnership and asks the native to grow into conscious relating. Rahu in 7th produces amplified attraction toward partnership and asks the native to channel the amplification into a partner who can hold it without being consumed. The two placements are mirror images of each other, and the contrast is the cleanest way to understand what each is actually doing.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "Rahu in the marriage angle does not refuse the partnership, it amplifies it past every conventional script. The work is to find a partner whose own chart can hold the amplification rather than be flattened by it." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "Rahu in the marriage angle does not refuse the partnership, it amplifies it past every conventional script. The work is to find a partner whose own chart can hold the amplification rather than be flattened by it."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Rahu, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Rahu, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Desire, amplification, foreign, taboo" },
-            { "k": "Own sign", "v": "None (shadow planet)" },
-            { "k": "Uchha (exaltation)", "v": "Vrishabha (some traditions)", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Vrishchika (some traditions)", "tone": "bad" },
-            { "k": "Sign state here", "v": "Friendly Tula", "tone": "good" },
-            { "k": "Friends", "v": "Venus, Saturn" },
-            { "k": "Element", "v": "Air (shadow)" },
-            { "k": "Role for Mesh", "v": "No house lordship (shadow)" }
+            {
+              "k": "Karakatva",
+              "v": "Desire, amplification, foreign, taboo"
+            },
+            {
+              "k": "Own sign",
+              "v": "None (shadow planet)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Vrishabha (some traditions)",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Vrishchika (some traditions)",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Friendly Tula",
+              "tone": "good"
+            },
+            {
+              "k": "Friends",
+              "v": "Venus, Saturn"
+            },
+            {
+              "k": "Element",
+              "v": "Air (shadow)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "No house lordship (shadow)"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Kalatra Bhava, house profile", "subtitle": "7th house significance",
+          "icon": "triangle-house",
+          "title": "Kalatra Bhava, house profile",
+          "subtitle": "7th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Kalatra, Yuvati Bhava" },
-            { "k": "Rules over", "v": "Marriage, spouse, partnership, agreements, public" },
-            { "k": "Natural sign", "v": "Tula (Libra) for Mesh" },
-            { "k": "Natural ruler", "v": "Shukra (Venus)" },
-            { "k": "Body part", "v": "Lower abdomen, kidneys, pelvis" },
-            { "k": "Classical nature", "v": "Kendra, Maraka" },
-            { "k": "Vedic quality", "v": "Marriage as amplification vehicle", "tone": "good" },
-            { "k": "Special effect", "v": "Foreign spouse signature", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Kalatra, Yuvati Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Marriage, spouse, partnership, agreements, public"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Tula (Libra) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Shukra (Venus)"
+            },
+            {
+              "k": "Body part",
+              "v": "Lower abdomen, kidneys, pelvis"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Kendra, Maraka"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Marriage as amplification vehicle",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Foreign spouse signature",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +447,48 @@
       "heading": "Where the partnership-amplification vocation plays out",
       "html": "<p>Career paths cluster around fields that draw on partnership and cross-cultural intensity. International business and diplomatic work are the strongest single fit because the 7th house rules public-facing partnerships and Rahu's foreign signature in the kalatra house produces natives whose vocation involves negotiating across cultures, languages, or borders. Many natives spend portions of their working life abroad, often through a marriage that takes them to the spouse's country, and the foreign posting becomes the platform from which the rest of the career builds. Cross-cultural consulting and translation work fit natives whose vocational mode is more linguistic.</p><p>Foreign service and overseas posting suit the chart because the 7th house at the public level rules the nation's partnerships with other nations. Marriage and partnership therapy work because the same chart that produces intense personal partnership lessons also produces clinical insight into other people's relational struggles, and natives often build counselling careers in their forties. Public relations and brand work suit natives whose magnetism translates into the visible-to-many register. Joint venture and partnership-based business work because the chart specifically supports building enterprises with another person, often the spouse. Rahu mahadasha is the defining career window and arrives with the foreign relocation, the marriage, or the partnership-based business that becomes the platform for the rest of the working life.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Rahu kalatra placement", "subtitle": "Generate your free Kundali to see whether your north node sits in the marriage angle.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Rahu marked in the seventh house of Mesh", "planet": "Rahu", "house": 7, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Rahu in Kalatra Bhava in friendly Tula, marked in smoky indigo" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Lower-right diamond is the 7th house of marriage" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Rahu kalatra placement",
+        "subtitle": "Generate your free Kundali to see whether your north node sits in the marriage angle.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Rahu marked in the seventh house of Mesh",
+      "planet": "Rahu",
+      "house": 7,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Rahu in Kalatra Bhava in friendly Tula, marked in smoky indigo"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Lower-right diamond is the 7th house of marriage"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The amplification vehicle and the foreign-spouse pattern",
@@ -194,13 +501,45 @@
       "heading": "When Rahu in 7th delivers its Kalatra Bhava chapter",
       "intro_html": "<p>Rahu mahadasha is the defining window for this placement and arrives with the foreign relocation, the marriage, or the partnership-based vocation crystallising decisively.</p>",
       "rows": [
-        { "mahadasha": "Rahu (North Node)", "duration": "18 years", "themes": "The Kalatra Bhava activation window. Marriage often arrives, foreign relocation crystallises, the partnership-based vocation finds its first major form, the spouse with the Rahu signature appears.", "intensity": "Very high", "intensity_bar_width": 95, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "Ninth and twelfth lord. Dharmic refinement of the marriage, wisdom about the relational lessons, foreign teaching or scholarship paths often open through the spouse's culture.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Shani (Saturn)", "duration": "19 years", "themes": "Tenth and eleventh lord, friend of Rahu. Structural consolidation of the partnership-based career, slow recognition of the joint venture work, sustained late-career building.", "intensity": "Good", "intensity_bar_width": 78, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord opposing Rahu directly. The window where the inner self-other tension either resolves through mature partnership or peaks as relational reorientation.", "intensity": "Volatile", "intensity_bar_width": 80, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Rahu (North Node)",
+          "duration": "18 years",
+          "themes": "The Kalatra Bhava activation window. Marriage often arrives, foreign relocation crystallises, the partnership-based vocation finds its first major form, the spouse with the Rahu signature appears.",
+          "intensity": "Very high",
+          "intensity_bar_width": 95,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "Ninth and twelfth lord. Dharmic refinement of the marriage, wisdom about the relational lessons, foreign teaching or scholarship paths often open through the spouse's culture.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Shani (Saturn)",
+          "duration": "19 years",
+          "themes": "Tenth and eleventh lord, friend of Rahu. Structural consolidation of the partnership-based career, slow recognition of the joint venture work, sustained late-career building.",
+          "intensity": "Good",
+          "intensity_bar_width": 78,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord opposing Rahu directly. The window where the inner self-other tension either resolves through mature partnership or peaks as relational reorientation.",
+          "intensity": "Volatile",
+          "intensity_bar_width": 80,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +558,140 @@
       "heading": "Gemstones for Rahu in 7th house Mesh Lagna",
       "intro_html": "<p>Hessonite is the primary Rahu gemstone but is recommended only after careful chart confirmation because the kalatra placement amplifies marriage themes sharply.</p>",
       "cards": [
-        { "name": "Gomed (Hessonite)", "role": "primary", "sub": "Rahu-strengthening grossular garnet", "icon_variant": "hessonite", "image_slug": "hessonite", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Middle finger, right hand" }, { "k": "Day to wear", "v": "Saturday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Cat's Eye (alt)", "role": "secondary", "sub": "Companion node stone for the Rahu-Ketu axis", "icon_variant": "cats-eye", "image_slug": "cats-eye", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Small finger" }, { "k": "Day to wear", "v": "Wednesday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Gomed", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Gomed (Hessonite)",
+          "role": "primary",
+          "sub": "Rahu-strengthening grossular garnet",
+          "icon_variant": "hessonite",
+          "image_slug": "hessonite",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Middle finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Saturday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Cat's Eye (alt)",
+          "role": "secondary",
+          "sub": "Companion node stone for the Rahu-Ketu axis",
+          "icon_variant": "cats-eye",
+          "image_slug": "cats-eye",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Wednesday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Gomed",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Hessonite in the marriage house amplifies kalatra themes sharply. Always consult a qualified Jyotishi before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Rahu in 7th house",
       "intro_html": "<p>The Rahu-aligned rudraksha is the Nau Mukhi (Nine Mukhi), the bead directly ruled by Durga and the north node.</p>",
       "beads": [
-        { "mukhi": 9, "name": "Nau Mukhi Rudraksha", "sub": "Ruled by Durga and Rahu", "benefit": "The classical Rahu rudraksha and the bead specifically associated with Durga as the patron deity of the north node. Contains the amplification energy in the kalatra dimension, supports the conscious channelling of relational hunger, and stabilises the inner intensity when the foreign-spouse signature is active." },
-        { "mukhi": 6, "name": "Chha Mukhi Rudraksha", "sub": "Ruled by Venus, supports the dispositor", "benefit": "The six-mukhi bead is the Venus bead and serves as secondary support for this placement because the dispositor of Rahu here is Shukra. Wearing the Chha Mukhi alongside the Nau Mukhi compounds the placement's natural strength by honouring both the planet and his sign-lord." }
+        {
+          "mukhi": 9,
+          "name": "Nau Mukhi Rudraksha",
+          "sub": "Ruled by Durga and Rahu",
+          "benefit": "The classical Rahu rudraksha and the bead specifically associated with Durga as the patron deity of the north node. Contains the amplification energy in the kalatra dimension, supports the conscious channelling of relational hunger, and stabilises the inner intensity when the foreign-spouse signature is active."
+        },
+        {
+          "mukhi": 6,
+          "name": "Chha Mukhi Rudraksha",
+          "sub": "Ruled by Venus, supports the dispositor",
+          "benefit": "The six-mukhi bead is the Venus bead and serves as secondary support for this placement because the dispositor of Rahu here is Shukra. Wearing the Chha Mukhi alongside the Nau Mukhi compounds the placement's natural strength by honouring both the planet and his sign-lord."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Rahu Yantra for the kalatra placement", "yantra": { "name": "Rahu Yantra", "sanskrit": "राहु यन्त्र", "description": "The Rahu Yantra is the geometric form of the north node channel. For Rahu in the Mesh 7th house install it in the south-west corner of the home, the direction classically assigned to grounding and stability for relational matters. Saturday at sunrise is the installation window, and the yantra should be consecrated with Durga Saptashloki recitation and a red flower offering.", "direction": "South-west corner of the home", "install_day": "Saturday sunrise, Rahu hora preferred", "material": "Lead or panchaloha (mixed metal)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Rahu in the marriage angle", "stotra": { "eyebrow": "Durga Saptashloki", "title": "Shri Durga Saptashloki", "sub": "Seven-verse essence of the Devi Mahatmyam, classical Rahu containment hymn", "verse": "Jnaninam api chetamsi devi bhagavati hi sa<br>Balad akrishya mohaya maha maya prayachchhati<br>Durge smrita harasi bhitim ashesha jantoh<br>Svasthaih smrita matimativa shubham dadasi<br>Daridrya duhkha bhaya harini ka tvad anya<br>Sarvopakara karanaya sada ardra chitta", "translation": "Even the minds of the wise are forcibly drawn by the goddess Bhagavati, the great Maya who bestows delusion. When remembered, O Durga, you remove the fear of all beings. When remembered by the well, you bestow auspicious wisdom. Who but you removes poverty, sorrow, and fear? Who but you is always compassionate, always doing good for all? The Durga Saptashloki is the seven-verse essence of the Devi Mahatmyam and is the perfect daily recitation for a chart where Rahu sits in the marriage angle and the amplification energy needs a containing devotional field.", "url": "https://stotra.vastucart.in/stotra/durga-saptashloki" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Rahu Yantra for the kalatra placement",
+      "yantra": {
+        "name": "Rahu Yantra",
+        "sanskrit": "राहु यन्त्र",
+        "description": "The Rahu Yantra is the geometric form of the north node channel. For Rahu in the Mesh 7th house install it in the south-west corner of the home, the direction classically assigned to grounding and stability for relational matters. Saturday at sunrise is the installation window, and the yantra should be consecrated with Durga Saptashloki recitation and a red flower offering.",
+        "direction": "South-west corner of the home",
+        "install_day": "Saturday sunrise, Rahu hora preferred",
+        "material": "Lead or panchaloha (mixed metal)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Rahu in the marriage angle",
+      "stotra": {
+        "eyebrow": "Durga Saptashloki",
+        "title": "Shri Durga Saptashloki",
+        "sub": "Seven-verse essence of the Devi Mahatmyam, classical Rahu containment hymn",
+        "verse": "Jnaninam api chetamsi devi bhagavati hi sa<br>Balad akrishya mohaya maha maya prayachchhati<br>Durge smrita harasi bhitim ashesha jantoh<br>Svasthaih smrita matimativa shubham dadasi<br>Daridrya duhkha bhaya harini ka tvad anya<br>Sarvopakara karanaya sada ardra chitta",
+        "translation": "Even the minds of the wise are forcibly drawn by the goddess Bhagavati, the great Maya who bestows delusion. When remembered, O Durga, you remove the fear of all beings. When remembered by the well, you bestow auspicious wisdom. Who but you removes poverty, sorrow, and fear? Who but you is always compassionate, always doing good for all? The Durga Saptashloki is the seven-verse essence of the Devi Mahatmyam and is the perfect daily recitation for a chart where Rahu sits in the marriage angle and the amplification energy needs a containing devotional field.",
+        "url": "https://stotra.vastucart.in/stotra/durga-saptashloki"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +699,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your seventh house Rahu placement", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Marriage matching tool", "sub": "Check kalatra compatibility with the foreign partner", "url": "https://www.vastucart.in/tools/marriage-matching", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Marriage muhurta", "sub": "Auspicious dates for the unconventional marriage", "url": "https://muhurta.vastucart.in/marriage-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Travel muhurta", "sub": "Auspicious dates for the foreign signature", "url": "https://muhurta.vastucart.in/travel-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Durga Saptashloki", "sub": "Seven-verse Durga essence hymn", "url": "https://stotra.vastucart.in/stotra/durga-saptashloki", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Durga Kavach", "sub": "Protective armour stotra for Durga", "url": "https://stotra.vastucart.in/stotra/durga-kavach", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Rahu Stotram", "sub": "Classical north node hymn", "url": "https://stotra.vastucart.in/stotra/rahu-stotram", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Rahu Kavacham", "sub": "Protective armour stotra for Rahu", "url": "https://stotra.vastucart.in/stotra/rahu-kavacham", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Rahu-Ketu Stotram", "sub": "Combined node recitation", "url": "https://stotra.vastucart.in/stotra/rahu-ketu-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Hessonite source", "sub": "Certified Gomed grossular garnet", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Rahu yantra store", "sub": "Lead Rahu yantra for the south-west corner", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Kalatra Rahu analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your seventh house Rahu placement",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Marriage matching tool",
+            "sub": "Check kalatra compatibility with the foreign partner",
+            "url": "https://www.vastucart.in/tools/marriage-matching",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Marriage muhurta",
+            "sub": "Auspicious dates for the unconventional marriage",
+            "url": "https://muhurta.vastucart.in/marriage-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Travel muhurta",
+            "sub": "Auspicious dates for the foreign signature",
+            "url": "https://muhurta.vastucart.in/travel-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Durga Saptashloki",
+            "sub": "Seven-verse Durga essence hymn",
+            "url": "https://stotra.vastucart.in/stotra/durga-saptashloki",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Durga Kavach",
+            "sub": "Protective armour stotra for Durga",
+            "url": "https://stotra.vastucart.in/stotra/durga-kavach",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Rahu Stotram",
+            "sub": "Classical north node hymn",
+            "url": "https://stotra.vastucart.in/stotra/rahu-stotram",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Rahu Kavacham",
+            "sub": "Protective armour stotra for Rahu",
+            "url": "https://stotra.vastucart.in/stotra/rahu-kavacham",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Rahu-Ketu Stotram",
+            "sub": "Combined node recitation",
+            "url": "https://stotra.vastucart.in/stotra/rahu-ketu-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Hessonite source",
+            "sub": "Certified Gomed grossular garnet",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Rahu yantra store",
+            "sub": "Lead Rahu yantra for the south-west corner",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Kalatra Rahu analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +799,130 @@
         "title": "Is your Kalatra Bhava Rahu carrying the foreign-spouse signature?",
         "subtitle": "Get a full personalised analysis of your seventh house Rahu, the partnership amplification pattern, and the marriage timing.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Durga Saptashloki", "url": "https://stotra.vastucart.in/stotra/durga-saptashloki", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Durga Saptashloki",
+            "url": "https://stotra.vastucart.in/stotra/durga-saptashloki",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Rahu in 7th house, Mesh Lagna",
       "items": [
-        { "q": "Is Rahu in the 7th house bad for marriage in Mesh Lagna?", "a": "No, the popular reading that Rahu in the 7th destroys marriage is overstated and structurally inaccurate in most cases. Rahu in the 7th does not destroy marriage. It produces a specific kind of marriage signature that is unconventional in form, amplified in intensity, and usually involves a partner whose background or nationality differs from what the family expected. Marriages happen at roughly the same rates as for other 7th house configurations. What differs is the type of marriage that arrives, the kind of partner the native is structurally drawn to, and the role the marriage plays in the broader life direction." },
-        { "q": "Does Rahu in 7th give a foreign spouse?", "a": "Yes, the foreign spouse pattern is one of the most consistent clinical reports for this placement. Most natives meet their spouse abroad, marry into a foreign family, marry someone whose career takes them to a foreign country, or marry someone from a different culture, religion, language, or class background than their family imagined. The pattern is so consistent that practitioners can usually predict the foreign or unconventional element before the native confirms it. The wedding ceremony itself is often unconventional in some specific way: an elopement, a destination ceremony, a fusion of traditions, or a smaller celebration." },
-        { "q": "How is Rahu 7th different from Ketu 7th for Aries ascendant?", "a": "Both nodal placements in the marriage angle produce non-conventional marriage signatures, but they work in opposite directions and ask the native for opposite practices. Ketu in 7th produces detachment from partnership and asks the native to grow into conscious relating before marriage stabilises. Rahu in 7th produces amplified attraction toward partnership and asks the native to develop discernment about which partner can hold the amplification. Ketu's pedagogy is patience. Rahu's pedagogy is discernment. Both placements produce durable marriages when the pedagogy is honoured." },
-        { "q": "What kind of marriage does Rahu in 7th produce?", "a": "An intense, unconventional, often foreign or cross-cultural marriage that becomes the central amplification vehicle of the native's broader Rahu life themes. The marriage is rarely just a personal bond. It is the structural channel through which foreign experience, unconventional life path, and amplified ambition enter the native's daily life. Most natives report that their spouse becomes the single most important relationship of their life, and the marriage usually deepens rather than fades. The wedding ceremony, the timing, and the partner all carry recognisable Rahu signatures that the chart has been preparing for years." },
-        { "q": "Which gemstone should Mesh Lagna wear for Rahu in 7th?", "a": "Hessonite (Gomed, grossular garnet) is the primary Rahu gemstone, but it is recommended only after especially careful chart confirmation by a practising Jyotishi because Rahu in the marriage house amplifies kalatra themes sharply and the gemstone must be timed to a moment when the marriage chart is ready. Wear a natural Sri Lankan or African hessonite of minimum five ratti set in silver on the middle finger of the right hand on a Saturday at sunrise after Rahu mantra recitation. Never wear hessonite without a confirmed reading because the amplification can sharpen relational difficulties as readily as it sharpens relational strengths." }
+        {
+          "q": "Is Rahu in the 7th house bad for marriage in Mesh Lagna?",
+          "a": "No, the popular reading that Rahu in the 7th destroys marriage is overstated and structurally inaccurate in most cases. Rahu in the 7th does not destroy marriage. It produces a specific kind of marriage signature that is unconventional in form, amplified in intensity, and usually involves a partner whose background or nationality differs from what the family expected. Marriages happen at roughly the same rates as for other 7th house configurations. What differs is the type of marriage that arrives, the kind of partner the native is structurally drawn to, and the role the marriage plays in the broader life direction."
+        },
+        {
+          "q": "Does Rahu in 7th give a foreign spouse?",
+          "a": "Yes, the foreign spouse pattern is one of the most consistent clinical reports for this placement. Most natives meet their spouse abroad, marry into a foreign family, marry someone whose career takes them to a foreign country, or marry someone from a different culture, religion, language, or class background than their family imagined. The pattern is so consistent that practitioners can usually predict the foreign or unconventional element before the native confirms it. The wedding ceremony itself is often unconventional in some specific way: an elopement, a destination ceremony, a fusion of traditions, or a smaller celebration."
+        },
+        {
+          "q": "How is Rahu 7th different from Ketu 7th for Aries ascendant?",
+          "a": "Both nodal placements in the marriage angle produce non-conventional marriage signatures, but they work in opposite directions and ask the native for opposite practices. Ketu in 7th produces detachment from partnership and asks the native to grow into conscious relating before marriage stabilises. Rahu in 7th produces amplified attraction toward partnership and asks the native to develop discernment about which partner can hold the amplification. Ketu's pedagogy is patience. Rahu's pedagogy is discernment. Both placements produce durable marriages when the pedagogy is honoured."
+        },
+        {
+          "q": "What kind of marriage does Rahu in 7th produce?",
+          "a": "An intense, unconventional, often foreign or cross-cultural marriage that becomes the central amplification vehicle of the native's broader Rahu life themes. The marriage is rarely just a personal bond. It is the structural channel through which foreign experience, unconventional life path, and amplified ambition enter the native's daily life. Most natives report that their spouse becomes the single most important relationship of their life, and the marriage usually deepens rather than fades. The wedding ceremony, the timing, and the partner all carry recognisable Rahu signatures that the chart has been preparing for years."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Rahu in 7th?",
+          "a": "Hessonite (Gomed, grossular garnet) is the primary Rahu gemstone, but it is recommended only after especially careful chart confirmation by a practising Jyotishi because Rahu in the marriage house amplifies kalatra themes sharply and the gemstone must be timed to a moment when the marriage chart is ready. Wear a natural Sri Lankan or African hessonite of minimum five ratti set in silver on the middle finger of the right hand on a Saturday at sunrise after Rahu mantra recitation. Never wear hessonite without a confirmed reading because the amplification can sharpen relational difficulties as readily as it sharpens relational strengths."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Nodal reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Ketu in the seventh, the kalatra mirror", "sub": "South node in the marriage angle, the contrast study", "href": "/jyotish/graha-in-bhava/ketu-7th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Rahu at the lagna in Mesha", "sub": "North node at the body, the parallel amplification", "href": "/jyotish/graha-in-bhava/rahu-1st-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Shukra in the seventh, swakshetra Tula", "sub": "Venus own sign in the same marriage angle, the contrast", "href": "/jyotish/graha-in-bhava/venus-7th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Ketu in the seventh, the kalatra mirror",
+          "sub": "South node in the marriage angle, the contrast study",
+          "href": "/jyotish/graha-in-bhava/ketu-7th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Rahu at the lagna in Mesha",
+          "sub": "North node at the body, the parallel amplification",
+          "href": "/jyotish/graha-in-bhava/rahu-1st-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Shukra in the seventh, swakshetra Tula",
+          "sub": "Venus own sign in the same marriage angle, the contrast",
+          "href": "/jyotish/graha-in-bhava/venus-7th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

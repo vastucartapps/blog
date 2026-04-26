@@ -6,40 +6,132 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 11,
   "status": "ready",
   "published_at": "2026-04-13T00:00:00.000Z",
   "updated_at": "2026-04-13T00:00:00.000Z",
-  "tags": ["Jupiter in 6th house", "Guru", "Mesh Lagna", "Aries ascendant", "Ripu Bhava", "Kanya rashi", "ninth lord in 6th", "benefic in dushthana", "Guru mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Jupiter in 6th house",
+    "Guru",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Ripu Bhava",
+    "Kanya rashi",
+    "ninth lord in 6th",
+    "benefic in dushthana",
+    "Guru mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "guru",
   "house_number": 6,
   "lagna_id": "mesha",
   "meta": {
     "title": "Jupiter in 6th House Mesh Lagna, Service and Healing Guide",
-    "description": "Jupiter in 6th house for Mesh Lagna, Guru in Ripu Bhava Kanya. Enemies, service, medicine, dasha and remedies by Pt. Raghav Sharma.",
+    "description": "Jupiter in 6th house for Mesh Lagna, Guru in Ripu Bhava Kanya. Enemies, service, medicine, dasha and remedies by VastuCart Editorial.",
     "focus_keyword": "Jupiter in 6th house",
-    "secondary_keywords": ["Mesh Lagna", "Ripu Bhava", "Guru Kanya", "Aries ascendant", "Guru"],
-    "lsi_keywords": ["ripu bhava guru", "guru kanya", "ninth lord sixth", "guru mahadasha", "yellow sapphire pukhraj", "benefic in dushthana", "medical career", "service through wisdom", "debt clearance", "judicial career"],
-    "keywords": ["Jupiter in 6th house Mesh Lagna", "Guru in Ripu Bhava", "Mesh lagna 6th Jupiter", "Aries ascendant medicine", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Ripu Bhava",
+      "Guru Kanya",
+      "Aries ascendant",
+      "Guru"
+    ],
+    "lsi_keywords": [
+      "ripu bhava guru",
+      "guru kanya",
+      "ninth lord sixth",
+      "guru mahadasha",
+      "yellow sapphire pukhraj",
+      "benefic in dushthana",
+      "medical career",
+      "service through wisdom",
+      "debt clearance",
+      "judicial career"
+    ],
+    "keywords": [
+      "Jupiter in 6th house Mesh Lagna",
+      "Guru in Ripu Bhava",
+      "Mesh lagna 6th Jupiter",
+      "Aries ascendant medicine",
+      "Vedic astrology"
+    ],
     "og_title": "Jupiter in the 6th House of Mesh Lagna, Ripu Bhava Wisdom",
     "og_description": "Guru in Ripu Bhava for Aries ascendant, benefic in dushthana service study by a practising Jyotishi.",
     "og_image": "/og/jupiter-6th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/jupiter-6th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Jupiter in 6th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/jupiter-6th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Jupiter in 6th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/jupiter-6th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Jupiter in 6th house",
-    "secondary_keywords": ["Mesh Lagna", "Ripu Bhava", "Guru Kanya", "Aries ascendant", "Guru"],
-    "lsi_terms": ["ripu bhava guru", "guru kanya", "ninth lord sixth", "guru mahadasha", "yellow sapphire pukhraj", "benefic in dushthana", "medical career", "service through wisdom", "debt clearance", "judicial career"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Ripu Bhava",
+      "Guru Kanya",
+      "Aries ascendant",
+      "Guru"
+    ],
+    "lsi_terms": [
+      "ripu bhava guru",
+      "guru kanya",
+      "ninth lord sixth",
+      "guru mahadasha",
+      "yellow sapphire pukhraj",
+      "benefic in dushthana",
+      "medical career",
+      "service through wisdom",
+      "debt clearance",
+      "judicial career"
+    ],
     "seed_queries": [
-      "jupiter in 6th house aries lagna", "guru in 6th house mesh lagna", "jupiter in kanya 6th aries", "guru in ripu bhava mesh", "jupiter in 6th house effects aries", "jupiter in virgo mesh lagna", "jupiter in 6th house enemies aries", "jupiter in 6th house disease aries", "jupiter in 6th house service aries", "jupiter in 6th house career aries", "jupiter in 6th house remedies", "yellow sapphire for jupiter 6th aries", "pukhraj for mesh lagna 6th", "guru mahadasha aries 6th", "jupiter in 6th house aries medicine", "jupiter in 6th house aries legal", "jupiter in 6th house aries debt", "is jupiter good in 6th house aries", "jupiter in virgo aries ascendant", "guru ripu bhava kanya", "jupiter 6th house aries prediction", "jupiter in sixth house mesh lagna", "jupiter 6th house mesh ascendant", "guru in mesh lagna 6th", "jupiter kanya lagna mesh chart", "jupiter 6th house mesh lagna dasha", "guru mesh lagna service", "jupiter in virgo aries ascendant career", "benefic in dushthana jupiter", "ninth lord sixth aries"
+      "jupiter in 6th house aries lagna",
+      "guru in 6th house mesh lagna",
+      "jupiter in kanya 6th aries",
+      "guru in ripu bhava mesh",
+      "jupiter in 6th house effects aries",
+      "jupiter in virgo mesh lagna",
+      "jupiter in 6th house enemies aries",
+      "jupiter in 6th house disease aries",
+      "jupiter in 6th house service aries",
+      "jupiter in 6th house career aries",
+      "jupiter in 6th house remedies",
+      "yellow sapphire for jupiter 6th aries",
+      "pukhraj for mesh lagna 6th",
+      "guru mahadasha aries 6th",
+      "jupiter in 6th house aries medicine",
+      "jupiter in 6th house aries legal",
+      "jupiter in 6th house aries debt",
+      "is jupiter good in 6th house aries",
+      "jupiter in virgo aries ascendant",
+      "guru ripu bhava kanya",
+      "jupiter 6th house aries prediction",
+      "jupiter in sixth house mesh lagna",
+      "jupiter 6th house mesh ascendant",
+      "guru in mesh lagna 6th",
+      "jupiter kanya lagna mesh chart",
+      "jupiter 6th house mesh lagna dasha",
+      "guru mesh lagna service",
+      "jupiter in virgo aries ascendant career",
+      "benefic in dushthana jupiter",
+      "ninth lord sixth aries"
     ],
     "questions": [
       "Is Jupiter in the 6th house good for Mesh Lagna?",
@@ -49,36 +141,130 @@
       "Which gemstone should Mesh Lagna wear for Jupiter in 6th?"
     ],
     "lingual_variations": {
-      "guru": ["guru", "jupiter", "brihaspati", "devaguru", "bhagavan"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "guru": [
+        "guru",
+        "jupiter",
+        "brihaspati",
+        "devaguru",
+        "bhagavan"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Benefic-in-dushthana Jupiter reading", "Service through wisdom career channel", "Disease and immunity signature for Jupiter 6H"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Benefic-in-dushthana Jupiter reading",
+      "Service through wisdom career channel",
+      "Disease and immunity signature for Jupiter 6H"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "jupiter-6th-house-aries-lagna-hero.webp", "filename_og": "jupiter-6th-house-aries-lagna-og.png", "alt": "Soft gold Guru in the sixth house of a Mesh Lagna kundali", "caption": "Guru sits in Ripu Bhava for Aries ascendant natives, the ninth lord in the house of enemies producing the service-through-wisdom signature.", "width": 1200, "height": 630, "format": "webp", "style": "muted gold editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the sixth house glowing soft gold, a stylised Jupiter symbol with a healing caduceus and book motif, traditional Vedic palette of gold, saffron, pale cream, refined manuscript style, no people.", "negative_prompt": "photorealistic jupiter planet, watermark, text, neon, cartoon" },
-    { "filename": "jupiter-6th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Jupiter placed in the sixth house of Mesh", "caption": "The North Indian birth chart with Guru marked in the sixth house Ripu Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the left-lower sixth house highlighted in soft gold with a Guru symbol marked Gu, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "jupiter-6th-house-aries-lagna-yellow-sapphire.webp", "alt": "Natural yellow sapphire in gold ring, gemstone for Jupiter 6th house Mesh Lagna", "caption": "Yellow sapphire for a 6th house Jupiter needs chart verification because a benefic in a dushthana is reduced classically.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural Ceylon yellow sapphire set in a gold ring, warm honey-yellow colour, faceted emerald cut, on dark velvet with warm lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "jupiter-6th-house-aries-lagna-dattatreya.webp", "alt": "Dattatreya mantra Sanskrit verse on parchment with trident and lotus motif", "caption": "Dattatreya worship anchors the teaching-through-service signature of a benefic Jupiter in Ripu Bhava.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from a Dattatreya mantra, hand-painted on aged parchment with gold leaf borders, faint trident and lotus motifs in the background, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "jupiter-6th-house-aries-lagna-hero.webp",
+      "filename_og": "jupiter-6th-house-aries-lagna-og.png",
+      "alt": "Soft gold Guru in the sixth house of a Mesh Lagna kundali",
+      "caption": "Guru sits in Ripu Bhava for Aries ascendant natives, the ninth lord in the house of enemies producing the service-through-wisdom signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "muted gold editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the sixth house glowing soft gold, a stylised Jupiter symbol with a healing caduceus and book motif, traditional Vedic palette of gold, saffron, pale cream, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic jupiter planet, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "jupiter-6th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Jupiter placed in the sixth house of Mesh",
+      "caption": "The North Indian birth chart with Guru marked in the sixth house Ripu Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the left-lower sixth house highlighted in soft gold with a Guru symbol marked Gu, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "jupiter-6th-house-aries-lagna-yellow-sapphire.webp",
+      "alt": "Natural yellow sapphire in gold ring, gemstone for Jupiter 6th house Mesh Lagna",
+      "caption": "Yellow sapphire for a 6th house Jupiter needs chart verification because a benefic in a dushthana is reduced classically.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural Ceylon yellow sapphire set in a gold ring, warm honey-yellow colour, faceted emerald cut, on dark velvet with warm lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "jupiter-6th-house-aries-lagna-dattatreya.webp",
+      "alt": "Dattatreya mantra Sanskrit verse on parchment with trident and lotus motif",
+      "caption": "Dattatreya worship anchors the teaching-through-service signature of a benefic Jupiter in Ripu Bhava.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from a Dattatreya mantra, hand-painted on aged parchment with gold leaf borders, faint trident and lotus motifs in the background, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Jupiter in the 6th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Guru in Ripu Bhava for Aries ascendant natives. The ninth lord in Mercury's sign Kanya in a dushthana house, the classical benefic-in-dushthana reduction with service-through-wisdom compensation, medical and judicial career fits, and the specific aspects to 2nd, 10th, and 12th houses.",
     "meta": [
-      { "icon": "clock", "value": "11 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "11 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Guru", "tone": "teal" },
-      { "label": "Ripu Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Kanya rashi" },
-      { "label": "Ninth lord in sixth" },
-      { "label": "Benefic in dushthana" }
+      {
+        "label": "Guru",
+        "tone": "teal"
+      },
+      {
+        "label": "Ripu Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Kanya rashi"
+      },
+      {
+        "label": "Ninth lord in sixth"
+      },
+      {
+        "label": "Benefic in dushthana"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +272,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Guru", "sub": "Jupiter", "icon": "sun" },
-        { "label": "Bhava", "value": "6th", "sub": "Ripu Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Moderate", "sub": "Benefic in dushthana", "icon": "star", "tone": "warn" }
+        {
+          "label": "Planet",
+          "value": "Guru",
+          "sub": "Jupiter",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "6th",
+          "sub": "Ripu Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Moderate",
+          "sub": "Benefic in dushthana",
+          "icon": "star",
+          "tone": "warn"
+        }
       ]
     },
     {
@@ -104,39 +311,102 @@
       "heading": "Why the wisdom planet finds his service vocation in the house of obstacles",
       "html": "<p>The sixth house is Ripu Bhava, the domain of enemies, litigation, debts, disease, obstacles, daily routine, service, subordinates, pets, and the general category of challenges a native has to overcome rather than enjoy. Classical tradition treats it as one of the three Dushthana houses (6, 8, 12) along with being one of the four Upachaya houses (3, 6, 10, 11). For malefics this combination is friendly because malefic energy applied to obstacles produces productive struggle. For benefics the combination is less friendly because a benefic in a dushthana classically loses some of its blessing weight to the challenging house, but retains enough to produce a specific kind of service signature that other placements cannot match.</p><p>Kanya rashi adds the second layer. Budha rules Kanya, and although Mercury is Jupiter's enemy at the planetary level, the sign itself is methodical, analytical, detail-oriented, and oriented toward practical problem-solving through careful process. These qualities actually suit a 6th house service vocation remarkably well because medicine, law, compliance, and advisory work all reward the precision Kanya brings. The native's wisdom becomes practical rather than abstract, diagnostic rather than contemplative, and directed toward concrete problems rather than toward philosophical speculation. The third interpretive layer, and the one most practitioners underweight, is Jupiter's aspect set. Every planet aspects the house seven houses away (the direct opposition aspect), and Jupiter specifically aspects the 5th and 9th from its position as well (Parashari special aspects). From the 6th house, this means Jupiter aspects the 12th (opposition, losses and moksha), the 10th (5th aspect, career), and the 2nd (9th aspect, wealth and family). The benefic thus blesses three critical houses from within the dushthana itself, which softens the placement's classical reduction significantly.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "A benefic in Ripu Bhava does not lose its blessing, it redirects it. Jupiter here teaches the native that wisdom grows fastest when it is applied to the problems other people are trying to avoid." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "A benefic in Ripu Bhava does not lose its blessing, it redirects it. Jupiter here teaches the native that wisdom grows fastest when it is applied to the problems other people are trying to avoid."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Guru, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Guru, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Wisdom, dharma, children, teachers" },
-            { "k": "Own signs", "v": "Dhanu (Sagittarius), Meena (Pisces)" },
-            { "k": "Uchha (exaltation)", "v": "Karka at 5 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Makara at 5 degrees", "tone": "bad" },
-            { "k": "Friends", "v": "Sun, Moon, Mars" },
-            { "k": "Enemies", "v": "Mercury, Venus", "tone": "bad" },
-            { "k": "Element", "v": "Ether (Akasha Tattva)" },
-            { "k": "Role for Mesh", "v": "9th lord and 12th lord" }
+            {
+              "k": "Karakatva",
+              "v": "Wisdom, dharma, children, teachers"
+            },
+            {
+              "k": "Own signs",
+              "v": "Dhanu (Sagittarius), Meena (Pisces)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Karka at 5 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Makara at 5 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Moon, Mars"
+            },
+            {
+              "k": "Enemies",
+              "v": "Mercury, Venus",
+              "tone": "bad"
+            },
+            {
+              "k": "Element",
+              "v": "Ether (Akasha Tattva)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "9th lord and 12th lord"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Ripu Bhava, house profile", "subtitle": "6th house significance",
+          "icon": "triangle-house",
+          "title": "Ripu Bhava, house profile",
+          "subtitle": "6th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Ripu, Ari, Shatru Bhava" },
-            { "k": "Rules over", "v": "Enemies, debt, disease, service" },
-            { "k": "Natural sign", "v": "Kanya (Virgo) for Mesh" },
-            { "k": "Natural ruler", "v": "Budha (Mercury)" },
-            { "k": "Body part", "v": "Abdomen, intestines, liver" },
-            { "k": "Dual nature", "v": "Upachaya and Dushthana", "tone": "warn" },
-            { "k": "Vedic quality", "v": "9L in 6H service yoga" },
-            { "k": "Special effect", "v": "Aspects 2H, 10H, 12H" }
+            {
+              "k": "Sanskrit name",
+              "v": "Ripu, Ari, Shatru Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Enemies, debt, disease, service"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Kanya (Virgo) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Budha (Mercury)"
+            },
+            {
+              "k": "Body part",
+              "v": "Abdomen, intestines, liver"
+            },
+            {
+              "k": "Dual nature",
+              "v": "Upachaya and Dushthana",
+              "tone": "warn"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "9L in 6H service yoga"
+            },
+            {
+              "k": "Special effect",
+              "v": "Aspects 2H, 10H, 12H"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +448,48 @@
       "heading": "Where the service-through-wisdom channel plays out",
       "html": "<p>Career paths cluster around fields where wisdom meets the practical problems other people pay to have solved. Medicine is the single strongest fit because the combination literally places the wisdom karaka in the house of disease and healing, and a benefic Jupiter in this channel produces natives who become doctors, healers, or healthcare leaders whose diagnostic judgement is trusted across decades. Ayurveda, preventive medicine, internal medicine, and clinical teaching in medical schools all suit the combination, and many natives eventually move into hospital administration or clinical governance where the wisdom channel finds institutional scale. Law, especially civil law, compliance advisory, and judicial officer roles, form the second cluster because the 6th house rules litigation and Jupiter brings the ethical framework courtroom work demands.</p><p>Social service and public health leadership are natural fits for natives whose chart has been specifically asking them to turn wisdom into collective benefit. Public health administration, non-profit leadership, senior policy roles in health ministries, and development sector work all channel the placement productively. Debt restructuring and financial recovery advisory suit because the 6th house rules debt and Jupiter gives the judgement to navigate the emotional and ethical dimensions of bankruptcy and workout conversations. Teaching and academic administration, especially in medical, legal, or professional schools, continue the service theme through knowledge transmission. Hospital administration rounds out the list. Guru mahadasha is typically when the service career reaches its recognition peak, often through a formal appointment or a public acknowledgement that the native did not seek but the chart delivered. The key counsel for natives is to accept compensation proportional to their contribution rather than accepting the first rate offered, because the 6th house service signature produces natives whose market value often exceeds what they initially ask for.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your service vocation signature", "subtitle": "Generate your free Kundali to see the 9L in Ripu Bhava.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Jupiter marked in the sixth house of Mesh", "planet": "Guru", "house": 6, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Guru in Ripu Bhava, marked in soft gold" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Left-lower diamond is the 6th house of enemies" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your service vocation signature",
+        "subtitle": "Generate your free Kundali to see the 9L in Ripu Bhava.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Jupiter marked in the sixth house of Mesh",
+      "planet": "Guru",
+      "house": 6,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Guru in Ripu Bhava, marked in soft gold"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Left-lower diamond is the 6th house of enemies"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The aspects Jupiter casts from the sixth",
@@ -194,13 +502,45 @@
       "heading": "When Jupiter in 6th delivers its service chapter",
       "intro_html": "<p>Guru mahadasha is the defining window for this placement. Budha, Shani and Surya periods also shape the service, medical, or legal career outcomes.</p>",
       "rows": [
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "The Ripu Bhava activation window. Service career peaks, medical or legal recognition, debt clearance, victory over long-running adversarial situations.", "intensity": "High", "intensity_bar_width": 85, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Budha (Mercury)", "duration": "17 years", "themes": "Sign lord of Kanya. Long diagnostic career windows, writing and knowledge work, teaching in medical or legal schools.", "intensity": "Very good", "intensity_bar_width": 82, "intensity_bar_color": "#338a95" },
-        { "mahadasha": "Shani (Saturn)", "duration": "19 years", "themes": "Discipline lord, friend of benefic service. Long institutional commitments, judicial appointments, hospital leadership.", "intensity": "Good", "intensity_bar_width": 75, "intensity_bar_color": "#7aa8cc" },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "5th lord, friend of Jupiter. Authority moments in the service career, creative breakthroughs in healing work.", "intensity": "Good", "intensity_bar_width": 72, "intensity_bar_color": "#f4b942" }
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "The Ripu Bhava activation window. Service career peaks, medical or legal recognition, debt clearance, victory over long-running adversarial situations.",
+          "intensity": "High",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Budha (Mercury)",
+          "duration": "17 years",
+          "themes": "Sign lord of Kanya. Long diagnostic career windows, writing and knowledge work, teaching in medical or legal schools.",
+          "intensity": "Very good",
+          "intensity_bar_width": 82,
+          "intensity_bar_color": "#338a95"
+        },
+        {
+          "mahadasha": "Shani (Saturn)",
+          "duration": "19 years",
+          "themes": "Discipline lord, friend of benefic service. Long institutional commitments, judicial appointments, hospital leadership.",
+          "intensity": "Good",
+          "intensity_bar_width": 75,
+          "intensity_bar_color": "#7aa8cc"
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "5th lord, friend of Jupiter. Authority moments in the service career, creative breakthroughs in healing work.",
+          "intensity": "Good",
+          "intensity_bar_width": 72,
+          "intensity_bar_color": "#f4b942"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +559,141 @@
       "heading": "Gemstones for Jupiter in 6th house Mesh Lagna",
       "intro_html": "<p>Yellow sapphire should be considered only after a Panch Mukhi rudraksha trial period for this placement because the benefic is classically reduced in dushthana.</p>",
       "cards": [
-        { "name": "Pukhraj (Yellow Sapphire)", "role": "primary", "sub": "After three-month rudraksha trial and chart review", "icon_variant": "yellow-sapphire", "image_slug": "yellow-sapphire", "items": [ { "k": "Metal", "v": "Gold" }, { "k": "Finger", "v": "Index finger, right hand" }, { "k": "Day to wear", "v": "Thursday, sunrise" }, { "k": "Caution", "v": "Verify aspect strength first", "tone": "warn" } ] },
-        { "name": "Yellow Topaz (alt)", "role": "secondary", "sub": "Milder Jupiter-aligned alternative", "icon_variant": "yellow-sapphire", "image_slug": "yellow-sapphire", "items": [ { "k": "Metal", "v": "Gold" }, { "k": "Finger", "v": "Index finger" }, { "k": "Day to wear", "v": "Thursday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Pukhraj", "role": "shop", "sub": "Benefic-in-dushthana review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Pukhraj (Yellow Sapphire)",
+          "role": "primary",
+          "sub": "After three-month rudraksha trial and chart review",
+          "icon_variant": "yellow-sapphire",
+          "image_slug": "yellow-sapphire",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Index finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Thursday, sunrise"
+            },
+            {
+              "k": "Caution",
+              "v": "Verify aspect strength first",
+              "tone": "warn"
+            }
+          ]
+        },
+        {
+          "name": "Yellow Topaz (alt)",
+          "role": "secondary",
+          "sub": "Milder Jupiter-aligned alternative",
+          "icon_variant": "yellow-sapphire",
+          "image_slug": "yellow-sapphire",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Index finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Thursday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Pukhraj",
+          "role": "shop",
+          "sub": "Benefic-in-dushthana review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "A benefic in a dushthana deserves careful chart review before permanent gemstone wearing. Always consult a qualified Jyotishi."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Jupiter in 6th house",
       "intro_html": "<p>The Panch Mukhi is the primary bead and is the safest first remedial step for a benefic-in-dushthana Jupiter before any gemstone decision.</p>",
       "beads": [
-        { "mukhi": 5, "name": "Panch Mukhi Rudraksha", "sub": "Ruled by Guru, the Panchabrahma bead", "benefit": "The classical Jupiter rudraksha and the safest primary remedial choice for a benefic in a dushthana. Carries Guru energy without the amplification concerns gemstones can produce. Worn after Shiva abhishek on Thursday." },
-        { "mukhi": 4, "name": "Char Mukhi Rudraksha", "sub": "Ruled by Budha, the Kanya sign lord", "benefit": "The four-faced bead ruled by Brahma and carrying Mercury resonance. Honours Budha as the sign lord of Kanya and supports the analytical precision the service career demands." }
+        {
+          "mukhi": 5,
+          "name": "Panch Mukhi Rudraksha",
+          "sub": "Ruled by Guru, the Panchabrahma bead",
+          "benefit": "The classical Jupiter rudraksha and the safest primary remedial choice for a benefic in a dushthana. Carries Guru energy without the amplification concerns gemstones can produce. Worn after Shiva abhishek on Thursday."
+        },
+        {
+          "mukhi": 4,
+          "name": "Char Mukhi Rudraksha",
+          "sub": "Ruled by Budha, the Kanya sign lord",
+          "benefit": "The four-faced bead ruled by Brahma and carrying Mercury resonance. Honours Budha as the sign lord of Kanya and supports the analytical precision the service career demands."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Guru Yantra for the Ripu Bhava", "yantra": { "name": "Guru Yantra", "sanskrit": "गुरु यन्त्र", "description": "The Guru Yantra is the geometric form of the wisdom channel. For a 6th house Jupiter install it in the north-east wall of your workspace or clinic rather than the home temple, because the chart channels the Guru energy into the native's service domain. Thursday sunrise in Guru hora is the ideal installation window.", "direction": "North-east wall (workspace preferred)", "install_day": "Thursday sunrise, Guru hora preferred", "material": "Gold or brass (copper acceptable)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for the Ripu Bhava Guru", "stotra": { "eyebrow": "Guru Dattatreya Mantra", "title": "Shri Dattatreya Mantra", "sub": "Dattatreya the teacher-servant, ideal deity for a Jupiter in Ripu Bhava", "verse": "Om draam dattatreyaya namah<br>Om aim hreem kleem ghloum draam dattaatreyaaya namah<br>Jaya jaya deva deva dattatreya jaya jaya<br>Prahlada varada deva dattatreya jaya jaya", "translation": "Om, salutations to Dattatreya. Om aim hreem kleem ghloum draam, salutations to Dattatreya. Victory, victory to the lord of lords Dattatreya, victory, victory. Boon-giver to Prahlada, lord Dattatreya, victory, victory. Dattatreya is the classical teacher-servant, the incarnation of the three supreme deities who walked among the people serving and teaching, and his worship is particularly aligned with a benefic Jupiter in the service house.", "url": "https://stotra.vastucart.in/stotra/guru-dattatreya-mantra" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Guru Yantra for the Ripu Bhava",
+      "yantra": {
+        "name": "Guru Yantra",
+        "sanskrit": "गुरु यन्त्र",
+        "description": "The Guru Yantra is the geometric form of the wisdom channel. For a 6th house Jupiter install it in the north-east wall of your workspace or clinic rather than the home temple, because the chart channels the Guru energy into the native's service domain. Thursday sunrise in Guru hora is the ideal installation window.",
+        "direction": "North-east wall (workspace preferred)",
+        "install_day": "Thursday sunrise, Guru hora preferred",
+        "material": "Gold or brass (copper acceptable)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for the Ripu Bhava Guru",
+      "stotra": {
+        "eyebrow": "Guru Dattatreya Mantra",
+        "title": "Shri Dattatreya Mantra",
+        "sub": "Dattatreya the teacher-servant, ideal deity for a Jupiter in Ripu Bhava",
+        "verse": "Om draam dattatreyaya namah<br>Om aim hreem kleem ghloum draam dattaatreyaaya namah<br>Jaya jaya deva deva dattatreya jaya jaya<br>Prahlada varada deva dattatreya jaya jaya",
+        "translation": "Om, salutations to Dattatreya. Om aim hreem kleem ghloum draam, salutations to Dattatreya. Victory, victory to the lord of lords Dattatreya, victory, victory. Boon-giver to Prahlada, lord Dattatreya, victory, victory. Dattatreya is the classical teacher-servant, the incarnation of the three supreme deities who walked among the people serving and teaching, and his worship is particularly aligned with a benefic Jupiter in the service house.",
+        "url": "https://stotra.vastucart.in/stotra/guru-dattatreya-mantra"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +701,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your sixth house and Jupiter aspects", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Job joining muhurta", "sub": "Auspicious dates for service roles", "url": "https://muhurta.vastucart.in/job-joining-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Business muhurta", "sub": "Auspicious dates for practice launch", "url": "https://muhurta.vastucart.in/business-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Dattatreya mantra", "sub": "Teacher-servant deity recitation", "url": "https://stotra.vastucart.in/stotra/guru-dattatreya-mantra", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Guru Stotram", "sub": "Core daily Jupiter recitation", "url": "https://stotra.vastucart.in/stotra/guru-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Guru Graha Kavacham", "sub": "Protective armour stotra for Jupiter", "url": "https://stotra.vastucart.in/stotra/guru-graha-kavacham", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Vishnu Sahasranama", "sub": "Highest-order Jupiter recitation", "url": "https://stotra.vastucart.in/stotra/vishnu-sahasranama", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Narayana Kavacham", "sub": "Protective Vishnu hymn", "url": "https://stotra.vastucart.in/stotra/narayana-kavacham", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Panch Mukhi rudraksha source", "sub": "The classical Jupiter rudraksha", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Guru yantra store", "sub": "Gold Guru yantra for the workspace wall", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "1-on-1 with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your sixth house and Jupiter aspects",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Job joining muhurta",
+            "sub": "Auspicious dates for service roles",
+            "url": "https://muhurta.vastucart.in/job-joining-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Business muhurta",
+            "sub": "Auspicious dates for practice launch",
+            "url": "https://muhurta.vastucart.in/business-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Dattatreya mantra",
+            "sub": "Teacher-servant deity recitation",
+            "url": "https://stotra.vastucart.in/stotra/guru-dattatreya-mantra",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Guru Stotram",
+            "sub": "Core daily Jupiter recitation",
+            "url": "https://stotra.vastucart.in/stotra/guru-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Guru Graha Kavacham",
+            "sub": "Protective armour stotra for Jupiter",
+            "url": "https://stotra.vastucart.in/stotra/guru-graha-kavacham",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Vishnu Sahasranama",
+            "sub": "Highest-order Jupiter recitation",
+            "url": "https://stotra.vastucart.in/stotra/vishnu-sahasranama",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Narayana Kavacham",
+            "sub": "Protective Vishnu hymn",
+            "url": "https://stotra.vastucart.in/stotra/narayana-kavacham",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Panch Mukhi rudraksha source",
+            "sub": "The classical Jupiter rudraksha",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Guru yantra store",
+            "sub": "Gold Guru yantra for the workspace wall",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "1-on-1 with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +801,130 @@
         "title": "Is your Ripu Bhava Jupiter carrying the service signature?",
         "subtitle": "Get a full personalised analysis of your Guru placement, career trajectory, and aspect set.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Dattatreya mantra", "url": "https://stotra.vastucart.in/stotra/guru-dattatreya-mantra", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Dattatreya mantra",
+            "url": "https://stotra.vastucart.in/stotra/guru-dattatreya-mantra",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Jupiter in 6th house, Mesh Lagna",
       "items": [
-        { "q": "Is Jupiter in the 6th house good for Mesh Lagna?", "a": "It is moderate rather than strong but far from weak. The 6th house is a dushthana where benefics experience a classical reduction of their full expression, but it is also an Upachaya where growth happens over time, and Jupiter here produces a specific service-through-wisdom signature that other placements cannot match. For Mesh Lagna, Guru is the 9th lord, and placing the dharma lord in the service house creates a chart that rewards medical, legal, teaching, or advisory careers. The aspects Jupiter casts to the 2nd, 10th, and 12th houses soften the dushthana reduction significantly." },
-        { "q": "What does Jupiter in Kanya mean for an Aries ascendant?", "a": "It means the native's wisdom is filtered through Mercury's analytical, detail-oriented sign. Kanya teaches diagnostic precision, methodical problem-solving, and practical application of knowledge, all of which suit a service vocation beautifully. Although Jupiter and Mercury are classical enemies at the planetary level, the Kanya sign quality actually harmonises with the 6th house service signature, producing natives who excel in fields where wisdom has to be applied to concrete problems rather than contemplated abstractly." },
-        { "q": "How does Jupiter in 6th house affect enemies and debts?", "a": "Classical tradition describes natives with this placement as winning through wisdom rather than through aggression. Enemies typically neutralise themselves when confronted with the native's ethical stance, and debts are cleared through careful planning and disciplined repayment rather than through windfalls. Natives frequently end up working on the other side of the enemy or debt situation professionally, as mediators, arbitrators, or debt restructuring advisors, which is the career expression of the chart's underlying pattern." },
-        { "q": "Is Jupiter in 6th house good for medical career?", "a": "Yes, it is one of the strongest medical career placements in the Mesh Lagna catalogue. The combination places the wisdom karaka in the house of disease and healing, producing natives whose diagnostic judgement is trusted across decades. Ayurveda, preventive medicine, internal medicine, clinical teaching, and healthcare leadership all suit the placement. Natives frequently rise to senior hospital administration or medical school faculty roles because their speech and judgement fit the institutional culture these positions require." },
-        { "q": "Which gemstone should Mesh Lagna wear for Jupiter in 6th?", "a": "Yellow sapphire should be considered only after a three-month trial of the Panch Mukhi rudraksha and a full chart review. Because this is a benefic in a dushthana with classical reduction, the rudraksha route is the safer first step and often delivers sufficient benefit without gemstone amplification. When pukhraj is indicated by a practitioner, wear a natural Ceylon pukhraj of minimum four ratti set in gold on the index finger of the right hand on a Thursday at sunrise. Always consult a qualified Jyotishi before permanent wearing." }
+        {
+          "q": "Is Jupiter in the 6th house good for Mesh Lagna?",
+          "a": "It is moderate rather than strong but far from weak. The 6th house is a dushthana where benefics experience a classical reduction of their full expression, but it is also an Upachaya where growth happens over time, and Jupiter here produces a specific service-through-wisdom signature that other placements cannot match. For Mesh Lagna, Guru is the 9th lord, and placing the dharma lord in the service house creates a chart that rewards medical, legal, teaching, or advisory careers. The aspects Jupiter casts to the 2nd, 10th, and 12th houses soften the dushthana reduction significantly."
+        },
+        {
+          "q": "What does Jupiter in Kanya mean for an Aries ascendant?",
+          "a": "It means the native's wisdom is filtered through Mercury's analytical, detail-oriented sign. Kanya teaches diagnostic precision, methodical problem-solving, and practical application of knowledge, all of which suit a service vocation beautifully. Although Jupiter and Mercury are classical enemies at the planetary level, the Kanya sign quality actually harmonises with the 6th house service signature, producing natives who excel in fields where wisdom has to be applied to concrete problems rather than contemplated abstractly."
+        },
+        {
+          "q": "How does Jupiter in 6th house affect enemies and debts?",
+          "a": "Classical tradition describes natives with this placement as winning through wisdom rather than through aggression. Enemies typically neutralise themselves when confronted with the native's ethical stance, and debts are cleared through careful planning and disciplined repayment rather than through windfalls. Natives frequently end up working on the other side of the enemy or debt situation professionally, as mediators, arbitrators, or debt restructuring advisors, which is the career expression of the chart's underlying pattern."
+        },
+        {
+          "q": "Is Jupiter in 6th house good for medical career?",
+          "a": "Yes, it is one of the strongest medical career placements in the Mesh Lagna catalogue. The combination places the wisdom karaka in the house of disease and healing, producing natives whose diagnostic judgement is trusted across decades. Ayurveda, preventive medicine, internal medicine, clinical teaching, and healthcare leadership all suit the placement. Natives frequently rise to senior hospital administration or medical school faculty roles because their speech and judgement fit the institutional culture these positions require."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Jupiter in 6th?",
+          "a": "Yellow sapphire should be considered only after a three-month trial of the Panch Mukhi rudraksha and a full chart review. Because this is a benefic in a dushthana with classical reduction, the rudraksha route is the safer first step and often delivers sufficient benefit without gemstone amplification. When pukhraj is indicated by a practitioner, wear a natural Ceylon pukhraj of minimum four ratti set in gold on the index finger of the right hand on a Thursday at sunrise. Always consult a qualified Jyotishi before permanent wearing."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Service reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Mangal in the sixth, Ripu Bhava enemy destroyer", "sub": "Mars in Kanya, malefic-in-dushthana contrast", "href": "/jyotish/graha-in-bhava/mars-6th-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Guru at the lagna, digbala study", "sub": "Jupiter at the ascendant with directional strength", "href": "/jyotish/graha-in-bhava/jupiter-1st-house-aries-lagna", "icon_variant": "sun" },
-        { "title": "Guru in the third, Upachaya Parakrama", "sub": "Jupiter in Mithuna, benefic-in-Upachaya reduction", "href": "/jyotish/graha-in-bhava/jupiter-3rd-house-aries-lagna", "icon_variant": "teal" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Mangal in the sixth, Ripu Bhava enemy destroyer",
+          "sub": "Mars in Kanya, malefic-in-dushthana contrast",
+          "href": "/jyotish/graha-in-bhava/mars-6th-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Guru at the lagna, digbala study",
+          "sub": "Jupiter at the ascendant with directional strength",
+          "href": "/jyotish/graha-in-bhava/jupiter-1st-house-aries-lagna",
+          "icon_variant": "sun"
+        },
+        {
+          "title": "Guru in the third, Upachaya Parakrama",
+          "sub": "Jupiter in Mithuna, benefic-in-Upachaya reduction",
+          "href": "/jyotish/graha-in-bhava/jupiter-3rd-house-aries-lagna",
+          "icon_variant": "teal"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

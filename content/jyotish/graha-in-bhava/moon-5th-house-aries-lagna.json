@@ -6,40 +6,131 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Moon in 5th house", "Chandra Simha", "Mesh Lagna", "Aries ascendant", "Putra Bhava", "4L in 5H", "kendra trikona raja yoga", "Chandra mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Moon in 5th house",
+    "Chandra Simha",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Putra Bhava",
+    "4L in 5H",
+    "kendra trikona raja yoga",
+    "Chandra mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "chandra",
   "house_number": 5,
   "lagna_id": "mesha",
   "meta": {
     "title": "Moon in 5th House Mesh Lagna, Putra Raja Yoga Guide",
-    "description": "Moon in 5th house for Mesh Lagna, Chandra in friendly Simha, the 4L in 5H kendra-to-trikona raja yoga read by Pt. Raghav Sharma.",
+    "description": "Moon in 5th house for Mesh Lagna, Chandra in friendly Simha, the 4L in 5H kendra-to-trikona raja yoga by VastuCart Editorial.",
     "focus_keyword": "Moon in 5th house",
-    "secondary_keywords": ["Mesh Lagna", "Putra Bhava", "Chandra Simha", "Aries ascendant", "Kendra trikona yoga"],
-    "lsi_keywords": ["putra bhava", "chandra simha", "moon in leo", "4th lord fifth", "chandra mahadasha", "pearl moti", "kendra trikona yoga", "creative mother", "children karaka", "purva punya"],
-    "keywords": ["Moon in 5th house Mesh Lagna", "Chandra in Putra Bhava", "Moon in Leo", "Mesh lagna 5th Moon", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Putra Bhava",
+      "Chandra Simha",
+      "Aries ascendant",
+      "Kendra trikona yoga"
+    ],
+    "lsi_keywords": [
+      "putra bhava",
+      "chandra simha",
+      "moon in leo",
+      "4th lord fifth",
+      "chandra mahadasha",
+      "pearl moti",
+      "kendra trikona yoga",
+      "creative mother",
+      "children karaka",
+      "purva punya"
+    ],
+    "keywords": [
+      "Moon in 5th house Mesh Lagna",
+      "Chandra in Putra Bhava",
+      "Moon in Leo",
+      "Mesh lagna 5th Moon",
+      "Vedic astrology"
+    ],
     "og_title": "Moon in the 5th House of Mesh Lagna, Kendra-Trikona Raja Yoga",
     "og_description": "Chandra in friendly Simha in the children and creativity trikona for Aries natives, by a practising Jyotishi.",
     "og_image": "/og/moon-5th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/moon-5th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Moon in 5th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/moon-5th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Moon in 5th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/moon-5th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Moon in 5th house",
-    "secondary_keywords": ["Mesh Lagna", "Putra Bhava", "Chandra Simha", "Aries ascendant", "Kendra trikona yoga"],
-    "lsi_terms": ["putra bhava", "chandra simha", "moon in leo", "4th lord fifth", "chandra mahadasha", "pearl moti", "kendra trikona raja yoga", "creative mother", "children karaka", "purva punya"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Putra Bhava",
+      "Chandra Simha",
+      "Aries ascendant",
+      "Kendra trikona yoga"
+    ],
+    "lsi_terms": [
+      "putra bhava",
+      "chandra simha",
+      "moon in leo",
+      "4th lord fifth",
+      "chandra mahadasha",
+      "pearl moti",
+      "kendra trikona raja yoga",
+      "creative mother",
+      "children karaka",
+      "purva punya"
+    ],
     "seed_queries": [
-      "moon in 5th house aries lagna", "chandra in 5th house mesh lagna", "moon in leo mesh ascendant", "chandra simha aries lagna", "moon in putra bhava mesh", "moon in 5th house career aries", "moon in leo 5th aries", "chandra putra bhava mesh", "4l in 5h aries lagna raja yoga", "moon in 5th house remedies aries", "pearl for moon 5th aries", "moti mesh lagna 5th", "chandra mahadasha aries 5th", "moon in 5th house aries children", "moon in 5th house aries creativity", "is moon good in 5th house aries", "moon in leo aries ascendant career", "kendra trikona raja yoga moon", "putra raja yoga", "moon 5th house aries prediction", "moon in fifth house mesh lagna", "moon 5th house mesh ascendant", "chandra in mesh lagna 5th", "moon simha lagna mesh chart", "moon 5th house mesh lagna dasha", "chandra mesh lagna creative", "creative mother aries ascendant", "4th lord fifth house aries", "moon raja yoga mesh", "purva punya moon"
+      "moon in 5th house aries lagna",
+      "chandra in 5th house mesh lagna",
+      "moon in leo mesh ascendant",
+      "chandra simha aries lagna",
+      "moon in putra bhava mesh",
+      "moon in 5th house career aries",
+      "moon in leo 5th aries",
+      "chandra putra bhava mesh",
+      "4l in 5h aries lagna raja yoga",
+      "moon in 5th house remedies aries",
+      "pearl for moon 5th aries",
+      "moti mesh lagna 5th",
+      "chandra mahadasha aries 5th",
+      "moon in 5th house aries children",
+      "moon in 5th house aries creativity",
+      "is moon good in 5th house aries",
+      "moon in leo aries ascendant career",
+      "kendra trikona raja yoga moon",
+      "putra raja yoga",
+      "moon 5th house aries prediction",
+      "moon in fifth house mesh lagna",
+      "moon 5th house mesh ascendant",
+      "chandra in mesh lagna 5th",
+      "moon simha lagna mesh chart",
+      "moon 5th house mesh lagna dasha",
+      "chandra mesh lagna creative",
+      "creative mother aries ascendant",
+      "4th lord fifth house aries",
+      "moon raja yoga mesh",
+      "purva punya moon"
     ],
     "questions": [
       "Is Moon in the 5th house good for Mesh Lagna?",
@@ -49,36 +140,130 @@
       "Which gemstone should Mesh Lagna wear for Moon in 5th?"
     ],
     "lingual_variations": {
-      "chandra": ["chandra", "moon", "soma", "shashanka", "indu"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "chandra": [
+        "chandra",
+        "moon",
+        "soma",
+        "shashanka",
+        "indu"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["4L in 5H kendra-to-trikona raja yoga reading", "Children karaka in children house", "Mother as creative muse signature"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "4L in 5H kendra-to-trikona raja yoga reading",
+      "Children karaka in children house",
+      "Mother as creative muse signature"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "moon-5th-house-aries-lagna-hero.webp", "filename_og": "moon-5th-house-aries-lagna-og.png", "alt": "Silver Chandra in the fifth house of a Mesh Lagna kundali in Simha", "caption": "Chandra sits in friendly Simha in the fifth house for Aries ascendant natives, the kendra-to-trikona raja yoga and the creative-mother signature.", "width": 1200, "height": 630, "format": "webp", "style": "luminous silver and gold editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the fifth house glowing silver and gold, a stylised crescent Moon symbol above a small lion silhouette, traditional Vedic palette of silver, gold, deep saffron, refined manuscript style, no people.", "negative_prompt": "photorealistic moon, watermark, text, neon, cartoon" },
-    { "filename": "moon-5th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Moon in the fifth house of Mesh", "caption": "The North Indian birth chart with Chandra marked in Simha on the fifth house Putra Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the lower-left fifth house highlighted in silver-gold with a Chandra symbol marked Ch and small Simha lion glyph, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "moon-5th-house-aries-lagna-pearl.webp", "alt": "Natural saltwater pearl in silver ring, gemstone for Moon 5th house Mesh Lagna", "caption": "Pearl is the primary Chandra ratna and works with high confidence here because the friendly sign and trikona placement together support the gemstone protocol.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural saltwater Basra pearl set in a silver ring, soft cream luminescence, round shape, on dark velvet with cool lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "moon-5th-house-aries-lagna-chandrashekhar.webp", "alt": "Chandrashekhar Ashtakam Sanskrit verse on parchment with crescent moon and trident motif", "caption": "Chandrashekhar Ashtakam recitation strengthens the Chandra channel through Shiva who carries the moon on his head.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Chandrashekhar Ashtakam, hand-painted on aged parchment with gold and silver leaf borders, faint crescent moon and trident motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "moon-5th-house-aries-lagna-hero.webp",
+      "filename_og": "moon-5th-house-aries-lagna-og.png",
+      "alt": "Silver Chandra in the fifth house of a Mesh Lagna kundali in Simha",
+      "caption": "Chandra sits in friendly Simha in the fifth house for Aries ascendant natives, the kendra-to-trikona raja yoga and the creative-mother signature.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "luminous silver and gold editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the fifth house glowing silver and gold, a stylised crescent Moon symbol above a small lion silhouette, traditional Vedic palette of silver, gold, deep saffron, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic moon, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "moon-5th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Moon in the fifth house of Mesh",
+      "caption": "The North Indian birth chart with Chandra marked in Simha on the fifth house Putra Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the lower-left fifth house highlighted in silver-gold with a Chandra symbol marked Ch and small Simha lion glyph, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "moon-5th-house-aries-lagna-pearl.webp",
+      "alt": "Natural saltwater pearl in silver ring, gemstone for Moon 5th house Mesh Lagna",
+      "caption": "Pearl is the primary Chandra ratna and works with high confidence here because the friendly sign and trikona placement together support the gemstone protocol.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural saltwater Basra pearl set in a silver ring, soft cream luminescence, round shape, on dark velvet with cool lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "moon-5th-house-aries-lagna-chandrashekhar.webp",
+      "alt": "Chandrashekhar Ashtakam Sanskrit verse on parchment with crescent moon and trident motif",
+      "caption": "Chandrashekhar Ashtakam recitation strengthens the Chandra channel through Shiva who carries the moon on his head.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Chandrashekhar Ashtakam, hand-painted on aged parchment with gold and silver leaf borders, faint crescent moon and trident motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Moon in the 5th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Chandra in Putra Bhava for Aries ascendant natives. Moon in friendly Simha, the 4L in 5H kendra-to-trikona raja yoga, the children-and-creativity trikona, and the creative-mother signature that defines the inner life.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Chandra", "tone": "teal" },
-      { "label": "Putra Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Friendly Simha" },
-      { "label": "4L in 5H" },
-      { "label": "Kendra trikona yoga" }
+      {
+        "label": "Chandra",
+        "tone": "teal"
+      },
+      {
+        "label": "Putra Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Friendly Simha"
+      },
+      {
+        "label": "4L in 5H"
+      },
+      {
+        "label": "Kendra trikona yoga"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +271,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Chandra", "sub": "Moon", "icon": "sun" },
-        { "label": "Bhava", "value": "5th", "sub": "Putra Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Very strong", "sub": "Kendra-trikona raja yoga", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Chandra",
+          "sub": "Moon",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "5th",
+          "sub": "Putra Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Very strong",
+          "sub": "Kendra-trikona raja yoga",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +310,103 @@
       "heading": "Why kendra-to-trikona raja yoga is one of the cleanest career-and-creativity configurations",
       "html": "<p>Classical Parashari texts treat kendra-to-trikona raja yoga as one of the three cleanest raja yoga configurations in Vedic astrology, because the kendras (1, 4, 7, 10) supply the foundation strength of any chart while the trikonas (1, 5, 9) supply the dharmic blessing. When the lord of a kendra occupies a trikona house (or when the lord of a trikona occupies a kendra), the foundation strength flows into the dharmic blessing or the dharmic blessing flows into the foundation, and the result is a native whose worldly stability and inner orientation become genuinely connected to each other rather than living as separate domains. For Mesh Lagna with Chandra as 4L placed in the 5H, the kendra-to-trikona connection runs from the home and mother angle into the children and creativity trikona, which means the native's emotional foundation literally feeds their creative output and their relationship with their own children.</p><p>The Moon-as-4L specifically deserves attention here because the 4L for Mesh is unusually significant. Chandra rules Karka which falls on the 4th house, and the 4th house is the seat of home, mother, vahana (vehicles), property, education, emotional foundation, and inner contentment. Placing this lord in the 5th house puts the home and mother themes directly into the creativity and children house, and the practical effect is that the mother becomes the formative creative figure of childhood. Mothers of natives with this placement consistently carry their own creative or aesthetic gift (music, art, craft, storytelling, cooking as art form) that the child absorbs as the primary template for what creative life looks like. Many natives with this placement do not realise until well into adulthood that their creative voice was shaped by watching their mother, and the recognition usually arrives during therapy, during the writing of a creative piece, or during their own parenting of small children. The third interpretive layer is the children reading. Putra Bhava literally means the children house, and a friendly Moon here typically supports easy fertility, healthy children, and an unusually warm relationship between the native and their offspring throughout life.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "When the home lord sits in the children trikona of his lord's friend, the chart hands the native a creative voice they did not have to earn. The work is to honour the gift by making something with it that the world has not seen before." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "When the home lord sits in the children trikona of his lord's friend, the chart hands the native a creative voice they did not have to earn. The work is to honour the gift by making something with it that the world has not seen before."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Chandra, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Chandra, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Mind, mother, emotion, fluids" },
-            { "k": "Own sign", "v": "Karka (Cancer)" },
-            { "k": "Uchha (exaltation)", "v": "Vrishabha at 3 degrees", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Vrishchika at 3 degrees", "tone": "bad" },
-            { "k": "Sign state here", "v": "Friendly Simha", "tone": "good" },
-            { "k": "Phase factor", "v": "Shukla strong, Krishna weaker" },
-            { "k": "Friends", "v": "Sun, Mercury" },
-            { "k": "Role for Mesh", "v": "4th lord (Karka)" }
+            {
+              "k": "Karakatva",
+              "v": "Mind, mother, emotion, fluids"
+            },
+            {
+              "k": "Own sign",
+              "v": "Karka (Cancer)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Vrishabha at 3 degrees",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Vrishchika at 3 degrees",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Friendly Simha",
+              "tone": "good"
+            },
+            {
+              "k": "Phase factor",
+              "v": "Shukla strong, Krishna weaker"
+            },
+            {
+              "k": "Friends",
+              "v": "Sun, Mercury"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "4th lord (Karka)"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Putra Bhava, house profile", "subtitle": "5th house significance",
+          "icon": "triangle-house",
+          "title": "Putra Bhava, house profile",
+          "subtitle": "5th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Putra, Vidya, Mantra Bhava" },
-            { "k": "Rules over", "v": "Children, creativity, purva punya, mantra" },
-            { "k": "Natural sign", "v": "Simha (Leo) for Mesh" },
-            { "k": "Natural ruler", "v": "Surya (Sun)" },
-            { "k": "Body part", "v": "Stomach, upper abdomen, mind" },
-            { "k": "Classical nature", "v": "Trikona, dharmic" },
-            { "k": "Vedic quality", "v": "4L in 5H kendra-trikona raja yoga", "tone": "good" },
-            { "k": "Special effect", "v": "Mother becomes creative template", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Putra, Vidya, Mantra Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Children, creativity, purva punya, mantra"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Simha (Leo) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Surya (Sun)"
+            },
+            {
+              "k": "Body part",
+              "v": "Stomach, upper abdomen, mind"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Trikona, dharmic"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "4L in 5H kendra-trikona raja yoga",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Mother becomes creative template",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +448,48 @@
       "heading": "Where the creative-warmth vocation plays out",
       "html": "<p>Career paths cluster around fields where the creative-mother signature can express directly, and the strongest single fit is the performing arts: music, dance, theatre, and live performance work that draws on emotional honesty as the primary craft. Many natives spend years training in a performing arts discipline that the family may or may not have supported, and the discipline becomes the central vocational identity by their late twenties or early thirties. Writing, poetry, and children's literature suit natives whose creative pull is more linguistic, and the placement specifically supports the children's literature niche.</p><p>Early childhood and primary education suit the chart because the 4L Moon karakatva combined with the 5H children house produces a teacher whose mode is emotionally attuned, gentle, and unusually patient. Counselling, child psychology, and family therapy work because the empathetic absorption becomes a clinical tool when channelled through formal training. Hospitality, food, and refined home cooking channel the chart for natives whose creative voice is more sensual than verbal. Mantra teaching and traditional learning round out the list because the 5th house specifically rules mantra siddhi. Chandra mahadasha is when the creative vocation crystallises, often through a child-related event (the birth of the native's own child, a teaching invitation involving children, or a creative project addressed to them) that opens the rest of the working life.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Chandra in Putra Bhava", "subtitle": "Generate your free Kundali to see the kendra-trikona raja yoga in your chart.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Moon marked in the fifth house of Mesh", "planet": "Chandra", "house": 5, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Chandra in Putra Bhava in friendly Simha, marked in luminous silver" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Lower-left diamond is the 5th house of children and creativity" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Chandra in Putra Bhava",
+        "subtitle": "Generate your free Kundali to see the kendra-trikona raja yoga in your chart.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Moon marked in the fifth house of Mesh",
+      "planet": "Chandra",
+      "house": 5,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Chandra in Putra Bhava in friendly Simha, marked in luminous silver"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Lower-left diamond is the 5th house of children and creativity"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The kendra-to-trikona raja yoga and the creative-mother signature",
@@ -194,13 +502,45 @@
       "heading": "When Moon in 5th delivers its Putra Bhava chapter",
       "intro_html": "<p>Chandra mahadasha is the defining window for this placement and arrives with the creative vocation crystallising, often around the birth of the native's own child or a major creative breakthrough.</p>",
       "rows": [
-        { "mahadasha": "Chandra (Moon)", "duration": "10 years", "themes": "The Putra Bhava activation window. Creative vocation crystallises, children arrive, mother themes peak, the kendra-trikona raja yoga delivers its visible result.", "intensity": "Very high", "intensity_bar_width": 95, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord and friend of Moon. Bold creative commitments, decisive parenting steps, the warmth of the chart finds Aries directness.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Lord of the sign Simha and friend of Moon. The placement reaches its fullest expression, public recognition for the creative work, dharmic visibility for the parenting role.", "intensity": "Very high", "intensity_bar_width": 90, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Guru (Jupiter)", "duration": "16 years", "themes": "Friend of Moon and natural karaka of children. Wisdom about the creative path arrives, teaching extension of the original work, the next generation receives the transmission.", "intensity": "Very good", "intensity_bar_width": 85, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Chandra (Moon)",
+          "duration": "10 years",
+          "themes": "The Putra Bhava activation window. Creative vocation crystallises, children arrive, mother themes peak, the kendra-trikona raja yoga delivers its visible result.",
+          "intensity": "Very high",
+          "intensity_bar_width": 95,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord and friend of Moon. Bold creative commitments, decisive parenting steps, the warmth of the chart finds Aries directness.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "Lord of the sign Simha and friend of Moon. The placement reaches its fullest expression, public recognition for the creative work, dharmic visibility for the parenting role.",
+          "intensity": "Very high",
+          "intensity_bar_width": 90,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Guru (Jupiter)",
+          "duration": "16 years",
+          "themes": "Friend of Moon and natural karaka of children. Wisdom about the creative path arrives, teaching extension of the original work, the next generation receives the transmission.",
+          "intensity": "Very good",
+          "intensity_bar_width": 85,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +559,140 @@
       "heading": "Gemstones for Moon in 5th house Mesh Lagna",
       "intro_html": "<p>Pearl is the primary recommendation here because the friendly sign and trikona placement together support the gemstone protocol with high confidence.</p>",
       "cards": [
-        { "name": "Moti (Pearl)", "role": "primary", "sub": "Chandra-strengthening stone for creative Moon", "icon_variant": "pearl", "image_slug": "pearl", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Small finger, right hand" }, { "k": "Day to wear", "v": "Monday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Moonstone (alt)", "role": "secondary", "sub": "Milder Moon-aligned alternative", "icon_variant": "pearl", "image_slug": "pearl", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Small finger" }, { "k": "Day to wear", "v": "Monday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Moti", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Moti (Pearl)",
+          "role": "primary",
+          "sub": "Chandra-strengthening stone for creative Moon",
+          "icon_variant": "pearl",
+          "image_slug": "pearl",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Monday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Moonstone (alt)",
+          "role": "secondary",
+          "sub": "Milder Moon-aligned alternative",
+          "icon_variant": "pearl",
+          "image_slug": "pearl",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Monday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Moti",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Pearl works strongly with the Moon at the trikona, but the paksha reading should be confirmed by a qualified Jyotishi before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Moon in 5th house",
       "intro_html": "<p>The Chandra-aligned rudraksha is the Do Mukhi (Two Mukhi), the bead directly ruled by the Moon and the Shiva-Parvati pair.</p>",
       "beads": [
-        { "mukhi": 2, "name": "Do Mukhi Rudraksha", "sub": "Ruled by Chandra and the Shiva-Parvati pair", "benefit": "The classical Moon rudraksha and the safest daily-wear bead for any Chandra strengthening protocol. Supports the kendra-trikona raja yoga, amplifies the creative-mother signature, and is specifically recommended for natives in performing arts, education, or any creative vocation drawing on emotional honesty." },
-        { "mukhi": 1, "name": "Ek Mukhi Rudraksha", "sub": "Ruled by Surya, the dispositor of Moon here", "benefit": "The Sun bead serves as secondary support for this placement because the dispositor of Moon here is Surya (Sun rules Simha, the sign Moon occupies). Wearing the Ek Mukhi alongside the Do Mukhi compounds the placement's strength by honouring both planet and sign-lord." }
+        {
+          "mukhi": 2,
+          "name": "Do Mukhi Rudraksha",
+          "sub": "Ruled by Chandra and the Shiva-Parvati pair",
+          "benefit": "The classical Moon rudraksha and the safest daily-wear bead for any Chandra strengthening protocol. Supports the kendra-trikona raja yoga, amplifies the creative-mother signature, and is specifically recommended for natives in performing arts, education, or any creative vocation drawing on emotional honesty."
+        },
+        {
+          "mukhi": 1,
+          "name": "Ek Mukhi Rudraksha",
+          "sub": "Ruled by Surya, the dispositor of Moon here",
+          "benefit": "The Sun bead serves as secondary support for this placement because the dispositor of Moon here is Surya (Sun rules Simha, the sign Moon occupies). Wearing the Ek Mukhi alongside the Do Mukhi compounds the placement's strength by honouring both planet and sign-lord."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Chandra Yantra for the creative Moon", "yantra": { "name": "Chandra Yantra", "sanskrit": "चन्द्र यन्त्र", "description": "The Chandra Yantra is the geometric form of the lunar channel. For Moon in the Mesh 5th house install it in the north-west corner of the bedroom, library, or creative practice space, the direction classically assigned to Chandra. Monday at moonrise is the installation window, and the yantra should be consecrated with Chandrashekhar Ashtakam recitation and a milk libation.", "direction": "North-west corner (bedroom or creative space)", "install_day": "Monday at moonrise, Chandra hora preferred", "material": "Silver (copper acceptable)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Chandra in the creativity trikona", "stotra": { "eyebrow": "Chandrashekhar Ashtakam", "title": "Shri Chandrashekhar Ashtakam", "sub": "Eight-verse hymn to Shiva who carries the moon on his head", "verse": "Chandrashekhara chandrashekhara chandrashekhara pahimam<br>Chandrashekhara chandrashekhara chandrashekhara rakshamam<br>Ratna sanu sharasanam rajatadri shringa nikethanam<br>Shinjini krita pannageshvara achyutananam udayinam<br>Chandrashekharam ashraye mama kim karishyati vai yamah", "translation": "Chandrashekhara, Chandrashekhara, Chandrashekhara, protect me. Chandrashekhara, Chandrashekhara, Chandrashekhara, save me. He who holds the gem-mountain bow, who dwells on the silver mountain peak, who has the lord of serpents as bowstring, the imperishable rising one. I take refuge in Chandrashekhara. What can Yama possibly do to me? The Chandrashekhar Ashtakam invokes Shiva as the bearer of the moon and is the perfect daily recitation for a chart where Chandra sits in the creativity trikona and the Shiva-Chandra channel needs strengthening together.", "url": "https://stotra.vastucart.in/stotra/chandrashekhar-ashtakam" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Chandra Yantra for the creative Moon",
+      "yantra": {
+        "name": "Chandra Yantra",
+        "sanskrit": "चन्द्र यन्त्र",
+        "description": "The Chandra Yantra is the geometric form of the lunar channel. For Moon in the Mesh 5th house install it in the north-west corner of the bedroom, library, or creative practice space, the direction classically assigned to Chandra. Monday at moonrise is the installation window, and the yantra should be consecrated with Chandrashekhar Ashtakam recitation and a milk libation.",
+        "direction": "North-west corner (bedroom or creative space)",
+        "install_day": "Monday at moonrise, Chandra hora preferred",
+        "material": "Silver (copper acceptable)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Chandra in the creativity trikona",
+      "stotra": {
+        "eyebrow": "Chandrashekhar Ashtakam",
+        "title": "Shri Chandrashekhar Ashtakam",
+        "sub": "Eight-verse hymn to Shiva who carries the moon on his head",
+        "verse": "Chandrashekhara chandrashekhara chandrashekhara pahimam<br>Chandrashekhara chandrashekhara chandrashekhara rakshamam<br>Ratna sanu sharasanam rajatadri shringa nikethanam<br>Shinjini krita pannageshvara achyutananam udayinam<br>Chandrashekharam ashraye mama kim karishyati vai yamah",
+        "translation": "Chandrashekhara, Chandrashekhara, Chandrashekhara, protect me. Chandrashekhara, Chandrashekhara, Chandrashekhara, save me. He who holds the gem-mountain bow, who dwells on the silver mountain peak, who has the lord of serpents as bowstring, the imperishable rising one. I take refuge in Chandrashekhara. What can Yama possibly do to me? The Chandrashekhar Ashtakam invokes Shiva as the bearer of the moon and is the perfect daily recitation for a chart where Chandra sits in the creativity trikona and the Shiva-Chandra channel needs strengthening together.",
+        "url": "https://stotra.vastucart.in/stotra/chandrashekhar-ashtakam"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +700,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your fifth house Moon and kendra-trikona raja yoga", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Education muhurta", "sub": "Auspicious dates for creative or learning starts", "url": "https://muhurta.vastucart.in/education-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Marriage muhurta", "sub": "Auspicious dates for the lunar partnership", "url": "https://muhurta.vastucart.in/marriage-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Chandrashekhar Ashtakam", "sub": "Hymn to Shiva who carries the moon", "url": "https://stotra.vastucart.in/stotra/chandrashekhar-ashtakam", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Chandra Sahasranama", "sub": "Thousand names of Chandra", "url": "https://stotra.vastucart.in/stotra/chandra-sahasranama", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Chandra Stotra", "sub": "Classical lunar invocation", "url": "https://stotra.vastucart.in/stotra/chandra-stotra", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Soma Suktam", "sub": "Vedic hymn to the lunar nectar deity", "url": "https://stotra.vastucart.in/stotra/soma-suktam", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Annapurna Stotram", "sub": "Mother of nourishment hymn", "url": "https://stotra.vastucart.in/stotra/annapurna-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Pearl and Moti source", "sub": "Certified Chandra gemstone", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Chandra yantra store", "sub": "Silver Chandra yantra for the bedroom", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Kendra-trikona analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your fifth house Moon and kendra-trikona raja yoga",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Education muhurta",
+            "sub": "Auspicious dates for creative or learning starts",
+            "url": "https://muhurta.vastucart.in/education-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Marriage muhurta",
+            "sub": "Auspicious dates for the lunar partnership",
+            "url": "https://muhurta.vastucart.in/marriage-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Chandrashekhar Ashtakam",
+            "sub": "Hymn to Shiva who carries the moon",
+            "url": "https://stotra.vastucart.in/stotra/chandrashekhar-ashtakam",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Chandra Sahasranama",
+            "sub": "Thousand names of Chandra",
+            "url": "https://stotra.vastucart.in/stotra/chandra-sahasranama",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Chandra Stotra",
+            "sub": "Classical lunar invocation",
+            "url": "https://stotra.vastucart.in/stotra/chandra-stotra",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Soma Suktam",
+            "sub": "Vedic hymn to the lunar nectar deity",
+            "url": "https://stotra.vastucart.in/stotra/soma-suktam",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Annapurna Stotram",
+            "sub": "Mother of nourishment hymn",
+            "url": "https://stotra.vastucart.in/stotra/annapurna-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Pearl and Moti source",
+            "sub": "Certified Chandra gemstone",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Chandra yantra store",
+            "sub": "Silver Chandra yantra for the bedroom",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Kendra-trikona analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +800,130 @@
         "title": "Is your Putra Bhava Moon carrying the kendra-trikona raja yoga?",
         "subtitle": "Get a full personalised analysis of your fifth house Chandra, the creative-mother signature, and the children timing.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Chandrashekhar Ashtakam", "url": "https://stotra.vastucart.in/stotra/chandrashekhar-ashtakam", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Chandrashekhar Ashtakam",
+            "url": "https://stotra.vastucart.in/stotra/chandrashekhar-ashtakam",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Moon in 5th house, Mesh Lagna",
       "items": [
-        { "q": "Is Moon in the 5th house good for Mesh Lagna?", "a": "Yes, and structurally it is one of the strongest Moon placements in the Aries ascendant catalogue. Three structural strengths converge: the friendly Simha sign supports the lunar warmth (Sun and Moon are classical friends), the 5th house is the trikona of children and creativity which aligns with the Moon's nourishing karakatvas, and Chandra is the 4L for Mesh which makes this a 4L-in-5H kendra-to-trikona raja yoga that classical texts treat as one of the cleanest career-and-creativity configurations. The result is a native whose home life feeds their creative output naturally and whose creative work draws on emotional honesty as the primary craft." },
-        { "q": "What is the 4L in 5H kendra-trikona raja yoga?", "a": "Classical Parashari texts treat kendra-to-trikona raja yoga as one of the three cleanest raja yoga configurations. When the lord of a kendra (1, 4, 7, 10) occupies a trikona house (1, 5, 9), the foundation strength flows into the dharmic blessing, and the result is a native whose worldly stability and inner orientation become genuinely connected. For Mesh Lagna with Moon as 4L placed in the 5H, the home and mother angle flows into the creativity and children trikona, producing the integrated creative life the placement is famous for." },
-        { "q": "Does Moon in 5th house bring children easily?", "a": "Generally yes, with the qualification that the fuller chart (5L placement, paksha reading, 5th house aspect from other planets) determines the timing and the count. The friendly Moon in Putra Bhava typically supports easy fertility, healthy births, and an unusually warm parent-child relationship throughout life. Most natives with this placement either become parents earlier than peers or build deep parental relationships even when their own biological children arrive late. The shadow side is the emotional intensity, because any difficulty involving children hits with unusual force when the creative-emotional centre of the chart is wired through the children house." },
-        { "q": "How does Moon in friendly Simha shape the creative life?", "a": "Simha is Sun's sign and adds golden warmth and confident expression to the otherwise cool lunar base. The combination produces a native whose creative voice is both emotionally honest (Moon) and naturally confident enough to share the work with others (Simha). Many natives with this placement do not need to manufacture creative confidence the way other charts do, they carry it from childhood, and the work they produce typically has both genuine feeling and a quality of self-possession that allows it to be heard. The friendly Moon in friendly territory delivers Chandra at clean functional output without internal friction." },
-        { "q": "Which gemstone should Mesh Lagna wear for Moon in 5th?", "a": "Pearl (Moti) is the primary gemstone and is recommended with high confidence here because the friendly sign and trikona placement together support the gemstone protocol cleanly. Wear a natural Basra or saltwater pearl of minimum five ratti set in silver on the small finger of the right hand on a Monday at sunrise after Chandra mantra recitation. The placement reading should still be confirmed against the lunar phase at birth, because shukla paksha natives typically need lighter gemstone work while krishna paksha natives need stronger compensation. Always consult a practising Jyotishi before permanent wearing." }
+        {
+          "q": "Is Moon in the 5th house good for Mesh Lagna?",
+          "a": "Yes, and structurally it is one of the strongest Moon placements in the Aries ascendant catalogue. Three structural strengths converge: the friendly Simha sign supports the lunar warmth (Sun and Moon are classical friends), the 5th house is the trikona of children and creativity which aligns with the Moon's nourishing karakatvas, and Chandra is the 4L for Mesh which makes this a 4L-in-5H kendra-to-trikona raja yoga that classical texts treat as one of the cleanest career-and-creativity configurations. The result is a native whose home life feeds their creative output naturally and whose creative work draws on emotional honesty as the primary craft."
+        },
+        {
+          "q": "What is the 4L in 5H kendra-trikona raja yoga?",
+          "a": "Classical Parashari texts treat kendra-to-trikona raja yoga as one of the three cleanest raja yoga configurations. When the lord of a kendra (1, 4, 7, 10) occupies a trikona house (1, 5, 9), the foundation strength flows into the dharmic blessing, and the result is a native whose worldly stability and inner orientation become genuinely connected. For Mesh Lagna with Moon as 4L placed in the 5H, the home and mother angle flows into the creativity and children trikona, producing the integrated creative life the placement is famous for."
+        },
+        {
+          "q": "Does Moon in 5th house bring children easily?",
+          "a": "Generally yes, with the qualification that the fuller chart (5L placement, paksha reading, 5th house aspect from other planets) determines the timing and the count. The friendly Moon in Putra Bhava typically supports easy fertility, healthy births, and an unusually warm parent-child relationship throughout life. Most natives with this placement either become parents earlier than peers or build deep parental relationships even when their own biological children arrive late. The shadow side is the emotional intensity, because any difficulty involving children hits with unusual force when the creative-emotional centre of the chart is wired through the children house."
+        },
+        {
+          "q": "How does Moon in friendly Simha shape the creative life?",
+          "a": "Simha is Sun's sign and adds golden warmth and confident expression to the otherwise cool lunar base. The combination produces a native whose creative voice is both emotionally honest (Moon) and naturally confident enough to share the work with others (Simha). Many natives with this placement do not need to manufacture creative confidence the way other charts do, they carry it from childhood, and the work they produce typically has both genuine feeling and a quality of self-possession that allows it to be heard. The friendly Moon in friendly territory delivers Chandra at clean functional output without internal friction."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Moon in 5th?",
+          "a": "Pearl (Moti) is the primary gemstone and is recommended with high confidence here because the friendly sign and trikona placement together support the gemstone protocol cleanly. Wear a natural Basra or saltwater pearl of minimum five ratti set in silver on the small finger of the right hand on a Monday at sunrise after Chandra mantra recitation. The placement reading should still be confirmed against the lunar phase at birth, because shukla paksha natives typically need lighter gemstone work while krishna paksha natives need stronger compensation. Always consult a practising Jyotishi before permanent wearing."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Raja yoga reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Chandra in the fourth, swakshetra Karka", "sub": "Moon own sign in the home angle, the deepest 4L expression", "href": "/jyotish/graha-in-bhava/moon-4th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Chandra at the lagna in friendly Mesha", "sub": "Moon in the first house, the body-as-vessel contrast", "href": "/jyotish/graha-in-bhava/moon-1st-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Surya in the fifth, swakshetra Simha", "sub": "Sun own sign in the same trikona, the creative authority parallel", "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Chandra in the fourth, swakshetra Karka",
+          "sub": "Moon own sign in the home angle, the deepest 4L expression",
+          "href": "/jyotish/graha-in-bhava/moon-4th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Chandra at the lagna in friendly Mesha",
+          "sub": "Moon in the first house, the body-as-vessel contrast",
+          "href": "/jyotish/graha-in-bhava/moon-1st-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Surya in the fifth, swakshetra Simha",
+          "sub": "Sun own sign in the same trikona, the creative authority parallel",
+          "href": "/jyotish/graha-in-bhava/sun-5th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }

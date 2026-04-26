@@ -6,40 +6,131 @@
   "category": "jyotish",
   "subcategory": "graha-in-bhava",
   "template": "planet-in-house",
-  "author_id": "pt-raghav-sharma",
+  "author_id": "vastucart-editorial",
   "reading_time_minutes": 12,
   "status": "ready",
   "published_at": "2026-04-14T00:00:00.000Z",
   "updated_at": "2026-04-14T00:00:00.000Z",
-  "tags": ["Ketu in 4th house", "Ketu Karka", "Mesh Lagna", "Aries ascendant", "Sukha Bhava", "south node mother", "mother detachment", "Ketu mahadasha", "Pt Raghav Sharma", "graha in bhava"],
+  "tags": [
+    "Ketu in 4th house",
+    "Ketu Karka",
+    "Mesh Lagna",
+    "Aries ascendant",
+    "Sukha Bhava",
+    "south node mother",
+    "mother detachment",
+    "Ketu mahadasha",
+    "graha in bhava"
+  ],
   "planet_id": "ketu",
   "house_number": 4,
   "lagna_id": "mesha",
   "meta": {
     "title": "Ketu in 4th House Mesh Lagna, Mother Detachment Nuance",
-    "description": "Ketu in 4th house for Mesh Lagna, the south node in Karka, mother-detachment pedagogy read by Pt. Raghav Sharma.",
+    "description": "Ketu in 4th house for Mesh Lagna, the south node in Karka, mother-detachment pedagogy by VastuCart Editorial.",
     "focus_keyword": "Ketu in 4th house",
-    "secondary_keywords": ["Mesh Lagna", "Sukha Bhava", "Ketu Karka", "Aries ascendant", "Ketu mother"],
-    "lsi_keywords": ["sukha bhava", "ketu karka", "south node cancer", "ketu in mother house", "ketu mahadasha", "cats eye lehsunia", "mother detachment pedagogy", "home dissatisfaction", "inherited moksha", "ketu 10h aspect"],
-    "keywords": ["Ketu in 4th house Mesh Lagna", "Ketu in Sukha Bhava", "Ketu in Cancer", "Mesh lagna 4th Ketu", "Vedic astrology"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Sukha Bhava",
+      "Ketu Karka",
+      "Aries ascendant",
+      "Ketu mother"
+    ],
+    "lsi_keywords": [
+      "sukha bhava",
+      "ketu karka",
+      "south node cancer",
+      "ketu in mother house",
+      "ketu mahadasha",
+      "cats eye lehsunia",
+      "mother detachment pedagogy",
+      "home dissatisfaction",
+      "inherited moksha",
+      "ketu 10h aspect"
+    ],
+    "keywords": [
+      "Ketu in 4th house Mesh Lagna",
+      "Ketu in Sukha Bhava",
+      "Ketu in Cancer",
+      "Mesh lagna 4th Ketu",
+      "Vedic astrology"
+    ],
     "og_title": "Ketu in the 4th House of Mesh Lagna, Mother Detachment Pedagogy",
     "og_description": "Ketu in Karka in the mother and home angle for Aries natives, read with practitioner nuance.",
     "og_image": "/og/ketu-4th-house-aries-lagna.png",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/ketu-4th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Ketu in 4th House, Mesh Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/ketu-4th-house-aries-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Ketu in 4th House, Mesh Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/ketu-4th-house-aries-lagna"
+      }
     ]
   },
   "keyword_brief": {
     "focus_keyword": "Ketu in 4th house",
-    "secondary_keywords": ["Mesh Lagna", "Sukha Bhava", "Ketu Karka", "Aries ascendant", "Ketu mother"],
-    "lsi_terms": ["sukha bhava", "ketu karka", "south node cancer", "ketu in mother house", "ketu mahadasha", "cats eye lehsunia", "mother detachment", "home dissatisfaction", "inherited moksha", "ketu 10h aspect"],
+    "secondary_keywords": [
+      "Mesh Lagna",
+      "Sukha Bhava",
+      "Ketu Karka",
+      "Aries ascendant",
+      "Ketu mother"
+    ],
+    "lsi_terms": [
+      "sukha bhava",
+      "ketu karka",
+      "south node cancer",
+      "ketu in mother house",
+      "ketu mahadasha",
+      "cats eye lehsunia",
+      "mother detachment",
+      "home dissatisfaction",
+      "inherited moksha",
+      "ketu 10h aspect"
+    ],
     "seed_queries": [
-      "ketu in 4th house aries lagna", "ketu in 4th house mesh lagna", "ketu in cancer mesh ascendant", "ketu karka aries lagna", "ketu in sukha bhava mesh", "ketu in 4th house mother aries", "ketu in cancer 4th aries", "ketu sukha bhava effects", "south node 4th house aries", "ketu in 4th house remedies aries", "cats eye for ketu 4th aries", "lehsunia mesh lagna 4th", "ketu mahadasha aries 4th", "ketu in 4th house aries home", "ketu in 4th house aries inheritance", "is ketu bad in 4th house aries", "ketu in cancer aries ascendant career", "ketu mother detachment", "ketu home dissatisfaction", "ketu 4th house aries prediction", "ketu in fourth house mesh lagna", "ketu 4th house mesh ascendant", "south node in mesh lagna 4th", "ketu karka lagna mesh chart", "ketu 4th house mesh lagna dasha", "ketu mesh lagna mother", "ketu 10th aspect career", "inherited moksha pedagogy", "ketu pitru dosha matru", "ketu mother past karma"
+      "ketu in 4th house aries lagna",
+      "ketu in 4th house mesh lagna",
+      "ketu in cancer mesh ascendant",
+      "ketu karka aries lagna",
+      "ketu in sukha bhava mesh",
+      "ketu in 4th house mother aries",
+      "ketu in cancer 4th aries",
+      "ketu sukha bhava effects",
+      "south node 4th house aries",
+      "ketu in 4th house remedies aries",
+      "cats eye for ketu 4th aries",
+      "lehsunia mesh lagna 4th",
+      "ketu mahadasha aries 4th",
+      "ketu in 4th house aries home",
+      "ketu in 4th house aries inheritance",
+      "is ketu bad in 4th house aries",
+      "ketu in cancer aries ascendant career",
+      "ketu mother detachment",
+      "ketu home dissatisfaction",
+      "ketu 4th house aries prediction",
+      "ketu in fourth house mesh lagna",
+      "ketu 4th house mesh ascendant",
+      "south node in mesh lagna 4th",
+      "ketu karka lagna mesh chart",
+      "ketu 4th house mesh lagna dasha",
+      "ketu mesh lagna mother",
+      "ketu 10th aspect career",
+      "inherited moksha pedagogy",
+      "ketu pitru dosha matru",
+      "ketu mother past karma"
     ],
     "questions": [
       "Is Ketu in the 4th house bad for Mesh Lagna?",
@@ -49,36 +140,129 @@
       "Which gemstone should Mesh Lagna wear for Ketu in 4th?"
     ],
     "lingual_variations": {
-      "ketu": ["ketu", "south node", "shikhi", "dhwajagra"],
-      "mesh": ["mesh", "mesha", "aries", "mesh lagna", "aries ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "ketu": [
+        "ketu",
+        "south node",
+        "shikhi",
+        "dhwajagra"
+      ],
+      "mesh": [
+        "mesh",
+        "mesha",
+        "aries",
+        "mesh lagna",
+        "aries ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
-    "content_gaps": ["Ketu 4th without fear-mongering", "Mother detachment distinct from Rahu 4th restlessness", "Inherited-moksha pedagogy reading"],
-    "density_targets": { "focus_min": 0.005, "focus_max": 0.012, "secondary_min": 0.002, "secondary_max": 0.005 }
+    "content_gaps": [
+      "Ketu 4th without fear-mongering",
+      "Mother detachment distinct from Rahu 4th restlessness",
+      "Inherited-moksha pedagogy reading"
+    ],
+    "density_targets": {
+      "focus_min": 0.005,
+      "focus_max": 0.012,
+      "secondary_min": 0.002,
+      "secondary_max": 0.005
+    }
   },
   "image_manifest": [
-    { "filename": "ketu-4th-house-aries-lagna-hero.webp", "filename_og": "ketu-4th-house-aries-lagna-og.png", "alt": "Smoky Ketu in the fourth house of a Mesh Lagna kundali in Karka", "caption": "Ketu sits in Karka in the fourth house for Aries ascendant natives, the mother and home angle read as the quiet counterpart to the Rahu 4th restlessness.", "width": 1200, "height": 630, "format": "webp", "style": "smoky violet-pale-silver editorial illustration", "generation_prompt": "An editorial illustration of a North Indian kundali with the fourth house glowing smoky violet with pale silver, a stylised flag-on-staff Ketu glyph above a small lotus and crab silhouette, traditional Vedic palette of smoke grey, violet, pale silver, refined manuscript style, no people.", "negative_prompt": "photorealistic ketu, watermark, text, neon, cartoon" },
-    { "filename": "ketu-4th-house-aries-lagna-north-indian-kundali.webp", "alt": "North Indian kundali chart highlighting Ketu in the fourth house of Mesh in Karka", "caption": "The North Indian birth chart with Ketu marked in Karka on the fourth house Sukha Bhava of Mesh Lagna.", "width": 1024, "height": 1024, "format": "webp", "style": "clean diagrammatic chart on cream parchment", "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the lower-central fourth house highlighted in smoky violet with a Ketu flag glyph marked Ke, refined editorial diagram style.", "negative_prompt": "south indian chart, watermark" },
-    { "filename": "ketu-4th-house-aries-lagna-cats-eye.webp", "alt": "Natural chrysoberyl cat's eye in silver ring, gemstone for Ketu 4th house Mesh Lagna", "caption": "Cat's eye is the primary Ketu ratna and is recommended only after careful chart confirmation because the mother and home angle is especially sensitive to amplification.", "width": 1024, "height": 768, "format": "webp", "style": "macro product photograph on dark velvet", "generation_prompt": "A macro photograph of a natural chrysoberyl cat's eye gemstone set in a silver ring, honey-yellow with bright white chatoyancy band, on dark velvet with low lighting, jewellery editorial photography, no hands.", "negative_prompt": "synthetic, plastic, watermark, hand, model" },
-    { "filename": "ketu-4th-house-aries-lagna-ketu-stotram.webp", "alt": "Ketu Stotram Sanskrit verse on parchment with flag and serpent motif", "caption": "Ketu Stotram recitation strengthens the south node channel through the classical hymn to the shadow planet.", "width": 1024, "height": 768, "format": "webp", "style": "illuminated Sanskrit manuscript on parchment", "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Ketu Stotram, hand-painted on aged parchment with gold leaf borders, faint flag and serpent motifs, refined editorial illustration, no people.", "negative_prompt": "english text, photo, watermark, cartoon" }
+    {
+      "filename": "ketu-4th-house-aries-lagna-hero.webp",
+      "filename_og": "ketu-4th-house-aries-lagna-og.png",
+      "alt": "Smoky Ketu in the fourth house of a Mesh Lagna kundali in Karka",
+      "caption": "Ketu sits in Karka in the fourth house for Aries ascendant natives, the mother and home angle read as the quiet counterpart to the Rahu 4th restlessness.",
+      "width": 1200,
+      "height": 630,
+      "format": "webp",
+      "style": "smoky violet-pale-silver editorial illustration",
+      "generation_prompt": "An editorial illustration of a North Indian kundali with the fourth house glowing smoky violet with pale silver, a stylised flag-on-staff Ketu glyph above a small lotus and crab silhouette, traditional Vedic palette of smoke grey, violet, pale silver, refined manuscript style, no people.",
+      "negative_prompt": "photorealistic ketu, watermark, text, neon, cartoon"
+    },
+    {
+      "filename": "ketu-4th-house-aries-lagna-north-indian-kundali.webp",
+      "alt": "North Indian kundali chart highlighting Ketu in the fourth house of Mesh in Karka",
+      "caption": "The North Indian birth chart with Ketu marked in Karka on the fourth house Sukha Bhava of Mesh Lagna.",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp",
+      "style": "clean diagrammatic chart on cream parchment",
+      "generation_prompt": "A precise North Indian kundali diagram on cream parchment, twelve diamond houses with Sanskrit numerals, the lower-central fourth house highlighted in smoky violet with a Ketu flag glyph marked Ke, refined editorial diagram style.",
+      "negative_prompt": "south indian chart, watermark"
+    },
+    {
+      "filename": "ketu-4th-house-aries-lagna-cats-eye.webp",
+      "alt": "Natural chrysoberyl cat's eye in silver ring, gemstone for Ketu 4th house Mesh Lagna",
+      "caption": "Cat's eye is the primary Ketu ratna and is recommended only after careful chart confirmation because the mother and home angle is especially sensitive to amplification.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "macro product photograph on dark velvet",
+      "generation_prompt": "A macro photograph of a natural chrysoberyl cat's eye gemstone set in a silver ring, honey-yellow with bright white chatoyancy band, on dark velvet with low lighting, jewellery editorial photography, no hands.",
+      "negative_prompt": "synthetic, plastic, watermark, hand, model"
+    },
+    {
+      "filename": "ketu-4th-house-aries-lagna-ketu-stotram.webp",
+      "alt": "Ketu Stotram Sanskrit verse on parchment with flag and serpent motif",
+      "caption": "Ketu Stotram recitation strengthens the south node channel through the classical hymn to the shadow planet.",
+      "width": 1024,
+      "height": 768,
+      "format": "webp",
+      "style": "illuminated Sanskrit manuscript on parchment",
+      "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Ketu Stotram, hand-painted on aged parchment with gold leaf borders, faint flag and serpent motifs, refined editorial illustration, no people.",
+      "negative_prompt": "english text, photo, watermark, cartoon"
+    }
   ],
   "hero": {
     "badge_label": "Vedic Astrology, Deep Study",
     "title_html": "Ketu in the 4th house<br><em>Mesh Lagna</em> (Aries Ascendant)",
     "description": "A practitioner study of Ketu in Sukha Bhava for Aries ascendant natives. The south node in Karka in the mother and home angle, the detachment pedagogy read as the quiet mirror of Rahu in the same house, and the inherited-moksha signature that shapes the inner domestic life.",
     "meta": [
-      { "icon": "clock", "value": "12 min read" },
-      { "icon": "check-circle", "value": "Expert verified" },
-      { "icon": "user", "value": "Pt. Raghav Sharma" },
-      { "icon": "calendar", "value": "Updated April 2026" }
+      {
+        "icon": "clock",
+        "value": "12 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated April 2026"
+      }
     ],
     "tags": [
-      { "label": "Ketu", "tone": "teal" },
-      { "label": "Sukha Bhava", "tone": "teal" },
-      { "label": "Mesh Lagna", "tone": "teal" },
-      { "label": "Karka" },
-      { "label": "Mother detachment" },
-      { "label": "Inherited moksha" }
+      {
+        "label": "Ketu",
+        "tone": "teal"
+      },
+      {
+        "label": "Sukha Bhava",
+        "tone": "teal"
+      },
+      {
+        "label": "Mesh Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Karka"
+      },
+      {
+        "label": "Mother detachment"
+      },
+      {
+        "label": "Inherited moksha"
+      }
     ]
   },
   "schema": {},
@@ -86,10 +270,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Ketu", "sub": "South node", "icon": "sun" },
-        { "label": "Bhava", "value": "4th", "sub": "Sukha Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Mesh", "sub": "Aries ascendant", "icon": "mars" },
-        { "label": "Strength", "value": "Mystical", "sub": "Quiet detachment", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Ketu",
+          "sub": "South node",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "4th",
+          "sub": "Sukha Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Mesh",
+          "sub": "Aries ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Strength",
+          "value": "Mystical",
+          "sub": "Quiet detachment",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -104,39 +309,102 @@
       "heading": "Why Ketu 4th and Rahu 4th are mirror images of the same pedagogy",
       "html": "<p>The clearest way to understand Ketu in 4th of Mesh is to read it alongside its mirror placement, Rahu in the same house. Both nodal placements in the mother and home angle produce structural tension around the 4th house themes, but they work in opposite directions and ask the native for opposite practices. Rahu in 4th produces restlessness, physical movement, and the foreign-home signature where the native keeps searching for the right place and eventually finds it through an unexpected relocation. Ketu in 4th produces stillness, inner dissatisfaction, and the detachment signature where the native has a home and a mother but never quite feels the 4th house themes as deeply as peers describe them. Rahu's pedagogy is movement. Ketu's pedagogy is acceptance. Rahu's native grieves the version of home that never arrived. Ketu's native grieves the version of home they had but could not quite receive.</p><p>The mother-detachment reading is the second specific feature practitioners need to describe in consultation because natives often arrive carrying confusion about their own emotional response to the mother. They love the mother. They know the mother loves them. But the emotional transmission never quite lands the way it does for siblings or peers, and the native often feels guilty for the gap without understanding why the gap is there. The reading is that the south node signifies karma the native has already mostly completed with the mother in previous lives, and the current incarnation involves receiving the mother's care without needing the emotional bond to develop the same intensity other natives experience. The pattern is not rejection and it is not failure. It is structural completion, and natives who understand this can love their mother freely without the guilt of feeling less close than they think they should. The third interpretive layer is the 10th house aspect. From the 4th, Ketu casts his full 10th aspect to the 10th house career angle. The aspect brings the detachment signature into the career and produces the specific vocational pattern where the native works well and achieves recognition but never quite feels the career as their personal ambition. Many natives with this placement describe their career as something they do because they are good at it rather than because it defines them.</p>"
     },
-    { "type": "pull-quote", "variant": "saffron", "text": "Ketu in the mother house is a soul that arrived having already received what the mother was going to give across many lifetimes. The work is to let the love happen now without forcing the inherited intimacy to match the depth peers describe." },
+    {
+      "type": "pull-quote",
+      "variant": "saffron",
+      "text": "Ketu in the mother house is a soul that arrived having already received what the mother was going to give across many lifetimes. The work is to let the love happen now without forcing the inherited intimacy to match the depth peers describe."
+    },
     {
       "type": "info-grid",
       "cards": [
         {
-          "icon": "sun", "title": "Ketu, planet profile", "subtitle": "Key attributes for this placement",
+          "icon": "sun",
+          "title": "Ketu, planet profile",
+          "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Moksha, detachment, past karma" },
-            { "k": "Own sign", "v": "None (shadow planet)" },
-            { "k": "Uchha (exaltation)", "v": "Vrishchika (some traditions)", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Vrishabha (some traditions)", "tone": "bad" },
-            { "k": "Sign state here", "v": "Karka, friction with Chandra" },
-            { "k": "Friends", "v": "Mars, Venus, Saturn" },
-            { "k": "Element", "v": "Fire (shadow)" },
-            { "k": "Role for Mesh", "v": "No house lordship (shadow)" }
+            {
+              "k": "Karakatva",
+              "v": "Moksha, detachment, past karma"
+            },
+            {
+              "k": "Own sign",
+              "v": "None (shadow planet)"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Vrishchika (some traditions)",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Vrishabha (some traditions)",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Karka, friction with Chandra"
+            },
+            {
+              "k": "Friends",
+              "v": "Mars, Venus, Saturn"
+            },
+            {
+              "k": "Element",
+              "v": "Fire (shadow)"
+            },
+            {
+              "k": "Role for Mesh",
+              "v": "No house lordship (shadow)"
+            }
           ]
         },
         {
-          "icon": "triangle-house", "title": "Sukha Bhava, house profile", "subtitle": "4th house significance",
+          "icon": "triangle-house",
+          "title": "Sukha Bhava, house profile",
+          "subtitle": "4th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Sukha, Bandhu Bhava" },
-            { "k": "Rules over", "v": "Home, mother, vehicles, education, contentment" },
-            { "k": "Natural sign", "v": "Karka (Cancer) for Mesh" },
-            { "k": "Natural ruler", "v": "Chandra (Moon)" },
-            { "k": "Body part", "v": "Chest, heart, lungs" },
-            { "k": "Classical nature", "v": "Kendra" },
-            { "k": "Vedic quality", "v": "10H aspect carries detachment to career", "tone": "good" },
-            { "k": "Special effect", "v": "Inherited moksha pedagogy", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Sukha, Bandhu Bhava"
+            },
+            {
+              "k": "Rules over",
+              "v": "Home, mother, vehicles, education, contentment"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Karka (Cancer) for Mesh"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Chandra (Moon)"
+            },
+            {
+              "k": "Body part",
+              "v": "Chest, heart, lungs"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Kendra"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "10H aspect carries detachment to career",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Inherited moksha pedagogy",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Body and temperament",
@@ -178,10 +446,48 @@
       "heading": "Where the detachment-carried-to-career vocation plays out",
       "html": "<p>Career paths cluster around fields that reward the quiet self-containment the placement produces. Research, mathematics, and independent scholarship are the strongest single fit. Many natives spend their working life in research roles where the work is solitary and the depth of focus is the primary requirement. They often become the quiet expert colleagues trust precisely because there is no obvious agenda. Hospice, palliative care, and end-of-life services are specific medical fits because the placement gives the native unusual capacity to be present with transition themes.</p><p>Backend technology and quiet infrastructure work suit the chart because the native's natural mode is to do significant work behind the scenes without needing public visibility. Contemplative writing and solitary creative practice fit natives whose vocational pull is more literary, and the placement supports forms produced in extended solitude. Teaching, especially one-on-one mentorship, suits the chart. Archival, library, and preservation work round out the list because detachment and patience together are specifically valuable for long-horizon custodianship. Ketu mahadasha is when the vocational direction crystallises, often through a sudden shift away from a more public career toward the quieter work the chart has been pulling the native toward.</p>"
     },
-    { "type": "cta-inline", "data": { "title": "Check your Ketu in Sukha Bhava placement", "subtitle": "Generate your free Kundali to see whether your south node sits in the mother house.", "button_label": "Get free Kundali", "button_url": "https://www.vastucart.in/tools/kundli", "button_variant": "saffron" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "kundali-visual", "eyebrow": "Kundali visual", "heading": "Ketu marked in the fourth house of Mesh", "planet": "Ketu", "house": 4, "lagna": "Mesh", "legend": [ { "color": "saffron", "text": "Ketu in Sukha Bhava in Karka, marked in smoky violet" }, { "color": "white", "text": "12 houses in North Indian format" }, { "color": "teal", "text": "Lower-central diamond is the 4th house of home" } ], "cta_label": "Get your free Kundali", "cta_url": "https://www.vastucart.in/tools/kundli" },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Check your Ketu in Sukha Bhava placement",
+        "subtitle": "Generate your free Kundali to see whether your south node sits in the mother house.",
+        "button_label": "Get free Kundali",
+        "button_url": "https://www.vastucart.in/tools/kundli",
+        "button_variant": "saffron"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "kundali-visual",
+      "eyebrow": "Kundali visual",
+      "heading": "Ketu marked in the fourth house of Mesh",
+      "planet": "Ketu",
+      "house": 4,
+      "lagna": "Mesh",
+      "legend": [
+        {
+          "color": "saffron",
+          "text": "Ketu in Sukha Bhava in Karka, marked in smoky violet"
+        },
+        {
+          "color": "white",
+          "text": "12 houses in North Indian format"
+        },
+        {
+          "color": "teal",
+          "text": "Lower-central diamond is the 4th house of home"
+        }
+      ],
+      "cta_label": "Get your free Kundali",
+      "cta_url": "https://www.vastucart.in/tools/kundli"
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The inherited-moksha pedagogy and the Rahu-Ketu contrast",
@@ -194,13 +500,45 @@
       "heading": "When Ketu in 4th delivers its Sukha Bhava chapter",
       "intro_html": "<p>Ketu mahadasha is the defining window for this placement and arrives with the acceptance of the mother and home pattern and the vocational shift toward quieter work the chart has been preparing.</p>",
       "rows": [
-        { "mahadasha": "Ketu (South Node)", "duration": "7 years", "themes": "The Sukha Bhava activation window. Mother themes reach resolution, home situation stabilises into its sustainable form, vocational shift toward quieter work crystallises, the inner sense of belonging settles.", "intensity": "Very high", "intensity_bar_width": 92, "intensity_bar_color": "#e8840a", "highlight": true },
-        { "mahadasha": "Shukra (Venus)", "duration": "20 years", "themes": "Friendly to Ketu in classical texts. Refined partnership stabilises alongside the accepted home pattern, marriage offers the intimacy the mother relationship could not provide.", "intensity": "Good", "intensity_bar_width": 78, "intensity_bar_color": "#c94444" },
-        { "mahadasha": "Surya (Sun)", "duration": "6 years", "themes": "Fifth lord. Creative recognition through the solitary work, dharmic visibility for the detachment-based vocation, fatherly figures support the quieter path.", "intensity": "Moderate", "intensity_bar_width": 65, "intensity_bar_color": "#f4b942" },
-        { "mahadasha": "Mangal (Mars)", "duration": "7 years", "themes": "Lagna lord and shares martial nature with Ketu. The window where the native's warrior energy either integrates with the detachment or produces friction around home and career.", "intensity": "Good", "intensity_bar_width": 75, "intensity_bar_color": "#338a95" }
+        {
+          "mahadasha": "Ketu (South Node)",
+          "duration": "7 years",
+          "themes": "The Sukha Bhava activation window. Mother themes reach resolution, home situation stabilises into its sustainable form, vocational shift toward quieter work crystallises, the inner sense of belonging settles.",
+          "intensity": "Very high",
+          "intensity_bar_width": 92,
+          "intensity_bar_color": "#e8840a",
+          "highlight": true
+        },
+        {
+          "mahadasha": "Shukra (Venus)",
+          "duration": "20 years",
+          "themes": "Friendly to Ketu in classical texts. Refined partnership stabilises alongside the accepted home pattern, marriage offers the intimacy the mother relationship could not provide.",
+          "intensity": "Good",
+          "intensity_bar_width": 78,
+          "intensity_bar_color": "#c94444"
+        },
+        {
+          "mahadasha": "Surya (Sun)",
+          "duration": "6 years",
+          "themes": "Fifth lord. Creative recognition through the solitary work, dharmic visibility for the detachment-based vocation, fatherly figures support the quieter path.",
+          "intensity": "Moderate",
+          "intensity_bar_width": 65,
+          "intensity_bar_color": "#f4b942"
+        },
+        {
+          "mahadasha": "Mangal (Mars)",
+          "duration": "7 years",
+          "themes": "Lagna lord and shares martial nature with Ketu. The window where the native's warrior energy either integrates with the detachment or produces friction around home and career.",
+          "intensity": "Good",
+          "intensity_bar_width": 75,
+          "intensity_bar_color": "#338a95"
+        }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -219,29 +557,140 @@
       "heading": "Gemstones for Ketu in 4th house Mesh Lagna",
       "intro_html": "<p>Cat's eye is the primary Ketu gemstone but is recommended only after careful chart confirmation because the mother house is especially sensitive to amplification.</p>",
       "cards": [
-        { "name": "Lehsunia (Cat's Eye)", "role": "primary", "sub": "Ketu-strengthening chrysoberyl", "icon_variant": "cats-eye", "image_slug": "cats-eye", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Small finger, right hand" }, { "k": "Day to wear", "v": "Wednesday or Tuesday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Hessonite (alt)", "role": "secondary", "sub": "Companion node stone for the Rahu-Ketu axis", "icon_variant": "hessonite", "image_slug": "hessonite", "items": [ { "k": "Metal", "v": "Silver" }, { "k": "Finger", "v": "Middle finger" }, { "k": "Day to wear", "v": "Saturday, sunrise" }, { "k": "Min weight", "v": "5 to 7 Ratti" } ] },
-        { "name": "Consult before wearing Lehsunia", "role": "shop", "sub": "1-on-1 chart review by Pt. Raghav Sharma", "shop_label": "Book a consultation", "shop_url": "https://store.vastucart.in/consultations" }
+        {
+          "name": "Lehsunia (Cat's Eye)",
+          "role": "primary",
+          "sub": "Ketu-strengthening chrysoberyl",
+          "icon_variant": "cats-eye",
+          "image_slug": "cats-eye",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Small finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Wednesday or Tuesday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Hessonite (alt)",
+          "role": "secondary",
+          "sub": "Companion node stone for the Rahu-Ketu axis",
+          "icon_variant": "hessonite",
+          "image_slug": "hessonite",
+          "items": [
+            {
+              "k": "Metal",
+              "v": "Silver"
+            },
+            {
+              "k": "Finger",
+              "v": "Middle finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Saturday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
+          ]
+        },
+        {
+          "name": "Consult before wearing Lehsunia",
+          "role": "shop",
+          "sub": "1-on-1 chart review by VastuCart Editorial",
+          "shop_label": "Book a consultation",
+          "shop_url": "https://store.vastucart.in/consultations"
+        }
       ],
       "disclaimer": "Cat's eye in the mother house amplifies Sukha Bhava themes sharply. Always consult a qualified Jyotishi before permanent wearing."
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
       "heading": "Rudraksha beads for Ketu in 4th house",
       "intro_html": "<p>The Ketu-aligned rudraksha is the Ashta Mukhi (Eight Mukhi), the bead directly ruled by Ganesha and the south node.</p>",
       "beads": [
-        { "mukhi": 8, "name": "Ashta Mukhi Rudraksha", "sub": "Ruled by Ganesha and Ketu", "benefit": "The classical Ketu rudraksha and the bead specifically associated with Ganesha as the patron deity of the south node. Removes obstacles to the acceptance pedagogy the placement asks for, supports the quiet inner stability that distinguishes this placement from the Rahu 4th restlessness, and stabilises the emotional orientation around mother and home." },
-        { "mukhi": 2, "name": "Do Mukhi Rudraksha", "sub": "Ruled by Chandra, the dispositor of Ketu here", "benefit": "The Moon bead serves as secondary support for this placement because the dispositor of Ketu here is Chandra (Moon rules Karka, the sign Ketu occupies). Wearing the Do Mukhi alongside the Ashta Mukhi compounds the placement's strength by honouring both planet and sign-lord, and softens the mother-detachment edge." }
+        {
+          "mukhi": 8,
+          "name": "Ashta Mukhi Rudraksha",
+          "sub": "Ruled by Ganesha and Ketu",
+          "benefit": "The classical Ketu rudraksha and the bead specifically associated with Ganesha as the patron deity of the south node. Removes obstacles to the acceptance pedagogy the placement asks for, supports the quiet inner stability that distinguishes this placement from the Rahu 4th restlessness, and stabilises the emotional orientation around mother and home."
+        },
+        {
+          "mukhi": 2,
+          "name": "Do Mukhi Rudraksha",
+          "sub": "Ruled by Chandra, the dispositor of Ketu here",
+          "benefit": "The Moon bead serves as secondary support for this placement because the dispositor of Ketu here is Chandra (Moon rules Karka, the sign Ketu occupies). Wearing the Do Mukhi alongside the Ashta Mukhi compounds the placement's strength by honouring both planet and sign-lord, and softens the mother-detachment edge."
+        }
       ]
     },
-    { "type": "cta-inline", "data": { "title": "Authentic rudraksha malas, certified", "subtitle": "Browse the prayer beads collection at the VastuCart store.", "button_label": "Browse Rudraksha malas", "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "button_variant": "teal" } },
-    { "type": "divider", "gem": "saffron" },
-    { "type": "yantra", "eyebrow": "Yantra", "heading": "Ketu Yantra for the mother house placement", "yantra": { "name": "Ketu Yantra", "sanskrit": "केतु यन्त्र", "description": "The Ketu Yantra is the geometric form of the south node channel. For Ketu in the Mesh 4th house install it in a small contemplative corner of the home, ideally the part of the home the native sits in for daily meditation. Wednesday or Tuesday at sunrise is the installation window, and the yantra should be consecrated with Ketu Stotram recitation and a dub grass offering.", "direction": "Contemplative corner (home meditation space)", "install_day": "Wednesday or Tuesday sunrise, Ketu hora preferred", "material": "Iron or panchaloha (mixed metal)", "cta_label": "Browse Yantras", "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection" } },
-    { "type": "divider", "gem": "teal" },
-    { "type": "stotra", "eyebrow": "Stotra and Mantra", "heading": "Sacred recitations for Ketu in the mother house", "stotra": { "eyebrow": "Ketu Stotram", "title": "Shri Ketu Stotram", "sub": "Classical hymn to the south node, the primary Ketu recitation", "verse": "Palasha pushpa samkasham taraka graha mastakam<br>Raudram raudrat makam ghoram tam ketum pranamamyaham<br>Dhvajakaram mahavairam chitra varnam bhayanakam<br>Rudra rupam maha ketum pranamamyaham sada<br>Shikhinam varadam shantam dvija bhakti pradayakam<br>Grahastham naam na vadhyam pranamami shikhinam sada", "translation": "Resembling the palash flower, chief among the star-planets, terrible and of fierce nature, I salute that Ketu. Flag-shaped, great enemy, of varied colour, frightening, the form of Rudra, the great Ketu I always salute. The crested one, the granter of boons, the peaceful, the giver of devotion to the twice-born, residing in the houses and not to be opposed, I always salute the crested one. The Ketu Stotram is the classical hymn to the south node and is the perfect daily recitation for a chart where Ketu sits in the mother and home angle and the acceptance pedagogy needs contemplative support.", "url": "https://stotra.vastucart.in/stotra/ketu-stotram" } },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "cta-inline",
+      "data": {
+        "title": "Authentic rudraksha malas, certified",
+        "subtitle": "Browse the prayer beads collection at the VastuCart store.",
+        "button_label": "Browse Rudraksha malas",
+        "button_url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+        "button_variant": "teal"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
+    {
+      "type": "yantra",
+      "eyebrow": "Yantra",
+      "heading": "Ketu Yantra for the mother house placement",
+      "yantra": {
+        "name": "Ketu Yantra",
+        "sanskrit": "केतु यन्त्र",
+        "description": "The Ketu Yantra is the geometric form of the south node channel. For Ketu in the Mesh 4th house install it in a small contemplative corner of the home, ideally the part of the home the native sits in for daily meditation. Wednesday or Tuesday at sunrise is the installation window, and the yantra should be consecrated with Ketu Stotram recitation and a dub grass offering.",
+        "direction": "Contemplative corner (home meditation space)",
+        "install_day": "Wednesday or Tuesday sunrise, Ketu hora preferred",
+        "material": "Iron or panchaloha (mixed metal)",
+        "cta_label": "Browse Yantras",
+        "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
+    {
+      "type": "stotra",
+      "eyebrow": "Stotra and Mantra",
+      "heading": "Sacred recitations for Ketu in the mother house",
+      "stotra": {
+        "eyebrow": "Ketu Stotram",
+        "title": "Shri Ketu Stotram",
+        "sub": "Classical hymn to the south node, the primary Ketu recitation",
+        "verse": "Palasha pushpa samkasham taraka graha mastakam<br>Raudram raudrat makam ghoram tam ketum pranamamyaham<br>Dhvajakaram mahavairam chitra varnam bhayanakam<br>Rudra rupam maha ketum pranamamyaham sada<br>Shikhinam varadam shantam dvija bhakti pradayakam<br>Grahastham naam na vadhyam pranamami shikhinam sada",
+        "translation": "Resembling the palash flower, chief among the star-planets, terrible and of fierce nature, I salute that Ketu. Flag-shaped, great enemy, of varied colour, frightening, the form of Rudra, the great Ketu I always salute. The crested one, the granter of boons, the peaceful, the giver of devotion to the twice-born, residing in the houses and not to be opposed, I always salute the crested one. The Ketu Stotram is the classical hymn to the south node and is the perfect daily recitation for a chart where Ketu sits in the mother and home angle and the acceptance pedagogy needs contemplative support.",
+        "url": "https://stotra.vastucart.in/stotra/ketu-stotram"
+      }
+    },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -249,19 +698,97 @@
       "data": {
         "title": "VastuCart Tools",
         "tools": [
-          { "label": "Kundali birth chart tool", "sub": "Map your fourth house Ketu placement", "url": "https://www.vastucart.in/tools/kundli", "icon": "kundali", "icon_variant": "dark" },
-          { "label": "Ascendant verification", "sub": "Confirm your Mesh Lagna cusp", "url": "https://www.vastucart.in/tools/lagna", "icon": "kundali", "icon_variant": "saff" },
-          { "label": "Griha pravesh muhurta", "sub": "Auspicious dates for entering a new home", "url": "https://muhurta.vastucart.in/griha-pravesh-muhurta", "icon": "muhurta", "icon_variant": "rose" },
-          { "label": "Education muhurta", "sub": "Auspicious dates for contemplative study", "url": "https://muhurta.vastucart.in/education-muhurta", "icon": "muhurta", "icon_variant": "teal" },
-          { "label": "Aries today", "sub": "Daily Mesh rashi forecast", "url": "https://horoscope.vastucart.in/aries/daily", "icon": "horoscope", "icon_variant": "teal" },
-          { "label": "Ketu Stotram", "sub": "Classical south node hymn", "url": "https://stotra.vastucart.in/stotra/ketu-stotram", "icon": "stotra", "icon_variant": "teal" },
-          { "label": "Ketu Kavacham", "sub": "Protective armour stotra for Ketu", "url": "https://stotra.vastucart.in/stotra/ketu-kavacham", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Ketu Sahasranama", "sub": "Thousand names of Ketu", "url": "https://stotra.vastucart.in/stotra/ketu-sahasranama", "icon": "stotra", "icon_variant": "rose" },
-          { "label": "Ganesh Atharvashirsha", "sub": "Upanishadic Ganesha hymn", "url": "https://stotra.vastucart.in/stotra/ganesh-atharvashirsha", "icon": "stotra", "icon_variant": "dark" },
-          { "label": "Annapurna Stotram", "sub": "Mother of nourishment hymn for the 4L", "url": "https://stotra.vastucart.in/stotra/annapurna-stotram", "icon": "stotra", "icon_variant": "saff" },
-          { "label": "Cat's eye source", "sub": "Certified Lehsunia chrysoberyl", "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart", "icon": "shop", "icon_variant": "rose" },
-          { "label": "Ketu yantra store", "sub": "Iron Ketu yantra for the contemplative corner", "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection", "icon": "shop", "icon_variant": "saff" },
-          { "label": "Personal consultation", "sub": "Sukha Bhava analysis with Pt. Raghav Sharma", "url": "https://store.vastucart.in/consultations", "icon": "shop", "icon_variant": "teal" }
+          {
+            "label": "Kundali birth chart tool",
+            "sub": "Map your fourth house Ketu placement",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "icon": "kundali",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Ascendant verification",
+            "sub": "Confirm your Mesh Lagna cusp",
+            "url": "https://www.vastucart.in/tools/lagna",
+            "icon": "kundali",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Griha pravesh muhurta",
+            "sub": "Auspicious dates for entering a new home",
+            "url": "https://muhurta.vastucart.in/griha-pravesh-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Education muhurta",
+            "sub": "Auspicious dates for contemplative study",
+            "url": "https://muhurta.vastucart.in/education-muhurta",
+            "icon": "muhurta",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Aries today",
+            "sub": "Daily Mesh rashi forecast",
+            "url": "https://horoscope.vastucart.in/aries/daily",
+            "icon": "horoscope",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Ketu Stotram",
+            "sub": "Classical south node hymn",
+            "url": "https://stotra.vastucart.in/stotra/ketu-stotram",
+            "icon": "stotra",
+            "icon_variant": "teal"
+          },
+          {
+            "label": "Ketu Kavacham",
+            "sub": "Protective armour stotra for Ketu",
+            "url": "https://stotra.vastucart.in/stotra/ketu-kavacham",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Ketu Sahasranama",
+            "sub": "Thousand names of Ketu",
+            "url": "https://stotra.vastucart.in/stotra/ketu-sahasranama",
+            "icon": "stotra",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Ganesh Atharvashirsha",
+            "sub": "Upanishadic Ganesha hymn",
+            "url": "https://stotra.vastucart.in/stotra/ganesh-atharvashirsha",
+            "icon": "stotra",
+            "icon_variant": "dark"
+          },
+          {
+            "label": "Annapurna Stotram",
+            "sub": "Mother of nourishment hymn for the 4L",
+            "url": "https://stotra.vastucart.in/stotra/annapurna-stotram",
+            "icon": "stotra",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Cat's eye source",
+            "sub": "Certified Lehsunia chrysoberyl",
+            "url": "https://store.vastucart.in/category/prayer-beads-rosary-by-vastucart",
+            "icon": "shop",
+            "icon_variant": "rose"
+          },
+          {
+            "label": "Ketu yantra store",
+            "sub": "Iron Ketu yantra for the contemplative corner",
+            "url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection",
+            "icon": "shop",
+            "icon_variant": "saff"
+          },
+          {
+            "label": "Personal consultation",
+            "sub": "Sukha Bhava analysis with VastuCart Editorial",
+            "url": "https://store.vastucart.in/consultations",
+            "icon": "shop",
+            "icon_variant": "teal"
+          }
         ]
       }
     },
@@ -271,55 +798,130 @@
         "title": "Is your Sukha Bhava Ketu carrying the inherited-moksha signature?",
         "subtitle": "Get a full personalised analysis of your fourth house Ketu, the mother pedagogy, and the contemplative vocation the chart is preparing.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Ketu Stotram", "url": "https://stotra.vastucart.in/stotra/ketu-stotram", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Ketu Stotram",
+            "url": "https://stotra.vastucart.in/stotra/ketu-stotram",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
       "heading": "Questions about Ketu in 4th house, Mesh Lagna",
       "items": [
-        { "q": "Is Ketu in the 4th house bad for Mesh Lagna?", "a": "No, the popular reading that frames Ketu in the mother house as exclusively negative is overstated. The placement produces a specific set of structural patterns around mother, home, and emotional foundation that the native has to work with, but the patterns are pedagogical rather than punitive. Classical tradition treats this as inherited-moksha placement where the karmic work with the 4th house themes is largely already completed from previous lives, and the current incarnation involves settled acceptance rather than active development. Natives who understand the reading can love their mother freely without the guilt of feeling less close than they think they should." },
-        { "q": "Does Ketu in 4th house separate the native from the mother?", "a": "It produces a structural emotional distance that is felt even when both parties love each other, but it rarely predicts literal separation. The mother relationship is usually loving but quiet, less demonstrative than the sibling or peer comparison, and the native often feels guilty about this gap during their twenties and thirties before they understand why the gap is structural. The reading is that the karmic intimacy between native and mother has already been built across previous incarnations and does not need to match the same intensity this time. The love is real, it simply expresses more quietly than peers describe." },
-        { "q": "How is Ketu 4th different from Rahu 4th for Aries ascendant?", "a": "Both nodal placements in the mother house produce structural tension around the 4th house themes but work in opposite directions. Rahu in 4th produces restlessness, physical movement, and the foreign-home signature where the native keeps searching for the right place. Ketu in 4th produces stillness, inner dissatisfaction that does not drive movement, and acceptance of whatever home is currently available. Rahu's pedagogy is movement. Ketu's pedagogy is acceptance. Rahu natives grieve the home that never arrived. Ketu natives grieve the home they had but could not quite receive. Practitioners should always ask which node is in the 4th and read accordingly." },
-        { "q": "What does the 10th aspect from Ketu in the 4th produce?", "a": "From the 4th, Ketu casts his full 10th-aspect to the 10th house career angle. The aspect brings the detachment signature into the career domain specifically, and the practical effect is that natives work well and achieve recognition but never quite feel the career as their personal ambition. Many natives describe their career as something they do because they are good at it rather than because it defines them. The dispassionate stance often produces better work than peers who are more emotionally invested, because the native can make decisions without ego attachment. The fit is strongest in fields where detachment is a professional asset: research, hospice, contemplative writing, and quiet infrastructure work." },
-        { "q": "Which gemstone should Mesh Lagna wear for Ketu in 4th?", "a": "Cat's eye (Lehsunia, made from chrysoberyl) is the primary Ketu gemstone, but it is recommended only after especially careful chart confirmation by a practising Jyotishi because Ketu in the mother house amplifies home and mother themes sharply and the gemstone must be timed to a moment when the native is ready. Wear a natural chrysoberyl cat's eye of minimum five ratti set in silver on the small finger of the right hand on a Wednesday or Tuesday at sunrise after Ketu mantra recitation. Hessonite is the companion node stone. Never wear cat's eye without a confirmed reading because the amplification can sharpen the mother themes significantly." }
+        {
+          "q": "Is Ketu in the 4th house bad for Mesh Lagna?",
+          "a": "No, the popular reading that frames Ketu in the mother house as exclusively negative is overstated. The placement produces a specific set of structural patterns around mother, home, and emotional foundation that the native has to work with, but the patterns are pedagogical rather than punitive. Classical tradition treats this as inherited-moksha placement where the karmic work with the 4th house themes is largely already completed from previous lives, and the current incarnation involves settled acceptance rather than active development. Natives who understand the reading can love their mother freely without the guilt of feeling less close than they think they should."
+        },
+        {
+          "q": "Does Ketu in 4th house separate the native from the mother?",
+          "a": "It produces a structural emotional distance that is felt even when both parties love each other, but it rarely predicts literal separation. The mother relationship is usually loving but quiet, less demonstrative than the sibling or peer comparison, and the native often feels guilty about this gap during their twenties and thirties before they understand why the gap is structural. The reading is that the karmic intimacy between native and mother has already been built across previous incarnations and does not need to match the same intensity this time. The love is real, it simply expresses more quietly than peers describe."
+        },
+        {
+          "q": "How is Ketu 4th different from Rahu 4th for Aries ascendant?",
+          "a": "Both nodal placements in the mother house produce structural tension around the 4th house themes but work in opposite directions. Rahu in 4th produces restlessness, physical movement, and the foreign-home signature where the native keeps searching for the right place. Ketu in 4th produces stillness, inner dissatisfaction that does not drive movement, and acceptance of whatever home is currently available. Rahu's pedagogy is movement. Ketu's pedagogy is acceptance. Rahu natives grieve the home that never arrived. Ketu natives grieve the home they had but could not quite receive. Practitioners should always ask which node is in the 4th and read accordingly."
+        },
+        {
+          "q": "What does the 10th aspect from Ketu in the 4th produce?",
+          "a": "From the 4th, Ketu casts his full 10th-aspect to the 10th house career angle. The aspect brings the detachment signature into the career domain specifically, and the practical effect is that natives work well and achieve recognition but never quite feel the career as their personal ambition. Many natives describe their career as something they do because they are good at it rather than because it defines them. The dispassionate stance often produces better work than peers who are more emotionally invested, because the native can make decisions without ego attachment. The fit is strongest in fields where detachment is a professional asset: research, hospice, contemplative writing, and quiet infrastructure work."
+        },
+        {
+          "q": "Which gemstone should Mesh Lagna wear for Ketu in 4th?",
+          "a": "Cat's eye (Lehsunia, made from chrysoberyl) is the primary Ketu gemstone, but it is recommended only after especially careful chart confirmation by a practising Jyotishi because Ketu in the mother house amplifies home and mother themes sharply and the gemstone must be timed to a moment when the native is ready. Wear a natural chrysoberyl cat's eye of minimum five ratti set in silver on the small finger of the right hand on a Wednesday or Tuesday at sunrise after Ketu mantra recitation. Hessonite is the companion node stone. Never wear cat's eye without a confirmed reading because the amplification can sharpen the mother themes significantly."
+        }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
-        "author_id": "pt-raghav-sharma",
-        "title_line": "Senior Jyotishi, Vedic Astrology",
-        "bio": "Pt. Raghav Sharma has practiced Parashari Jyotish for over twenty two years from Varanasi. A student of the Varanasi Jyotish tradition, he specialises in Graha-in-Bhava analysis, Vimshottari Dasha predictions, and Muhurta. He has authored over four hundred in-depth articles on Jyotish principles across the VastuCart knowledge network.",
+        "author_id": "vastucart-editorial",
+        "title_line": "Editorial Desk, Blog by VastuCart",
+        "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "Vedic Astrology", "tone": "teal" },
-          { "label": "Nodal reader", "tone": "saff" },
-          { "label": "22 years practice", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "400+ articles" },
-          { "icon": "star", "text": "Varanasi Jyotish lineage" },
-          { "icon": "clock", "text": "Updated April 2026" }
+          {
+            "icon": "calendar",
+            "text": "Updated April 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Continue your study",
       "heading": "Related placements for Mesh Lagna",
       "posts": [
-        { "title": "The Aries ascendant master profile", "sub": "Mesh Lagna full lineage and lord analysis", "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide", "icon_variant": "generic" },
-        { "title": "Rahu in the fourth, the mirror placement", "sub": "North node in the mother house, the restlessness contrast", "href": "/jyotish/graha-in-bhava/rahu-4th-house-aries-lagna", "icon_variant": "teal" },
-        { "title": "Ketu at the lagna in Mesha", "sub": "South node at the body, the warrior-monk parallel", "href": "/jyotish/graha-in-bhava/ketu-1st-house-aries-lagna", "icon_variant": "rose" },
-        { "title": "Chandra in the fourth, swakshetra Karka", "sub": "Moon own sign in the same mother house, the contrast", "href": "/jyotish/graha-in-bhava/moon-4th-house-aries-lagna", "icon_variant": "sun" }
+        {
+          "title": "The Aries ascendant master profile",
+          "sub": "Mesh Lagna full lineage and lord analysis",
+          "href": "/jyotish/lagna-profiles/mesh-lagna-complete-guide",
+          "icon_variant": "generic"
+        },
+        {
+          "title": "Rahu in the fourth, the mirror placement",
+          "sub": "North node in the mother house, the restlessness contrast",
+          "href": "/jyotish/graha-in-bhava/rahu-4th-house-aries-lagna",
+          "icon_variant": "teal"
+        },
+        {
+          "title": "Ketu at the lagna in Mesha",
+          "sub": "South node at the body, the warrior-monk parallel",
+          "href": "/jyotish/graha-in-bhava/ketu-1st-house-aries-lagna",
+          "icon_variant": "rose"
+        },
+        {
+          "title": "Chandra in the fourth, swakshetra Karka",
+          "sub": "Moon own sign in the same mother house, the contrast",
+          "href": "/jyotish/graha-in-bhava/moon-4th-house-aries-lagna",
+          "icon_variant": "sun"
+        }
       ]
     }
-  ]
+  ],
+  "reviewer_id": "vastucart-jyotish-review-panel"
 }
