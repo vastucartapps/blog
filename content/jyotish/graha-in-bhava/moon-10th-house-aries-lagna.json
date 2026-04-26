@@ -58,7 +58,7 @@
     ],
     "og_title": "Moon in the 10th House of Mesh Lagna, Career Karaka",
     "og_description": "Chandra in Karma Bhava for Aries ascendant, Moon in Makara, a public career study by a practising Jyotishi.",
-    "og_image": "/og/moon-10th-house-aries-lagna.png",
+    "og_image": "/posts/moon-10th-house-aries-lagna/moon-10th-house-aries-lagna-hero-og.webp",
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/moon-10th-house-aries-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
@@ -178,11 +178,11 @@
   "image_manifest": [
     {
       "filename": "moon-10th-house-aries-lagna-hero.webp",
-      "filename_og": "moon-10th-house-aries-lagna-og.png",
+      "filename_og": "moon-10th-house-aries-lagna-hero-og.webp",
       "alt": "Silver Chandra rising at the zenith of a Mesh Lagna kundali",
       "caption": "Chandra sits at Karma Bhava for Aries ascendant natives, the Moon in Makara producing the public visibility and slow-maturation career signature.",
-      "width": 1200,
-      "height": 630,
+      "width": 1060,
+      "height": 1048,
       "format": "webp",
       "style": "moonlit editorial illustration",
       "generation_prompt": "An editorial illustration of a North Indian kundali with the tenth house glowing silver-blue, a stylised waxing moon symbol at the zenith, traditional Vedic palette tempered with lunar tones of silver, indigo, pearl, refined manuscript style, no people.",

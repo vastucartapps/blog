@@ -591,6 +591,26 @@ export interface ArticlePost {
   house_number?: number;
   lagna_id?: string;
   nakshatra_id?: string;
+  /**
+   * Per-post image inventory. Entry 0 is the canonical hero card
+   * rendered from lib/svg/hero-card.ts and used as the top-of-post
+   * featured visual, in-body section image, OG/Twitter image, and
+   * archives thumbnail.
+   */
+  image_manifest?: ImageManifestEntry[];
+}
+
+export interface ImageManifestEntry {
+  filename: string;
+  filename_og?: string;
+  alt: string;
+  caption?: string;
+  width?: number;
+  height?: number;
+  format?: string;
+  style?: string;
+  generation_prompt?: string;
+  negative_prompt?: string;
 }
 
 // ──────────────────────────────────────────

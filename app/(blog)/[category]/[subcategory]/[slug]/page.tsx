@@ -4,6 +4,7 @@ import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { PostHero } from "@/components/post/PostHero";
 import { LagnaPillarHero } from "@/components/post/LagnaPillarHero";
+import { FeaturedHero } from "@/components/post/FeaturedHero";
 import { BlockRenderer } from "@/components/post/BlockRenderer";
 import { getCategory, getSubcategory } from "@/lib/categories";
 import { getPostBySlug, getPublishedPosts, countPostsBySubcategory } from "@/lib/content";
@@ -127,6 +128,14 @@ export default async function PostPage({
   const pillarStats = firstStatStrip?.cells ?? [];
   const clusterCounts = isLagnaPillar ? countPostsBySubcategory("jyotish") : undefined;
 
+  // Pull canonical hero card from manifest entry 0 if it points at the
+  // locked SVG-rendered hero WebP. Same image surfaces as PostCard
+  // archives thumbnail and OG/Twitter card.
+  const heroManifest = post.image_manifest?.[0];
+  const featuredHeroSrc = heroManifest?.filename
+    ? `/posts/${post.slug}/${heroManifest.filename}`
+    : null;
+
   return (
     <>
       <Header />
@@ -155,6 +164,13 @@ export default async function PostPage({
             category={post.category}
           />
         )}
+        {featuredHeroSrc && !isLagnaPillar ? (
+          <FeaturedHero
+            src={featuredHeroSrc}
+            alt={heroManifest?.alt ?? post.title}
+            caption={heroManifest?.caption}
+          />
+        ) : null}
         <main className="wrap-article" style={{ paddingBottom: "clamp(2.5rem, 6vw, 5rem)" }}>
           <BlockRenderer blocks={renderableContent} category={post.category} slug={post.slug} />
         </main>
