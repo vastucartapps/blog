@@ -8,9 +8,9 @@ of what any other doc claims.
 
 | Group | Done | Target | % |
 |---|---|---|---|
-| Lagna pillars | 1 | 12 | 8% |
+| Lagna pillars | 2 | 12 | 17% |
 | Mesh cluster (graha-in-bhava) | 108 | 108 | 100% |
-| Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
+| Other lagna clusters (graha-in-bhava) | 6 | 1188 | 1% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
 | Yogas | 0 | 80 | 0% |
@@ -120,9 +120,49 @@ The matrix below is the gate.
 
 ---
 
-## Vrishabha Lagna cluster matrix (target: 1 pillar + 108)
+## Vrishabha Lagna cluster matrix (target: 1 pillar + 108 graha-in-bhava)
 
-(generated when Phase 3 begins)
+### Pillar
+- [x] `vrishabha-lagna-complete-guide` — Vrishabha Lagna complete profile
+
+### Graha-in-Bhava 9×12 matrix (✓ = published, → = in progress, ✗ = todo)
+Slug convention for non-Mesh lagnas: Sanskrit planet name (`shukra`, `mangal`, `shani`, `guru`, `budha`, `surya`, `chandra`, `rahu`, `ketu`) + ordinal-house + `-house-taurus-lagna`.
+
+| House | Surya | Chandra | Mangal | Budha | Guru | Shukra | Shani | Rahu | Ketu |
+|---|---|---|---|---|---|---|---|---|---|
+| 1st  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
+| 2nd  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 3rd  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 4th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 5th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 6th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 7th  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 8th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 9th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  |
+| 10th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 11th | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
+| 12th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+
+**Vrishabha cluster total: 4/108 graha-in-bhava + 1/1 pillar = 5/109 published.**
+
+### Vrishabha Phase 1 batch (DONE — pillar + 4 own-sign placements)
+- [x] Vrishabha pillar `vrishabha-lagna-complete-guide`
+- [x] Shukra in 1st house, Vrishabha Lagna `shukra-1st-house-taurus-lagna` ← lagna lord swakshetra, Malavya Mahapurusha Yoga
+- [x] Mangal in 7th house, Vrishabha Lagna `mangal-7th-house-taurus-lagna` ← 7L+12L swakshetra in Vrishchika, Manglik 7th
+- [x] Shani in 9th house, Vrishabha Lagna `shani-9th-house-taurus-lagna` ← yogakaraka swakshetra in Makara, dharma trikona rajyoga
+- [x] Guru in 11th house, Vrishabha Lagna `guru-11th-house-taurus-lagna` ← 8L+11L swakshetra in Meena, labha lord own sign
+
+### Vrishabha Phase 2 batch (in progress — remaining swakshetra + key dignity)
+- [ ] Surya in 4th house `surya-4th-house-taurus-lagna` ← 4L swakshetra Simha in kendra, sukha bhava authority
+- [ ] Chandra in 3rd house `chandra-3rd-house-taurus-lagna` ← 3L swakshetra Karka, sahaja bhava courage
+- [ ] Budha in 2nd house `budha-2nd-house-taurus-lagna` ← 2L+5L swakshetra Mithuna, dhana bhava intelligence
+- [ ] Budha in 5th house `budha-5th-house-taurus-lagna` ← 2L+5L exalted Kanya in trikona, classical strongest Mercury
+- [ ] Shukra in 6th house `shukra-6th-house-taurus-lagna` ← 1L+6L swakshetra Tula in dushthana, vipareet logic
+- [ ] Mangal in 12th house `mangal-12th-house-taurus-lagna` ← 7L+12L swakshetra Mesha in vyaya
+- [ ] Guru in 8th house `guru-8th-house-taurus-lagna` ← 8L+11L swakshetra Dhanu in randhra
+- [ ] Shani in 10th house `shani-10th-house-taurus-lagna` ← Sasa Mahapurusha Yoga, yogakaraka swakshetra in 10th kendra
+
+
 
 ## Other lagna clusters
 
@@ -197,6 +237,11 @@ before the previous one is at 109/109)
 | `mercury-12th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
 | `sun-12th-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
 | `rahu-3rd-house-aries-lagna` | planet-in-house | 2100 | 100/100 | ✓ all gates | 2026-04-14 |
+| `vrishabha-lagna-complete-guide` | lagna-profile | 2200 | 103/100 | ✓ all gates | 2026-04-27 |
+| `shukra-1st-house-taurus-lagna` | planet-in-house | 1980 | 103/100 | ✓ all gates | 2026-04-27 |
+| `mangal-7th-house-taurus-lagna` | planet-in-house | 1990 | 103/100 | ✓ all gates | 2026-04-27 |
+| `shani-9th-house-taurus-lagna` | planet-in-house | 1990 | 103/100 | ✓ all gates | 2026-04-27 |
+| `guru-11th-house-taurus-lagna` | planet-in-house | 2010 | 103/100 | ✓ all gates | 2026-04-27 |
 
 ---
 
