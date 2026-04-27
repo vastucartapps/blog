@@ -9,7 +9,7 @@ of what any other doc claims.
 | Group | Done | Target | % |
 |---|---|---|---|
 | Lagna pillars | 1 | 12 | 8% |
-| Mesh cluster (graha-in-bhava) | 100 | 108 | 93% |
+| Mesh cluster (graha-in-bhava) | 108 | 108 | 100% |
 | Other lagna clusters (graha-in-bhava) | 0 | 1188 | 0% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
@@ -22,9 +22,9 @@ of what any other doc claims.
 
 ## Generation order (locked)
 
-1. **Phase 1 → Mesh cluster pillar + 3 high-signal cluster posts** ← we are here
-2. Phase 2 → Mesh cluster, complete remaining 105 graha-in-bhava posts
-3. Phase 3 → Vrishabha pillar + Vrishabha cluster (109 posts)
+1. Phase 1 → Mesh cluster pillar + 3 high-signal cluster posts ✅ DONE
+2. Phase 2 → Mesh cluster, complete remaining 105 graha-in-bhava posts ✅ DONE
+3. **Phase 3 → Vrishabha pillar + Vrishabha cluster (109 posts)** ← we are here
 4. Phase 4 → Mithuna, Karka, Simha, Kanya pillars + clusters (4 × 109)
 5. Phase 5 → Tula, Vrishchika, Dhanu, Makara pillars + clusters
 6. Phase 6 → Kumbha, Meena pillars + clusters
@@ -47,18 +47,18 @@ The matrix below is the gate.
 |---|---|---|---|---|---|---|---|---|---|
 | 1st  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
 | 2nd  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| 3rd  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  |
+| 3rd  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
 | 4th  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| 5th  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  |
-| 6th  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  |
+| 5th  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
+| 6th  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
 | 7th  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| 8th  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✓  |
-| 9th  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✓  |
+| 8th  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
+| 9th  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
 | 10th | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| 11th | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✓  | ✓  | ✗  |
-| 12th | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✗  | ✓  |
+| 11th | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
+| 12th | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
 
-**Mesh cluster total: 97/108 graha-in-bhava + 1/1 pillar = 98/109 published (90%). Phase 7 rolling: Venus-3 (2L+7L softened upachaya, new SOP), Moon-6 (4L kendra-in-dushthana caregiver, new SOP), Mercury-8 (3L+6L Randhra occult-research, new SOP) closes batch 17. Image-figure block now wired into renderer; all 98 posts have on-disk WebP images via the SVG-to-WebP pipeline.**
+**Mesh cluster total: 108/108 graha-in-bhava + 1/1 pillar = 109/109 published (100%). Phase 1 (Mesh) closed with batch 19: Rahu-8 (Randhra Vrishchika neech tempered by bhava-karaka), Rahu-12 (Vyaya friendly Meena under Jupiter), Venus-9 (Dharma trikona Dhanu, 2L+7L neutralised), Venus-11 (Labha Kumbha gains-via-network), Ketu-3 (Sahaja Mithuna self-made-effort), Ketu-5 (Putra Simha past-life merit), Ketu-6 (Ripu Kanya, classical Ketu's strongest), Ketu-11 (Labha Kumbha gains-through-detachment). Hero card v3 sigil + word-wrap traits, stotra parchment, and infographic generators are locked-in standards for every post. Vrishabha cluster (Phase 3) opens next.**
 
 ### Phase 1 batch (DONE — all gates green)
 - [x] Sun in 1st house, Mesh Lagna `sun-1st-house-aries-lagna`
