@@ -211,12 +211,12 @@
     },
     {
       "filename": "mangal-7th-house-taurus-lagna-stotra-parchment.webp",
-      "alt": "Mangal Stotram verse parchment for Mars in Vedic Jyotish",
-      "caption": "Mangal Stotram, the canonical Navagraha verse to Mars, with Devanagari, IAST, and English meaning.",
+      "alt": "Maṅgala Stotram verse parchment for Mars in Vedic Jyotish",
+      "caption": "Maṅgala Stotram — the canonical Navagraha verse to Mars, with Devanagari, IAST, and English meaning.",
       "width": 1060,
       "height": 1048,
       "format": "webp",
-      "style": "Navagraha verse parchment, deep teal, cream and gold",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Mangal Stotram, hand-painted on aged parchment with gold leaf borders, faint trishul and Hanuman gada motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -325,7 +325,7 @@
       "type": "prose",
       "eyebrow": "At a glance",
       "heading": "Mangal in 7th house for Vrishabha Lagna, the quick reference",
-      "html": "<p>If you carry Mangal in the seventh house of a Vrishabha chart, you hold one of the most discussed Mars placements in Parashari Jyotish, because the seventh from Vrishabha is Vrishchika (Scorpio) and Vrishchika is one of Mangal's two own signs. The dignity is therefore <em>swakshetra</em> (own-sign), and the placement is unambiguously a Manglik configuration in classical reading. Manglik dosha is the karmic signature where Mars sits in the 1st, 4th, 7th, 8th, or 12th from the lagna, and the 7th-from-lagna instance is the most direct because it falls on the marriage bhava itself.</p><p>The second feature is the Mars-in-own-sign mitigation. Mars sitting in Vrishchika rather than in a debilitated or enemy sign reduces the harshness of the Manglik signature significantly because the planet is not afflicted, only intense. Several classical schools call a Manglik in own sign a <em>partial cancellation</em> of the dosha because the structural weight of swakshetra carries the Mars energy without distortion. The third feature is Mars's dual lordship for Vrishabha. Mangal rules both Vrishchika (7th) and Mesha (12th, the Vyaya bhava) for this lagna. The seventh-house placement therefore carries the lord of marriage and the lord of foreign expense in the same body. The marriage signature reads as durable but intense, often arriving with a partner who carries unusual courage, intensity, or a foreign element. This guide reads the placement layer by layer: the swakshetra dignity, the Manglik mechanics with cancellation logic, the spouse profile, and the red coral protocol that needs careful chart confirmation.</p>"
+      "html": "<p>If you carry Mangal in 7th house of a Vrishabha Lagna chart, you hold one of the most discussed Mars placements in Parashari Jyotish, because the seventh from Vrishabha is Vrishchika (Scorpio) and Mars Vrishchika is one of Mangal's two own signs. The dignity is therefore swakshetra Mars (own-sign Mars), and the placement is unambiguously a Manglik 7th configuration in classical reading. Manglik dosha is the karmic signature where Mars sits in the 1st, 4th, 7th, 8th, or 12th from the lagna, and Mangal in 7th house is the most direct instance because it falls on the marriage bhava itself.</p><p>The second feature is the Mars in own sign 7th mitigation. Mars Scorpio (Mars in Vrishchika) rather than a debilitated or enemy-sign Mars reduces the Manglik harshness significantly because the planet is not afflicted, only intense. Several classical schools read this Yuvati Bhava configuration as a partial cancellation of kuja dosha Taurus because the structural weight of swakshetra Mars carries the energy without distortion. The third feature is Mars's dual lordship for Vrishabha Lagna. Mangal rules both Vrishchika (the 7th lord placement) and Mesha (12th, the Vyaya bhava) for this Taurus ascendant. The seventh-house placement therefore carries the lord of marriage and the lord of foreign expense in the same body. The marriage signature reads as durable but intense, often arriving with a partner who carries unusual courage, intensity, or a foreign element. This guide reads Mangal in 7th house layer by layer: the swakshetra Mars dignity, the Manglik mechanics with cancellation logic, the spouse profile, the Mangal mahadasha activation, and the red coral cautious protocol that needs careful chart confirmation.</p>"
     },
     {
       "type": "image-figure",
@@ -778,8 +778,8 @@
     {
       "type": "image-figure",
       "filename": "mangal-7th-house-taurus-lagna-stotra-parchment.webp",
-      "alt": "Mangal Stotram verse parchment for Mars in Vedic Jyotish",
-      "caption": "Mangal Stotram, the canonical Navagraha verse to Mars, with Devanagari, IAST, and English meaning.",
+      "alt": "Maṅgala Stotram verse parchment for Mars in Vedic Jyotish",
+      "caption": "Maṅgala Stotram — the canonical Navagraha verse to Mars, with Devanagari, IAST, and English meaning.",
       "width": 1060,
       "height": 1048,
       "priority": false,
