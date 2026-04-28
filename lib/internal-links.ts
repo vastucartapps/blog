@@ -288,3 +288,180 @@ export function isValidCategoryPair(
   if (!cat) return false;
   return cat.subcategories.some((s) => s.slug === subcategorySlug);
 }
+
+export function categoryPillarUrl(categorySlug: string): string {
+  return `/${categorySlug}/complete-guide`;
+}
+
+export function tagUrl(tagLabel: string): string {
+  return `/tag/${slugifyTag(tagLabel)}`;
+}
+
+export function slugifyTag(label: string): string {
+  return label
+    .toLowerCase()
+    .trim()
+    .replace(/[^\w\s-]/g, "")
+    .replace(/\s+/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
+// ─── Enterprise nav-strip and cross-category bridge helpers ─────
+//
+// Every post — regardless of category, regardless of which terminal
+// authored it — receives the same automatic outbound link set on
+// render. The mechanism lives in components/post/BlockRenderer
+// (server-side) which calls these helpers and auto-injects the
+// rendered components above the related-posts block.
+//
+// Authors do NOT need to remember to wire pillar/subcategory/author
+// links into post.json. The render layer guarantees them.
+
+export interface PillarStripLink {
+  label: string;
+  href: string;
+  sub?: string;
+  kind: "category" | "subcategory" | "pillar" | "author";
+}
+
+/**
+ * Standard pillar-strip emitted on every post. Always returns four
+ * links: subcategory hub, category landing, category complete-guide
+ * pillar, and author profile.
+ */
+export function pillarStripLinks(args: {
+  category: string;
+  subcategory: string;
+  author_id: string;
+}): PillarStripLink[] {
+  const cat = getCategory(args.category);
+  const sub = getSubcategory(args.category, args.subcategory);
+  return [
+    {
+      label: sub?.label ?? args.subcategory,
+      href: subcategoryUrl(args.category, args.subcategory),
+      sub: `Browse all ${sub?.label?.toLowerCase() ?? args.subcategory} articles`,
+      kind: "subcategory",
+    },
+    {
+      label: `${cat?.label ?? args.category} hub`,
+      href: categoryUrl(args.category),
+      sub: `The full ${cat?.label?.toLowerCase() ?? args.category} library`,
+      kind: "category",
+    },
+    {
+      label: `${cat?.label ?? args.category} complete guide`,
+      href: categoryPillarUrl(args.category),
+      sub: "Pillar page across every subtopic",
+      kind: "pillar",
+    },
+    {
+      label: "Editorial desk",
+      href: authorUrl(args.author_id),
+      sub: "Author profile and review panel",
+      kind: "author",
+    },
+  ];
+}
+
+// Map a planet slug (internal taxonomy) → "well-known" cluster URLs
+// in other categories. Targets are *candidates* — the renderer must
+// verify each one exists before emitting.
+const PLANET_CROSS_TARGETS: Record<
+  string,
+  { lifePath: number; gemstoneSlug: string; gemstoneName: string }
+> = {
+  surya:   { lifePath: 1, gemstoneSlug: "ruby",            gemstoneName: "Ruby"           },
+  chandra: { lifePath: 2, gemstoneSlug: "pearl",           gemstoneName: "Pearl"          },
+  guru:    { lifePath: 3, gemstoneSlug: "yellow-sapphire", gemstoneName: "Yellow Sapphire" },
+  rahu:    { lifePath: 4, gemstoneSlug: "hessonite",       gemstoneName: "Hessonite"      },
+  budha:   { lifePath: 5, gemstoneSlug: "emerald",         gemstoneName: "Emerald"        },
+  shukra:  { lifePath: 6, gemstoneSlug: "diamond",         gemstoneName: "Diamond"        },
+  ketu:    { lifePath: 7, gemstoneSlug: "cats-eye",        gemstoneName: "Cat's Eye"      },
+  shani:   { lifePath: 8, gemstoneSlug: "blue-sapphire",   gemstoneName: "Blue Sapphire"  },
+  mangal:  { lifePath: 9, gemstoneSlug: "red-coral",       gemstoneName: "Red Coral"      },
+};
+
+export interface CrossCategoryBridge {
+  label: string;
+  href: string;
+  sub: string;
+  /** Source category, used by the UI to colour-code the chip. */
+  to_category: string;
+}
+
+/**
+ * Compute candidate cross-category bridges for a post. The caller
+ * (BlockRenderer) must verify each `href` resolves to a real post
+ * before rendering — `verifyHref` lets the caller plug in
+ * `(href) => getPostBySlug(slugFromHref) !== null`.
+ *
+ * The function returns up to 6 candidates ordered by relevance; the
+ * caller picks the first 3 that resolve.
+ */
+export function crossCategoryBridgeCandidates(args: {
+  category: string;
+  subcategory: string;
+  planet_id?: string;
+  ruling_planet?: string;
+  number?: number;
+  lagna_id?: string;
+}): CrossCategoryBridge[] {
+  const planetSlug = (args.planet_id ?? args.ruling_planet ?? "").toLowerCase();
+  const planetMeta = PLANET_CROSS_TARGETS[planetSlug];
+  const out: CrossCategoryBridge[] = [];
+
+  // Numerology → Jyotish + Gemstone bridges, when ruling_planet present.
+  if (args.category === "numerology" && planetMeta) {
+    const planetEnglish = PLANET_LABELS[planetSlug as PlanetSlug]?.english;
+    if (planetEnglish) {
+      out.push({
+        label: `${PLANET_LABELS[planetSlug as PlanetSlug].sanskrit} planet pillar (Jyotish)`,
+        href: planetProfileUrl(planetSlug as PlanetSlug),
+        sub: `Full Jyotish profile of your ruling planet`,
+        to_category: "jyotish",
+      });
+    }
+    out.push({
+      label: `${planetMeta.gemstoneName} for ${args.number ? `Life Path ${args.number}` : "your number"}`,
+      href: `/gemstones/by-planet/${planetMeta.gemstoneSlug}`,
+      sub: `Wearing protocol and contraindications`,
+      to_category: "gemstones",
+    });
+  }
+
+  // Jyotish → Numerology + Gemstone bridges.
+  if (args.category === "jyotish" && planetMeta) {
+    out.push({
+      label: `Life Path Number ${planetMeta.lifePath} (Numerology)`,
+      href: `/numerology/life-path/life-path-number-${planetMeta.lifePath}`,
+      sub: `The numerology archetype for the same ruling planet`,
+      to_category: "numerology",
+    });
+    out.push({
+      label: `${planetMeta.gemstoneName} (Gemstone)`,
+      href: `/gemstones/by-planet/${planetMeta.gemstoneSlug}`,
+      sub: `Ratna for this planet`,
+      to_category: "gemstones",
+    });
+  }
+
+  // Gemstone → Jyotish + Numerology bridges, when planet_id known.
+  if (args.category === "gemstones" && planetMeta) {
+    out.push({
+      label: `${PLANET_LABELS[planetSlug as PlanetSlug]?.sanskrit ?? "Planet"} planet pillar (Jyotish)`,
+      href: planetProfileUrl(planetSlug as PlanetSlug),
+      sub: `Full Jyotish reading for this planet`,
+      to_category: "jyotish",
+    });
+    out.push({
+      label: `Life Path Number ${planetMeta.lifePath} (Numerology)`,
+      href: `/numerology/life-path/life-path-number-${planetMeta.lifePath}`,
+      sub: `Numerology archetype this stone supports`,
+      to_category: "numerology",
+    });
+  }
+
+  return out;
+}

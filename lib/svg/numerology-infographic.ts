@@ -27,6 +27,8 @@ const PALETTE = {
   border: "rgba(1,63,71,0.10)",
 } as const;
 
+import { renderPlanetSymbol, type PlanetSymbolKey } from "./planet-symbols";
+
 const PLANET_GLYPHS: Record<string, string> = {
   surya: "☉", chandra: "☽", mangal: "♂", budha: "☿", guru: "♃",
   shukra: "♀", shani: "♄", rahu: "☊", ketu: "☋",
@@ -142,14 +144,15 @@ function renderInfographicShell(opts: {
   eyebrow: string;
   title: string;
   subtitle: string;
-  glyph: string;
+  /** Inline-SVG planet symbol path (replaces Unicode glyph). */
+  planetSymbol: string;
   primary: string;
   accent: string;
   itemsSvg: string;
   footerRight: string;
   ariaLabel: string;
 }): string {
-  const { eyebrow, title, subtitle, glyph, primary, accent, itemsSvg, footerRight, ariaLabel } = opts;
+  const { eyebrow, title, subtitle, planetSymbol, primary, accent, itemsSvg, footerRight, ariaLabel } = opts;
   const cardW = 1200;
   const cardH = 800;
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${cardW} ${cardH}" role="img" aria-label="${escape(ariaLabel)}">
@@ -173,7 +176,7 @@ function renderInfographicShell(opts: {
     <text x="40" y="74" font-family="system-ui, sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="${accent}">${escape(eyebrow)}</text>
     <text x="40" y="86" font-family="system-ui, sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="${accent}">________________________</text>
     <circle cx="86" cy="146" r="42" fill="${accent}"/>
-    <text x="86" y="166" text-anchor="middle" font-family="Georgia, serif" font-size="48" font-weight="700" fill="${PALETTE.cream}">${escape(glyph)}</text>
+    <g transform="translate(86 146)">${planetSymbol}</g>
     <text x="160" y="146" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700" fill="${PALETTE.ink}">${escape(title)}</text>
     <text x="160" y="186" font-family="Georgia, serif" font-style="italic" font-size="22" fill="${PALETTE.inkSoft}">${escape(subtitle)}</text>
   </g>
@@ -227,12 +230,17 @@ export function buildNumerologyCareerCardSvg(data: NumerologyCareerCardData): st
     return { label: shorten(label, 28), sub: shorten(sub, 56), iconKey: pickIcon(raw) };
   });
   const itemsSvg = renderItemsGrid(items, PALETTE.saffronPale, accent);
+  const planetSymbol = renderPlanetSymbol(planetKey as PlanetSymbolKey, {
+    color: PALETTE.cream,
+    strokeWidth: 3.4,
+    transform: "scale(0.9)",
+  });
 
   return renderInfographicShell({
     eyebrow: "CAREER FITS",
     title: `Life Path ${data.number}, the ${data.archetype}`,
     subtitle: `${planetName} ruled · ${data.ruling_day} signature`,
-    glyph,
+    planetSymbol,
     primary,
     accent,
     itemsSvg,
@@ -257,12 +265,17 @@ export function buildNumerologyRemediesCardSvg(data: NumerologyRemediesCardData)
     { label: "Donation", sub: shorten(data.donation_label, 56), iconKey: "heart" },
   ];
   const itemsSvg = renderItemsGrid(items, PALETTE.goldPale, PALETTE.gold);
+  const planetSymbol = renderPlanetSymbol(planetKey as PlanetSymbolKey, {
+    color: PALETTE.cream,
+    strokeWidth: 3.4,
+    transform: "scale(0.9)",
+  });
 
   return renderInfographicShell({
     eyebrow: "REMEDIES AT A GLANCE",
     title: `Life Path ${data.number} remedies`,
     subtitle: `${planetName} ruled · daily practice protocol`,
-    glyph,
+    planetSymbol,
     primary,
     accent,
     itemsSvg,

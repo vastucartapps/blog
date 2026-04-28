@@ -93,11 +93,10 @@
     <circle r="58" fill="none"
             stroke="var(--accent-color)" stroke-opacity="0.45"
             stroke-width="1"/>
-    <text id="planet-glyph-slot" x="0" y="22"
-          text-anchor="middle"
-          font-family="Georgia, 'Times New Roman', serif"
-          font-size="78"
-          fill="var(--accent-color)">☽</text>
+    <g id="planet-glyph-slot"><g transform="scale(1.12)">
+    <path d="M 6 -22 A 22 22 0 1 0 6 22 A 16 16 0 1 1 6 -22 Z"
+          fill="#E8E5D4" stroke="#E8E5D4" stroke-width="3.4" stroke-linejoin="round"/>
+  </g></g>
   </g>
   <text id="planet-name-slot" x="400" y="688"
         text-anchor="middle"
@@ -200,11 +199,10 @@
 
     <g transform="translate(0 -144)">
       <circle r="28" fill="#012E34" stroke="url(#goldLine)" stroke-width="1.2"/>
-      <text id="mandala-planet-glyph-slot" x="0" y="12"
-            text-anchor="middle"
-            font-family="Georgia, 'Times New Roman', serif"
-            font-size="36"
-            fill="var(--accent-color)">☽</text>
+      <g id="mandala-planet-glyph-slot"><g transform="scale(0.62)">
+    <path d="M 6 -22 A 22 22 0 1 0 6 22 A 16 16 0 1 1 6 -22 Z"
+          fill="#E8E5D4" stroke="#E8E5D4" stroke-width="2.6" stroke-linejoin="round"/>
+  </g></g>
     </g>
 
     <circle r="80" fill="#FBF6E8" stroke="url(#goldLine)" stroke-width="2.4"/>

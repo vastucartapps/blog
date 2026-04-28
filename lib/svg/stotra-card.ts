@@ -14,6 +14,8 @@
 // posts of that planet (12 houses × 1 stotra image = 12 reuses).
 // ─────────────────────────────────────────────────────────────────
 
+import { renderPlanetSymbol, type PlanetSymbolKey } from "./planet-symbols";
+
 interface Verse {
   /** Two-line Devanagari shloka (each line ends with । or ॥). */
   devanagari: [string, string];
@@ -226,8 +228,17 @@ export interface StotraCardData {
 }
 
 export function buildStotraCardSvg(data: StotraCardData): string {
-  const v = VERSES[(data.planet_id ?? "").toLowerCase()];
+  const planetKey = (data.planet_id ?? "").toLowerCase();
+  const v = VERSES[planetKey];
   if (!v) throw new Error(`Unknown planet_id for stotra: ${data.planet_id}`);
+
+  // Inline SVG planet symbol — replaces the Unicode glyph that
+  // librsvg was substituting with a Devanagari fallback character.
+  const crestPlanetGlyph = renderPlanetSymbol(planetKey as PlanetSymbolKey, {
+    color: "#E97A2B",
+    strokeWidth: 2.4,
+    transform: "scale(0.5)",
+  });
 
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 1048" width="1060" height="1048">
   <defs>
@@ -268,8 +279,7 @@ export function buildStotraCardSvg(data: StotraCardData): string {
     <line x1="30"   y1="0" x2="160" y2="0" stroke="#C8A96A" stroke-width="0.9"/>
     <circle r="22" fill="none" stroke="#C8A96A" stroke-width="1.1"/>
     <circle r="14" fill="#013F47"/>
-    <text x="0" y="6" text-anchor="middle" font-family="serif" font-size="20"
-          fill="#E97A2B" font-weight="600">${v.glyph}</text>
+    ${crestPlanetGlyph}
     <g fill="#C8A96A" opacity="0.85">
       <polygon points="-30,0 -25,-4 -20,0 -25,4"/>
       <polygon points="30,0 25,-4 20,0 25,4"/>

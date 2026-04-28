@@ -7,6 +7,7 @@ import { Footer } from "@/components/layout/Footer";
 import { Icon } from "@/components/ui/Icon";
 import { AUTHORS, getAuthor } from "@/lib/authors";
 import { getPublishedPosts } from "@/lib/content";
+import { resolveFeaturedImage } from "@/lib/post-images";
 import { absoluteUrl, formatDate, SITE_URL } from "@/lib/utils";
 import { authorUrl } from "@/lib/internal-links";
 import {
@@ -336,7 +337,9 @@ export default async function AuthorPage({
                   gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))",
                 }}
               >
-                {posts.map((p) => (
+                {posts.map((p) => {
+                  const featured = resolveFeaturedImage(p);
+                  return (
                   <Link
                     key={p.id}
                     href={`/${p.category}/${p.subcategory}/${p.slug}`}
@@ -352,18 +355,37 @@ export default async function AuthorPage({
                     }}
                     className="post-card"
                   >
-                    <div
-                      className="diamond-bg"
-                      style={{
-                        height: 140,
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        color: "var(--saffron-light)",
-                      }}
-                    >
-                      <Icon name="sun" size={56} />
-                    </div>
+                    {featured ? (
+                      <div
+                        style={{
+                          position: "relative",
+                          height: 160,
+                          overflow: "hidden",
+                          background: "var(--cream-2)",
+                        }}
+                      >
+                        <Image
+                          src={featured.src}
+                          alt={featured.alt}
+                          fill
+                          sizes="(max-width: 768px) 100vw, 280px"
+                          style={{ objectFit: "cover" }}
+                        />
+                      </div>
+                    ) : (
+                      <div
+                        className="diamond-bg"
+                        style={{
+                          height: 140,
+                          display: "flex",
+                          alignItems: "center",
+                          justifyContent: "center",
+                          color: "var(--saffron-light)",
+                        }}
+                      >
+                        <Icon name="sun" size={56} />
+                      </div>
+                    )}
                     <div style={{ padding: "1.25rem 1.4rem" }}>
                       <span
                         style={{
@@ -425,7 +447,8 @@ export default async function AuthorPage({
                       </div>
                     </div>
                   </Link>
-                ))}
+                  );
+                })}
               </div>
             )}
           </div>

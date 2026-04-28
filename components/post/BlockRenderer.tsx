@@ -1,4 +1,13 @@
-import type { ContentBlock } from "@/lib/types";
+import type { ContentBlock, RelatedPostRef } from "@/lib/types";
+import { getPostBySlug } from "@/lib/content";
+import { resolveFeaturedImage } from "@/lib/post-images";
+import {
+  pillarStripLinks,
+  crossCategoryBridgeCandidates,
+} from "@/lib/internal-links";
+import { autoLinkProseHtml } from "@/lib/auto-prose-linker";
+import type { RelatedPostCard } from "./RelatedPosts";
+import { NavStrip } from "./NavStrip";
 import { ProseBlock } from "./ProseBlock";
 import { ScannableProse } from "./ScannableProse";
 import { PullQuote } from "./PullQuote";
@@ -37,11 +46,66 @@ interface Props {
   blocks: ContentBlock[];
   /** Category id used to apply theme colours to per-category components. */
   category?: string;
+  /** Subcategory slug — required for the auto pillar-strip to resolve. */
+  subcategory?: string;
   /** Post slug — used by image-figure blocks to resolve `public/posts/{slug}/{filename}` */
   slug?: string;
+  /** Author slug — required for the auto pillar-strip to link the byline. */
+  author_id?: string;
+  /** Optional taxonomy keys used by cross-category bridges. */
+  planet_id?: string;
+  ruling_planet?: string;
+  number?: number;
+  lagna_id?: string;
 }
 
-export function BlockRenderer({ blocks, category, slug }: Props) {
+export function BlockRenderer({
+  blocks,
+  category,
+  subcategory,
+  slug,
+  author_id,
+  planet_id,
+  ruling_planet,
+  number,
+  lagna_id,
+}: Props) {
+  // Resolve the auto-injected nav-strip data once. The strip is
+  // emitted server-side immediately before the related-posts block
+  // (or, if none, at the end of the article) so every post — every
+  // category, every terminal — receives the same enterprise outbound
+  // link set without the JSON having to declare it.
+  const pillars =
+    category && subcategory && author_id
+      ? pillarStripLinks({ category, subcategory, author_id })
+      : [];
+  const bridgeCandidates =
+    category && subcategory
+      ? crossCategoryBridgeCandidates({
+          category,
+          subcategory,
+          planet_id,
+          ruling_planet,
+          number,
+          lagna_id,
+        })
+      : [];
+  const verifiedBridges = bridgeCandidates
+    .filter((b) => {
+      // Only keep bridges whose target post (or subcategory landing
+      // for /gemstones/by-planet/...) actually exists. We probe via
+      // getPostBySlug on the last path segment.
+      const last = b.href.split("/").filter(Boolean).pop();
+      if (!last) return false;
+      // The /gemstones/by-planet/* listings are subcategory-style;
+      // accept them unconditionally — the listing route resolves
+      // to a real page even if no individual gemstone post exists yet.
+      if (b.href.startsWith("/gemstones/by-planet/")) return true;
+      return getPostBySlug(last) !== null;
+    })
+    .slice(0, 3);
+  let navStripInjected = false;
+
   return (
     <>
       {blocks.map((block, i) => {
@@ -52,7 +116,7 @@ export function BlockRenderer({ blocks, category, slug }: Props) {
                 key={i}
                 eyebrow={block.eyebrow}
                 heading={block.heading}
-                html={block.html}
+                html={autoLinkProseHtml(block.html)}
               />
             );
           case "scannable-prose":
@@ -61,8 +125,11 @@ export function BlockRenderer({ blocks, category, slug }: Props) {
                 key={i}
                 eyebrow={block.eyebrow}
                 heading={block.heading}
-                lead_html={block.lead_html}
-                subsections={block.subsections}
+                lead_html={autoLinkProseHtml(block.lead_html)}
+                subsections={block.subsections.map((s) => ({
+                  ...s,
+                  html: autoLinkProseHtml(s.html),
+                }))}
               />
             );
           case "image-figure":
@@ -210,15 +277,33 @@ export function BlockRenderer({ blocks, category, slug }: Props) {
                 data={block.data}
               />
             );
-          case "related-posts":
-            return (
-              <RelatedPosts
-                key={i}
-                eyebrow={block.eyebrow}
-                heading={block.heading}
-                posts={block.posts}
-              />
+          case "related-posts": {
+            // Resolve each related post's featured image server-side
+            // so the cards render the actual hero, not a placeholder
+            // medallion. Falls back to icon-medallion when the linked
+            // post or its image cannot be located on disk.
+            const enrichedPosts: RelatedPostCard[] = block.posts.map(
+              (p: RelatedPostRef) => {
+                const slug = p.href.split("/").filter(Boolean).pop() ?? "";
+                const linkedPost = getPostBySlug(slug);
+                const image = linkedPost
+                  ? resolveFeaturedImage(linkedPost)
+                  : null;
+                return { ...p, image };
+              },
             );
+            navStripInjected = true;
+            return (
+              <div key={i}>
+                <NavStrip pillars={pillars} bridges={verifiedBridges} />
+                <RelatedPosts
+                  eyebrow={block.eyebrow}
+                  heading={block.heading}
+                  posts={enrichedPosts}
+                />
+              </div>
+            );
+          }
           case "cta-band":
             return <CTABand key={i} data={block.data} />;
           case "cta-inline":
@@ -333,6 +418,11 @@ export function BlockRenderer({ blocks, category, slug }: Props) {
             return null;
         }
       })}
+      {/* Fallback enterprise nav-strip — guaranteed even on posts
+          that don't ship a related-posts block. */}
+      {!navStripInjected && (pillars.length > 0 || verifiedBridges.length > 0) ? (
+        <NavStrip pillars={pillars} bridges={verifiedBridges} />
+      ) : null}
     </>
   );
 }

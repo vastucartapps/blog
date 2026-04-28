@@ -1039,6 +1039,66 @@ function validate(post: PostJSON, file: string): ValidationReport {
     return Math.max(0, s);
   });
 
+  // ── Phase 14: enterprise internal-link contract (5)
+  //
+  // The site auto-emits a pillar nav-strip and cross-category
+  // bridges on every post via components/post/BlockRenderer. This
+  // check enforces that the source data fields the auto-injection
+  // depends on are present in the JSON, so EVERY post — every
+  // category, every terminal — emits the same outbound link set.
+  //
+  // Rules (hard-fail any missing piece):
+  //   1. category, subcategory, author_id must exist (other phases
+  //      already cover this; we re-assert for clarity).
+  //   2. The post must declare AT LEAST ONE taxonomy key the
+  //      cross-category bridges can hang on:
+  //        jyotish      → planet_id (graha-in-bhava posts must)
+  //        numerology   → number + ruling_planet
+  //        gemstones    → planet_id (by-planet posts must)
+  //      Other categories (vastu/tarot/puja/festivals/rudraksha)
+  //      are exempt — bridges fall back to pillar-only.
+  check("enterprise_links", 5, (issues) => {
+    let s = 5;
+    if (!post.category || !post.subcategory) {
+      issues.push("missing category/subcategory — pillar-strip cannot resolve");
+      hardFail("missing category for pillar-strip");
+      s -= 5;
+      return s;
+    }
+    if (!post.author_id) {
+      issues.push("missing author_id — author pillar link cannot resolve");
+      hardFail("missing author_id");
+      s -= 3;
+    }
+    const xtra = post as PostJSON & {
+      planet_id?: string;
+      ruling_planet?: string;
+      number?: number;
+    };
+    if (post.category === "jyotish" && post.subcategory === "graha-in-bhava") {
+      if (!xtra.planet_id) {
+        issues.push("jyotish/graha-in-bhava post missing planet_id — cross-category bridges cannot emit");
+        hardFail("missing planet_id for cross-link bridge");
+        s -= 3;
+      }
+    }
+    if (post.category === "numerology" && post.subcategory === "life-path") {
+      if (!xtra.ruling_planet || !xtra.number) {
+        issues.push("numerology/life-path post missing ruling_planet or number — cross-category bridges cannot emit");
+        hardFail("missing ruling_planet/number for cross-link bridge");
+        s -= 3;
+      }
+    }
+    if (post.category === "gemstones" && post.subcategory === "by-planet") {
+      if (!xtra.planet_id) {
+        issues.push("gemstones/by-planet post missing planet_id — cross-category bridges cannot emit");
+        hardFail("missing planet_id for cross-link bridge");
+        s -= 3;
+      }
+    }
+    return Math.max(0, s);
+  });
+
   void file;
   report.passed = report.total >= 90 && report.hard_failures.length === 0;
   return report;

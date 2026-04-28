@@ -11,7 +11,14 @@
 // SVG template authored by the brand owner. This module substitutes
 // the per-post fields (numeral, archetype, planet line, glyph, accent
 // colour, traits, mandala N, mandala caption) into the locked SVG.
+//
+// Planet glyphs are rendered as inline SVG paths via
+// `renderPlanetSymbol()` rather than Unicode astrological characters,
+// because sharp/librsvg falls back to Devanagari when the symbol
+// font isn't available — producing the broken-icon effect.
 // ─────────────────────────────────────────────────────────────────
+
+import { renderPlanetSymbol, type PlanetSymbolKey } from "./planet-symbols";
 
 interface NumerologyPlanetMeta {
   /** Sanskrit name with diacritics, used in body text and mandala caption. */
@@ -153,6 +160,21 @@ export function buildNumerologyHeroCardSvg(
   const petalRing = buildPetalRing(data.number);
   const accent = planet.accent;
   const N = data.number;
+  const planetKey = numberMeta.planet as PlanetSymbolKey;
+  // Hero planet medallion: 78pt-equivalent symbol scaled to ~64×64,
+  // centered on the medallion at translate(400, 588).
+  const heroPlanetGlyph = renderPlanetSymbol(planetKey, {
+    color: accent,
+    strokeWidth: 3.4,
+    transform: "scale(1.12)",
+  });
+  // Mandala crest planet glyph: smaller (~40px equivalent) on a
+  // dark teal disc at translate(0, -144).
+  const mandalaPlanetGlyph = renderPlanetSymbol(planetKey, {
+    color: accent,
+    strokeWidth: 2.6,
+    transform: "scale(0.62)",
+  });
 
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 1048" width="1060" height="1048" role="img" aria-label="Vedic numerology Life Path ${N} hero card">
   <defs>
@@ -249,11 +271,7 @@ export function buildNumerologyHeroCardSvg(
     <circle r="58" fill="none"
             stroke="var(--accent-color)" stroke-opacity="0.45"
             stroke-width="1"/>
-    <text id="planet-glyph-slot" x="0" y="22"
-          text-anchor="middle"
-          font-family="Georgia, 'Times New Roman', serif"
-          font-size="78"
-          fill="var(--accent-color)">${planet.glyph}</text>
+    <g id="planet-glyph-slot">${heroPlanetGlyph}</g>
   </g>
   <text id="planet-name-slot" x="400" y="688"
         text-anchor="middle"
@@ -328,11 +346,7 @@ ${petalRing}
 
     <g transform="translate(0 -144)">
       <circle r="28" fill="#012E34" stroke="url(#goldLine)" stroke-width="1.2"/>
-      <text id="mandala-planet-glyph-slot" x="0" y="12"
-            text-anchor="middle"
-            font-family="Georgia, 'Times New Roman', serif"
-            font-size="36"
-            fill="var(--accent-color)">${planet.glyph}</text>
+      <g id="mandala-planet-glyph-slot">${mandalaPlanetGlyph}</g>
     </g>
 
     <circle r="80" fill="#FBF6E8" stroke="url(#goldLine)" stroke-width="2.4"/>

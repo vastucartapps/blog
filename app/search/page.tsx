@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { SITE_URL } from "@/lib/utils";
 import { getPublishedPosts } from "@/lib/content";
 import { getCategory } from "@/lib/categories";
+import { resolveFeaturedImage } from "@/lib/post-images";
 import {
   BLOG_WEBSITE_REF,
   type SchemaEntity,
@@ -155,55 +157,79 @@ export default async function SearchPage({
                 <div style={{ display: "grid", gap: 14 }}>
                   {hits.map((p) => {
                     const cat = getCategory(p.category);
+                    const featured = resolveFeaturedImage(p);
                     return (
                       <Link
                         key={p.id}
                         href={`/${p.category}/${p.subcategory}/${p.slug}`}
                         style={{
-                          display: "block",
-                          padding: "1.2rem 1.4rem",
+                          display: "grid",
+                          gridTemplateColumns: featured ? "140px 1fr" : "1fr",
+                          gap: 16,
+                          padding: featured ? "0" : "1.2rem 1.4rem",
+                          paddingRight: "1.4rem",
                           borderRadius: 12,
                           border: "1px solid var(--border)",
                           background: "#ffffff",
                           textDecoration: "none",
                           color: "inherit",
+                          overflow: "hidden",
                         }}
                         className="post-card"
                       >
-                        <span
-                          style={{
-                            display: "inline-block",
-                            fontSize: 10,
-                            fontWeight: 700,
-                            letterSpacing: "0.1em",
-                            textTransform: "uppercase",
-                            color: "var(--teal)",
-                            marginBottom: 6,
-                          }}
-                        >
-                          {cat?.label ?? p.category}
-                        </span>
-                        <h2
-                          style={{
-                            fontFamily: "var(--font-display)",
-                            fontSize: 18,
-                            fontWeight: 600,
-                            color: "var(--on-light-1)",
-                            lineHeight: 1.3,
-                            marginBottom: 4,
-                          }}
-                        >
-                          {p.title}
-                        </h2>
-                        <p
-                          style={{
-                            fontSize: 13.5,
-                            color: "var(--on-light-3)",
-                            lineHeight: 1.65,
-                          }}
-                        >
-                          {p.subtitle}
-                        </p>
+                        {featured ? (
+                          <div
+                            style={{
+                              position: "relative",
+                              minHeight: 110,
+                              background: "var(--cream-2)",
+                            }}
+                          >
+                            <Image
+                              src={featured.src}
+                              alt={featured.alt}
+                              fill
+                              sizes="140px"
+                              style={{ objectFit: "cover" }}
+                            />
+                          </div>
+                        ) : null}
+                        <div style={{ padding: featured ? "1rem 0" : 0 }}>
+                          <span
+                            style={{
+                              display: "inline-block",
+                              fontSize: 10,
+                              fontWeight: 700,
+                              letterSpacing: "0.1em",
+                              textTransform: "uppercase",
+                              color: "var(--teal)",
+                              marginBottom: 6,
+                            }}
+                          >
+                            {cat?.label ?? p.category}
+                          </span>
+                          <h2
+                            style={{
+                              fontFamily: "var(--font-display)",
+                              fontSize: 18,
+                              fontWeight: 600,
+                              color: "var(--on-light-1)",
+                              lineHeight: 1.3,
+                              marginBottom: 4,
+                            }}
+                          >
+                            {p.title}
+                          </h2>
+                          <p
+                            style={{
+                              fontSize: 13.5,
+                              color: "var(--on-light-3)",
+                              lineHeight: 1.65,
+                            }}
+                          >
+                            {p.subtitle}
+                          </p>
+                        </div>
                       </Link>
                     );
                   })}

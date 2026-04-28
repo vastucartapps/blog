@@ -261,22 +261,66 @@ Both gates must pass before bulk publish. Rules in
 - `docs/THIN_CONTENT_RULES.md` — uniqueness gates, duplication audit
 - `docs/INTERNAL_LINKING.md` — URL contract + cluster rules
 
-## INTERNAL LINKING LAW
+## INTERNAL LINKING LAW — automatic, every post, every terminal
 
-- Every reference to a known entity (lagna, planet, sanskrit house
-  name, category, subcategory, gemstone, nakshatra) inside hero tags,
-  hero meta, prose, info-grid values, or related-post titles must
-  resolve to a hyperlink via `resolveEntityLink()` from
-  `lib/internal-links.ts`.
-- Cluster pillar pages: the lagna profile is the pillar for all 108
-  planet-in-house posts in that lagna. The planet profile is the
-  pillar for all 144 posts featuring that planet. Each post links to
-  both pillars.
-- Adjacent linking: every planet-in-house post links to the previous
-  and next house version (same planet, same lagna) and to the next
-  lagna version (same planet, same house).
-- Author cluster: every post links to its author page; the author
-  page lists every post by that author.
+The blog runs an **enterprise auto-injection mechanism** so every
+post gives and receives links automatically, regardless of which
+terminal authored it, which category it belongs to, or which day
+it was created. Authors do NOT manually wire pillar/category/author
+links into post.json — the render layer guarantees them.
+
+**Layers (all four are automatic):**
+
+1. **Pillar nav-strip** (`lib/internal-links.ts` `pillarStripLinks()`,
+   rendered by `components/post/NavStrip.tsx`). Auto-injected by
+   `BlockRenderer` immediately above the related-posts block on
+   every post. Always emits four links: subcategory hub, category
+   landing, category complete-guide pillar, author profile.
+
+2. **Cross-category bridges** (`crossCategoryBridgeCandidates()`).
+   Driven by the post's `planet_id`, `ruling_planet`, or `number`
+   field. Numerology Life Path 1 bridges to Jyotish Surya pillar +
+   Ruby gemstone listing. Jyotish planet posts bridge to the matching
+   Numerology life path + gemstone. Bridges are validated against
+   `getPostBySlug()` before render — broken targets degrade silently.
+
+3. **Auto prose linking** (`lib/auto-prose-linker.ts`
+   `autoLinkProseHtml()`). Server-side post-processor that walks
+   every prose / scannable-prose / pull-quote block and wraps the
+   FIRST occurrence of every recognised taxonomy entity (planet
+   names, lagna names, sanskrit house names) in an `<a>` tag.
+   Subsequent occurrences stay plain text so prose doesn't sea-of-blue.
+
+4. **Hero tag fallback** (`PostHero.tsx` + `tagUrl()`). Every hero
+   tag chip is clickable: known entities resolve via
+   `resolveEntityLink()`; unknown labels fall through to the
+   `/tag/{slug}` listing page (`app/tag/[slug]/page.tsx`).
+
+**The validator enforces the data fields** the auto-injection
+depends on (see `scripts/validate-post.ts` `enterprise_links` check,
+weight 5). Hard-fails any post that lacks:
+
+- `category`, `subcategory`, `author_id` (universal)
+- `planet_id` for jyotish/graha-in-bhava
+- `ruling_planet` + `number` for numerology/life-path
+- `planet_id` for gemstones/by-planet
+
+**Why this exists:** parallel terminals create posts on different
+days. Without code-level enforcement, link consistency drifts. The
+auto-injection means every post — at the moment it renders — emits
+the same standard outbound link surface.
+
+**Subdomain network linking** stays explicit (per-post
+`internal-links` block, ≥6 tools, validated against the sitemap
+cache). The auto-mechanism handles ONLY blog-internal links.
+
+**Cluster fundamentals (still required in JSON):**
+- Cluster pillar pages: lagna profile is pillar for 108 planet-in-house
+  posts; planet profile is pillar for 144 planet posts. Both
+  referenced from each post.
+- Adjacent linking: every planet-in-house post links to prev/next
+  house and next lagna version in `related-posts`.
+- Author cluster: post → author page → all posts by author.
 
 ## IMAGE STANDARD (SEO)
 

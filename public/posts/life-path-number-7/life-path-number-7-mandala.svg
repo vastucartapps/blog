@@ -103,11 +103,12 @@
 
     <g transform="translate(0 -132)">
       <circle r="32" fill="#012E34" stroke="url(#goldLine)" stroke-width="1.4"/>
-      <text id="planet-glyph-slot" x="0" y="14"
-            text-anchor="middle"
-            font-family="Georgia, 'Times New Roman', serif"
-            font-size="40"
-            fill="var(--accent-color)">☋</text>
+      <g id="planet-glyph-slot"><g transform="scale(0.62)">
+    <path d="M -14 -16 L -14 4 Q -14 22 0 22 Q 14 22 14 4 L 14 -16"
+          stroke="#C5A88A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="-14" cy="-20" r="3.5" fill="#C5A88A"/>
+    <circle cx="14" cy="-20" r="3.5" fill="#C5A88A"/>
+  </g></g>
     </g>
 
     <circle r="100" fill="#FBF6E8" stroke="url(#goldLine)" stroke-width="3"/>

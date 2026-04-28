@@ -30,6 +30,8 @@ const PALETTE = {
   border: "rgba(1,63,71,0.10)",
 } as const;
 
+import { renderPlanetSymbol, type PlanetSymbolKey } from "./planet-symbols";
+
 const PLANET_GLYPHS: Record<string, string> = {
   surya: "☉",
   chandra: "☽",
@@ -295,7 +297,7 @@ export function buildCareerCardSvg(data: CareerCardData): string {
 
     <!-- Planet glyph chip -->
     <circle cx="86" cy="146" r="42" fill="${accent}"/>
-    <text x="86" y="166" text-anchor="middle" font-family="Georgia, serif" font-size="48" font-weight="700" fill="${PALETTE.cream}">${escape(glyph)}</text>
+    <g transform="translate(86 146)">${renderPlanetSymbol((data.planet_id ?? "surya") as PlanetSymbolKey, { color: PALETTE.cream, strokeWidth: 3.4, transform: "scale(0.9)" })}</g>
 
     <!-- Title -->
     <text x="160" y="146" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700" fill="${PALETTE.ink}">${escape(planet)} in the ${data.house_number}${ordinalSuffix(data.house_number)} house</text>
@@ -391,7 +393,7 @@ export function buildRemediesCardSvg(data: RemediesCardData): string {
     <text x="40" y="86" font-family="system-ui, sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="${PALETTE.gold}">________________________</text>
 
     <circle cx="86" cy="146" r="42" fill="${PALETTE.gold}"/>
-    <text x="86" y="166" text-anchor="middle" font-family="Georgia, serif" font-size="48" font-weight="700" fill="${PALETTE.cream}">${escape(glyph)}</text>
+    <g transform="translate(86 146)">${renderPlanetSymbol((data.planet_id ?? "surya") as PlanetSymbolKey, { color: PALETTE.cream, strokeWidth: 3.4, transform: "scale(0.9)" })}</g>
 
     <text x="160" y="146" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700" fill="${PALETTE.ink}">${escape(planet)} remedies, ${data.house_number}${ordinalSuffix(data.house_number)} house</text>
     <text x="160" y="186" font-family="Georgia, serif" font-style="italic" font-size="22" fill="${PALETTE.inkSoft}">${escape(`${data.lagna_label} · daily practice protocol`)}</text>

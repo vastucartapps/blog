@@ -1,15 +1,26 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { motion } from "framer-motion";
 import type { RelatedPostRef } from "@/lib/types";
 import { Icon, type IconName } from "@/components/ui/Icon";
 import { fadeInUp, staggerContainer, inViewConfig } from "@/lib/motion";
 
+/**
+ * RelatedPostRef + an optional resolved featured image, populated
+ * server-side by BlockRenderer (which can read the JSON file off
+ * disk). When present, the card renders the actual post hero
+ * instead of the themed icon medallion.
+ */
+export interface RelatedPostCard extends RelatedPostRef {
+  image?: { src: string; alt: string; width?: number; height?: number } | null;
+}
+
 interface Props {
   eyebrow?: string;
   heading?: string;
-  posts: RelatedPostRef[];
+  posts: RelatedPostCard[];
 }
 
 const iconMap: Record<
@@ -96,6 +107,7 @@ export function RelatedPosts({ eyebrow, heading, posts }: Props) {
       <div className="related-posts-grid">
         {posts.map((p, i) => {
           const ico = iconMap[p.icon_variant ?? "generic"];
+          const featured = p.image ?? null;
           return (
             <motion.div variants={fadeInUp} key={`${p.href}-${i}`}>
               <Link
@@ -114,62 +126,100 @@ export function RelatedPosts({ eyebrow, heading, posts }: Props) {
                   transition: "transform .2s ease, border-color .2s ease, box-shadow .2s ease",
                 }}
               >
-                <div
-                  className="diamond-bg relative"
-                  style={{
-                    height: 180,
-                    display: "flex",
-                    alignItems: "center",
-                    justifyContent: "center",
-                  }}
-                >
-                  <span
-                    aria-hidden
-                    className="pointer-events-none absolute inset-0"
-                    style={{
-                      background: ico.bg,
-                    }}
-                  />
+                {featured ? (
                   <div
                     style={{
                       position: "relative",
-                      zIndex: 1,
-                      width: 96,
-                      height: 96,
-                      borderRadius: "50%",
-                      background: "rgba(255,255,255,0.06)",
-                      border: `2px solid ${ico.color}`,
+                      height: 200,
+                      overflow: "hidden",
+                      background: "var(--cream-2)",
+                    }}
+                  >
+                    <Image
+                      src={featured.src}
+                      alt={featured.alt}
+                      fill
+                      sizes="(max-width: 768px) 100vw, (max-width: 1200px) 33vw, 360px"
+                      style={{ objectFit: "cover" }}
+                    />
+                    <span
+                      style={{
+                        position: "absolute",
+                        top: 12,
+                        left: 12,
+                        display: "inline-flex",
+                        alignItems: "center",
+                        gap: 6,
+                        padding: "4px 10px",
+                        borderRadius: 999,
+                        background: "rgba(0,0,0,0.55)",
+                        color: ico.color,
+                        fontSize: 9.5,
+                        fontWeight: 700,
+                        letterSpacing: "0.10em",
+                        textTransform: "uppercase",
+                        backdropFilter: "blur(4px)",
+                      }}
+                    >
+                      Deep study
+                    </span>
+                  </div>
+                ) : (
+                  <div
+                    className="diamond-bg relative"
+                    style={{
+                      height: 180,
                       display: "flex",
                       alignItems: "center",
                       justifyContent: "center",
-                      color: ico.color,
-                      boxShadow: `0 12px 32px -10px ${ico.color}80`,
                     }}
                   >
-                    <Icon name={ico.name} size={48} />
+                    <span
+                      aria-hidden
+                      className="pointer-events-none absolute inset-0"
+                      style={{ background: ico.bg }}
+                    />
+                    <div
+                      style={{
+                        position: "relative",
+                        zIndex: 1,
+                        width: 96,
+                        height: 96,
+                        borderRadius: "50%",
+                        background: "rgba(255,255,255,0.06)",
+                        border: `2px solid ${ico.color}`,
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        color: ico.color,
+                        boxShadow: `0 12px 32px -10px ${ico.color}80`,
+                      }}
+                    >
+                      <Icon name={ico.name} size={48} />
+                    </div>
+                    <span
+                      style={{
+                        position: "absolute",
+                        top: 12,
+                        left: 12,
+                        display: "inline-flex",
+                        alignItems: "center",
+                        gap: 6,
+                        padding: "4px 10px",
+                        borderRadius: 999,
+                        background: "rgba(0,0,0,0.55)",
+                        color: ico.color,
+                        fontSize: 9.5,
+                        fontWeight: 700,
+                        letterSpacing: "0.10em",
+                        textTransform: "uppercase",
+                        backdropFilter: "blur(4px)",
+                      }}
+                    >
+                      Deep study
+                    </span>
                   </div>
-                  <span
-                    style={{
-                      position: "absolute",
-                      top: 12,
-                      left: 12,
-                      display: "inline-flex",
-                      alignItems: "center",
-                      gap: 6,
-                      padding: "4px 10px",
-                      borderRadius: 999,
-                      background: "rgba(0,0,0,0.55)",
-                      color: ico.color,
-                      fontSize: 9.5,
-                      fontWeight: 700,
-                      letterSpacing: "0.10em",
-                      textTransform: "uppercase",
-                      backdropFilter: "blur(4px)",
-                    }}
-                  >
-                    Deep study
-                  </span>
-                </div>
+                )}
                 <div
                   style={{
                     padding: "1.25rem 1.4rem 1.5rem",

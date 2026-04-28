@@ -172,7 +172,17 @@ export default async function PostPage({
           />
         ) : null}
         <main className="wrap-article" style={{ paddingBottom: "clamp(2.5rem, 6vw, 5rem)" }}>
-          <BlockRenderer blocks={renderableContent} category={post.category} slug={post.slug} />
+          <BlockRenderer
+            blocks={renderableContent}
+            category={post.category}
+            subcategory={post.subcategory}
+            slug={post.slug}
+            author_id={post.author_id}
+            planet_id={(post as { planet_id?: string }).planet_id}
+            ruling_planet={(post as { ruling_planet?: string }).ruling_planet}
+            number={(post as { number?: number }).number}
+            lagna_id={(post as { lagna_id?: string }).lagna_id}
+          />
         </main>
       </article>
       <Footer />

@@ -13,6 +13,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { renderPlanetSymbol, type PlanetSymbolKey } from "./planet-symbols";
 
 const PUBLIC_DIR = path.join(process.cwd(), "public");
 
@@ -193,13 +194,19 @@ export async function buildHeroCardSvg(data: HeroCardData): Promise<string> {
     `    <text x="${bsx}" y="${bsy}" font-family="Georgia, serif" font-size="14"\n` +
     `          fill="#7D5519" font-weight="700" text-anchor="middle">${signInHouseNum}</text>`;
 
-  // Planet marker inside the highlighted house.
+  // Planet marker inside the highlighted house. Inline-SVG path
+  // glyph (replaces Unicode astrological char that librsvg falls
+  // back to a Devanagari letter for).
   const [mx, my] = HOUSE[h].marker;
+  const houseMarkerGlyph = renderPlanetSymbol(planetKey as PlanetSymbolKey, {
+    color: "#F2A04C",
+    strokeWidth: 2.4,
+    transform: "scale(0.32)",
+  });
   const planetMarker =
     `    <g transform="translate(${mx}, ${my})">\n` +
     `      <circle r="16" fill="#013F47" stroke="#E0BF7C" stroke-width="1.6"/>\n` +
-    `      <text y="6.5" font-family="Georgia, serif" font-size="22"\n` +
-    `            fill="#F2A04C" text-anchor="middle" font-weight="700">${planet.glyph}</text>\n` +
+    `      ${houseMarkerGlyph}\n` +
     `    </g>`;
 
   // Highlighted house fill + outline polygons.
@@ -430,8 +437,11 @@ ${planetMarker}
               text-anchor="middle">PLANET</text>
         <circle r="66" fill="#012E34" stroke="#E0BF7C" stroke-width="1.8"/>
         <circle r="58" fill="none" stroke="${planet.accent}" stroke-width="0.8" opacity="0.45"/>
-        <text y="22" font-family="Georgia, 'Times New Roman', serif" font-size="78"
-              fill="${planet.accent}" text-anchor="middle" font-weight="500">${planet.glyph}</text>
+        ${renderPlanetSymbol(planetKey as PlanetSymbolKey, {
+          color: planet.accent,
+          strokeWidth: 3.4,
+          transform: "scale(1.12)",
+        })}
         <circle r="64" fill="none" stroke="#B8893E" stroke-width="1" opacity="0.5"/>
       </g>
       <text x="340" y="170" font-family="Georgia, serif" font-size="20"

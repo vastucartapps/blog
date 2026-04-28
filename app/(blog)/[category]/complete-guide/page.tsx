@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { CATEGORIES, getCategory } from "@/lib/categories";
 import { getPostsByCategory } from "@/lib/content";
+import { resolveFeaturedImage } from "@/lib/post-images";
 import { SITE_URL } from "@/lib/utils";
 import { buildPillarSchemas } from "@/lib/schema";
 
@@ -232,46 +234,72 @@ export default async function CategoryPillarPage({
                   {sub.description}
                 </p>
                 <div style={{ display: "grid", gap: 10 }}>
-                  {subPosts.map((p) => (
+                  {subPosts.map((p) => {
+                    const featured = resolveFeaturedImage(p);
+                    return (
                     <Link
                       key={p.id}
                       href={`/${p.category}/${p.subcategory}/${p.slug}`}
                       style={{
-                        display: "block",
-                        padding: "0.9rem 1.1rem",
+                        display: "grid",
+                        gridTemplateColumns: featured ? "100px 1fr" : "1fr",
+                        gap: 12,
+                        padding: featured ? "0" : "0.9rem 1.1rem",
+                        paddingRight: "1.1rem",
                         borderRadius: 10,
                         border: "1px solid var(--border)",
                         background: "#ffffff",
                         textDecoration: "none",
                         color: "inherit",
+                        overflow: "hidden",
                       }}
                       className="post-card"
                     >
-                      <h3
-                        style={{
-                          fontFamily: "var(--font-display)",
-                          fontSize: 15.5,
-                          fontWeight: 600,
-                          color: "var(--on-light-1)",
-                          lineHeight: 1.35,
-                        }}
-                      >
-                        {p.title}
-                      </h3>
-                      {p.subtitle ? (
-                        <p
+                      {featured ? (
+                        <div
                           style={{
-                            marginTop: 3,
-                            fontSize: 12.5,
-                            color: "var(--on-light-3)",
-                            lineHeight: 1.55,
+                            position: "relative",
+                            minHeight: 80,
+                            background: "var(--cream-2)",
                           }}
                         >
-                          {p.subtitle}
-                        </p>
+                          <Image
+                            src={featured.src}
+                            alt={featured.alt}
+                            fill
+                            sizes="100px"
+                            style={{ objectFit: "cover" }}
+                          />
+                        </div>
                       ) : null}
+                      <div style={{ padding: featured ? "0.75rem 0" : 0 }}>
+                        <h3
+                          style={{
+                            fontFamily: "var(--font-display)",
+                            fontSize: 15.5,
+                            fontWeight: 600,
+                            color: "var(--on-light-1)",
+                            lineHeight: 1.35,
+                          }}
+                        >
+                          {p.title}
+                        </h3>
+                        {p.subtitle ? (
+                          <p
+                            style={{
+                              marginTop: 3,
+                              fontSize: 12.5,
+                              color: "var(--on-light-3)",
+                              lineHeight: 1.55,
+                            }}
+                          >
+                            {p.subtitle}
+                          </p>
+                        ) : null}
+                      </div>
                     </Link>
-                  ))}
+                    );
+                  })}
                 </div>
               </div>
             );

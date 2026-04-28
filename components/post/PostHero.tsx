@@ -2,7 +2,11 @@ import Link from "next/link";
 import { Breadcrumb, type Crumb } from "@/components/layout/Breadcrumb";
 import { Icon, type IconName } from "@/components/ui/Icon";
 import type { HeroMetaItem, HeroTag } from "@/lib/types";
-import { resolveEntityLink, authorUrl } from "@/lib/internal-links";
+import {
+  resolveEntityLink,
+  authorUrl,
+  tagUrl,
+} from "@/lib/internal-links";
 import { AUTHORS } from "@/lib/authors";
 import { getTheme, type CategoryTheme } from "@/lib/category-themes";
 
@@ -187,7 +191,9 @@ export function PostHero({
 
         <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
           {tags.map((t, i) => {
-            const href = resolveEntityLink(t.label);
+            // Resolve to canonical entity URL when known; fall back
+            // to the tag-listing page so EVERY hero tag is clickable.
+            const href = resolveEntityLink(t.label) ?? tagUrl(t.label);
             const tagStyle: React.CSSProperties =
               t.tone === "teal"
                 ? {

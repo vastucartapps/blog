@@ -14,6 +14,7 @@
 // ─────────────────────────────────────────────────────────────────
 
 import { NUMEROLOGY_PLANETS, NUMEROLOGY_NUMBERS } from "./numerology-hero-card";
+import { renderPlanetSymbol, type PlanetSymbolKey } from "./planet-symbols";
 
 function escapeXml(s: string): string {
   return s
@@ -76,6 +77,14 @@ export function buildNumerologyMandalaSvg(
   const N = data.number;
   const petalRing = buildPetalRing(N);
   const lakshmiRing = buildLakshmiRing();
+  const planetKey = numberMeta.planet as PlanetSymbolKey;
+  // Mandala-crest planet glyph: ~40px equivalent on a 32-radius
+  // dark teal disc inside the central yantra.
+  const planetGlyph = renderPlanetSymbol(planetKey, {
+    color: accent,
+    strokeWidth: 2.6,
+    transform: "scale(0.62)",
+  });
 
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="Vedic numerology Life Path ${N} mandala">
   <defs>
@@ -141,11 +150,7 @@ ${petalRing}
 
     <g transform="translate(0 -132)">
       <circle r="32" fill="#012E34" stroke="url(#goldLine)" stroke-width="1.4"/>
-      <text id="planet-glyph-slot" x="0" y="14"
-            text-anchor="middle"
-            font-family="Georgia, 'Times New Roman', serif"
-            font-size="40"
-            fill="var(--accent-color)">${planet.glyph}</text>
+      <g id="planet-glyph-slot">${planetGlyph}</g>
     </g>
 
     <circle r="100" fill="#FBF6E8" stroke="url(#goldLine)" stroke-width="3"/>

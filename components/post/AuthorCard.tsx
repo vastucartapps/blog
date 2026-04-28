@@ -1,11 +1,13 @@
 "use client";
 
 import Image from "next/image";
+import Link from "next/link";
 import { motion } from "framer-motion";
 import { Icon, type IconName } from "@/components/ui/Icon";
 import type { AuthorCardData } from "@/lib/types";
 import { fadeInUp, inViewConfig } from "@/lib/motion";
 import { getAuthor } from "@/lib/authors";
+import { authorUrl } from "@/lib/internal-links";
 
 interface Props {
   author: AuthorCardData;
@@ -72,16 +74,18 @@ export function AuthorCard({ author }: Props) {
         )}
       </div>
       <div className="author-card-body">
-        <div
+        <Link
+          href={authorUrl(author.author_id)}
           style={{
             fontFamily: "var(--font-display)",
             fontSize: 20,
             fontWeight: 600,
             color: "var(--on-light-1)",
+            textDecoration: "none",
           }}
         >
           {profile.name}
-        </div>
+        </Link>
         <div
           style={{
             marginTop: 4,
@@ -156,6 +160,24 @@ export function AuthorCard({ author }: Props) {
             </span>
           ))}
         </div>
+        <Link
+          href={authorUrl(author.author_id)}
+          style={{
+            marginTop: 16,
+            display: "inline-flex",
+            alignItems: "center",
+            gap: 6,
+            fontSize: 12,
+            fontWeight: 700,
+            color: "var(--saffron, #E97A2B)",
+            letterSpacing: "0.06em",
+            textTransform: "uppercase",
+            textDecoration: "none",
+          }}
+        >
+          View author profile
+          <Icon name="arrow-right" size={12} />
+        </Link>
       </div>
     </motion.section>
   );
