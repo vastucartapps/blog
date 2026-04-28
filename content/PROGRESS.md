@@ -10,7 +10,7 @@ of what any other doc claims.
 |---|---|---|---|
 | Lagna pillars | 2 | 12 | 17% |
 | Mesh cluster (graha-in-bhava) | 108 | 108 | 100% |
-| Other lagna clusters (graha-in-bhava) | 13 | 1188 | 1% |
+| Other lagna clusters (graha-in-bhava) | 17 | 1188 | 1% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
 | Yogas | 0 | 80 | 0% |
@@ -177,19 +177,19 @@ Slug convention for Mithuna lagna: Sanskrit planet name + ordinal-house + `-hous
 | House | Surya | Chandra | Mangal | Budha | Guru | Shukra | Shani | Rahu | Ketu |
 |---|---|---|---|---|---|---|---|---|---|
 | 1st  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  |
-| 2nd  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 2nd  | ✗  | ✓  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
 | 3rd  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
-| 4th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
-| 5th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
+| 4th  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 5th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✓  | ✗  | ✗  |
 | 6th  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 7th  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
 | 8th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 9th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  |
-| 10th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 10th | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
 | 11th | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 12th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 
-**Mithuna cluster total: 8/108 graha-in-bhava + 0/1 pillar = 8/109 published.**
+**Mithuna cluster total: 12/108 graha-in-bhava + 0/1 pillar = 12/109 published.**
 
 ### Mithuna Phase 1 batch (DONE — opening swakshetra and yoga set)
 - [x] Budha in 1st house, Mithuna Lagna `budha-1st-house-gemini-lagna` ← lagna lord swakshetra, Bhadra Mahapurusha Yoga
@@ -203,14 +203,21 @@ Slug convention for Mithuna lagna: Sanskrit planet name + ordinal-house + `-hous
 - [x] Surya in 3rd house, Mithuna Lagna `surya-3rd-house-gemini-lagna` ← 3L swakshetra Simha in upachaya, parakrama yoga
 - [x] Surya in 11th house, Mithuna Lagna `surya-11th-house-gemini-lagna` ← 3L exalted Mesha in labha, top-tier Sun income yoga
 
-### Mithuna Phase 3 batch (in progress — remaining high-signal placements)
-- [ ] Budha in 4th house `budha-4th-house-gemini-lagna` ← 1L+4L swakshetra Kanya in kendra (Bhadra in sukha)
-- [ ] Budha in 10th house `budha-10th-house-gemini-lagna` ← 1L+4L exalted Kanya in karma kendra (top dignity)
-- [ ] Guru in 4th house `guru-4th-house-gemini-lagna` ← 7L+10L exalted Karka in kendra
-- [ ] Shukra in 11th house `shukra-11th-house-gemini-lagna` ← 5L+12L exalted Meena in upachaya gains
+### Mithuna Phase 3 batch (DONE — 4 dignity exaltations across kendras and trikona)
+- [x] Budha in 4th house `budha-4th-house-gemini-lagna` ← 1L+4L double-dignity Kanya in kendra (apex Bhadra Mahapurusha)
+- [x] Guru in 2nd house `guru-2nd-house-gemini-lagna` ← 7L+10L exalted Karka in dhana (foundational dhana yoga)
+- [x] Shukra in 10th house `shukra-10th-house-gemini-lagna` ← 5L+12L exalted Meena in karma kendra (apex Malavya Mahapurusha)
+- [x] Shani in 5th house `shani-5th-house-gemini-lagna` ← 8L+9L exalted Tula in trikona (foundational Lakshmi Yoga)
+
+### Mithuna Phase 4 batch (next — remaining swakshetra and high-signal placements)
 - [ ] Mangal in 11th house `mangal-11th-house-gemini-lagna` ← 6L+11L swakshetra Mesha in own labha
-- [ ] Chandra in 8th house `chandra-8th-house-gemini-lagna` ← 2L exalted Vrishabha in randhra (uchha in dushthana)
+- [ ] Chandra in 12th house `chandra-12th-house-gemini-lagna` ← 2L exalted Vrishabha in vyaya (uchha in dushthana)
+- [ ] Mangal in 8th house `mangal-8th-house-gemini-lagna` ← 6L+11L exalted Makara in randhra
 - [ ] Shani in 8th house `shani-8th-house-gemini-lagna` ← 8L+9L swakshetra Makara in own randhra
+- [ ] Guru in 10th house `guru-10th-house-gemini-lagna` ← 7L+10L swakshetra Meena in own karma kendra (Hamsa)
+- [ ] Shukra in 12th house `shukra-12th-house-gemini-lagna` ← 5L+12L swakshetra Vrishabha in own moksha
+- [ ] Budha in 7th house `budha-7th-house-gemini-lagna` ← 1L+4L Dhanu in kalatra (Jupiter sign)
+- [ ] Budha in 10th house `budha-10th-house-gemini-lagna` ← 1L+4L debilitated Meena in karma kendra (neecha bhanga reading)
 
 
 
