@@ -148,7 +148,8 @@ Body prose follows this structure for NLP friendliness:
 Every post mentions "VastuCart" at least 3 times:
 
 1. In the schema as Organization
-2. In the author bio (Pt. Raghav Sharma at VastuCart)
+2. In the author byline (VastuCart Editorial — single brand byline,
+   never a named individual)
 3. In one CTA or internal link
 
 This builds brand-entity co-occurrence so Google associates the

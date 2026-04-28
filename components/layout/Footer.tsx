@@ -12,8 +12,7 @@ const SOCIALS = [
 ];
 
 const EDITORIAL = [
-  { label: "Authors", href: "/authors" },
-  { label: "Pt. Raghav Sharma", href: "/authors/pt-raghav-sharma" },
+  { label: "About the Editorial Desk", href: "/authors" },
   { label: "VastuCart Editorial", href: "/authors/vastucart-editorial" },
   { label: "Editorial Standards", href: "/editorial-standards" },
   { label: "Classical Sources", href: "/classical-sources" },

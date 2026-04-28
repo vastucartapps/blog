@@ -58,10 +58,6 @@ export async function GET() {
     favicon: `${SITE_URL}/favicon.ico`,
     authors: [
       {
-        name: "Pt. Raghav Sharma",
-        url: `${SITE_URL}/authors/pt-raghav-sharma`,
-      },
-      {
         name: "VastuCart Editorial",
         url: `${SITE_URL}/authors/vastucart-editorial`,
       },

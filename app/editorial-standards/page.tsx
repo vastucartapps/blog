@@ -82,8 +82,8 @@ export default function EditorialStandardsPage() {
         a: "We cite classical texts first: Brihat Parashara Hora Shastra, Jaimini Sutras, Saravali, Phaladeepika, and Brihat Samhita for Jyotish; Manasara, Mayamatam, and Vishwakarma Prakash for Vastu; Rider Waite tradition for tarot; Pythagorean and Chaldean systems for numerology; Nirnaya Sindhu and Dharma Sindhu for festival timing; Garuda Purana and Rudraksha Jabala Upanishad for Rudraksha. The full reading list lives on the Classical Sources page.",
       },
       {
-        q: "Who reviews articles before publication?",
-        a: "Jyotish content is authored and reviewed by Pt. Raghav Sharma, a Varanasi-based practicing Jyotishacharya. Everything else is produced by the VastuCart Editorial desk and reviewed by senior practitioners on staff before publication.",
+        q: "Who writes and reviews articles?",
+        a: "Every article is written by the VastuCart Editorial desk under one byline. Jyotish articles are additionally reviewed by the VastuCart Jyotish Review Panel, an in-house collective of senior Vedic astrology practitioners that verifies graha placements, dasha calculations, yoga interpretations, and remedial recommendations before publication.",
       },
       {
         q: "What happens when a reader flags an error?",
@@ -196,20 +196,22 @@ export default function EditorialStandardsPage() {
           >
             <h2 id="authorship" style={proseH2}>1. Authorship</h2>
             <p>
-              Jyotish content — every Graha placement, Dasha analysis, Lagna
-              profile, Nakshatra reading, and remedial article — is authored
-              and reviewed by{" "}
-              <Link href="/authors/pt-raghav-sharma" style={proseLink}>
-                Pt. Raghav Sharma
-              </Link>
-              , a practicing Jyotishacharya in Varanasi with two decades of
-              consultation experience in the Parasari tradition. Everything
-              else, including numerology, Vastu, tarot, puja vidhi, festivals,
-              gemstones, and rudraksha, is produced by the{" "}
+              Every article on this blog is published under a single byline:
+              the{" "}
               <Link href="/authors/vastucart-editorial" style={proseLink}>
                 VastuCart Editorial Desk
-              </Link>{" "}
-              and reviewed by the senior panel before publication.
+              </Link>
+              . The desk researches, writes, and edits long-form content on
+              Vedic astrology, numerology, Vastu Shastra, tarot, puja vidhi,
+              festivals, gemstones, and rudraksha. Jyotish articles —
+              every Graha placement, Dasha analysis, Lagna profile,
+              Nakshatra reading, and remedial article — are additionally
+              reviewed by the VastuCart Jyotish Review Panel, an in-house
+              collective of senior practitioners that verifies traditional
+              accuracy, terminology, and remedial soundness before
+              publication. We do not surface individual contributor names
+              because our content reflects the desk and its review panel,
+              not a single practitioner.
             </p>
 
             <h2 id="sourcing" style={proseH2}>2. Research and sourcing</h2>
@@ -218,7 +220,7 @@ export default function EditorialStandardsPage() {
               Jaimini Sutras, Saravali, Phaladeepika, Brihat Samhita, and the
               Manasagari. Vastu content references Manasara, Mayamatam, and
               Vishwakarma Prakash. Tarot content references the Rider Waite
-              tradition and Pamela Colman Smith's 1910 deck as the primary
+              tradition and Pamela Colman Smith&apos;s 1910 deck as the primary
               source. Numerology follows the Pythagorean and Chaldean systems.
               The full reading list lives on our{" "}
               <Link href="/classical-sources" style={proseLink}>

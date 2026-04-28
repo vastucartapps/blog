@@ -16,13 +16,13 @@ const URL = `${SITE_URL}/authors`;
 export const metadata: Metadata = {
   title: "Authors — VastuCart Blog",
   description:
-    "The practitioners and editors behind VastuCart Blog. Meet the Jyotishacharyas, Vastu consultants, and research desk that produce our long-form articles.",
+    "VastuCart Editorial is the in-house desk that researches, writes, and edits every article on VastuCart Blog. Jyotish content is additionally reviewed by the VastuCart Jyotish Review Panel.",
   alternates: { canonical: URL },
   openGraph: {
     type: "website",
     title: "Authors — VastuCart Blog",
     description:
-      "The practitioners and editors behind VastuCart Blog. Meet the Jyotishacharyas and research desk that produce our long-form articles.",
+      "VastuCart Editorial is the in-house desk that produces every article on VastuCart Blog. Jyotish content is reviewed by the VastuCart Jyotish Review Panel.",
     url: URL,
   },
 };
@@ -41,7 +41,7 @@ export default function AuthorsIndexPage() {
     pageType: "CollectionPage",
     name: "Authors — VastuCart Blog",
     description:
-      "The practitioners and editors behind VastuCart Blog. Meet the Jyotishacharyas, Vastu consultants, and research desk that produce our long-form articles.",
+      "VastuCart Editorial is the in-house desk that researches, writes, and edits every article on VastuCart Blog. Jyotish content is additionally reviewed by the VastuCart Jyotish Review Panel.",
     breadcrumb: [{ name: "Authors", url: "/authors" }],
     items: authorList.map((a, i) => ({
       name: a.name,
@@ -56,20 +56,20 @@ export default function AuthorsIndexPage() {
     ],
     faq: [
       {
-        q: "Who writes Jyotish articles on VastuCart Blog?",
-        a: "Jyotish articles are authored and reviewed by Pt. Raghav Sharma, a Varanasi-based practicing Jyotishacharya with two decades of consultation experience in the Parasari tradition.",
+        q: "Who writes the articles on VastuCart Blog?",
+        a: "Every article on VastuCart Blog is published under a single byline: VastuCart Editorial. We are an in-house desk that researches, writes, and edits long-form content on Vedic astrology, numerology, Vastu, tarot, puja vidhi, festivals, gemstones, and rudraksha.",
       },
       {
-        q: "Who writes non-Jyotish content (numerology, tarot, vastu, puja, festivals, gemstones, rudraksha)?",
-        a: "Non-Jyotish content is produced by the VastuCart Editorial desk, researched collaboratively against classical sources, and reviewed by senior practitioners on staff before publication.",
+        q: "Who reviews Jyotish articles before publication?",
+        a: "Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel, an in-house collective of senior Vedic astrology practitioners. The panel verifies graha placements, dasha calculations, yoga interpretations, and remedial recommendations before any Jyotish article ships.",
       },
       {
         q: "How is accuracy ensured?",
         a: "Every article passes four editorial gates: factual review against primary classical sources (BPHS, Jaimini Sutras, Manasara, Rudraksha Jabala Upanishad, and others listed on our Classical Sources page), Sanskrit spelling check, internal-link validation, and JSON-LD schema validation.",
       },
       {
-        q: "Can I contact an author directly?",
-        a: "Editorial queries go to hi@vastucart.in. Business queries go to business@vastucart.in. Individual author contact is channelled through the editorial desk to protect practitioner time.",
+        q: "Can I contact the editorial desk?",
+        a: "Editorial queries go to hi@vastucart.in. Business queries go to business@vastucart.in. We do not surface individual contributor names because our content reflects the desk and its review panel, not a single practitioner.",
       },
     ],
     datePublished: "2026-04-20T00:00:00.000Z",
@@ -138,9 +138,10 @@ export default function AuthorsIndexPage() {
                 color: "rgba(255,255,255,0.78)",
               }}
             >
-              Jyotish content is authored and reviewed by a practicing
-              Jyotishacharya. Everything else is produced by our in-house
-              editorial desk and reviewed by the senior panel before publication.
+              Every article on this blog is published under one byline:
+              VastuCart Editorial. Our in-house desk researches, writes, and
+              edits the content. Jyotish articles are additionally reviewed
+              by the VastuCart Jyotish Review Panel before publication.
               Read our{" "}
               <Link
                 href="/editorial-standards"
@@ -170,7 +171,6 @@ export default function AuthorsIndexPage() {
           >
             {authorList.map((author) => {
               const count = countByAuthor[author.id] ?? 0;
-              const isEditorial = author.id === "vastucart-editorial";
               return (
                 <Link
                   key={author.id}
@@ -240,10 +240,10 @@ export default function AuthorsIndexPage() {
                           fontWeight: 700,
                           letterSpacing: "0.12em",
                           textTransform: "uppercase",
-                          color: isEditorial ? "var(--teal)" : "var(--saffron)",
+                          color: "var(--teal)",
                         }}
                       >
-                        {isEditorial ? "Editorial Desk" : "Senior Practitioner"}
+                        Editorial Desk
                       </span>
                       <h2
                         style={{

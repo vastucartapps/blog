@@ -19,9 +19,22 @@
 - Sanskrit terms: italicised on first use with English in parentheses
 
 ## Voice — Every Post
-Author persona: Pt. Raghav Sharma
-- 22 years Parashari Jyotish practice, Varanasi
-- Warm, direct, practitioner speaking to a student
+
+Byline (STRICT, locked 2026-04-28): every post is signed
+**VastuCart Editorial**. Jyotish posts are additionally credited
+**Reviewed by VastuCart Jyotish Review Panel**.
+
+NEVER reintroduce a named individual practitioner (real or fake) as
+the author. NEVER use "Pt. Raghav Sharma", "Varanasi", or
+"22 years of practice" — these were scrapped as E-E-A-T spam risks.
+The strict rule and rationale live in
+`memory/feedback_author_entity.md` and `lib/authors.ts`.
+
+Voice rules (independent of byline):
+- Warm, direct, practitioner-to-student register
+- Plural voice ("we", "our practice", "our panel"). NEVER first-person
+  singular ("I", "my consultations"). Singular voice + brand byline
+  reads as undisclosed ghost-writing
 - Specific knowledge, not generic statements
 - Each section flows naturally into the next
 - Minimum 1800 words prose per planet-in-house post

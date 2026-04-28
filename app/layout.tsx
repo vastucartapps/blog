@@ -15,15 +15,11 @@ export const metadata: Metadata = {
     template: "%s | VastuCart Blog",
   },
   description:
-    "Practitioner-grade Vedic astrology and Jyotish from the VastuCart panel. Planets, houses, nakshatras, tarot, numerology, vastu, gemstones, rudraksha and remedies, reviewed by senior Jyotishacharyas.",
+    "Long-form Vedic astrology, Jyotish, Vastu, numerology, tarot, gemstones, rudraksha, puja vidhi and festival guidance from VastuCart Editorial. Jyotish content is reviewed by the VastuCart Jyotish Review Panel before publication.",
   applicationName: "VastuCart Blog",
   generator: "Next.js",
   referrer: "origin-when-cross-origin",
   authors: [
-    {
-      name: "Pt. Raghav Sharma",
-      url: `${SITE_URL}/authors/pt-raghav-sharma`,
-    },
     {
       name: "VastuCart Editorial",
       url: `${SITE_URL}/authors/vastucart-editorial`,

@@ -1,50 +1,27 @@
 import type { Author } from "./types";
 
 // ─────────────────────────────────────────────────────────────────
-// Author registry — two canonical authors only, per
-// public/00-shared-contracts.md §2.2 and public/04-blog-vastucart-in.md
-// §A.2. Person `@id` values are emitted by lib/schema/person.ts and
-// must never diverge from the contract.
+// Author registry — STRICT, locked 2026-04-28.
 //
-//   Jyotish vertical        → pt-raghav-sharma (named practitioner)
-//   Everything else         → vastucart-editorial (editorial desk)
+// EXACTLY ONE entity may appear here, and EXACTLY ONE entity may
+// appear as the byline anywhere on this blog: VastuCart Editorial.
 //
-// Do NOT introduce additional named authors. Add new lineage experts
-// under the Editorial byline with a named reviewer line inside the
-// article body, not as a new Person entity.
+// NEVER add another entry to this map. NEVER add a named individual,
+// real or invented. Multiple author personas split E-E-A-T signal
+// and look like a content farm; a single brand byline consolidates
+// authority into the parent VastuCart Organization.
+//
+// Reviewers are a different role with their own registry in
+// `lib/schema/reviewer.ts` (currently `vastucart-jyotish-review-panel`).
+// Reviewers are emitted via `reviewedBy`, NEVER via `author`.
+//
+// If a future requirement asks to credit an individual contributor,
+// put their name in a "Contributions by ..." or "Reviewed by ..."
+// line inside the article body. Do NOT introduce a new entry here.
+// Do NOT emit a Person schema for them.
 // ─────────────────────────────────────────────────────────────────
 
 export const AUTHORS: Record<string, Author> = {
-  "pt-raghav-sharma": {
-    id: "pt-raghav-sharma",
-    name: "Pt. Raghav Sharma",
-    title: "Jyotish Acharya, Varanasi",
-    initials: "RS",
-    avatar_url: "/authors/pt-raghav-sharma.webp",
-    avatar_gradient: "from-saffron to-gold",
-    bio:
-      "Varanasi-based practicing Jyotishi with over two decades of consultation experience across Graha and Dasha analysis, muhurta and remedial astrology. Trained in the Parasari and Jaimini traditions through the classical gurukul path.",
-    specialization: [
-      "Vedic Astrology",
-      "Jyotish",
-      "Graha placements",
-      "Vimshottari Dasha",
-      "Parasari Jyotish",
-      "Kundali analysis",
-      "Yogas",
-      "Doshas",
-      "Remedial astrology",
-    ],
-    categories: ["jyotish", "gemstones", "rudraksha"],
-    experience_years: 22,
-    location: "Varanasi, Uttar Pradesh, India",
-    lineage: "Parasari Jyotish (traditional gurukul lineage)",
-    article_count: 0,
-    schema_same_as: [
-      "https://www.linkedin.com/company/vastucart",
-      "https://x.com/vastucart",
-    ],
-  },
   "vastucart-editorial": {
     id: "vastucart-editorial",
     name: "VastuCart Editorial",
@@ -53,7 +30,7 @@ export const AUTHORS: Record<string, Author> = {
     avatar_url: "/VastuCartLogo.png",
     avatar_gradient: "from-teal to-dark",
     bio:
-      "The in-house editorial team at VastuCart, curating accessible introductions to Vedic astrology, numerology, Vastu Shastra, tarot, stotras, festivals, puja vidhi, gemstones and rudraksha. Articles by this byline are researched collaboratively and reviewed by senior practitioners on staff before publication.",
+      "The in-house editorial team at VastuCart. We research, write, and edit long-form articles on Vedic astrology, numerology, Vastu Shastra, tarot, stotras, festivals, puja vidhi, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
     specialization: [
       "Vedic Astrology",
       "Jyotish",
@@ -67,6 +44,7 @@ export const AUTHORS: Record<string, Author> = {
       "Rudraksha",
     ],
     categories: [
+      "jyotish",
       "numerology",
       "tarot",
       "vastu",
@@ -88,16 +66,15 @@ export const AUTHORS: Record<string, Author> = {
   },
 };
 
+export const DEFAULT_AUTHOR_ID = "vastucart-editorial";
+
 export function getAuthor(id: string): Author | undefined {
   return AUTHORS[id];
 }
 
-// Editorial-desk fallback. Use this when a post has no `author_id`
-// or references an unknown author. Jyotish posts should still use
-// pt-raghav-sharma explicitly.
-export const DEFAULT_AUTHOR_ID = "vastucart-editorial";
-
-export function resolveAuthor(id: string | undefined): Author {
-  if (id && AUTHORS[id]) return AUTHORS[id];
+// Always returns VastuCart Editorial. Any unknown or legacy id
+// (e.g. the scrapped pt-raghav-sharma) silently resolves to the
+// editorial desk so historical content doesn't break.
+export function resolveAuthor(_id: string | undefined): Author {
   return AUTHORS[DEFAULT_AUTHOR_ID];
 }

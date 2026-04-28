@@ -10,7 +10,7 @@ export const CATEGORIES: CategoryDef[] = [
       "Classical Vedic astrology, from graha placements and lagna profiles to dashas, yogas, and remedial practice.",
     icon_name: "kundali",
     color_var: "saffron",
-    author_id: "pt-raghav-sharma",
+    author_id: "vastucart-editorial",
     sort_order: 1,
     post_count_target: 600,
     subcategories: [
@@ -135,7 +135,7 @@ export const CATEGORIES: CategoryDef[] = [
     description: "Authentic Jyotish gemstone guidance by planet, lagna, finger, metal and wearing vidhi.",
     icon_name: "gem",
     color_var: "teal",
-    author_id: "pt-raghav-sharma",
+    author_id: "vastucart-editorial",
     sort_order: 7,
     post_count_target: 90,
     subcategories: [
@@ -153,7 +153,7 @@ export const CATEGORIES: CategoryDef[] = [
     description: "All mukhi rudraksha beads with ruling planet, deity, benefit and wearing protocol.",
     icon_name: "beads",
     color_var: "gold",
-    author_id: "pt-raghav-sharma",
+    author_id: "vastucart-editorial",
     sort_order: 8,
     post_count_target: 60,
     subcategories: [

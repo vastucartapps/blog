@@ -73,17 +73,32 @@ to the intro and pull quote. Google Assistant reads them out loud
 for voice queries. Voice search competition for Vedic astrology is
 near zero.
 
-## H. EEAT signals — author Person schema
+## H. EEAT signals — brand byline + reviewer panel
 
-Every post has a real author with:
-- Real photo (when generated)
-- `Person` schema with `knowsAbout` array, `alumniOf`, `birthPlace`
-- Lineage citation (Varanasi tradition, Parashari Jyotish)
-- 22+ years of experience credential
-- Same author across many posts (consistency)
+(Updated 2026-04-28: the prior "named individual practitioner" approach
+was scrapped. Fake-individual `Person` schema is an E-E-A-T spam
+signal in YMYL-adjacent niches. Brand-honest editorial byline +
+named reviewer panel is the locked path.)
 
-YMYL-adjacent content (astrology is borderline) gets a major boost
-from strong author signals.
+Every post is published under a single brand byline:
+
+- `Organization` schema (NOT `Person`) at `@id`
+  `/authors/vastucart-editorial#organization`
+- `parentOrganization` pointing to VastuCart's canonical Organization
+- `knowsAbout` array of category specialisations
+- Brand logo as the image (never an individual portrait)
+- Company HQ city + region only (Jhunjhunu, Rajasthan, IN)
+- `sameAs` to VastuCart social profiles, never an individual's
+
+Jyotish posts additionally emit `reviewedBy` pointing to the
+`vastucart-jyotish-review-panel` Organization (also Organization,
+not Person). Every Jyotish article is verified by the panel before
+publication. The reviewer entity is registered in
+`lib/schema/reviewer.ts`.
+
+YMYL-adjacent content (astrology is borderline) gets its E-E-A-T
+boost from honest, verifiable, organisation-level accountability —
+not from fabricated individual credentials.
 
 ## I. FAQ as long-tail query targets
 

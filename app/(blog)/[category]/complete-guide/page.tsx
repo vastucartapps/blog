@@ -57,10 +57,7 @@ export default async function CategoryPillarPage({
 
   const posts = getPostsByCategory(cat.slug);
   const url = `${SITE_URL}/${cat.slug}/complete-guide`;
-  const authorSlug =
-    cat.author_id === "pt-raghav-sharma"
-      ? "pt-raghav-sharma"
-      : "vastucart-editorial";
+  const authorSlug = "vastucart-editorial";
 
   const now = new Date().toISOString();
   // Derive pillar word count from the intro + subcategory descriptions +

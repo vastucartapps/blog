@@ -19,14 +19,19 @@ export const BLOG_WEBSITE_ID = `${SITE_URL}/#website`;
 export const BLOG_ENTITY_ID = `${SITE_URL}/#blog`;
 export const GLOSSARY_ID = `${SITE_URL}/#glossary`;
 
-// 3. Persons — canonical on this subdomain (see lib/schema/person.ts)
+// 3. Author entity — STRICT, only VastuCart Editorial allowed.
+// The map exists for forward compatibility but contains exactly
+// ONE entry. Never add a named individual. See lib/authors.ts
+// for the full rule.
 export const PERSON_IDS: Record<string, string> = {
-  "pt-raghav-sharma": `${SITE_URL}/authors/pt-raghav-sharma#person`,
-  "vastucart-editorial": `${SITE_URL}/authors/vastucart-editorial#person`,
+  "vastucart-editorial": `${SITE_URL}/authors/vastucart-editorial#organization`,
 };
 
-export function personId(authorSlug: string): string {
-  return PERSON_IDS[authorSlug] ?? PERSON_IDS["vastucart-editorial"];
+export function personId(_authorSlug: string): string {
+  // Any input id (including legacy pt-raghav-sharma references in
+  // historical posts) resolves to the editorial desk. There is
+  // exactly one author entity on this blog.
+  return PERSON_IDS["vastucart-editorial"];
 }
 
 // 3a. Reviewer organisations — collective panels (no individuals).

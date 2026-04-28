@@ -228,7 +228,18 @@ function migratePost(post: PostJson): { changed: boolean; post: PostJson } {
         .replace(/twenty[ -]two years of practice/gi, "decades of practice")
         .replace(/400\+? articles/gi, "many articles")
         .replace(/four hundred in-?depth articles/gi, "many in-depth articles")
-        .replace(/Varanasi-based practicing Jyotishi/gi, "VastuCart Jyotish Review Panel");
+        .replace(/Varanasi-based practi[cs]ing Jyotishi/gi, "VastuCart Jyotish Review Panel")
+        .replace(/practi[cs]ing Jyotishi/gi, "Jyotish Review Panel")
+        // Narrative-voice persona scrubs (audit 2026-04-28)
+        .replace(/Across twenty[ -]two years of Varanasi consultations/gi, "Across decades of consultation experience")
+        .replace(/twenty[ -]two years of Varanasi consultations/gi, "decades of consultation experience")
+        .replace(/twenty[ -]two years of consultation experience/gi, "decades of consultation experience")
+        .replace(/I have read perhaps (\w+ \w+) such charts/gi, "We have analysed many such charts")
+        .replace(/I have read more than (\w+ \w+) ([\w- ]+?) charts in decades of practice in Varanasi/gi, "We have analysed thousands of $2 charts across our practice")
+        .replace(/in decades of practice in Varanasi/gi, "across our practice")
+        .replace(/decades of practice in Varanasi/gi, "decades of practice")
+        .replace(/I have several colleagues in Varanasi who/gi, "We know practitioners on our panel who")
+        .replace(/colleagues in Varanasi/gi, "practitioners on our panel");
 
     // Deep recursive scrub for nested fields (sub, label, title, etc.)
     const deepScrub = (val: unknown): unknown => {
@@ -326,6 +337,7 @@ function migratePost(post: PostJson): { changed: boolean; post: PostJson } {
         .replace(/Pt\.?\s*Raghav Sharma/g, "VastuCart Editorial")
         .replace(/Pandit Raghav Sharma/g, "VastuCart Editorial")
         .replace(/\/authors\/pt-raghav-sharma/g, "/authors/vastucart-editorial")
+        .replace(/pt-raghav-sharma/g, "vastucart-editorial")
         .replace(/over twenty[ -]two years/gi, "decades of")
         .replace(/22 years/g, "decades of")
         .replace(/over 22 years/g, "decades of")
@@ -333,9 +345,20 @@ function migratePost(post: PostJson): { changed: boolean; post: PostJson } {
         .replace(/400\+? articles/gi, "many articles")
         .replace(/four hundred in-?depth articles/gi, "many in-depth articles")
         .replace(
-          /Varanasi-based practicing Jyotishi/gi,
+          /Varanasi-based practi[cs]ing Jyotishi/gi,
           "VastuCart Jyotish Review Panel"
-        );
+        )
+        .replace(/practi[cs]ing Jyotishi/gi, "Jyotish Review Panel")
+        // Narrative-voice persona scrubs (audit 2026-04-28)
+        .replace(/Across twenty[ -]two years of Varanasi consultations/gi, "Across decades of consultation experience")
+        .replace(/twenty[ -]two years of Varanasi consultations/gi, "decades of consultation experience")
+        .replace(/twenty[ -]two years of consultation experience/gi, "decades of consultation experience")
+        .replace(/I have read perhaps (\w+ \w+) such charts/gi, "We have analysed many such charts")
+        .replace(/I have read more than (\w+ \w+) ([\w- ]+?) charts in decades of practice in Varanasi/gi, "We have analysed thousands of $2 charts across our practice")
+        .replace(/in decades of practice in Varanasi/gi, "across our practice")
+        .replace(/decades of practice in Varanasi/gi, "decades of practice")
+        .replace(/I have several colleagues in Varanasi who/gi, "We know practitioners on our panel who")
+        .replace(/colleagues in Varanasi/gi, "practitioners on our panel");
       if (next !== val) changed = true;
       return next;
     }

@@ -2,24 +2,30 @@ import { SITE_URL } from "../utils";
 import { AUTHORS } from "../authors";
 import { ORG_REF, personId, type SchemaEntity } from "./constants";
 import type { Author } from "../types";
-import type { Author as AuthorShape } from "../types";
 
-// Re-export typed Author so consumers can import from one place
 export type { Author };
 
 // ─────────────────────────────────────────────────────────────────
-// Canonical Person schemas — owned by this subdomain (contract §2.2).
+// Author schema — STRICT, locked 2026-04-28.
 //
-// Pt. Raghav Sharma emits a full E-E-A-T signature: honorificPrefix,
-// jobTitle, alumniOf, knowsAbout, address, hasCredential, sameAs.
+// We emit @type Organization (NOT Person) for the editorial desk.
+// Reasons:
 //
-// VastuCart Editorial emits the team byline — jobTitle, description,
-// image, knowsAbout, sameAs — but no address or personal credential
-// (because it's an editorial desk, not an individual). Honesty on
-// these fields is what E-E-A-T rewards; fabricated credentials hurt.
+//   1. The byline is a brand, not an individual. Emitting Person for
+//      a collective byline is dishonest entity modelling and Google's
+//      2026 SpamBrain quality signals downrank fake-individual schema.
+//   2. The Organization parent-child relationship (parentOrganization
+//      VastuCart) consolidates E-E-A-T into one Knowledge Graph node.
+//   3. We do NOT fabricate honorifics, alma maters, occupational
+//      credentials, individual addresses, or birth cities. Every one
+//      of those fields would be a lie for a desk byline.
+//
+// The function is still named `buildPersonSchema` for backward
+// compatibility with callers — its output is now Organization.
+// Renaming is a follow-up cleanup, not a behavior change.
 // ─────────────────────────────────────────────────────────────────
 
-function authorImageUrl(author: AuthorShape): string {
+function authorImageUrl(author: Author): string {
   if (!author.avatar_url) return `${SITE_URL}/VastuCartLogo.png`;
   return author.avatar_url.startsWith("http")
     ? author.avatar_url
@@ -34,54 +40,17 @@ export function buildPersonSchema(authorSlug: string): SchemaEntity | null {
   const author = AUTHORS[authorSlug];
   if (!author) return null;
 
-  const base: SchemaEntity = {
+  return {
     "@context": "https://schema.org",
-    "@type": "Person",
+    "@type": "Organization",
     "@id": personId(authorSlug),
     name: author.name,
-    jobTitle: author.title,
     description: author.bio,
     image: authorImageUrl(author),
     url: authorPageUrl(authorSlug),
-    worksFor: ORG_REF,
+    parentOrganization: ORG_REF,
     knowsAbout: author.specialization,
     sameAs: author.schema_same_as,
-  };
-
-  if (authorSlug === "pt-raghav-sharma") {
-    return {
-      ...base,
-      honorificPrefix: "Pandit",
-      alumniOf: {
-        "@type": "EducationalOrganization",
-        name: author.lineage ?? "Parasari Jyotish (traditional gurukul lineage)",
-      },
-      address: {
-        "@type": "PostalAddress",
-        addressLocality: "Varanasi",
-        addressRegion: "Uttar Pradesh",
-        addressCountry: "IN",
-      },
-      hasCredential: {
-        "@type": "EducationalOccupationalCredential",
-        credentialCategory: "Traditional gurukul training",
-        competencyRequired: "Parasari and Jaimini Jyotish lineage",
-      },
-      hasOccupation: {
-        "@type": "Occupation",
-        name: "Jyotish Acharya",
-        occupationLocation: {
-          "@type": "City",
-          name: "Varanasi",
-        },
-        skills: author.specialization.join(", "),
-      },
-    };
-  }
-
-  // vastucart-editorial — editorial desk byline
-  return {
-    ...base,
     address: {
       "@type": "PostalAddress",
       addressLocality: "Jhunjhunu",

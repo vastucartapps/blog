@@ -70,10 +70,7 @@ export default async function SubcategoryPage({
   ];
 
   const now = new Date().toISOString();
-  const authorSlug =
-    cat.author_id === "pt-raghav-sharma"
-      ? "pt-raghav-sharma"
-      : "vastucart-editorial";
+  const authorSlug = "vastucart-editorial";
 
   const schemas = buildHubSchemas({
     url: `${SITE_URL}/${cat.slug}/${sub.slug}`,
