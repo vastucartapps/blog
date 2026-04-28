@@ -135,7 +135,7 @@ async function processPost(jsonPath: string) {
   const stotraName = STOTRA_NAME[post.planet_id] ?? "Stotra";
 
   const newAlt = `${stotraName} verse parchment for ${planetLabel} in Vedic Jyotish`;
-  const newCaption = `${stotraName} — the canonical Navagraha verse to ${planetLabel}, with Devanagari, IAST, and English meaning.`;
+  const newCaption = `${stotraName}, the canonical Navagraha verse to ${planetLabel}, with Devanagari, IAST, and English meaning.`;
 
   const outDir = path.join(POSTS_PUBLIC_DIR, post.slug);
   if (!fs.existsSync(outDir) && !dryRun) {

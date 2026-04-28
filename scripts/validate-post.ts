@@ -352,29 +352,62 @@ function validate(post: PostJSON, file: string): ValidationReport {
         s -= 5;
       }
     }
-    // Banned phrases + em dash + emoji across all prose
-    for (const block of blocks) {
-      const b = block as { type: string; html?: string; text?: string };
-      const txt = (b.html ?? b.text ?? "").toLowerCase();
-      if (txt.includes("—") || txt.includes("–")) {
-        issues.push("em dash found in prose");
-        hardFail("em dash");
+    // Banned phrases + em dash + emoji across EVERY visible text
+    // surface (prose body, pull-quote, image-figure caption + alt,
+    // FAQ question + answer, gemstone disclaimer, info-grid items,
+    // stotra translation). Captions and disclaimers leaked em dashes
+    // when an earlier auto-generator injected them.
+    function scanText(txt: string, location: string) {
+      const lower = (txt ?? "").toLowerCase();
+      if (lower.includes("—") || lower.includes("–")) {
+        issues.push(`em dash found in ${location}`);
+        hardFail(`em dash in ${location}`);
         s -= 5;
       }
-      // Quick emoji detect: any char in surrogate range
-      if (/[\u{1F300}-\u{1FAFF}\u{1F000}-\u{1F2FF}]/u.test(txt)) {
-        issues.push("emoji found in prose");
-        hardFail("emoji");
+      if (/[\u{1F300}-\u{1FAFF}\u{1F000}-\u{1F2FF}]/u.test(lower)) {
+        issues.push(`emoji found in ${location}`);
+        hardFail(`emoji in ${location}`);
         s -= 5;
       }
       for (const phrase of BANNED_PHRASES) {
-        if (txt.includes(phrase)) {
-          issues.push(`banned phrase: "${phrase}"`);
+        if (lower.includes(phrase)) {
+          issues.push(`banned phrase in ${location}: "${phrase}"`);
           hardFail(`banned phrase: ${phrase}`);
           s -= 2;
         }
       }
     }
+    function walkForText(node: unknown, location: string) {
+      if (typeof node === "string") {
+        scanText(node, location);
+        return;
+      }
+      if (Array.isArray(node)) {
+        node.forEach((v, i) => walkForText(v, `${location}[${i}]`));
+        return;
+      }
+      if (node && typeof node === "object") {
+        for (const [k, v] of Object.entries(node as Record<string, unknown>)) {
+          // Skip URL fields, image filename slots, and identifiers
+          // (Devanagari URLs and slugs sometimes carry hyphen-like glyphs).
+          if (
+            k === "url" ||
+            k === "href" ||
+            k === "src" ||
+            k === "filename" ||
+            k === "filename_og" ||
+            k === "image_slug" ||
+            k === "icon_variant" ||
+            k === "tone" ||
+            k === "icon" ||
+            k === "negative_prompt" ||
+            k === "generation_prompt"
+          ) continue;
+          walkForText(v, `${location}.${k}`);
+        }
+      }
+    }
+    walkForText(blocks, "content");
     return Math.max(0, s);
   });
 
