@@ -75,13 +75,30 @@ const BHAVA_BY_NUMBER: Record<number, string> = {
 
 const CATEGORY_CONCEPT_DEFAULTS: Record<string, string[]> = {
   jyotish: [],
-  numerology: ["life-path-number", "destiny-number"],
+  numerology: ["vedic-numerology", "ank-jyotish", "life-path-number", "destiny-number", "psychic-number"],
   tarot: ["major-arcana", "minor-arcana", "rider-waite-deck"],
   vastu: ["vastu-purusha-mandala", "pancha-bhutas"],
   puja: [],
   festivals: [],
   gemstones: [],
   rudraksha: [],
+};
+
+// Per-number entities for the life-path cluster. Each post points to
+// its own specific concept node (life-path-1#entity through
+// life-path-9#entity) so the Knowledge Graph can resolve "Life Path 1"
+// as a distinct topic from "Life Path 2" rather than collapsing the
+// whole cluster into one "life-path-number" entity.
+const LIFE_PATH_BY_NUMBER: Record<number, string> = {
+  1: "life-path-1",
+  2: "life-path-2",
+  3: "life-path-3",
+  4: "life-path-4",
+  5: "life-path-5",
+  6: "life-path-6",
+  7: "life-path-7",
+  8: "life-path-8",
+  9: "life-path-9",
 };
 
 export function planetConceptId(internalSlug: string | undefined): string | null {
@@ -109,4 +126,9 @@ export function bhavaConceptId(houseNumber: number | undefined): string | null {
 export function categoryConceptIds(category: string): string[] {
   const slugs = CATEGORY_CONCEPT_DEFAULTS[category] ?? [];
   return slugs.map((s) => conceptId(s));
+}
+
+export function lifePathConceptId(n: number | undefined): string | null {
+  if (!n || !LIFE_PATH_BY_NUMBER[n]) return null;
+  return conceptId(LIFE_PATH_BY_NUMBER[n]);
 }

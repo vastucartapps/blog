@@ -1,74 +1,154 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="1024" height="1024" viewBox="0 0 1024 1024"
-     role="img" aria-label="Number 4 mandala with Rahu sigils on the rim">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="Vedic numerology Life Path 4 mandala">
   <defs>
-    <radialGradient id="bgRadial" cx="50%" cy="50%" r="60%">
+    <radialGradient id="bgCream" cx="0.5" cy="0.5" r="0.72">
       <stop offset="0%" stop-color="#FBF6E8"/>
-      <stop offset="80%" stop-color="#F2EAD3"/>
       <stop offset="100%" stop-color="#ECE0C5"/>
     </radialGradient>
-    <radialGradient id="centreGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#9B7CB7" stop-opacity="0.6"/>
-      <stop offset="60%" stop-color="#9B7CB7" stop-opacity="0.10"/>
-      <stop offset="100%" stop-color="#9B7CB7" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="goldLine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8B6420"/>
+      <stop offset="50%" stop-color="#D9B76A"/>
+      <stop offset="100%" stop-color="#8B6420"/>
+    </linearGradient>
+    <linearGradient id="goldLineH" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B6420"/>
+      <stop offset="50%" stop-color="#D9B76A"/>
+      <stop offset="100%" stop-color="#8B6420"/>
+    </linearGradient>
+    <path id="lakshmi-star" d="M 0 -3 L 1 -1 L 3 0 L 1 1 L 0 3 L -1 1 L -3 0 L -1 -1 Z" fill="#D9B76A"/>
+    <style>
+      svg { --accent-color: #9B7CB7; }
+    </style>
   </defs>
 
-  <rect width="1024" height="1024" fill="url(#bgRadial)"/>
+  <rect x="0" y="0" width="1024" height="1024" fill="url(#bgCream)"/>
 
-  <!-- Decorative outer ring -->
-  <circle cx="512" cy="512" r="410.5" fill="none" stroke="#B8893E" stroke-width="1" opacity="0.45"/>
-  <circle cx="512" cy="512" r="420.5" fill="none" stroke="#B8893E" stroke-width="0.6" opacity="0.30"/>
+  <g fill="#7D5519" opacity="0.45">
+    <circle cx="64"  cy="156"  r="1.4"/>
+    <circle cx="958" cy="208"  r="1.9"/>
+    <circle cx="78"  cy="492"  r="1.2"/>
+    <circle cx="978" cy="556"  r="2.1"/>
+    <circle cx="56"  cy="804"  r="1.6"/>
+    <circle cx="952" cy="848"  r="1.5"/>
+    <circle cx="180" cy="62"   r="1.3"/>
+    <circle cx="850" cy="982"  r="2.3"/>
+  </g>
 
-  <!-- Centre glow -->
-  <circle cx="512" cy="512" r="370.5" fill="url(#centreGlow)"/>
+  <g stroke="#B8893E" stroke-width="1" opacity="0.55" fill="none" stroke-linecap="square">
+    <path d="M 70 36 L 36 36 L 36 70"/>
+    <path d="M 954 36 L 988 36 L 988 70"/>
+    <path d="M 70 988 L 36 988 L 36 954"/>
+    <path d="M 954 988 L 988 988 L 988 954"/>
+  </g>
 
-  <!-- Sigils on rim -->
-  <g transform="translate(774.0 250.0)">
-         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
-         <text y="9" font-family="Georgia, serif" font-size="26" fill="#9B7CB7" text-anchor="middle" font-weight="600">☊</text>
-       </g>
-  <g transform="translate(774.0 774.0)">
-         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
-         <text y="9" font-family="Georgia, serif" font-size="26" fill="#9B7CB7" text-anchor="middle" font-weight="600">☊</text>
-       </g>
-  <g transform="translate(250.0 774.0)">
-         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
-         <text y="9" font-family="Georgia, serif" font-size="26" fill="#9B7CB7" text-anchor="middle" font-weight="600">☊</text>
-       </g>
-  <g transform="translate(250.0 250.0)">
-         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
-         <text y="9" font-family="Georgia, serif" font-size="26" fill="#9B7CB7" text-anchor="middle" font-weight="600">☊</text>
-       </g>
+  <text x="512" y="80" text-anchor="middle"
+        font-family="'Helvetica Neue', Arial, sans-serif"
+        font-size="11" letter-spacing="4" font-weight="500"
+        fill="#7D5519">VEDIC NUMEROLOGY · LIFE PATH MANDALA</text>
 
-  <!-- Lotus petals -->
-  <path d="M 648.0 365.4 Q 613.9 266.0, 512.0 201.5 Q 410.1 266.0, 376.0 365.4 Z" fill="#9B7CB7" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
-  <path d="M 658.6 648.0 Q 758.0 613.9, 822.5 512.0 Q 758.0 410.1, 658.6 376.0 Z" fill="#9B7CB7" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
-  <path d="M 376.0 658.6 Q 410.1 758.0, 512.0 822.5 Q 613.9 758.0, 648.0 658.6 Z" fill="#9B7CB7" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
-  <path d="M 365.4 376.0 Q 266.0 410.1, 201.5 512.0 Q 266.0 613.9, 365.4 648.0 Z" fill="#9B7CB7" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <g transform="translate(512 512)">
 
-  <!-- Inner disc -->
-  <circle cx="512" cy="512" r="200" fill="#FBF6E8" stroke="#B8893E" stroke-width="2.4"/>
-  <circle cx="512" cy="512" r="186" fill="none" stroke="#9B7CB7" stroke-width="1.6" opacity="0.55"/>
-  <circle cx="512" cy="512" r="172" fill="none" stroke="#B8893E" stroke-width="0.8" opacity="0.4"/>
+    <circle r="440" fill="none" stroke="#B8893E" stroke-width="0.8" opacity="0.5"/>
 
-  <!-- Devanagari label arched above the numeral -->
-  <text x="512" y="412" text-anchor="middle"
-        font-family="Georgia, 'Times New Roman', serif" font-size="34"
-        fill="#7D5519" letter-spacing="3" opacity="0.85">राहु</text>
+    <g font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="24" fill="#7D5519" text-anchor="middle">
+      <text id="rim-text-1" x="0"    y="-368">राहु</text>
+      <text id="rim-text-2" x="380"  y="9"   >राहु</text>
+      <text id="rim-text-3" x="0"    y="396" >राहु</text>
+      <text id="rim-text-4" x="-380" y="9"   >राहु</text>
+    </g>
 
-  <!-- Big numeral -->
-  <text x="512" y="592" text-anchor="middle"
-        font-family="Georgia, 'Times New Roman', serif" font-size="280"
-        fill="#9B7CB7" font-weight="700">4</text>
+    <g id="petal-ring-slot">
+      <g transform="rotate(0.0000)">
+        <path d="M 0 -320 C 22 -280 36 -200 30 -150 Q 22 -118 0 -110 Q -22 -118 -30 -150 C -36 -200 -22 -280 0 -320 Z"
+              fill="var(--accent-color)" fill-opacity="0.22"
+              stroke="url(#goldLine)" stroke-opacity="0.7" stroke-width="1.6"/>
+        <circle cx="0" cy="-138" r="2.6" fill="#B8893E"/>
+      </g>
+      <g transform="rotate(90.0000)">
+        <path d="M 0 -320 C 22 -280 36 -200 30 -150 Q 22 -118 0 -110 Q -22 -118 -30 -150 C -36 -200 -22 -280 0 -320 Z"
+              fill="var(--accent-color)" fill-opacity="0.22"
+              stroke="url(#goldLine)" stroke-opacity="0.7" stroke-width="1.6"/>
+        <circle cx="0" cy="-138" r="2.6" fill="#B8893E"/>
+      </g>
+      <g transform="rotate(180.0000)">
+        <path d="M 0 -320 C 22 -280 36 -200 30 -150 Q 22 -118 0 -110 Q -22 -118 -30 -150 C -36 -200 -22 -280 0 -320 Z"
+              fill="var(--accent-color)" fill-opacity="0.22"
+              stroke="url(#goldLine)" stroke-opacity="0.7" stroke-width="1.6"/>
+        <circle cx="0" cy="-138" r="2.6" fill="#B8893E"/>
+      </g>
+      <g transform="rotate(270.0000)">
+        <path d="M 0 -320 C 22 -280 36 -200 30 -150 Q 22 -118 0 -110 Q -22 -118 -30 -150 C -36 -200 -22 -280 0 -320 Z"
+              fill="var(--accent-color)" fill-opacity="0.22"
+              stroke="url(#goldLine)" stroke-opacity="0.7" stroke-width="1.6"/>
+        <circle cx="0" cy="-138" r="2.6" fill="#B8893E"/>
+      </g>
+    </g>
 
-  <!-- Caption -->
-  <text x="512" y="917.5" text-anchor="middle"
-        font-family="Georgia, serif" font-size="16"
-        fill="#013F47" opacity="0.85" letter-spacing="2.5"
-        font-weight="500">LIFE PATH 4 · RAHU (RAHU)</text>
-  <text x="512" y="944.5" text-anchor="middle"
-        font-family="Georgia, serif" font-size="13"
-        fill="#7D5519" opacity="0.75" letter-spacing="1.8"
-        font-style="italic">Vedic Numerology Mandala · VastuCart Editorial</text>
+    <g transform="translate(0 -132)">
+      <circle r="32" fill="#012E34" stroke="url(#goldLine)" stroke-width="1.4"/>
+      <text id="planet-glyph-slot" x="0" y="14"
+            text-anchor="middle"
+            font-family="Georgia, 'Times New Roman', serif"
+            font-size="40"
+            fill="var(--accent-color)">☊</text>
+    </g>
+
+    <circle r="100" fill="#FBF6E8" stroke="url(#goldLine)" stroke-width="3"/>
+    <circle r="88"  fill="none"
+            stroke="var(--accent-color)" stroke-opacity="0.5" stroke-width="1.6"/>
+    <circle r="70"  fill="#FBF6E8" stroke="#B8893E" stroke-width="0.8" stroke-opacity="0.4"/>
+
+    <text id="numeral-slot" x="0" y="60"
+          text-anchor="middle"
+          font-family="Georgia, 'Times New Roman', serif"
+          font-style="italic" font-weight="700" font-size="180"
+          fill="var(--accent-color)">4</text>
+  </g>
+
+  <g>
+    <use href="#lakshmi-star" transform="translate(512.00 102.00)"/>
+    <use href="#lakshmi-star" transform="translate(618.12 115.97)"/>
+    <use href="#lakshmi-star" transform="translate(717.00 156.93)"/>
+    <use href="#lakshmi-star" transform="translate(801.91 222.09)"/>
+    <use href="#lakshmi-star" transform="translate(867.07 307.00)"/>
+    <use href="#lakshmi-star" transform="translate(908.03 405.88)"/>
+    <use href="#lakshmi-star" transform="translate(922.00 512.00)"/>
+    <use href="#lakshmi-star" transform="translate(908.03 618.12)"/>
+    <use href="#lakshmi-star" transform="translate(867.07 717.00)"/>
+    <use href="#lakshmi-star" transform="translate(801.91 801.91)"/>
+    <use href="#lakshmi-star" transform="translate(717.00 867.07)"/>
+    <use href="#lakshmi-star" transform="translate(618.12 908.03)"/>
+    <use href="#lakshmi-star" transform="translate(512.00 922.00)"/>
+    <use href="#lakshmi-star" transform="translate(405.88 908.03)"/>
+    <use href="#lakshmi-star" transform="translate(307.00 867.07)"/>
+    <use href="#lakshmi-star" transform="translate(222.09 801.91)"/>
+    <use href="#lakshmi-star" transform="translate(156.93 717.00)"/>
+    <use href="#lakshmi-star" transform="translate(115.97 618.12)"/>
+    <use href="#lakshmi-star" transform="translate(102.00 512.00)"/>
+    <use href="#lakshmi-star" transform="translate(115.97 405.88)"/>
+    <use href="#lakshmi-star" transform="translate(156.93 307.00)"/>
+    <use href="#lakshmi-star" transform="translate(222.09 222.09)"/>
+    <use href="#lakshmi-star" transform="translate(307.00 156.93)"/>
+    <use href="#lakshmi-star" transform="translate(405.88 115.97)"/>
+  </g>
+
+  <g transform="translate(512 880)">
+    <rect x="-160" y="-30" width="320" height="60" rx="3" ry="3"
+          fill="#FBF6E8" stroke="url(#goldLine)" stroke-width="1.6"/>
+    <rect x="-154" y="-24" width="308" height="48" rx="2" ry="2"
+          fill="none" stroke="#B8893E" stroke-width="0.5" opacity="0.55"/>
+    <line x1="-176" y1="0" x2="-162" y2="0" stroke="#B8893E" stroke-width="0.8" opacity="0.7"/>
+    <line x1="162"  y1="0" x2="176"  y2="0" stroke="#B8893E" stroke-width="0.8" opacity="0.7"/>
+    <circle cx="-180" cy="0" r="1.5" fill="#B8893E" opacity="0.7"/>
+    <circle cx="180"  cy="0" r="1.5" fill="#B8893E" opacity="0.7"/>
+  </g>
+  <text id="cartouche-line-1" x="512" y="872"
+        text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-style="italic" font-size="22"
+        fill="#7D5519">Aṅka 4</text>
+  <text id="cartouche-line-2" x="512" y="900"
+        text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-style="italic" font-size="16"
+        fill="#7D5519">Rāhu · Rahu</text>
 </svg>

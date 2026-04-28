@@ -12,6 +12,7 @@ import { reviewerOrgRef } from "./reviewer";
 import {
   bhavaConceptId,
   categoryConceptIds,
+  lifePathConceptId,
   nakshatraConceptId,
   planetConceptId,
   rashiConceptId,
@@ -158,7 +159,14 @@ export function buildBlogPostingSchemas(
 function collectConceptIds(post: ArticlePost): string[] {
   const ids = new Set<string>();
 
-  const planet = planetConceptId(post.planet_id);
+  // Numerology posts store their planet on `ruling_planet`; jyotish
+  // posts store it on `planet_id`. Read both so every post emits its
+  // ruling-planet entity reference for Knowledge Graph alignment.
+  const numerologyPost = post as ArticlePost & {
+    ruling_planet?: string;
+    number?: number;
+  };
+  const planet = planetConceptId(post.planet_id ?? numerologyPost.ruling_planet);
   if (planet) ids.add(planet);
 
   const rashi = rashiConceptId(post.sign_id ?? post.lagna_id);
@@ -169,6 +177,12 @@ function collectConceptIds(post: ArticlePost): string[] {
 
   const bhava = bhavaConceptId(post.house_number);
   if (bhava) ids.add(bhava);
+
+  // Per-number life-path concept for the numerology cluster.
+  if (post.category === "numerology" && numerologyPost.number) {
+    const lp = lifePathConceptId(numerologyPost.number);
+    if (lp) ids.add(lp);
+  }
 
   for (const extra of categoryConceptIds(post.category)) {
     ids.add(extra);
