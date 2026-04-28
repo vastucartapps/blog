@@ -10,7 +10,7 @@ of what any other doc claims.
 |---|---|---|---|
 | Lagna pillars | 2 | 12 | 17% |
 | Mesh cluster (graha-in-bhava) | 108 | 108 | 100% |
-| Other lagna clusters (graha-in-bhava) | 17 | 1188 | 1% |
+| Other lagna clusters (graha-in-bhava) | 21 | 1188 | 2% |
 | Nakshatras | 0 | 27 | 0% |
 | Rashi profiles | 0 | 12 | 0% |
 | Yogas | 0 | 80 | 0% |
@@ -183,13 +183,13 @@ Slug convention for Mithuna lagna: Sanskrit planet name + ordinal-house + `-hous
 | 5th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✓  | ✗  | ✗  |
 | 6th  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 7th  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
-| 8th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 8th  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 9th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  |
-| 10th | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
-| 11th | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
-| 12th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 10th | ✗  | ✗  | ✗  | ✗  | ✓  | ✓  | ✗  | ✗  | ✗  |
+| 11th | ✓  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 12th | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
 
-**Mithuna cluster total: 12/108 graha-in-bhava + 0/1 pillar = 12/109 published.**
+**Mithuna cluster total: 16/108 graha-in-bhava + 0/1 pillar = 16/109 published.**
 
 ### Mithuna Phase 1 batch (DONE — opening swakshetra and yoga set)
 - [x] Budha in 1st house, Mithuna Lagna `budha-1st-house-gemini-lagna` ← lagna lord swakshetra, Bhadra Mahapurusha Yoga
@@ -209,15 +209,21 @@ Slug convention for Mithuna lagna: Sanskrit planet name + ordinal-house + `-hous
 - [x] Shukra in 10th house `shukra-10th-house-gemini-lagna` ← 5L+12L exalted Meena in karma kendra (apex Malavya Mahapurusha)
 - [x] Shani in 5th house `shani-5th-house-gemini-lagna` ← 8L+9L exalted Tula in trikona (foundational Lakshmi Yoga)
 
-### Mithuna Phase 4 batch (next — remaining swakshetra and high-signal placements)
-- [ ] Mangal in 11th house `mangal-11th-house-gemini-lagna` ← 6L+11L swakshetra Mesha in own labha
+### Mithuna Phase 4 batch (DONE — 4 own-sign / exalted placements across kendras and trik)
+- [x] Guru in 10th house `guru-10th-house-gemini-lagna` ← 7L+10L swakshetra Meena in own karma kendra (apex Hamsa Mahapurusha)
+- [x] Mangal in 11th house `mangal-11th-house-gemini-lagna` ← 6L+11L swakshetra Mesha in own labha (warrior-income gains yoga)
+- [x] Mangal in 8th house `mangal-8th-house-gemini-lagna` ← 6L+11L exalted Makara in randhra (Sarala-style Viparita)
+- [x] Shukra in 12th house `shukra-12th-house-gemini-lagna` ← 5L+12L swakshetra Vrishabha in own moksha (foreign-luxury yoga)
+
+### Mithuna Phase 5 batch (next — remaining own-sign + high-signal placements)
 - [ ] Chandra in 12th house `chandra-12th-house-gemini-lagna` ← 2L exalted Vrishabha in vyaya (uchha in dushthana)
-- [ ] Mangal in 8th house `mangal-8th-house-gemini-lagna` ← 6L+11L exalted Makara in randhra
 - [ ] Shani in 8th house `shani-8th-house-gemini-lagna` ← 8L+9L swakshetra Makara in own randhra
-- [ ] Guru in 10th house `guru-10th-house-gemini-lagna` ← 7L+10L swakshetra Meena in own karma kendra (Hamsa)
-- [ ] Shukra in 12th house `shukra-12th-house-gemini-lagna` ← 5L+12L swakshetra Vrishabha in own moksha
 - [ ] Budha in 7th house `budha-7th-house-gemini-lagna` ← 1L+4L Dhanu in kalatra (Jupiter sign)
 - [ ] Budha in 10th house `budha-10th-house-gemini-lagna` ← 1L+4L debilitated Meena in karma kendra (neecha bhanga reading)
+- [ ] Surya in 9th house `surya-9th-house-gemini-lagna` ← 3L Kumbha in dharma trikona (Saturn sign)
+- [ ] Surya in 5th house `surya-5th-house-gemini-lagna` ← 3L Tula debilitated in trikona (creativity caution)
+- [ ] Mangal in 4th house `mangal-4th-house-gemini-lagna` ← 6L+11L Kanya in kendra
+- [ ] Guru in 1st house `guru-1st-house-gemini-lagna` ← 7L+10L Mithuna at lagna (Mercury sign)
 
 
 
