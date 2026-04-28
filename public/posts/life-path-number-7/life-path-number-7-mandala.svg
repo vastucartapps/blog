@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1024" height="1024" viewBox="0 0 1024 1024"
+     role="img" aria-label="Number 7 mandala with Ketu sigils on the rim">
+  <defs>
+    <radialGradient id="bgRadial" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#FBF6E8"/>
+      <stop offset="80%" stop-color="#F2EAD3"/>
+      <stop offset="100%" stop-color="#ECE0C5"/>
+    </radialGradient>
+    <radialGradient id="centreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#C5A88A" stop-opacity="0.6"/>
+      <stop offset="60%" stop-color="#C5A88A" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#C5A88A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1024" height="1024" fill="url(#bgRadial)"/>
+
+  <!-- Decorative outer ring -->
+  <circle cx="512" cy="512" r="430" fill="none" stroke="#B8893E" stroke-width="1" opacity="0.45"/>
+  <circle cx="512" cy="512" r="440" fill="none" stroke="#B8893E" stroke-width="0.6" opacity="0.30"/>
+
+  <!-- Centre glow -->
+  <circle cx="512" cy="512" r="390" fill="url(#centreGlow)"/>
+
+  <!-- Sigils on rim -->
+  <g transform="translate(681.2 160.6)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#C5A88A" text-anchor="middle" font-weight="600">☋</text>
+       </g>
+  <g transform="translate(892.2 425.2)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#C5A88A" text-anchor="middle" font-weight="600">☋</text>
+       </g>
+  <g transform="translate(816.9 755.2)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#C5A88A" text-anchor="middle" font-weight="600">☋</text>
+       </g>
+  <g transform="translate(512.0 902.0)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#C5A88A" text-anchor="middle" font-weight="600">☋</text>
+       </g>
+  <g transform="translate(207.1 755.2)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#C5A88A" text-anchor="middle" font-weight="600">☋</text>
+       </g>
+  <g transform="translate(131.8 425.2)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#C5A88A" text-anchor="middle" font-weight="600">☋</text>
+       </g>
+  <g transform="translate(342.8 160.6)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#C5A88A" text-anchor="middle" font-weight="600">☋</text>
+       </g>
+
+  <!-- Lotus petals -->
+  <path d="M 594.9 330.0 Q 573.9 241.0, 512.0 182.0 Q 450.1 241.0, 429.1 330.0 Z" fill="#C5A88A" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 706.0 463.3 Q 762.5 391.4, 770.0 306.2 Q 685.3 294.7, 602.6 333.7 Z" fill="#C5A88A" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 671.0 633.3 Q 762.5 632.6, 833.7 585.4 Q 790.0 512.0, 707.9 471.7 Z" fill="#C5A88A" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 516.3 712.0 Q 573.9 783.0, 655.2 809.3 Q 685.3 729.3, 665.7 640.0 Z" fill="#C5A88A" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 358.3 640.0 Q 338.7 729.3, 368.8 809.3 Q 450.1 783.0, 507.7 712.0 Z" fill="#C5A88A" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 316.1 471.7 Q 234.0 512.0, 190.3 585.4 Q 261.5 632.6, 353.0 633.3 Z" fill="#C5A88A" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 421.4 333.7 Q 338.7 294.7, 254.0 306.2 Q 261.5 391.4, 318.0 463.3 Z" fill="#C5A88A" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+
+  <!-- Inner disc -->
+  <circle cx="512" cy="512" r="200" fill="#FBF6E8" stroke="#B8893E" stroke-width="2.4"/>
+  <circle cx="512" cy="512" r="186" fill="none" stroke="#C5A88A" stroke-width="1.6" opacity="0.55"/>
+  <circle cx="512" cy="512" r="172" fill="none" stroke="#B8893E" stroke-width="0.8" opacity="0.4"/>
+
+  <!-- Devanagari label arched above the numeral -->
+  <text x="512" y="412" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="34"
+        fill="#7D5519" letter-spacing="3" opacity="0.85">केतु</text>
+
+  <!-- Big numeral -->
+  <text x="512" y="592" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="280"
+        fill="#C5A88A" font-weight="700">7</text>
+
+  <!-- Caption -->
+  <text x="512" y="937" text-anchor="middle"
+        font-family="Georgia, serif" font-size="16"
+        fill="#013F47" opacity="0.85" letter-spacing="2.5"
+        font-weight="500">LIFE PATH 7 · KETU (KETU)</text>
+  <text x="512" y="964" text-anchor="middle"
+        font-family="Georgia, serif" font-size="13"
+        fill="#7D5519" opacity="0.75" letter-spacing="1.8"
+        font-style="italic">Vedic Numerology Mandala · VastuCart Editorial</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1024" height="1024" viewBox="0 0 1024 1024"
+     role="img" aria-label="Number 1 mandala with Sun sigils on the rim">
+  <defs>
+    <radialGradient id="bgRadial" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#FBF6E8"/>
+      <stop offset="80%" stop-color="#F2EAD3"/>
+      <stop offset="100%" stop-color="#ECE0C5"/>
+    </radialGradient>
+    <radialGradient id="centreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F2A04C" stop-opacity="0.6"/>
+      <stop offset="60%" stop-color="#F2A04C" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#F2A04C" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1024" height="1024" fill="url(#bgRadial)"/>
+
+  <!-- Decorative outer ring -->
+  <circle cx="512" cy="512" r="381.25" fill="none" stroke="#B8893E" stroke-width="1" opacity="0.45"/>
+  <circle cx="512" cy="512" r="391.25" fill="none" stroke="#B8893E" stroke-width="0.6" opacity="0.30"/>
+
+  <!-- Centre glow -->
+  <circle cx="512" cy="512" r="341.25" fill="url(#centreGlow)"/>
+
+  <!-- Sigils on rim -->
+  <g transform="translate(512.0 853.3)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#F2A04C" text-anchor="middle" font-weight="600">☉</text>
+       </g>
+
+  <!-- Lotus petals -->
+  <path d="M 541.8 709.8 Q 760.8 512.0, 512.0 230.8 Q 263.3 512.0, 482.2 709.8 Z" fill="#F2A04C" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+
+  <!-- Inner disc -->
+  <circle cx="512" cy="512" r="200" fill="#FBF6E8" stroke="#B8893E" stroke-width="2.4"/>
+  <circle cx="512" cy="512" r="186" fill="none" stroke="#F2A04C" stroke-width="1.6" opacity="0.55"/>
+  <circle cx="512" cy="512" r="172" fill="none" stroke="#B8893E" stroke-width="0.8" opacity="0.4"/>
+
+  <!-- Devanagari label arched above the numeral -->
+  <text x="512" y="412" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="34"
+        fill="#7D5519" letter-spacing="3" opacity="0.85">सूर्य</text>
+
+  <!-- Big numeral -->
+  <text x="512" y="592" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="280"
+        fill="#F2A04C" font-weight="700">1</text>
+
+  <!-- Caption -->
+  <text x="512" y="888.25" text-anchor="middle"
+        font-family="Georgia, serif" font-size="16"
+        fill="#013F47" opacity="0.85" letter-spacing="2.5"
+        font-weight="500">LIFE PATH 1 · SUN (SURYA)</text>
+  <text x="512" y="915.25" text-anchor="middle"
+        font-family="Georgia, serif" font-size="13"
+        fill="#7D5519" opacity="0.75" letter-spacing="1.8"
+        font-style="italic">Vedic Numerology Mandala · VastuCart Editorial</text>
+</svg>

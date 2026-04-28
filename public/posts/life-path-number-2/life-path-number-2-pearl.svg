@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768"
+     role="img" aria-label="Mukta (Pearl) on a dark velvet background">
+  <defs>
+    <radialGradient id="velvet" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#1a2530"/>
+      <stop offset="65%" stop-color="#0a121a"/>
+      <stop offset="100%" stop-color="#000"/>
+    </radialGradient>
+    <linearGradient id="goldStroke" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B6420" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#D9B76A" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#8B6420" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="768" fill="url(#velvet)"/>
+  <circle cx="512" cy="384" r="240" fill="#1f2b35" opacity="0.5"/>
+  <text x="512" y="700" text-anchor="middle"
+        font-family="Georgia, serif" font-size="32"
+        fill="#FBF6E8" font-style="italic">Mukta (Pearl)</text>
+  <line x1="320" y1="724" x2="704" y2="724" stroke="url(#goldStroke)" stroke-width="1.4"/>
+  <text x="512" y="746" text-anchor="middle"
+        font-family="Georgia, serif" font-size="13"
+        fill="#D9B76A" letter-spacing="2.6">JYOTISH RATNA · VASTUCART EDITORIAL</text>
+</svg>

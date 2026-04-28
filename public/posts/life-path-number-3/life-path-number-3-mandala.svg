@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1024" height="1024" viewBox="0 0 1024 1024"
+     role="img" aria-label="Number 3 mandala with Jupiter sigils on the rim">
+  <defs>
+    <radialGradient id="bgRadial" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#FBF6E8"/>
+      <stop offset="80%" stop-color="#F2EAD3"/>
+      <stop offset="100%" stop-color="#ECE0C5"/>
+    </radialGradient>
+    <radialGradient id="centreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F4B942" stop-opacity="0.6"/>
+      <stop offset="60%" stop-color="#F4B942" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#F4B942" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1024" height="1024" fill="url(#bgRadial)"/>
+
+  <!-- Decorative outer ring -->
+  <circle cx="512" cy="512" r="400.75" fill="none" stroke="#B8893E" stroke-width="1" opacity="0.45"/>
+  <circle cx="512" cy="512" r="410.75" fill="none" stroke="#B8893E" stroke-width="0.6" opacity="0.30"/>
+
+  <!-- Centre glow -->
+  <circle cx="512" cy="512" r="360.75" fill="url(#centreGlow)"/>
+
+  <!-- Sigils on rim -->
+  <g transform="translate(824.4 331.6)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#F4B942" text-anchor="middle" font-weight="600">♃</text>
+       </g>
+  <g transform="translate(512.0 872.8)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#F4B942" text-anchor="middle" font-weight="600">♃</text>
+       </g>
+  <g transform="translate(199.6 331.6)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#F4B942" text-anchor="middle" font-weight="600">♃</text>
+       </g>
+
+  <!-- Lotus petals -->
+  <path d="M 680.0 403.5 Q 642.2 286.4, 512.0 211.3 Q 381.8 286.4, 344.0 403.5 Z" fill="#F4B942" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 522.0 711.8 Q 642.2 737.6, 772.5 662.4 Q 772.5 512.0, 690.0 420.8 Z" fill="#F4B942" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 334.0 420.8 Q 251.6 512.0, 251.5 662.4 Q 381.8 737.6, 502.0 711.8 Z" fill="#F4B942" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+
+  <!-- Inner disc -->
+  <circle cx="512" cy="512" r="200" fill="#FBF6E8" stroke="#B8893E" stroke-width="2.4"/>
+  <circle cx="512" cy="512" r="186" fill="none" stroke="#F4B942" stroke-width="1.6" opacity="0.55"/>
+  <circle cx="512" cy="512" r="172" fill="none" stroke="#B8893E" stroke-width="0.8" opacity="0.4"/>
+
+  <!-- Devanagari label arched above the numeral -->
+  <text x="512" y="412" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="34"
+        fill="#7D5519" letter-spacing="3" opacity="0.85">गुरु</text>
+
+  <!-- Big numeral -->
+  <text x="512" y="592" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="280"
+        fill="#F4B942" font-weight="700">3</text>
+
+  <!-- Caption -->
+  <text x="512" y="907.75" text-anchor="middle"
+        font-family="Georgia, serif" font-size="16"
+        fill="#013F47" opacity="0.85" letter-spacing="2.5"
+        font-weight="500">LIFE PATH 3 · JUPITER (GURU)</text>
+  <text x="512" y="934.75" text-anchor="middle"
+        font-family="Georgia, serif" font-size="13"
+        fill="#7D5519" opacity="0.75" letter-spacing="1.8"
+        font-style="italic">Vedic Numerology Mandala · VastuCart Editorial</text>
+</svg>

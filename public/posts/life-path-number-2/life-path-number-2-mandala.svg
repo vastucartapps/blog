@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1024" height="1024" viewBox="0 0 1024 1024"
+     role="img" aria-label="Number 2 mandala with Moon sigils on the rim">
+  <defs>
+    <radialGradient id="bgRadial" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#FBF6E8"/>
+      <stop offset="80%" stop-color="#F2EAD3"/>
+      <stop offset="100%" stop-color="#ECE0C5"/>
+    </radialGradient>
+    <radialGradient id="centreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#E8E5D4" stop-opacity="0.6"/>
+      <stop offset="60%" stop-color="#E8E5D4" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#E8E5D4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1024" height="1024" fill="url(#bgRadial)"/>
+
+  <!-- Decorative outer ring -->
+  <circle cx="512" cy="512" r="391" fill="none" stroke="#B8893E" stroke-width="1" opacity="0.45"/>
+  <circle cx="512" cy="512" r="401" fill="none" stroke="#B8893E" stroke-width="0.6" opacity="0.30"/>
+
+  <!-- Centre glow -->
+  <circle cx="512" cy="512" r="351" fill="url(#centreGlow)"/>
+
+  <!-- Sigils on rim -->
+  <g transform="translate(863.0 512.0)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#E8E5D4" text-anchor="middle" font-weight="600">☽</text>
+       </g>
+  <g transform="translate(161.0 512.0)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#E8E5D4" text-anchor="middle" font-weight="600">☽</text>
+       </g>
+
+  <!-- Lotus petals -->
+  <path d="M 711.4 497.1 Q 692.0 332.0, 512.0 221.0 Q 332.0 332.0, 312.6 497.1 Z" fill="#E8E5D4" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 312.6 526.9 Q 332.0 692.0, 512.0 803.0 Q 692.0 692.0, 711.4 526.9 Z" fill="#E8E5D4" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+
+  <!-- Inner disc -->
+  <circle cx="512" cy="512" r="200" fill="#FBF6E8" stroke="#B8893E" stroke-width="2.4"/>
+  <circle cx="512" cy="512" r="186" fill="none" stroke="#E8E5D4" stroke-width="1.6" opacity="0.55"/>
+  <circle cx="512" cy="512" r="172" fill="none" stroke="#B8893E" stroke-width="0.8" opacity="0.4"/>
+
+  <!-- Devanagari label arched above the numeral -->
+  <text x="512" y="412" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="34"
+        fill="#7D5519" letter-spacing="3" opacity="0.85">चन्द्र</text>
+
+  <!-- Big numeral -->
+  <text x="512" y="592" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="280"
+        fill="#E8E5D4" font-weight="700">2</text>
+
+  <!-- Caption -->
+  <text x="512" y="898" text-anchor="middle"
+        font-family="Georgia, serif" font-size="16"
+        fill="#013F47" opacity="0.85" letter-spacing="2.5"
+        font-weight="500">LIFE PATH 2 · MOON (CHANDRA)</text>
+  <text x="512" y="925" text-anchor="middle"
+        font-family="Georgia, serif" font-size="13"
+        fill="#7D5519" opacity="0.75" letter-spacing="1.8"
+        font-style="italic">Vedic Numerology Mandala · VastuCart Editorial</text>
+</svg>

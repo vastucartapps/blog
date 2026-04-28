@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1024" height="1024" viewBox="0 0 1024 1024"
+     role="img" aria-label="Number 5 mandala with Mercury sigils on the rim">
+  <defs>
+    <radialGradient id="bgRadial" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#FBF6E8"/>
+      <stop offset="80%" stop-color="#F2EAD3"/>
+      <stop offset="100%" stop-color="#ECE0C5"/>
+    </radialGradient>
+    <radialGradient id="centreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7CC8A5" stop-opacity="0.6"/>
+      <stop offset="60%" stop-color="#7CC8A5" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#7CC8A5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1024" height="1024" fill="url(#bgRadial)"/>
+
+  <!-- Decorative outer ring -->
+  <circle cx="512" cy="512" r="420.25" fill="none" stroke="#B8893E" stroke-width="1" opacity="0.45"/>
+  <circle cx="512" cy="512" r="430.25" fill="none" stroke="#B8893E" stroke-width="0.6" opacity="0.30"/>
+
+  <!-- Centre glow -->
+  <circle cx="512" cy="512" r="380.25" fill="url(#centreGlow)"/>
+
+  <!-- Sigils on rim -->
+  <g transform="translate(735.5 204.4)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#7CC8A5" text-anchor="middle" font-weight="600">☿</text>
+       </g>
+  <g transform="translate(873.6 629.5)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#7CC8A5" text-anchor="middle" font-weight="600">☿</text>
+       </g>
+  <g transform="translate(512.0 892.3)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#7CC8A5" text-anchor="middle" font-weight="600">☿</text>
+       </g>
+  <g transform="translate(150.4 629.5)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#7CC8A5" text-anchor="middle" font-weight="600">☿</text>
+       </g>
+  <g transform="translate(288.5 204.4)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#7CC8A5" text-anchor="middle" font-weight="600">☿</text>
+       </g>
+
+  <!-- Lotus petals -->
+  <path d="M 624.7 346.8 Q 596.1 253.2, 512.0 191.8 Q 427.9 253.2, 399.3 346.8 Z" fill="#7CC8A5" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 704.0 568.1 Q 784.1 512.0, 816.6 413.0 Q 732.2 352.0, 634.3 353.8 Z" fill="#7CC8A5" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 518.0 711.9 Q 596.1 770.8, 700.2 771.1 Q 732.2 672.0, 700.3 579.5 Z" fill="#7CC8A5" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 323.7 579.5 Q 291.8 672.0, 323.8 771.1 Q 427.9 770.8, 506.0 711.9 Z" fill="#7CC8A5" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 389.7 353.8 Q 291.8 352.0, 207.4 413.0 Q 239.9 512.0, 320.0 568.1 Z" fill="#7CC8A5" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+
+  <!-- Inner disc -->
+  <circle cx="512" cy="512" r="200" fill="#FBF6E8" stroke="#B8893E" stroke-width="2.4"/>
+  <circle cx="512" cy="512" r="186" fill="none" stroke="#7CC8A5" stroke-width="1.6" opacity="0.55"/>
+  <circle cx="512" cy="512" r="172" fill="none" stroke="#B8893E" stroke-width="0.8" opacity="0.4"/>
+
+  <!-- Devanagari label arched above the numeral -->
+  <text x="512" y="412" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="34"
+        fill="#7D5519" letter-spacing="3" opacity="0.85">बुध</text>
+
+  <!-- Big numeral -->
+  <text x="512" y="592" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="280"
+        fill="#7CC8A5" font-weight="700">5</text>
+
+  <!-- Caption -->
+  <text x="512" y="927.25" text-anchor="middle"
+        font-family="Georgia, serif" font-size="16"
+        fill="#013F47" opacity="0.85" letter-spacing="2.5"
+        font-weight="500">LIFE PATH 5 · MERCURY (BUDHA)</text>
+  <text x="512" y="954.25" text-anchor="middle"
+        font-family="Georgia, serif" font-size="13"
+        fill="#7D5519" opacity="0.75" letter-spacing="1.8"
+        font-style="italic">Vedic Numerology Mandala · VastuCart Editorial</text>
+</svg>

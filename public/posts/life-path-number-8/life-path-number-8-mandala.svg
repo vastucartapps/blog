@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1024" height="1024" viewBox="0 0 1024 1024"
+     role="img" aria-label="Number 8 mandala with Saturn sigils on the rim">
+  <defs>
+    <radialGradient id="bgRadial" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#FBF6E8"/>
+      <stop offset="80%" stop-color="#F2EAD3"/>
+      <stop offset="100%" stop-color="#ECE0C5"/>
+    </radialGradient>
+    <radialGradient id="centreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#9DA8AC" stop-opacity="0.6"/>
+      <stop offset="60%" stop-color="#9DA8AC" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#9DA8AC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1024" height="1024" fill="url(#bgRadial)"/>
+
+  <!-- Decorative outer ring -->
+  <circle cx="512" cy="512" r="430" fill="none" stroke="#B8893E" stroke-width="1" opacity="0.45"/>
+  <circle cx="512" cy="512" r="440" fill="none" stroke="#B8893E" stroke-width="0.6" opacity="0.30"/>
+
+  <!-- Centre glow -->
+  <circle cx="512" cy="512" r="390" fill="url(#centreGlow)"/>
+
+  <!-- Sigils on rim -->
+  <g transform="translate(661.2 151.7)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#9DA8AC" text-anchor="middle" font-weight="600">♄</text>
+       </g>
+  <g transform="translate(872.3 362.8)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#9DA8AC" text-anchor="middle" font-weight="600">♄</text>
+       </g>
+  <g transform="translate(872.3 661.2)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#9DA8AC" text-anchor="middle" font-weight="600">♄</text>
+       </g>
+  <g transform="translate(661.2 872.3)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#9DA8AC" text-anchor="middle" font-weight="600">♄</text>
+       </g>
+  <g transform="translate(362.8 872.3)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#9DA8AC" text-anchor="middle" font-weight="600">♄</text>
+       </g>
+  <g transform="translate(151.7 661.2)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#9DA8AC" text-anchor="middle" font-weight="600">♄</text>
+       </g>
+  <g transform="translate(151.7 362.8)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#9DA8AC" text-anchor="middle" font-weight="600">♄</text>
+       </g>
+  <g transform="translate(362.8 151.7)">
+         <circle r="22" fill="#013F47" stroke="#B8893E" stroke-width="1.4"/>
+         <text y="9" font-family="Georgia, serif" font-size="26" fill="#9DA8AC" text-anchor="middle" font-weight="600">♄</text>
+       </g>
+
+  <!-- Lotus petals -->
+  <path d="M 585.1 325.8 Q 566.2 239.3, 512.0 182.0 Q 457.8 239.3, 438.9 325.8 Z" fill="#9DA8AC" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 695.3 432.0 Q 743.1 357.6, 745.3 278.7 Q 666.4 280.9, 592.0 328.7 Z" fill="#9DA8AC" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 698.2 585.1 Q 784.7 566.2, 842.0 512.0 Q 784.7 457.8, 698.2 438.9 Z" fill="#9DA8AC" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 592.0 695.3 Q 666.4 743.1, 745.3 745.3 Q 743.1 666.4, 695.3 592.0 Z" fill="#9DA8AC" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 438.9 698.2 Q 457.8 784.7, 512.0 842.0 Q 566.2 784.7, 585.1 698.2 Z" fill="#9DA8AC" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 328.7 592.0 Q 280.9 666.4, 278.7 745.3 Q 357.6 743.1, 432.0 695.3 Z" fill="#9DA8AC" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 325.8 438.9 Q 239.3 457.8, 182.0 512.0 Q 239.3 566.2, 325.8 585.1 Z" fill="#9DA8AC" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+  <path d="M 432.0 328.7 Q 357.6 280.9, 278.7 278.7 Q 280.9 357.6, 328.7 432.0 Z" fill="#9DA8AC" fill-opacity="0.20" stroke="#B8893E" stroke-width="2.2" stroke-opacity="0.9"/>
+
+  <!-- Inner disc -->
+  <circle cx="512" cy="512" r="200" fill="#FBF6E8" stroke="#B8893E" stroke-width="2.4"/>
+  <circle cx="512" cy="512" r="186" fill="none" stroke="#9DA8AC" stroke-width="1.6" opacity="0.55"/>
+  <circle cx="512" cy="512" r="172" fill="none" stroke="#B8893E" stroke-width="0.8" opacity="0.4"/>
+
+  <!-- Devanagari label arched above the numeral -->
+  <text x="512" y="412" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="34"
+        fill="#7D5519" letter-spacing="3" opacity="0.85">शनि</text>
+
+  <!-- Big numeral -->
+  <text x="512" y="592" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="280"
+        fill="#9DA8AC" font-weight="700">8</text>
+
+  <!-- Caption -->
+  <text x="512" y="937" text-anchor="middle"
+        font-family="Georgia, serif" font-size="16"
+        fill="#013F47" opacity="0.85" letter-spacing="2.5"
+        font-weight="500">LIFE PATH 8 · SATURN (SHANI)</text>
+  <text x="512" y="964" text-anchor="middle"
+        font-family="Georgia, serif" font-size="13"
+        fill="#7D5519" opacity="0.75" letter-spacing="1.8"
+        font-style="italic">Vedic Numerology Mandala · VastuCart Editorial</text>
+</svg>
