@@ -85,8 +85,12 @@
 
     <g transform="translate(303, 90)">
       <circle r="16" fill="#013F47" stroke="#E0BF7C" stroke-width="1.6"/>
-      <text y="6.5" font-family="Georgia, serif" font-size="22"
-            fill="#F2A04C" text-anchor="middle" font-weight="700">☊</text>
+      <g transform="scale(0.32)">
+    <path d="M -14 16 L -14 -4 Q -14 -22 0 -22 Q 14 -22 14 -4 L 14 16"
+          stroke="#F2A04C" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="-14" cy="20" r="3.5" fill="#F2A04C"/>
+    <circle cx="14" cy="20" r="3.5" fill="#F2A04C"/>
+  </g>
     </g>
   </g>
 
@@ -165,8 +169,12 @@
               text-anchor="middle">PLANET</text>
         <circle r="66" fill="#012E34" stroke="#E0BF7C" stroke-width="1.8"/>
         <circle r="58" fill="none" stroke="#9B7CB7" stroke-width="0.8" opacity="0.45"/>
-        <text y="22" font-family="Georgia, 'Times New Roman', serif" font-size="78"
-              fill="#9B7CB7" text-anchor="middle" font-weight="500">☊</text>
+        <g transform="scale(1.12)">
+    <path d="M -14 16 L -14 -4 Q -14 -22 0 -22 Q 14 -22 14 -4 L 14 16"
+          stroke="#9B7CB7" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="-14" cy="20" r="3.5" fill="#9B7CB7"/>
+    <circle cx="14" cy="20" r="3.5" fill="#9B7CB7"/>
+  </g>
         <circle r="64" fill="none" stroke="#B8893E" stroke-width="1" opacity="0.5"/>
       </g>
       <text x="340" y="170" font-family="Georgia, serif" font-size="20"

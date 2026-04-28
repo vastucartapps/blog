@@ -27,7 +27,11 @@
 
     <!-- Planet glyph chip -->
     <circle cx="86" cy="146" r="42" fill="#e8840a"/>
-    <text x="86" y="166" text-anchor="middle" font-family="Georgia, serif" font-size="48" font-weight="700" fill="#faf6ef">♀</text>
+    <g transform="translate(86 146)"><g transform="scale(0.9)">
+    <circle cx="0" cy="-6" r="12" stroke="#faf6ef" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <line x1="0" y1="6" x2="0" y2="24" stroke="#faf6ef" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <line x1="-8" y1="14" x2="8" y2="14" stroke="#faf6ef" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g></g>
 
     <!-- Title -->
     <text x="160" y="146" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700" fill="#0d1f24">Venus in the 2nd house</text>

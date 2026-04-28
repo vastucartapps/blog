@@ -23,7 +23,11 @@
     <text x="40" y="86" font-family="system-ui, sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#c9a84c">________________________</text>
 
     <circle cx="86" cy="146" r="42" fill="#c9a84c"/>
-    <text x="86" y="166" text-anchor="middle" font-family="Georgia, serif" font-size="48" font-weight="700" fill="#faf6ef">♃</text>
+    <g transform="translate(86 146)"><g transform="scale(0.9)">
+    <path d="M -16 -14 Q -22 -14 -22 -8 Q -22 -2 -14 -2 L 14 -2"
+          stroke="#faf6ef" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M 8 -22 L 8 22" stroke="#faf6ef" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g></g>
 
     <text x="160" y="146" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700" fill="#0d1f24">Jupiter remedies, 7th house</text>
     <text x="160" y="186" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#3a4f54">Mesh Lagna · daily practice protocol</text>
