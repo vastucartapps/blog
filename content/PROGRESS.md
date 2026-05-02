@@ -276,7 +276,7 @@ Slug convention for Meena lagna: Sanskrit planet name + ordinal-house + `-house-
 
 ### Meena Phase 2 batch (next — yogakaraka swakshetra and dignity placements)
 - [ ] Mangal in 9th house, Meena Lagna `mangal-9th-house-pisces-lagna` ← 2L+9L swakshetra Vrishchika in dharma trikona, supreme yogakaraka own dharma
-- [ ] Mangal in 2nd house, Meena Lagna `mangal-2nd-house-pisces-lagna` ← 2L+9L swakshetra Mesha in dhana, yogakaraka own dhana
+- [x] Mangal in 2nd house, Meena Lagna `mangal-2nd-house-pisces-lagna` ← 2L+9L swakshetra Mesha in dhana, Dhana-Dharma yoga in own dhana with MKS caveat
 - [x] Shani in 11th house, Meena Lagna `shani-11th-house-pisces-lagna` ← 11L+12L swakshetra Makara in own labha
 - [ ] Shani in 12th house, Meena Lagna `shani-12th-house-pisces-lagna` ← 11L+12L swakshetra Kumbha in own vyaya
 - [ ] Shukra in 8th house, Meena Lagna `shukra-8th-house-pisces-lagna` ← 3L+8L swakshetra Tula in randhra (jointly Shani exaltation territory)
@@ -299,7 +299,7 @@ Slug convention for Kumbha lagna: Sanskrit planet name + ordinal-house + `-house
 |---|---|---|---|---|---|---|---|---|---|
 | 1st  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  |
 | 2nd  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
-| 3rd  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 3rd  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 4th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
 | 5th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 6th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
