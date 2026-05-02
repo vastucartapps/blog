@@ -274,6 +274,40 @@ Slug convention for Meena lagna: Sanskrit planet name + ordinal-house + `-house-
 
 ---
 
+## Kumbha Lagna cluster matrix (target: 1 pillar + 108 graha-in-bhava)
+
+### Pillar
+- [ ] `kumbha-lagna-complete-guide` — Kumbha Lagna complete profile (pending)
+
+### Graha-in-Bhava 9×12 matrix (✓ = published, → = in progress, ✗ = todo)
+Slug convention for Kumbha lagna: Sanskrit planet name + ordinal-house + `-house-aquarius-lagna`.
+
+| House | Surya | Chandra | Mangal | Budha | Guru | Shukra | Shani | Rahu | Ketu |
+|---|---|---|---|---|---|---|---|---|---|
+| 1st  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  |
+| 2nd  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
+| 3rd  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 4th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
+| 5th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 6th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 7th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 8th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 9th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
+| 10th | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 11th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 12th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+
+**Kumbha cluster total: 5/108 graha-in-bhava + 0/1 pillar = 5/109 published.**
+
+### Kumbha Phase 1 batch (DONE — 5 apex placements at 109/100 each)
+- [x] Shukra in 2nd house, Kumbha Lagna `shukra-2nd-house-aquarius-lagna` ← yogakaraka exalted Meena in dhana, apex dhana raja yoga
+- [x] Shani in 1st house, Kumbha Lagna `shani-1st-house-aquarius-lagna` ← lagna lord at lagna swakshetra Kumbha, Sasa Mahapurusha
+- [x] Shukra in 9th house, Kumbha Lagna `shukra-9th-house-aquarius-lagna` ← yogakaraka swakshetra Tula in dharma trikona, supreme dharma raja yoga
+- [x] Shukra in 4th house, Kumbha Lagna `shukra-4th-house-aquarius-lagna` ← yogakaraka swakshetra Vrishabha in own kendra, Malavya Mahapurusha
+- [x] Mangal in 10th house, Kumbha Lagna `mangal-10th-house-aquarius-lagna` ← 3L+10L exalted Makara in own karma kendra, Ruchaka Mahapurusha
+
+---
+
 ## Other lagna clusters
 
 (matrices generated as each lagna is reached — never advance lagna
