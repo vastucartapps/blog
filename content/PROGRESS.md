@@ -253,7 +253,7 @@ Slug convention for Meena lagna: Sanskrit planet name + ordinal-house + `-house-
 | 1st  | ✗  | ✗  | ✗  | ✗  | ✓  | ✓  | ✗  | ✗  | ✗  |
 | 2nd  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 3rd  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
-| 4th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 4th  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 5th  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
 | 6th  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 7th  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  |
@@ -263,7 +263,7 @@ Slug convention for Meena lagna: Sanskrit planet name + ordinal-house + `-house-
 | 11th | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  |
 | 12th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  |
 
-**Meena cluster total: 13/108 graha-in-bhava + 0/1 pillar = 13/109 published.**
+**Meena cluster total: 14/108 graha-in-bhava + 0/1 pillar = 14/109 published.**
 
 ### Meena Phase 1 batch (DONE — apex dignity placements 7/7)
 - [x] Guru in 1st house, Meena Lagna `guru-1st-house-pisces-lagna` ← 1L+10L swakshetra Meena at lagna, apex Hamsa Mahapurusha + lagna lord at lagna
@@ -281,7 +281,7 @@ Slug convention for Meena lagna: Sanskrit planet name + ordinal-house + `-house-
 - [ ] Shani in 12th house, Meena Lagna `shani-12th-house-pisces-lagna` ← 11L+12L swakshetra Kumbha in own vyaya
 - [ ] Shukra in 8th house, Meena Lagna `shukra-8th-house-pisces-lagna` ← 3L+8L swakshetra Tula in randhra (jointly Shani exaltation territory)
 - [x] Shukra in 3rd house, Meena Lagna `shukra-3rd-house-pisces-lagna` ← 3L+8L swakshetra Vrishabha in sahaja
-- [ ] Budha in 4th house, Meena Lagna `budha-4th-house-pisces-lagna` ← 4L+7L swakshetra Mithuna in kendra, kendradhipati
+- [x] Budha in 4th house, Meena Lagna `budha-4th-house-pisces-lagna` ← 4L+7L swakshetra Mithuna in own sukha kendra, kendra raja yoga (kendradhipati cancellation)
 - [ ] Surya in 6th house, Meena Lagna `surya-6th-house-pisces-lagna` ← 6L swakshetra Simha in ripu, Harsha Yoga
 - [x] Chandra in 5th house, Meena Lagna `chandra-5th-house-pisces-lagna` ← 5L swakshetra Karka in trikona
 
