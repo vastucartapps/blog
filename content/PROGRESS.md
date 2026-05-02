@@ -247,10 +247,10 @@ Slug convention for Meena lagna: Sanskrit planet name + ordinal-house + `-house-
 | 8th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  |
 | 9th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 10th | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
-| 11th | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 11th | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  |
 | 12th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 
-**Meena cluster total: 7/108 graha-in-bhava + 0/1 pillar = 7/109 published.**
+**Meena cluster total: 8/108 graha-in-bhava + 0/1 pillar = 8/109 published.**
 
 ### Meena Phase 1 batch (DONE — apex dignity placements 7/7)
 - [x] Guru in 1st house, Meena Lagna `guru-1st-house-pisces-lagna` ← 1L+10L swakshetra Meena at lagna, apex Hamsa Mahapurusha + lagna lord at lagna
@@ -264,7 +264,7 @@ Slug convention for Meena lagna: Sanskrit planet name + ordinal-house + `-house-
 ### Meena Phase 2 batch (next — yogakaraka swakshetra and dignity placements)
 - [ ] Mangal in 9th house, Meena Lagna `mangal-9th-house-pisces-lagna` ← 2L+9L swakshetra Vrishchika in dharma trikona, supreme yogakaraka own dharma
 - [ ] Mangal in 2nd house, Meena Lagna `mangal-2nd-house-pisces-lagna` ← 2L+9L swakshetra Mesha in dhana, yogakaraka own dhana
-- [ ] Shani in 11th house, Meena Lagna `shani-11th-house-pisces-lagna` ← 11L+12L swakshetra Makara in own labha
+- [x] Shani in 11th house, Meena Lagna `shani-11th-house-pisces-lagna` ← 11L+12L swakshetra Makara in own labha
 - [ ] Shani in 12th house, Meena Lagna `shani-12th-house-pisces-lagna` ← 11L+12L swakshetra Kumbha in own vyaya
 - [ ] Shukra in 8th house, Meena Lagna `shukra-8th-house-pisces-lagna` ← 3L+8L swakshetra Tula in randhra (jointly Shani exaltation territory)
 - [ ] Shukra in 3rd house, Meena Lagna `shukra-3rd-house-pisces-lagna` ← 3L+8L swakshetra Vrishabha in sahaja
@@ -387,6 +387,7 @@ before the previous one is at 109/109)
 | `shani-9th-house-taurus-lagna` | planet-in-house | 1990 | 103/100 | ✓ all gates | 2026-04-27 |
 | `guru-11th-house-taurus-lagna` | planet-in-house | 2010 | 103/100 | ✓ all gates | 2026-04-27 |
 | `guru-1st-house-pisces-lagna` | planet-in-house | 2050 | 106/100 | ✓ all gates | 2026-05-02 |
+| `shani-11th-house-pisces-lagna` | planet-in-house | 2246 | 107/100 | ✓ all gates | 2026-05-02 |
 
 ---
 
