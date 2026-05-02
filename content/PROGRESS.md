@@ -227,6 +227,42 @@ Slug convention for Mithuna lagna: Sanskrit planet name + ordinal-house + `-hous
 
 
 
+## Meena Lagna cluster matrix (target: 1 pillar + 108 graha-in-bhava)
+
+### Pillar
+- [ ] `meena-lagna-complete-guide` — Meena Lagna complete profile (pending)
+
+### Graha-in-Bhava 9×12 matrix (✓ = published, → = in progress, ✗ = todo)
+Slug convention for Meena lagna: Sanskrit planet name + ordinal-house + `-house-pisces-lagna`.
+
+| House | Surya | Chandra | Mangal | Budha | Guru | Shukra | Shani | Rahu | Ketu |
+|---|---|---|---|---|---|---|---|---|---|
+| 1st  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
+| 2nd  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 3rd  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 4th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 5th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 6th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 7th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 8th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 9th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 10th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 11th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 12th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+
+**Meena cluster total: 1/108 graha-in-bhava + 0/1 pillar = 1/109 published.**
+
+### Meena Phase 1 batch (in progress — apex dignity placements)
+- [x] Guru in 1st house, Meena Lagna `guru-1st-house-pisces-lagna` ← 1L+10L swakshetra Meena at lagna, apex Hamsa Mahapurusha + lagna lord at lagna
+- [ ] Shukra in 1st house, Meena Lagna `shukra-1st-house-pisces-lagna` ← Venus exalted Meena at lagna, apex Malavya at the apex angle
+- [ ] Guru in 10th house, Meena Lagna `guru-10th-house-pisces-lagna` ← 1L+10L swakshetra Dhanu in karma kendra, Hamsa apex
+- [ ] Guru in 5th house, Meena Lagna `guru-5th-house-pisces-lagna` ← 1L+10L exalted Karka in trikona, Lakshmi yoga
+- [ ] Budha in 7th house, Meena Lagna `budha-7th-house-pisces-lagna` ← 4L+7L double-dignity Kanya in kalatra kendra, Bhadra apex
+- [ ] Mangal in 11th house, Meena Lagna `mangal-11th-house-pisces-lagna` ← 2L+9L exalted Makara in labha, Ruchaka warrior-yogakaraka
+- [ ] Shani in 8th house, Meena Lagna `shani-8th-house-pisces-lagna` ← 11L+12L exalted Tula in randhra, Sarala-style Viparita Raja Yoga
+
+---
+
 ## Other lagna clusters
 
 (matrices generated as each lagna is reached — never advance lagna
@@ -305,6 +341,7 @@ before the previous one is at 109/109)
 | `mangal-7th-house-taurus-lagna` | planet-in-house | 1990 | 103/100 | ✓ all gates | 2026-04-27 |
 | `shani-9th-house-taurus-lagna` | planet-in-house | 1990 | 103/100 | ✓ all gates | 2026-04-27 |
 | `guru-11th-house-taurus-lagna` | planet-in-house | 2010 | 103/100 | ✓ all gates | 2026-04-27 |
+| `guru-1st-house-pisces-lagna` | planet-in-house | 2050 | 106/100 | ✓ all gates | 2026-05-02 |
 
 ---
 
