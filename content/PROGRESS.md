@@ -304,13 +304,13 @@ Slug convention for Kumbha lagna: Sanskrit planet name + ordinal-house + `-house
 | 5th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 6th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 7th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
-| 8th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
-| 9th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  |
+| 8th  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 9th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✓  | ✗  | ✗  |
 | 10th | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 11th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 12th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 
-**Kumbha cluster total: 5/108 graha-in-bhava + 0/1 pillar = 5/109 published.**
+**Kumbha cluster total: 7/108 graha-in-bhava + 0/1 pillar = 7/109 published.**
 
 ### Kumbha Phase 1 batch (DONE — 5 apex placements at 109/100 each)
 - [x] Shukra in 2nd house, Kumbha Lagna `shukra-2nd-house-aquarius-lagna` ← yogakaraka exalted Meena in dhana, apex dhana raja yoga
@@ -318,6 +318,10 @@ Slug convention for Kumbha lagna: Sanskrit planet name + ordinal-house + `-house
 - [x] Shukra in 9th house, Kumbha Lagna `shukra-9th-house-aquarius-lagna` ← yogakaraka swakshetra Tula in dharma trikona, supreme dharma raja yoga
 - [x] Shukra in 4th house, Kumbha Lagna `shukra-4th-house-aquarius-lagna` ← yogakaraka swakshetra Vrishabha in own kendra, Malavya Mahapurusha
 - [x] Mangal in 10th house, Kumbha Lagna `mangal-10th-house-aquarius-lagna` ← 3L+10L exalted Makara in own karma kendra, Ruchaka Mahapurusha
+
+### Kumbha Phase 2 batch (DONE — Mercury double-dignity Sarala + Saturn supreme dharma at 109/100 each)
+- [x] Budha in 8th house, Kumbha Lagna `budha-8th-house-aquarius-lagna` ← 5L+8L double-dignity (swa+uchha) Kanya in randhra, Bhadra Mahapurusha + Sarala Viparita
+- [x] Shani in 9th house, Kumbha Lagna `shani-9th-house-aquarius-lagna` ← 1L+12L exalted Tula in dharma trikona, lagna-lord-exalted-in-dharma yoga
 
 ---
 
