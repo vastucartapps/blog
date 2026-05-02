@@ -237,29 +237,40 @@ Slug convention for Meena lagna: Sanskrit planet name + ordinal-house + `-house-
 
 | House | Surya | Chandra | Mangal | Budha | Guru | Shukra | Shani | Rahu | Ketu |
 |---|---|---|---|---|---|---|---|---|---|
-| 1st  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
+| 1st  | ✗  | ✗  | ✗  | ✗  | ✓  | ✓  | ✗  | ✗  | ✗  |
 | 2nd  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 3rd  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 4th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
-| 5th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 5th  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
 | 6th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
-| 7th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
-| 8th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 7th  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 8th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  |
 | 9th  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
-| 10th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
-| 11th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
+| 10th | ✗  | ✗  | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  |
+| 11th | ✗  | ✗  | ✓  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 12th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 
-**Meena cluster total: 1/108 graha-in-bhava + 0/1 pillar = 1/109 published.**
+**Meena cluster total: 7/108 graha-in-bhava + 0/1 pillar = 7/109 published.**
 
-### Meena Phase 1 batch (in progress — apex dignity placements)
+### Meena Phase 1 batch (DONE — apex dignity placements 7/7)
 - [x] Guru in 1st house, Meena Lagna `guru-1st-house-pisces-lagna` ← 1L+10L swakshetra Meena at lagna, apex Hamsa Mahapurusha + lagna lord at lagna
-- [ ] Shukra in 1st house, Meena Lagna `shukra-1st-house-pisces-lagna` ← Venus exalted Meena at lagna, apex Malavya at the apex angle
-- [ ] Guru in 10th house, Meena Lagna `guru-10th-house-pisces-lagna` ← 1L+10L swakshetra Dhanu in karma kendra, Hamsa apex
-- [ ] Guru in 5th house, Meena Lagna `guru-5th-house-pisces-lagna` ← 1L+10L exalted Karka in trikona, Lakshmi yoga
-- [ ] Budha in 7th house, Meena Lagna `budha-7th-house-pisces-lagna` ← 4L+7L double-dignity Kanya in kalatra kendra, Bhadra apex
-- [ ] Mangal in 11th house, Meena Lagna `mangal-11th-house-pisces-lagna` ← 2L+9L exalted Makara in labha, Ruchaka warrior-yogakaraka
-- [ ] Shani in 8th house, Meena Lagna `shani-8th-house-pisces-lagna` ← 11L+12L exalted Tula in randhra, Sarala-style Viparita Raja Yoga
+- [x] Shukra in 1st house, Meena Lagna `shukra-1st-house-pisces-lagna` ← Venus exalted Meena at lagna, apex Malavya at the apex angle
+- [x] Guru in 10th house, Meena Lagna `guru-10th-house-pisces-lagna` ← 1L+10L swakshetra Dhanu in karma kendra, Hamsa apex
+- [x] Guru in 5th house, Meena Lagna `guru-5th-house-pisces-lagna` ← 1L+10L exalted Karka in trikona, Lakshmi yoga
+- [x] Budha in 7th house, Meena Lagna `budha-7th-house-pisces-lagna` ← 4L+7L double-dignity Kanya in kalatra kendra, Bhadra apex
+- [x] Mangal in 11th house, Meena Lagna `mangal-11th-house-pisces-lagna` ← 2L+9L exalted Makara in labha, Ruchaka warrior-yogakaraka
+- [x] Shani in 8th house, Meena Lagna `shani-8th-house-pisces-lagna` ← 11L+12L exalted Tula in randhra, Sarala-style Viparita Raja Yoga
+
+### Meena Phase 2 batch (next — yogakaraka swakshetra and dignity placements)
+- [ ] Mangal in 9th house, Meena Lagna `mangal-9th-house-pisces-lagna` ← 2L+9L swakshetra Vrishchika in dharma trikona, supreme yogakaraka own dharma
+- [ ] Mangal in 2nd house, Meena Lagna `mangal-2nd-house-pisces-lagna` ← 2L+9L swakshetra Mesha in dhana, yogakaraka own dhana
+- [ ] Shani in 11th house, Meena Lagna `shani-11th-house-pisces-lagna` ← 11L+12L swakshetra Makara in own labha
+- [ ] Shani in 12th house, Meena Lagna `shani-12th-house-pisces-lagna` ← 11L+12L swakshetra Kumbha in own vyaya
+- [ ] Shukra in 8th house, Meena Lagna `shukra-8th-house-pisces-lagna` ← 3L+8L swakshetra Tula in randhra (jointly Shani exaltation territory)
+- [ ] Shukra in 3rd house, Meena Lagna `shukra-3rd-house-pisces-lagna` ← 3L+8L swakshetra Vrishabha in sahaja
+- [ ] Budha in 4th house, Meena Lagna `budha-4th-house-pisces-lagna` ← 4L+7L swakshetra Mithuna in kendra, kendradhipati
+- [ ] Surya in 6th house, Meena Lagna `surya-6th-house-pisces-lagna` ← 6L swakshetra Simha in ripu, Harsha Yoga
+- [ ] Chandra in 5th house, Meena Lagna `chandra-5th-house-pisces-lagna` ← 5L swakshetra Karka in trikona
 
 ---
 
