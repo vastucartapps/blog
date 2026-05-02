@@ -310,18 +310,22 @@ Slug convention for Kumbha lagna: Sanskrit planet name + ordinal-house + `-house
 | 11th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 | 12th | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  | ✗  |
 
-**Kumbha cluster total: 7/108 graha-in-bhava + 0/1 pillar = 7/109 published.**
+**Kumbha cluster total: 8/108 graha-in-bhava + 0/1 pillar = 8/109 published.**
 
 ### Kumbha Phase 1 batch (DONE — 5 apex placements at 109/100 each)
 - [x] Shukra in 2nd house, Kumbha Lagna `shukra-2nd-house-aquarius-lagna` ← yogakaraka exalted Meena in dhana, apex dhana raja yoga
 - [x] Shani in 1st house, Kumbha Lagna `shani-1st-house-aquarius-lagna` ← lagna lord at lagna swakshetra Kumbha, Sasa Mahapurusha
 - [x] Shukra in 9th house, Kumbha Lagna `shukra-9th-house-aquarius-lagna` ← yogakaraka swakshetra Tula in dharma trikona, supreme dharma raja yoga
 - [x] Shukra in 4th house, Kumbha Lagna `shukra-4th-house-aquarius-lagna` ← yogakaraka swakshetra Vrishabha in own kendra, Malavya Mahapurusha
-- [x] Mangal in 10th house, Kumbha Lagna `mangal-10th-house-aquarius-lagna` ← 3L+10L exalted Makara in own karma kendra, Ruchaka Mahapurusha
+- [x] Mangal in 10th house, Kumbha Lagna `mangal-10th-house-aquarius-lagna` ← 3L+10L swakshetra Vrishchika in own karma kendra, Ruchaka Mahapurusha
 
 ### Kumbha Phase 2 batch (DONE — Mercury double-dignity Sarala + Saturn supreme dharma at 109/100 each)
 - [x] Budha in 8th house, Kumbha Lagna `budha-8th-house-aquarius-lagna` ← 5L+8L double-dignity (swa+uchha) Kanya in randhra, Bhadra Mahapurusha + Sarala Viparita
 - [x] Shani in 9th house, Kumbha Lagna `shani-9th-house-aquarius-lagna` ← 1L+12L exalted Tula in dharma trikona, lagna-lord-exalted-in-dharma yoga
+
+### Kumbha Phase 3 batch (DONE — Mars 3rd swakshetra parakrama + Mars 10th sign correction at 109/100 each)
+- [x] Mangal in 3rd house, Kumbha Lagna `mangal-3rd-house-aquarius-lagna` ← 3L+10L swakshetra Mesha in own parakrama, karma-lord-initiative yoga
+- [x] Mangal-10 sign correction: Vrishchika swakshetra (NOT Makara exalted - Makara is 12H of Kumbha). Ruchaka Mahapurusha holds via own-sign-in-kendra.
 
 ---
 
