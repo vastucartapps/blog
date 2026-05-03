@@ -9,7 +9,7 @@
   "author_id": "vastucart-editorial",
   "reviewer_id": "vastucart-jyotish-review-panel",
   "reading_time_minutes": 12,
-  "status": "draft",
+  "status": "ready",
   "published_at": "2026-05-02T00:00:00.000Z",
   "updated_at": "2026-05-02T00:00:00.000Z",
   "tags": [
@@ -772,9 +772,9 @@
         "title": "Shri Shani Stotram",
         "sub": "Navagraha verse to Saturn, classical discipline hymn",
         "verse": "Nilanjana-samabhasam ravi-putram yamagrajam<br>Chhaya-martanda-sambhutam tam namami shanaishcharam",
-        "translation": "I bow to Shanaishchara, dark as black collyrium, son of the Sun, elder brother of Yama, born of Chhaya and the Sun. The Shani Stotram is the canonical Navagraha verse to Saturn and is the perfect daily recitation for a chart where Saturn sits swakshetra in his own labha angle and the foundational labha-vyaya gains signature needs a containing devotional field. Many natives advanced in practice add the Hanuman Chalisa recitation as a secondary layer once the daily Shani discipline is steady, and natives drawn to the institutional-discipline dimension add the Shani Kavacham as the protective armour layer."
-      },
-      "url": "https://stotra.vastucart.in/stotra/shani-stotra"
+        "translation": "I bow to Shanaishchara, dark as black collyrium, son of the Sun, elder brother of Yama, born of Chhaya and the Sun. The Shani Stotram is the canonical Navagraha verse to Saturn and is the perfect daily recitation for a chart where Saturn sits swakshetra in his own labha angle and the foundational labha-vyaya gains signature needs a containing devotional field. Many natives advanced in practice add the Hanuman Chalisa recitation as a secondary layer once the daily Shani discipline is steady, and natives drawn to the institutional-discipline dimension add the Shani Kavacham as the protective armour layer.",
+        "url": "https://stotra.vastucart.in/stotra/shani-stotra"
+      }
     },
     {
       "type": "image-figure",

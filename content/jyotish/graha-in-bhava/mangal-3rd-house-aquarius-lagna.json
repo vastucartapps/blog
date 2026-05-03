@@ -297,7 +297,7 @@
           "label": "Planet",
           "value": "Mangal",
           "sub": "Mars",
-          "icon": "rose"
+          "icon": "mars"
         },
         {
           "label": "Bhava",
@@ -371,7 +371,7 @@
       "type": "info-grid",
       "cards": [
         {
-          "icon": "rose",
+          "icon": "mars",
           "title": "Mangal, planet profile",
           "subtitle": "Key attributes for this placement",
           "items": [

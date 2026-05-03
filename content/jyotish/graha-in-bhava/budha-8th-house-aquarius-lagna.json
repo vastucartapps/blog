@@ -296,7 +296,7 @@
           "label": "Planet",
           "value": "Budha",
           "sub": "Mercury",
-          "icon": "teal"
+          "icon": "sun"
         },
         {
           "label": "Bhava",
@@ -370,7 +370,7 @@
       "type": "info-grid",
       "cards": [
         {
-          "icon": "teal",
+          "icon": "sun",
           "title": "Budha, planet profile",
           "subtitle": "Key attributes for this placement",
           "items": [
