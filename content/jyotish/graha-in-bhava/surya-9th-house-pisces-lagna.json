@@ -22,7 +22,7 @@
     "6L in 9 Sun",
     "graha in bhava"
   ],
-  "planet_id": "sun",
+  "planet_id": "surya",
   "house_number": 9,
   "lagna_id": "meena",
   "ruling_sign": "vrishchika",
@@ -62,10 +62,22 @@
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/surya-9th-house-pisces-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Sun in 9th House, Meena Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/surya-9th-house-pisces-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Sun in 9th House, Meena Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/surya-9th-house-pisces-lagna"
+      }
     ]
   },
   "keyword_brief": {
@@ -129,9 +141,26 @@
       "Which gemstone should Meena Lagna wear for Sun in 9th?"
     ],
     "lingual_variations": {
-      "sun": ["sun", "surya", "aditya", "ravi", "bhaskara"],
-      "meena": ["meena", "pisces", "meen", "meena lagna", "pisces ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "sun": [
+        "sun",
+        "surya",
+        "aditya",
+        "ravi",
+        "bhaskara"
+      ],
+      "meena": [
+        "meena",
+        "pisces",
+        "meen",
+        "meena lagna",
+        "pisces ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
     "content_gaps": [
       "Sun friend-sign reading for Meena in 9H Vrishchika",
@@ -182,12 +211,12 @@
     },
     {
       "filename": "surya-9th-house-pisces-lagna-stotra-parchment.webp",
-      "alt": "Aditya Hridayam parchment for Sun in the dharma trikona of Vedic Jyotish",
-      "caption": "Aditya Hridayam, the canonical solar hymn from the Yuddha Kanda, with Devanagari, IAST, and English meaning.",
+      "alt": "Āditya Stotram verse parchment for Sun in Vedic Jyotish",
+      "caption": "Āditya Stotram, the canonical Navagraha verse to Sun, with Devanagari, IAST, and English meaning.",
       "width": 1060,
       "height": 1048,
       "format": "webp",
-      "style": "Navagraha verse parchment, saffron and gold on cream",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Aditya Hridayam, hand-painted on aged parchment with gold leaf borders, faint sun-ray and lotus motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -219,18 +248,45 @@
     "title_html": "Sun in the 9th house<br><em>Meena Lagna</em> (Pisces Ascendant)",
     "description": "A practitioner study of Surya in Dharma Bhava for Pisces ascendant natives. Sun is the 6L sitting in friend-sign Vrishchika at the dharma trikona, the rare Dharma Vipreet configuration where the lord of difficulty enriches a dharmic angle and the native fights structurally for righteous causes.",
     "meta": [
-      { "icon": "clock", "value": "11 min read" },
-      { "icon": "check-circle", "value": "Reviewed by VastuCart Jyotish Review Panel" },
-      { "icon": "user", "value": "VastuCart Editorial" },
-      { "icon": "calendar", "value": "Updated May 2026" }
+      {
+        "icon": "clock",
+        "value": "11 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated May 2026"
+      }
     ],
     "tags": [
-      { "label": "Surya", "tone": "saff" },
-      { "label": "Dharma Bhava", "tone": "saff" },
-      { "label": "Meena Lagna", "tone": "teal" },
-      { "label": "Vrishchika friend-sign" },
-      { "label": "6L in 9 Sun" },
-      { "label": "Dharma Vipreet" }
+      {
+        "label": "Surya",
+        "tone": "saff"
+      },
+      {
+        "label": "Dharma Bhava",
+        "tone": "saff"
+      },
+      {
+        "label": "Meena Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Vrishchika friend-sign"
+      },
+      {
+        "label": "6L in 9 Sun"
+      },
+      {
+        "label": "Dharma Vipreet"
+      }
     ]
   },
   "schema": {},
@@ -238,10 +294,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Surya", "sub": "Sun, 6th house lord", "icon": "sun" },
-        { "label": "Bhava", "value": "9th", "sub": "Dharma Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Meena", "sub": "Pisces ascendant", "icon": "mars" },
-        { "label": "Yoga", "value": "Dharma Vipreet", "sub": "6L in dharma trikona, friend-sign Vrishchika", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Surya",
+          "sub": "Sun, 6th house lord",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "9th",
+          "sub": "Dharma Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Meena",
+          "sub": "Pisces ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Yoga",
+          "value": "Dharma Vipreet",
+          "sub": "6L in dharma trikona, friend-sign Vrishchika",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -299,14 +376,41 @@
           "title": "Surya, planet profile",
           "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Soul, father, authority, vitality, immunity" },
-            { "k": "Sign placement", "v": "Vrishchika (Scorpio), Mars's mystical own sign" },
-            { "k": "Uchha (exaltation)", "v": "Mesha (Aries), the 2H for Meena", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Tula (Libra), the 8H for Meena", "tone": "bad" },
-            { "k": "Sign state here", "v": "Mitra-graha (friend-sign Vrishchika)", "tone": "good" },
-            { "k": "Friends", "v": "Moon, Mars, Jupiter (Mars rules Vrishchika)" },
-            { "k": "Element", "v": "Fire planet in water-mystical sign" },
-            { "k": "Role for Meena", "v": "6L only, single-house lord" }
+            {
+              "k": "Karakatva",
+              "v": "Soul, father, authority, vitality, immunity"
+            },
+            {
+              "k": "Sign placement",
+              "v": "Vrishchika (Scorpio), Mars's mystical own sign"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Mesha (Aries), the 2H for Meena",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Tula (Libra), the 8H for Meena",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Mitra-graha (friend-sign Vrishchika)",
+              "tone": "good"
+            },
+            {
+              "k": "Friends",
+              "v": "Moon, Mars, Jupiter (Mars rules Vrishchika)"
+            },
+            {
+              "k": "Element",
+              "v": "Fire planet in water-mystical sign"
+            },
+            {
+              "k": "Role for Meena",
+              "v": "6L only, single-house lord"
+            }
           ]
         },
         {
@@ -314,33 +418,87 @@
           "title": "Dharma Bhava, house profile",
           "subtitle": "9th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Dharma, Bhagya, Pitru" },
-            { "k": "Rules over", "v": "Father, dharma, higher learning, pilgrimage, fortune" },
-            { "k": "Natural sign", "v": "Vrishchika (Scorpio) for Meena Lagna" },
-            { "k": "Natural ruler here", "v": "Mangal (Mars), 9L for Meena" },
-            { "k": "Body part", "v": "Hips, thighs, sciatic nerve, hepatic system" },
-            { "k": "Classical nature", "v": "Trikona (auspicious dharmic angle)", "tone": "good" },
-            { "k": "Vedic quality", "v": "Bhagya seat, lord of fortune", "tone": "good" },
-            { "k": "Special effect", "v": "Dharma Vipreet conversion of dusthana lord", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Dharma, Bhagya, Pitru"
+            },
+            {
+              "k": "Rules over",
+              "v": "Father, dharma, higher learning, pilgrimage, fortune"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Vrishchika (Scorpio) for Meena Lagna"
+            },
+            {
+              "k": "Natural ruler here",
+              "v": "Mangal (Mars), 9L for Meena"
+            },
+            {
+              "k": "Body part",
+              "v": "Hips, thighs, sciatic nerve, hepatic system"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Trikona (auspicious dharmic angle)",
+              "tone": "good"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Bhagya seat, lord of fortune",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Dharma Vipreet conversion of dusthana lord",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "astro-glossary",
       "eyebrow": "Quick reference",
       "heading": "Terms used in this article",
       "intro_html": "<p>A short glossary of the Sanskrit and Jyotish terms that recur in this study. First-occurrence expansion is also retained inline.</p>",
       "terms": [
-        { "term": "Dharma Bhava", "meaning": "The 9th house, the bhava of father, dharma, higher learning, long pilgrimage, and the moral grammar of the life. A trikona, the strongest auspicious angle." },
-        { "term": "Mitra-graha", "meaning": "Friend-sign placement. A planet sitting in a sign owned by its natural friend carries above-neutral dignity, stable and supportive." },
-        { "term": "Vipreet Raja Yoga", "meaning": "Reverse royal yoga. The classical Parashari forms cover 6L, 8L, 12L lords sitting in another dusthana. The Nadi extension covers a dusthana lord sitting in a trikona, named Dharma Vipreet by some lineages." },
-        { "term": "Trikona", "meaning": "Auspicious dharmic angle. The 1st, 5th, and 9th houses carry the deepest dharmic significations of self, intelligence, and fortune." },
-        { "term": "Dusthana", "meaning": "Difficulty house. The 6th, 8th, and 12th carry the three classical difficulty significations of disease, transformation, and loss." },
-        { "term": "Bhagya", "meaning": "Fortune. The alternate Sanskrit name for the 9th house, emphasising the luck-and-grace dimension of the bhava." },
-        { "term": "Pitru", "meaning": "Father, paternal ancestors. The 9th-house karaka set, doubled here because Sun is also the natural father karaka." },
-        { "term": "6L", "meaning": "Sixth-house lord. Carries the bhava of enemies, debt, illness, and service when situated in any other house." }
+        {
+          "term": "Dharma Bhava",
+          "meaning": "The 9th house, the bhava of father, dharma, higher learning, long pilgrimage, and the moral grammar of the life. A trikona, the strongest auspicious angle."
+        },
+        {
+          "term": "Mitra-graha",
+          "meaning": "Friend-sign placement. A planet sitting in a sign owned by its natural friend carries above-neutral dignity, stable and supportive."
+        },
+        {
+          "term": "Vipreet Raja Yoga",
+          "meaning": "Reverse royal yoga. The classical Parashari forms cover 6L, 8L, 12L lords sitting in another dusthana. The Nadi extension covers a dusthana lord sitting in a trikona, named Dharma Vipreet by some lineages."
+        },
+        {
+          "term": "Trikona",
+          "meaning": "Auspicious dharmic angle. The 1st, 5th, and 9th houses carry the deepest dharmic significations of self, intelligence, and fortune."
+        },
+        {
+          "term": "Dusthana",
+          "meaning": "Difficulty house. The 6th, 8th, and 12th carry the three classical difficulty significations of disease, transformation, and loss."
+        },
+        {
+          "term": "Bhagya",
+          "meaning": "Fortune. The alternate Sanskrit name for the 9th house, emphasising the luck-and-grace dimension of the bhava."
+        },
+        {
+          "term": "Pitru",
+          "meaning": "Father, paternal ancestors. The 9th-house karaka set, doubled here because Sun is also the natural father karaka."
+        },
+        {
+          "term": "6L",
+          "meaning": "Sixth-house lord. Carries the bhava of enemies, debt, illness, and service when situated in any other house."
+        }
       ]
     },
     {
@@ -394,7 +552,10 @@
         "button_variant": "saffron"
       }
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "image-figure",
       "filename": "surya-9th-house-pisces-lagna-north-indian-kundali.webp",
@@ -405,7 +566,10 @@
       "priority": false,
       "credit": "VastuCart"
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The Dharma Vipreet formation and the trikona logic",
@@ -453,7 +617,10 @@
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -479,10 +646,22 @@
           "icon_variant": "ruby",
           "image_slug": "ruby",
           "items": [
-            { "k": "Metal", "v": "Gold" },
-            { "k": "Finger", "v": "Ring finger, right hand" },
-            { "k": "Day to wear", "v": "Sunday, sunrise" },
-            { "k": "Min weight", "v": "5 to 7 Ratti" }
+            {
+              "k": "Metal",
+              "v": "Gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Sunday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
           ]
         },
         {
@@ -492,10 +671,22 @@
           "icon_variant": "ruby",
           "image_slug": "ruby",
           "items": [
-            { "k": "Metal", "v": "Gold or copper" },
-            { "k": "Finger", "v": "Ring finger" },
-            { "k": "Day to wear", "v": "Sunday, sunrise" },
-            { "k": "Min weight", "v": "5 to 7 Ratti" }
+            {
+              "k": "Metal",
+              "v": "Gold or copper"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Sunday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
           ]
         },
         {
@@ -518,7 +709,10 @@
       "priority": false,
       "credit": "VastuCart"
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
@@ -549,7 +743,10 @@
         "button_variant": "teal"
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "yantra",
       "eyebrow": "Yantra",
@@ -565,7 +762,10 @@
         "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
       }
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "stotra",
       "eyebrow": "Stotra and Mantra",
@@ -582,14 +782,17 @@
     {
       "type": "image-figure",
       "filename": "surya-9th-house-pisces-lagna-stotra-parchment.webp",
-      "alt": "Aditya Hridayam parchment for Sun in the dharma trikona of Vedic Jyotish",
-      "caption": "Aditya Hridayam, the canonical solar hymn from the Ramayana Yuddha Kanda, with Devanagari, IAST, and English meaning.",
+      "alt": "Āditya Stotram verse parchment for Sun in Vedic Jyotish",
+      "caption": "Āditya Stotram, the canonical Navagraha verse to Sun, with Devanagari, IAST, and English meaning.",
       "width": 1060,
       "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -697,13 +900,28 @@
         "title": "Is your Dharma Bhava Sun carrying the Vipreet signature?",
         "subtitle": "Get a full personalised analysis of your ninth house Sun, the friend-sign Vrishchika dignity, and the dharma-vocation timing.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Aditya Hridayam", "url": "https://stotra.vastucart.in/stotra/aditya-hridayam", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Aditya Hridayam",
+            "url": "https://stotra.vastucart.in/stotra/aditya-hridayam",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
@@ -731,7 +949,10 @@
         }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
@@ -739,18 +960,39 @@
         "title_line": "Editorial Desk, Blog by VastuCart",
         "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "VastuCart", "tone": "teal" },
-          { "label": "Editorial desk", "tone": "saff" },
-          { "label": "Reviewed by Jyotish Panel", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "Updated May 2026" },
-          { "icon": "star", "text": "VastuCart Jyotish Review Panel" },
-          { "icon": "clock", "text": "Continuously edited" }
+          {
+            "icon": "calendar",
+            "text": "Updated May 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Find Out More For your Lagna",

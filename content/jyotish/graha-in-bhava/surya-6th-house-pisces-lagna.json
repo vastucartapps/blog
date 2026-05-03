@@ -22,7 +22,7 @@
     "swakshetra Sun",
     "graha in bhava"
   ],
-  "planet_id": "sun",
+  "planet_id": "surya",
   "house_number": 6,
   "lagna_id": "meena",
   "meta": {
@@ -61,10 +61,22 @@
     "canonical": "https://blog.vastucart.in/jyotish/graha-in-bhava/surya-6th-house-pisces-lagna",
     "robots": "index, follow, max-image-preview:large, max-snippet:-1",
     "breadcrumb": [
-      { "name": "Home", "url": "https://blog.vastucart.in/" },
-      { "name": "Jyotish", "url": "https://blog.vastucart.in/jyotish" },
-      { "name": "Graha in Bhava", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava" },
-      { "name": "Sun in 6th House, Meena Lagna", "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/surya-6th-house-pisces-lagna" }
+      {
+        "name": "Home",
+        "url": "https://blog.vastucart.in/"
+      },
+      {
+        "name": "Jyotish",
+        "url": "https://blog.vastucart.in/jyotish"
+      },
+      {
+        "name": "Graha in Bhava",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava"
+      },
+      {
+        "name": "Sun in 6th House, Meena Lagna",
+        "url": "https://blog.vastucart.in/jyotish/graha-in-bhava/surya-6th-house-pisces-lagna"
+      }
     ]
   },
   "keyword_brief": {
@@ -128,9 +140,26 @@
       "Which gemstone should Meena Lagna wear for Sun in 6th?"
     ],
     "lingual_variations": {
-      "sun": ["sun", "surya", "aditya", "ravi", "bhaskara"],
-      "meena": ["meena", "pisces", "meen", "meena lagna", "pisces ascendant"],
-      "kundali": ["kundali", "kundli", "horoscope", "birth chart"]
+      "sun": [
+        "sun",
+        "surya",
+        "aditya",
+        "ravi",
+        "bhaskara"
+      ],
+      "meena": [
+        "meena",
+        "pisces",
+        "meen",
+        "meena lagna",
+        "pisces ascendant"
+      ],
+      "kundali": [
+        "kundali",
+        "kundli",
+        "horoscope",
+        "birth chart"
+      ]
     },
     "content_gaps": [
       "Sun swakshetra reading for Meena in 6H",
@@ -181,12 +210,12 @@
     },
     {
       "filename": "surya-6th-house-pisces-lagna-stotra-parchment.webp",
-      "alt": "Aditya Hridayam verse parchment for Sun in Vedic Jyotish",
-      "caption": "Aditya Hridayam, the canonical solar hymn from the Yuddha Kanda, with Devanagari, IAST, and English meaning.",
+      "alt": "Āditya Stotram verse parchment for Sun in Vedic Jyotish",
+      "caption": "Āditya Stotram, the canonical Navagraha verse to Sun, with Devanagari, IAST, and English meaning.",
       "width": 1060,
       "height": 1048,
       "format": "webp",
-      "style": "Navagraha verse parchment, saffron and gold on cream",
+      "style": "Navagraha verse parchment, deep teal + cream + gold",
       "generation_prompt": "An illuminated Sanskrit Devanagari verse from the Aditya Hridayam, hand-painted on aged parchment with gold leaf borders, faint sun-ray and lotus motifs, refined editorial illustration, no people.",
       "negative_prompt": "english text, photo, watermark, cartoon"
     },
@@ -218,18 +247,45 @@
     "title_html": "Sun in the 6th house<br><em>Meena Lagna</em> (Pisces Ascendant)",
     "description": "A practitioner study of Surya in Ripu Bhava for Pisces ascendant natives. Sun swakshetra in his own Simha, the 6L sitting in own 6H, the textbook Harsha Vipreet Raja Yoga that turns enemies, lawsuits, and chronic illness into the very ground of the native's institutional rise.",
     "meta": [
-      { "icon": "clock", "value": "11 min read" },
-      { "icon": "check-circle", "value": "Reviewed by VastuCart Jyotish Review Panel" },
-      { "icon": "user", "value": "VastuCart Editorial" },
-      { "icon": "calendar", "value": "Updated May 2026" }
+      {
+        "icon": "clock",
+        "value": "11 min read"
+      },
+      {
+        "icon": "check-circle",
+        "value": "Reviewed by VastuCart Jyotish Review Panel"
+      },
+      {
+        "icon": "user",
+        "value": "VastuCart Editorial"
+      },
+      {
+        "icon": "calendar",
+        "value": "Updated May 2026"
+      }
     ],
     "tags": [
-      { "label": "Surya", "tone": "saff" },
-      { "label": "Ripu Bhava", "tone": "saff" },
-      { "label": "Meena Lagna", "tone": "teal" },
-      { "label": "Swakshetra Simha" },
-      { "label": "6L-in-6H" },
-      { "label": "Harsha Yoga" }
+      {
+        "label": "Surya",
+        "tone": "saff"
+      },
+      {
+        "label": "Ripu Bhava",
+        "tone": "saff"
+      },
+      {
+        "label": "Meena Lagna",
+        "tone": "teal"
+      },
+      {
+        "label": "Swakshetra Simha"
+      },
+      {
+        "label": "6L-in-6H"
+      },
+      {
+        "label": "Harsha Yoga"
+      }
     ]
   },
   "schema": {},
@@ -237,10 +293,31 @@
     {
       "type": "stat-strip",
       "cells": [
-        { "label": "Planet", "value": "Surya", "sub": "Sun, 6th house lord", "icon": "sun" },
-        { "label": "Bhava", "value": "6th", "sub": "Ripu Bhava", "icon": "triangle-house" },
-        { "label": "Lagna", "value": "Meena", "sub": "Pisces ascendant", "icon": "mars" },
-        { "label": "Yoga", "value": "Harsha", "sub": "Vipreet Raja Yoga, 6L in own 6H", "icon": "star", "tone": "good" }
+        {
+          "label": "Planet",
+          "value": "Surya",
+          "sub": "Sun, 6th house lord",
+          "icon": "sun"
+        },
+        {
+          "label": "Bhava",
+          "value": "6th",
+          "sub": "Ripu Bhava",
+          "icon": "triangle-house"
+        },
+        {
+          "label": "Lagna",
+          "value": "Meena",
+          "sub": "Pisces ascendant",
+          "icon": "mars"
+        },
+        {
+          "label": "Yoga",
+          "value": "Harsha",
+          "sub": "Vipreet Raja Yoga, 6L in own 6H",
+          "icon": "star",
+          "tone": "good"
+        }
       ]
     },
     {
@@ -298,14 +375,41 @@
           "title": "Surya, planet profile",
           "subtitle": "Key attributes for this placement",
           "items": [
-            { "k": "Karakatva", "v": "Soul, father, authority, vitality, immunity" },
-            { "k": "Own sign", "v": "Simha (Leo), the 6H here for Meena" },
-            { "k": "Uchha (exaltation)", "v": "Mesha (Aries), the 2H for Meena", "tone": "good" },
-            { "k": "Neech (debilitation)", "v": "Tula (Libra), the 8H for Meena", "tone": "bad" },
-            { "k": "Sign state here", "v": "Swakshetra Simha", "tone": "good" },
-            { "k": "Friends", "v": "Moon, Mars, Jupiter (with Meena Lagna context)" },
-            { "k": "Element", "v": "Fire" },
-            { "k": "Role for Meena", "v": "6L only, single-house lord" }
+            {
+              "k": "Karakatva",
+              "v": "Soul, father, authority, vitality, immunity"
+            },
+            {
+              "k": "Own sign",
+              "v": "Simha (Leo), the 6H here for Meena"
+            },
+            {
+              "k": "Uchha (exaltation)",
+              "v": "Mesha (Aries), the 2H for Meena",
+              "tone": "good"
+            },
+            {
+              "k": "Neech (debilitation)",
+              "v": "Tula (Libra), the 8H for Meena",
+              "tone": "bad"
+            },
+            {
+              "k": "Sign state here",
+              "v": "Swakshetra Simha",
+              "tone": "good"
+            },
+            {
+              "k": "Friends",
+              "v": "Moon, Mars, Jupiter (with Meena Lagna context)"
+            },
+            {
+              "k": "Element",
+              "v": "Fire"
+            },
+            {
+              "k": "Role for Meena",
+              "v": "6L only, single-house lord"
+            }
           ]
         },
         {
@@ -313,33 +417,87 @@
           "title": "Ripu Bhava, house profile",
           "subtitle": "6th house significance",
           "items": [
-            { "k": "Sanskrit name", "v": "Ripu, Ari, Shatru, Roga" },
-            { "k": "Rules over", "v": "Enemies, debt, disease, daily routine, service work" },
-            { "k": "Natural sign", "v": "Simha (Leo) for Meena Lagna" },
-            { "k": "Natural ruler", "v": "Surya (Sun), 6L only" },
-            { "k": "Body part", "v": "Lower abdomen, intestines, immune system" },
-            { "k": "Classical nature", "v": "Dusthana, Upachaya (improves with time)", "tone": "good" },
-            { "k": "Vedic quality", "v": "Harsha Yoga seat for own-sign Sun", "tone": "good" },
-            { "k": "Special effect", "v": "Vipreet Raja Yoga, evil reversed to power", "tone": "good" }
+            {
+              "k": "Sanskrit name",
+              "v": "Ripu, Ari, Shatru, Roga"
+            },
+            {
+              "k": "Rules over",
+              "v": "Enemies, debt, disease, daily routine, service work"
+            },
+            {
+              "k": "Natural sign",
+              "v": "Simha (Leo) for Meena Lagna"
+            },
+            {
+              "k": "Natural ruler",
+              "v": "Surya (Sun), 6L only"
+            },
+            {
+              "k": "Body part",
+              "v": "Lower abdomen, intestines, immune system"
+            },
+            {
+              "k": "Classical nature",
+              "v": "Dusthana, Upachaya (improves with time)",
+              "tone": "good"
+            },
+            {
+              "k": "Vedic quality",
+              "v": "Harsha Yoga seat for own-sign Sun",
+              "tone": "good"
+            },
+            {
+              "k": "Special effect",
+              "v": "Vipreet Raja Yoga, evil reversed to power",
+              "tone": "good"
+            }
           ]
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "astro-glossary",
       "eyebrow": "Quick reference",
       "heading": "Terms used in this article",
       "intro_html": "<p>A short glossary of the Sanskrit and Jyotish terms that recur in this study. First-occurrence expansion is also retained inline.</p>",
       "terms": [
-        { "term": "Ripu Bhava", "meaning": "The 6th house, the bhava of enemies, disease, debt, and daily service. Classed as a dusthana but also an upachaya house that improves over time." },
-        { "term": "Swakshetra", "meaning": "Own-sign placement. A planet sitting in a sign it rules carries the second-highest dignity, just below exaltation." },
-        { "term": "Harsha Yoga", "meaning": "Vipreet Raja Yoga formed when the lord of the 6th sits in another dusthana or in his own 6H. Named the joy yoga because the native enjoys victory over enemies." },
-        { "term": "Vipreet Raja Yoga", "meaning": "Reverse royal yoga. Three forms exist: Harsha (6L), Sarala (8L), Vimala (12L). Each cancels its bhava's evil and converts it to power." },
-        { "term": "Dusthana", "meaning": "Difficulty house. The 6th, 8th, and 12th carry the three classical difficulty significations of disease, transformation, and loss." },
-        { "term": "Upachaya", "meaning": "Improving houses. The 3rd, 6th, 10th, and 11th get stronger with time and effort, the opposite of dharmic-fixed houses." },
-        { "term": "6L", "meaning": "Sixth-house lord, the planet ruling the sign on the 6th cusp. Carries the bhava of enemies, debt, illness, and service." },
-        { "term": "Karakatva", "meaning": "The natural significations a planet rules independent of any chart." }
+        {
+          "term": "Ripu Bhava",
+          "meaning": "The 6th house, the bhava of enemies, disease, debt, and daily service. Classed as a dusthana but also an upachaya house that improves over time."
+        },
+        {
+          "term": "Swakshetra",
+          "meaning": "Own-sign placement. A planet sitting in a sign it rules carries the second-highest dignity, just below exaltation."
+        },
+        {
+          "term": "Harsha Yoga",
+          "meaning": "Vipreet Raja Yoga formed when the lord of the 6th sits in another dusthana or in his own 6H. Named the joy yoga because the native enjoys victory over enemies."
+        },
+        {
+          "term": "Vipreet Raja Yoga",
+          "meaning": "Reverse royal yoga. Three forms exist: Harsha (6L), Sarala (8L), Vimala (12L). Each cancels its bhava's evil and converts it to power."
+        },
+        {
+          "term": "Dusthana",
+          "meaning": "Difficulty house. The 6th, 8th, and 12th carry the three classical difficulty significations of disease, transformation, and loss."
+        },
+        {
+          "term": "Upachaya",
+          "meaning": "Improving houses. The 3rd, 6th, 10th, and 11th get stronger with time and effort, the opposite of dharmic-fixed houses."
+        },
+        {
+          "term": "6L",
+          "meaning": "Sixth-house lord, the planet ruling the sign on the 6th cusp. Carries the bhava of enemies, debt, illness, and service."
+        },
+        {
+          "term": "Karakatva",
+          "meaning": "The natural significations a planet rules independent of any chart."
+        }
       ]
     },
     {
@@ -393,7 +551,10 @@
         "button_variant": "saffron"
       }
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "image-figure",
       "filename": "surya-6th-house-pisces-lagna-north-indian-kundali.webp",
@@ -404,7 +565,10 @@
       "priority": false,
       "credit": "VastuCart"
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "prose",
       "eyebrow": "The Harsha formation and the dusthana logic",
@@ -452,7 +616,10 @@
         }
       ]
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "prose",
       "eyebrow": "Health and constitution",
@@ -478,10 +645,22 @@
           "icon_variant": "ruby",
           "image_slug": "ruby",
           "items": [
-            { "k": "Metal", "v": "Gold" },
-            { "k": "Finger", "v": "Ring finger, right hand" },
-            { "k": "Day to wear", "v": "Sunday, sunrise" },
-            { "k": "Min weight", "v": "5 to 7 Ratti" }
+            {
+              "k": "Metal",
+              "v": "Gold"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger, right hand"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Sunday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
           ]
         },
         {
@@ -491,10 +670,22 @@
           "icon_variant": "ruby",
           "image_slug": "ruby",
           "items": [
-            { "k": "Metal", "v": "Gold or copper" },
-            { "k": "Finger", "v": "Ring finger" },
-            { "k": "Day to wear", "v": "Sunday, sunrise" },
-            { "k": "Min weight", "v": "5 to 7 Ratti" }
+            {
+              "k": "Metal",
+              "v": "Gold or copper"
+            },
+            {
+              "k": "Finger",
+              "v": "Ring finger"
+            },
+            {
+              "k": "Day to wear",
+              "v": "Sunday, sunrise"
+            },
+            {
+              "k": "Min weight",
+              "v": "5 to 7 Ratti"
+            }
           ]
         },
         {
@@ -517,7 +708,10 @@
       "priority": false,
       "credit": "VastuCart"
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "rudraksha",
       "eyebrow": "Rudraksha",
@@ -548,7 +742,10 @@
         "button_variant": "teal"
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "yantra",
       "eyebrow": "Yantra",
@@ -564,7 +761,10 @@
         "cta_url": "https://store.vastucart.in/category/yantras-for-vastu-prosperity-protection"
       }
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "stotra",
       "eyebrow": "Stotra and Mantra",
@@ -581,14 +781,17 @@
     {
       "type": "image-figure",
       "filename": "surya-6th-house-pisces-lagna-stotra-parchment.webp",
-      "alt": "Aditya Hridayam verse parchment for Sun in Vedic Jyotish",
-      "caption": "Aditya Hridayam, the canonical solar hymn from the Ramayana Yuddha Kanda, with Devanagari, IAST, and English meaning.",
+      "alt": "Āditya Stotram verse parchment for Sun in Vedic Jyotish",
+      "caption": "Āditya Stotram, the canonical Navagraha verse to Sun, with Devanagari, IAST, and English meaning.",
       "width": 1060,
       "height": 1048,
       "priority": false,
       "credit": "VastuCart"
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "internal-links",
       "eyebrow": "VastuCart Tools Network",
@@ -696,13 +899,28 @@
         "title": "Is your Ripu Bhava Sun carrying the Harsha Yoga signature?",
         "subtitle": "Get a full personalised analysis of your sixth house Sun, the swakshetra dignity, and the service-vocation timing.",
         "buttons": [
-          { "label": "Get your free Kundali", "url": "https://www.vastucart.in/tools/kundli", "variant": "primary" },
-          { "label": "Consult a Jyotishi", "url": "https://store.vastucart.in/consultations", "variant": "teal" },
-          { "label": "Aditya Hridayam", "url": "https://stotra.vastucart.in/stotra/aditya-hridayam", "variant": "outline" }
+          {
+            "label": "Get your free Kundali",
+            "url": "https://www.vastucart.in/tools/kundli",
+            "variant": "primary"
+          },
+          {
+            "label": "Consult a Jyotishi",
+            "url": "https://store.vastucart.in/consultations",
+            "variant": "teal"
+          },
+          {
+            "label": "Aditya Hridayam",
+            "url": "https://stotra.vastucart.in/stotra/aditya-hridayam",
+            "variant": "outline"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "saffron" },
+    {
+      "type": "divider",
+      "gem": "saffron"
+    },
     {
       "type": "faq",
       "eyebrow": "Frequently asked questions",
@@ -730,7 +948,10 @@
         }
       ]
     },
-    { "type": "divider", "gem": "teal" },
+    {
+      "type": "divider",
+      "gem": "teal"
+    },
     {
       "type": "author",
       "author": {
@@ -738,18 +959,39 @@
         "title_line": "Editorial Desk, Blog by VastuCart",
         "bio": "VastuCart Editorial is the in-house desk that researches, writes, and edits long-form articles on Vedic astrology, Vastu, numerology, tarot, gemstones, and rudraksha. Every Jyotish article is reviewed by the VastuCart Jyotish Review Panel before publication.",
         "badges": [
-          { "label": "VastuCart", "tone": "teal" },
-          { "label": "Editorial desk", "tone": "saff" },
-          { "label": "Reviewed by Jyotish Panel", "tone": "rose" }
+          {
+            "label": "VastuCart",
+            "tone": "teal"
+          },
+          {
+            "label": "Editorial desk",
+            "tone": "saff"
+          },
+          {
+            "label": "Reviewed by Jyotish Panel",
+            "tone": "rose"
+          }
         ],
         "meta": [
-          { "icon": "calendar", "text": "Updated May 2026" },
-          { "icon": "star", "text": "VastuCart Jyotish Review Panel" },
-          { "icon": "clock", "text": "Continuously edited" }
+          {
+            "icon": "calendar",
+            "text": "Updated May 2026"
+          },
+          {
+            "icon": "star",
+            "text": "VastuCart Jyotish Review Panel"
+          },
+          {
+            "icon": "clock",
+            "text": "Continuously edited"
+          }
         ]
       }
     },
-    { "type": "divider", "gem": "rose" },
+    {
+      "type": "divider",
+      "gem": "rose"
+    },
     {
       "type": "related-posts",
       "eyebrow": "Find Out More For your Lagna",
