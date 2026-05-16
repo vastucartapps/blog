@@ -1,16 +1,16 @@
 // ─────────────────────────────────────────────────────────────────
 // IndexNow helper.
 //
-// IndexNow (indexnow.org) is adopted by Bing, Yandex, and Naver.
-// Publishing a single URL endpoint to IndexNow notifies every
-// participating search engine at once.
+// IndexNow (indexnow.org) is adopted by Bing, Yandex, Naver, Seznam.
+// Publishing a single URL endpoint notifies every participating
+// search engine at once.
 //
 // Key provisioning:
-//   1. Generate a UUID (or use an existing one) and put it in
-//      environment variable INDEXNOW_KEY.
-//   2. The verification file is served by
-//      `app/[indexnowKey].txt/route.ts` so Bing can GET
-//      https://blog.vastucart.in/<key>.txt and verify ownership.
+//   1. Generate a UUID/hex string and put it in env INDEXNOW_KEY.
+//   2. The verification file is served at /indexnow/key.txt by
+//      `app/indexnow/key.txt/route.ts`. `keyLocation` in the
+//      submit payload MUST point at the same URL, otherwise Bing's
+//      verifier will GET a 404 and silently reject the submission.
 //   3. Call `submitToIndexNow(urls)` from a build/publish webhook
 //      whenever posts change.
 // ─────────────────────────────────────────────────────────────────
@@ -41,13 +41,13 @@ export async function submitToIndexNow(urls: string[]): Promise<{
   }
 
   const host = new URL(SITE_URL).hostname;
-  // IndexNow validators accept keyLocation anywhere on the host, but
-  // Bing's validator is stricter when the path looks unusual. Using
-  // the `{key}.txt` root convention is the widest-compatible form.
+  // The verification file is served by app/indexnow/key.txt/route.ts.
+  // `keyLocation` MUST match where the file actually lives, otherwise
+  // Bing's verifier returns 404 and the submission is silently dropped.
   const payload = {
     host,
     key,
-    keyLocation: `${SITE_URL}/${key}.txt`,
+    keyLocation: `${SITE_URL}/indexnow/key.txt`,
     urlList: urls,
   };
 

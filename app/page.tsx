@@ -3,7 +3,12 @@ import { Footer } from "@/components/layout/Footer";
 import { HomeHero } from "@/components/home/HomeHero";
 import { CategoryGrid } from "@/components/home/CategoryGrid";
 import { FeaturedPosts } from "@/components/home/FeaturedPosts";
-import { getPublishedPosts, countPostsByCategory } from "@/lib/content";
+import { TopicalIndex } from "@/components/home/TopicalIndex";
+import {
+  getPublishedPosts,
+  countPostsByCategory,
+  countPostsBySubcategory,
+} from "@/lib/content";
 import { CATEGORIES } from "@/lib/categories";
 import {
   buildWebsiteSchema,
@@ -25,6 +30,15 @@ export const revalidate = 3600;
 export default function HomePage() {
   const posts = getPublishedPosts();
   const counts = countPostsByCategory();
+  // Subcategory counts per category — fed to TopicalIndex so each
+  // subcategory link shows its post count. The TopicalIndex section
+  // emits a SSR link to every subcategory hub + complete-guide pillar
+  // from this (indexed) homepage, giving Google a direct discovery
+  // path for the 80 URLs the GSC audit flagged as Unknown to Google.
+  const subcategoryCounts: Record<string, Record<string, number>> = {};
+  for (const c of CATEGORIES) {
+    subcategoryCounts[c.id] = countPostsBySubcategory(c.slug);
+  }
 
   // Home emits the canonical anchors for this subdomain + a thin
   // Organization stub (so the blog can render rich results
@@ -43,6 +57,7 @@ export default function HomePage() {
         <HomeHero totalPosts={posts.length} totalCategories={CATEGORIES.length} />
         <CategoryGrid postCounts={counts} />
         <FeaturedPosts posts={posts} />
+        <TopicalIndex postCounts={counts} subcategoryCounts={subcategoryCounts} />
       </main>
       <Footer />
       {schemas.map((entity, i) => (
