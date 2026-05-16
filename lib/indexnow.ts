@@ -60,13 +60,18 @@ export async function submitToIndexNow(urls: string[]): Promise<{
   }
 
   const host = new URL(SITE_URL).hostname;
-  // The verification file is served by app/indexnow/key.txt/route.ts.
-  // `keyLocation` MUST match where the file actually lives, otherwise
-  // Bing's verifier returns 404 and the submission is silently dropped.
+  // The IndexNow spec is strict about where the key file lives: it
+  // must be at the ROOT of the site (or in a directory along with
+  // the URLs being submitted). A keyLocation at /indexnow/key.txt
+  // would only authorise submissions of URLs under /indexnow/* —
+  // which is why Bing + Yandex both kept returning 422 even with
+  // a fresh key value. The static key file ships at
+  // public/<key>.txt → served at https://blog.vastucart.in/<key>.txt
+  // at the root.
   const payload = {
     host,
     key,
-    keyLocation: `${SITE_URL}/indexnow/key.txt`,
+    keyLocation: `${SITE_URL}/${key}.txt`,
     urlList: urls,
   };
 
