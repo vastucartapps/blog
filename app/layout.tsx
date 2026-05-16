@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     template: "%s | VastuCart Blog",
   },
   description:
-    "Long-form Vedic astrology, Jyotish, Vastu, numerology, tarot, gemstones, rudraksha, puja vidhi and festival guidance from VastuCart Editorial. Jyotish content is reviewed by the VastuCart Jyotish Review Panel before publication.",
+    "Long-form Vedic astrology, Jyotish, Vastu, numerology, tarot, gemstones, rudraksha, puja and festival guidance from VastuCart Editorial.",
   applicationName: "VastuCart Blog",
   generator: "Next.js",
   referrer: "origin-when-cross-origin",

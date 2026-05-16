@@ -7,7 +7,7 @@ import { getPublishedPosts } from "@/lib/content";
 import { slugifyTag, tagUrl } from "@/lib/internal-links";
 import { absoluteUrl, SITE_URL } from "@/lib/utils";
 import { BLOG_WEBSITE_REF } from "@/lib/schema/constants";
-import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
+import { buildAlternates, buildSocialMetadata, metaDescription } from "@/lib/seo/social-metadata";
 
 interface Params {
   slug: string;
@@ -51,7 +51,9 @@ export async function generateMetadata({
   if (!info) return {};
   const url = absoluteUrl(tagUrl(info.label));
   const title = `${info.label} — VastuCart Blog`;
-  const description = `${info.count} long-form articles tagged "${info.label}" on the VastuCart Blog. Vedic astrology, numerology, tarot, vastu, gemstones, rudraksha and puja vidhi.`;
+  const description = metaDescription(
+    `${info.count} long-form articles tagged "${info.label}" on the VastuCart Blog. Vedic astrology, numerology, tarot, vastu, gemstones, rudraksha and puja vidhi.`,
+  );
   return {
     title: { absolute: title },
     description,

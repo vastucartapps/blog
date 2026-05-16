@@ -14,7 +14,7 @@ import {
   buildPersonSchema,
   buildProfilePageSchema,
 } from "@/lib/schema";
-import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
+import { buildAlternates, buildSocialMetadata, metaDescription } from "@/lib/seo/social-metadata";
 
 interface Params {
   slug: string;
@@ -34,13 +34,14 @@ export async function generateMetadata({
   if (!author) return {};
   const url = absoluteUrl(authorUrl(slug));
   const title = `${author.name}, ${author.title}`;
+  const description = metaDescription(author.bio);
   return {
     title: { absolute: title },
-    description: author.bio,
+    description,
     alternates: buildAlternates(url),
     ...buildSocialMetadata({
       title,
-      description: author.bio,
+      description,
       url,
       type: "profile",
       imageUrl: author.avatar_url,

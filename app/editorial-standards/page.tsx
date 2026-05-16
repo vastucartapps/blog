@@ -4,14 +4,15 @@ import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { SITE_URL } from "@/lib/utils";
 import { buildAboutPageSchema, buildHubSchemas } from "@/lib/schema";
-import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
+import { buildAlternates, buildSocialMetadata, metaDescription } from "@/lib/seo/social-metadata";
 
 const URL = `${SITE_URL}/editorial-standards`;
 const PUBLISHED_AT = "2026-04-20T00:00:00.000Z";
 
 const PAGE_TITLE = "Editorial Standards — VastuCart Blog";
-const PAGE_DESCRIPTION =
-  "How articles on VastuCart Blog are researched, written, reviewed, sourced, corrected, and updated. Our practitioner-reviewed process for Vedic astrology, Vastu, numerology, tarot, puja, and gemstone content.";
+const PAGE_DESCRIPTION = metaDescription(
+  "How articles on VastuCart Blog are researched, written, reviewed, sourced, corrected, and updated. Our practitioner-reviewed process for Vedic astrology, Vastu, numerology, tarot, puja, and gemstone content.",
+);
 
 export const metadata: Metadata = {
   title: { absolute: PAGE_TITLE },

@@ -9,7 +9,7 @@ import { CATEGORIES, getCategory } from "@/lib/categories";
 import { getPostsByCategory, countPostsBySubcategory } from "@/lib/content";
 import { absoluteUrl, SITE_URL } from "@/lib/utils";
 import { buildHubSchemas } from "@/lib/schema";
-import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
+import { buildAlternates, buildSocialMetadata, metaDescription } from "@/lib/seo/social-metadata";
 import { getCategoryFAQs } from "@/lib/category-faqs";
 import { getCategoryConceptSlugs } from "@/lib/category-concepts";
 import type { IconName } from "@/components/ui/Icon";
@@ -32,13 +32,14 @@ export async function generateMetadata({
   if (!cat) return {};
   const url = absoluteUrl(`/${cat.slug}`);
   const title = `${cat.label}, ${cat.label_hindi} — VastuCart Blog`;
+  const description = metaDescription(cat.description);
   return {
     title: { absolute: title },
-    description: cat.description,
+    description,
     alternates: buildAlternates(url),
     ...buildSocialMetadata({
       title,
-      description: cat.description,
+      description,
       url,
       type: "website",
     }),

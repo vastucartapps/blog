@@ -9,7 +9,7 @@ import { getPostsByCategory } from "@/lib/content";
 import { resolveFeaturedImage } from "@/lib/post-images";
 import { SITE_URL } from "@/lib/utils";
 import { buildPillarSchemas } from "@/lib/schema";
-import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
+import { buildAlternates, buildSocialMetadata, metaDescription } from "@/lib/seo/social-metadata";
 
 interface Params {
   category: string;
@@ -29,7 +29,9 @@ export async function generateMetadata({
   if (!cat) return {};
   const url = `${SITE_URL}/${cat.slug}/complete-guide`;
   const title = `${cat.label} Complete Guide — VastuCart Blog`;
-  const description = `The complete ${cat.label.toLowerCase()} guide: every article in the VastuCart Blog ${cat.label.toLowerCase()} cluster, organised by topic.`;
+  const description = metaDescription(
+    `The complete ${cat.label.toLowerCase()} guide: every article in the VastuCart Blog ${cat.label.toLowerCase()} cluster, organised by topic.`,
+  );
   return {
     title: { absolute: title },
     description,

@@ -10,13 +10,14 @@ import {
   buildHubSchemas,
   buildAllPersonSchemas,
 } from "@/lib/schema";
-import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
+import { buildAlternates, buildSocialMetadata, metaDescription } from "@/lib/seo/social-metadata";
 
 const URL = `${SITE_URL}/authors`;
 
 const PAGE_TITLE = "Authors — VastuCart Blog";
-const PAGE_DESCRIPTION =
-  "VastuCart Editorial is the in-house desk that researches, writes, and edits every article on VastuCart Blog. Jyotish content is additionally reviewed by the VastuCart Jyotish Review Panel.";
+const PAGE_DESCRIPTION = metaDescription(
+  "VastuCart Editorial is the in-house desk that researches, writes, and edits every article on VastuCart Blog. Jyotish content is additionally reviewed by the VastuCart Jyotish Review Panel.",
+);
 
 export const metadata: Metadata = {
   title: { absolute: PAGE_TITLE },

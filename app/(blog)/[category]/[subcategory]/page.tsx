@@ -10,7 +10,7 @@ import { getPostsBySubcategory, countPostsBySubcategory } from "@/lib/content";
 import { absoluteUrl, SITE_URL } from "@/lib/utils";
 import { buildHubSchemas } from "@/lib/schema";
 import { getSubcategoryConceptSlugs } from "@/lib/category-concepts";
-import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
+import { buildAlternates, buildSocialMetadata, metaDescription } from "@/lib/seo/social-metadata";
 import type { IconName } from "@/components/ui/Icon";
 
 interface Params {
@@ -35,13 +35,14 @@ export async function generateMetadata({
   if (!cat || !sub) return {};
   const url = absoluteUrl(`/${cat.slug}/${sub.slug}`);
   const title = `${sub.label}, ${cat.label} — VastuCart Blog`;
+  const description = metaDescription(sub.description);
   return {
     title: { absolute: title },
-    description: sub.description,
+    description,
     alternates: buildAlternates(url),
     ...buildSocialMetadata({
       title,
-      description: sub.description,
+      description,
       url,
       type: "website",
     }),

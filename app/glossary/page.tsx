@@ -8,14 +8,15 @@ import {
   buildDefinedTermSchemas,
   buildHubSchemas,
 } from "@/lib/schema";
-import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
+import { buildAlternates, buildSocialMetadata, metaDescription } from "@/lib/seo/social-metadata";
 
 const URL = `${SITE_URL}/glossary`;
 const PUBLISHED_AT = "2026-04-20T00:00:00.000Z";
 
 const PAGE_TITLE = "Glossary — VastuCart Blog";
-const PAGE_DESCRIPTION =
-  "Canonical glossary of Sanskrit terms used across the VastuCart Blog: lagna, graha, bhava, rashi, nakshatra, dasha, yoga, dosha, muhurta, panchanga, and more.";
+const PAGE_DESCRIPTION = metaDescription(
+  "Canonical glossary of Sanskrit terms used across the VastuCart Blog: lagna, graha, bhava, rashi, nakshatra, dasha, yoga, dosha, muhurta, panchanga, and more.",
+);
 
 export const metadata: Metadata = {
   title: { absolute: PAGE_TITLE },

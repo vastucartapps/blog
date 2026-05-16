@@ -9,14 +9,15 @@ import {
   CLASSICAL_BOOKS,
   buildHubSchemas,
 } from "@/lib/schema";
-import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
+import { buildAlternates, buildSocialMetadata, metaDescription } from "@/lib/seo/social-metadata";
 
 const URL = `${SITE_URL}/classical-sources`;
 const PUBLISHED_AT = "2026-04-20T00:00:00.000Z";
 
 const PAGE_TITLE = "Classical Sources — VastuCart Blog";
-const PAGE_DESCRIPTION =
-  "The classical texts and traditions that underpin every article on VastuCart Blog. Brihat Parashara Hora Shastra, Jaimini Sutras, Saravali, Manasara, Mayamatam, Rider Waite, and the numerology lineage.";
+const PAGE_DESCRIPTION = metaDescription(
+  "The classical texts and traditions that underpin every article on VastuCart Blog. Brihat Parashara Hora Shastra, Jaimini Sutras, Saravali, Manasara, Mayamatam, Rider Waite, and the numerology lineage.",
+);
 
 export const metadata: Metadata = {
   title: { absolute: PAGE_TITLE },

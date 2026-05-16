@@ -11,7 +11,7 @@ import { getPostBySlug, getPublishedPosts, countPostsBySubcategory } from "@/lib
 import { absoluteUrl } from "@/lib/utils";
 import { buildPostSchema } from "@/lib/schema-builder";
 import { LAGNA_LABELS, type LagnaSlug } from "@/lib/internal-links";
-import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
+import { buildAlternates, buildSocialMetadata, metaDescription } from "@/lib/seo/social-metadata";
 
 interface Params {
   category: string;
@@ -36,9 +36,11 @@ export async function generateMetadata({
   const post = getPostBySlug(slug);
   if (!post) return {};
   const url = absoluteUrl(`/${post.category}/${post.subcategory}/${post.slug}`);
+  const description = metaDescription(post.meta.description);
+  const socialDescription = metaDescription(post.meta.og_description ?? post.meta.description);
   return {
     title: { absolute: post.meta.title },
-    description: post.meta.description,
+    description,
     keywords: post.meta.keywords,
     alternates: {
       ...buildAlternates(url),
@@ -49,7 +51,7 @@ export async function generateMetadata({
     },
     ...buildSocialMetadata({
       title: post.meta.og_title ?? post.meta.title,
-      description: post.meta.og_description ?? post.meta.description,
+      description: socialDescription,
       url,
       type: "article",
       imageUrl: post.meta.og_image,

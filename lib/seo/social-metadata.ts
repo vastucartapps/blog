@@ -168,6 +168,33 @@ export function clampDescription(text: string, maxLen = 160): string {
   return cut || t.slice(0, maxLen);
 }
 
+/** Brand-tagline padding for short hub/category descriptions. */
+const PAD_SUFFIX =
+  " — long-form Jyotish, Vastu, numerology, and tarot guidance from VastuCart Editorial.";
+
+/**
+ * Produce a meta description that is 80–160 chars when possible.
+ *
+ * - If `text.length` is between 80 and 160, returns it cleaned.
+ * - If `< 80`, appends the brand tagline (or `pad` if supplied) until
+ *   the result clears 80 chars, then clamps to 160.
+ * - If `> 160`, word-boundary truncates to 160.
+ *
+ * Used in `generateMetadata` for every route. Audit showed 47 hub
+ * URLs with descriptions < 80 chars (cat/sub `description` is a
+ * deliberately terse one-line summary used in PostGrid headers and
+ * hero ribbons; the meta version pads it without changing the
+ * source data).
+ */
+export function metaDescription(text: string, pad: string = PAD_SUFFIX): string {
+  const cleaned = (text ?? "").trim().replace(/\s+/g, " ");
+  if (cleaned.length >= 80 && cleaned.length <= 160) return cleaned;
+  if (cleaned.length > 160) return clampDescription(cleaned, 160);
+  const padTrimmed = pad.replace(/^\s+|\s+$/g, " ");
+  const padded = cleaned + (cleaned.endsWith(".") || cleaned.endsWith("!") || cleaned.endsWith("?") ? padTrimmed : "." + padTrimmed);
+  return clampDescription(padded, 160);
+}
+
 /**
  * Convenience: assemble the canonical alternates block. Single-locale
  * site, so `en-IN` + `x-default` both point at the same URL. Pages
