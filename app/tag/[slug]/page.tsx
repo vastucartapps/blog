@@ -7,6 +7,7 @@ import { getPublishedPosts } from "@/lib/content";
 import { slugifyTag, tagUrl } from "@/lib/internal-links";
 import { absoluteUrl, SITE_URL } from "@/lib/utils";
 import { BLOG_WEBSITE_REF } from "@/lib/schema/constants";
+import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
 
 interface Params {
   slug: string;
@@ -49,15 +50,18 @@ export async function generateMetadata({
   const info = indexTags().get(slug);
   if (!info) return {};
   const url = absoluteUrl(tagUrl(info.label));
+  const title = `${info.label} — VastuCart Blog`;
+  const description = `${info.count} long-form articles tagged "${info.label}" on the VastuCart Blog. Vedic astrology, numerology, tarot, vastu, gemstones, rudraksha and puja vidhi.`;
   return {
-    title: `${info.label} — VastuCart Blog`,
-    description: `${info.count} long-form articles tagged "${info.label}" on the VastuCart Blog. Vedic astrology, numerology, tarot, vastu, gemstones, rudraksha and puja vidhi.`,
-    alternates: { canonical: url },
-    openGraph: {
-      title: `${info.label} — VastuCart Blog`,
+    title,
+    description,
+    alternates: buildAlternates(url),
+    ...buildSocialMetadata({
+      title,
+      description,
       url,
       type: "website",
-    },
+    }),
   };
 }
 

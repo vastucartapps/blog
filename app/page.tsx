@@ -12,6 +12,14 @@ import {
   buildAllPersonSchemas,
 } from "@/lib/schema";
 
+// NOTE: This route does NOT export its own metadata — the layout's
+// `default` title and full `openGraph` (siteName, locale, alternateLocale,
+// images) apply to the home page. The home is the one route where the
+// shallow-merge bug never bit, and the audit confirms it ships a
+// complete og: tag set. Pages with their OWN generateMetadata must use
+// `buildSocialMetadata` from `lib/seo/social-metadata` to avoid wiping
+// the layout's og block.
+
 export const revalidate = 3600;
 
 export default function HomePage() {

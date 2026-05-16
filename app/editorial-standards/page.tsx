@@ -4,22 +4,25 @@ import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { SITE_URL } from "@/lib/utils";
 import { buildAboutPageSchema, buildHubSchemas } from "@/lib/schema";
+import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
 
 const URL = `${SITE_URL}/editorial-standards`;
 const PUBLISHED_AT = "2026-04-20T00:00:00.000Z";
 
+const PAGE_TITLE = "Editorial Standards — VastuCart Blog";
+const PAGE_DESCRIPTION =
+  "How articles on VastuCart Blog are researched, written, reviewed, sourced, corrected, and updated. Our practitioner-reviewed process for Vedic astrology, Vastu, numerology, tarot, puja, and gemstone content.";
+
 export const metadata: Metadata = {
-  title: "Editorial Standards — VastuCart Blog",
-  description:
-    "How articles on VastuCart Blog are researched, written, reviewed, sourced, corrected, and updated. Our practitioner-reviewed process for Vedic astrology, Vastu, numerology, tarot, puja, and gemstone content.",
-  alternates: { canonical: URL },
-  openGraph: {
-    type: "article",
-    title: "Editorial Standards — VastuCart Blog",
-    description:
-      "How VastuCart Blog researches, writes, reviews, and updates its long-form content on Jyotish, Vastu, numerology, tarot, and traditional practice.",
+  title: PAGE_TITLE,
+  description: PAGE_DESCRIPTION,
+  alternates: buildAlternates(URL),
+  ...buildSocialMetadata({
+    title: PAGE_TITLE,
+    description: PAGE_DESCRIPTION,
     url: URL,
-  },
+    type: "article",
+  }),
 };
 
 export default function EditorialStandardsPage() {

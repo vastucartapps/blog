@@ -10,21 +10,24 @@ import {
   buildHubSchemas,
   buildAllPersonSchemas,
 } from "@/lib/schema";
+import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
 
 const URL = `${SITE_URL}/authors`;
 
+const PAGE_TITLE = "Authors — VastuCart Blog";
+const PAGE_DESCRIPTION =
+  "VastuCart Editorial is the in-house desk that researches, writes, and edits every article on VastuCart Blog. Jyotish content is additionally reviewed by the VastuCart Jyotish Review Panel.";
+
 export const metadata: Metadata = {
-  title: "Authors — VastuCart Blog",
-  description:
-    "VastuCart Editorial is the in-house desk that researches, writes, and edits every article on VastuCart Blog. Jyotish content is additionally reviewed by the VastuCart Jyotish Review Panel.",
-  alternates: { canonical: URL },
-  openGraph: {
-    type: "website",
-    title: "Authors — VastuCart Blog",
-    description:
-      "VastuCart Editorial is the in-house desk that produces every article on VastuCart Blog. Jyotish content is reviewed by the VastuCart Jyotish Review Panel.",
+  title: PAGE_TITLE,
+  description: PAGE_DESCRIPTION,
+  alternates: buildAlternates(URL),
+  ...buildSocialMetadata({
+    title: PAGE_TITLE,
+    description: PAGE_DESCRIPTION,
     url: URL,
-  },
+    type: "website",
+  }),
 };
 
 export default function AuthorsIndexPage() {

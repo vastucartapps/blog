@@ -9,6 +9,7 @@ import { getPostsByCategory } from "@/lib/content";
 import { resolveFeaturedImage } from "@/lib/post-images";
 import { SITE_URL } from "@/lib/utils";
 import { buildPillarSchemas } from "@/lib/schema";
+import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
 
 interface Params {
   category: string;
@@ -32,19 +33,13 @@ export async function generateMetadata({
   return {
     title,
     description,
-    alternates: {
-      canonical: url,
-      languages: {
-        "en-IN": url,
-        "x-default": url,
-      },
-    },
-    openGraph: {
-      type: "article",
+    alternates: buildAlternates(url),
+    ...buildSocialMetadata({
       title,
       description,
       url,
-    },
+      type: "article",
+    }),
   };
 }
 

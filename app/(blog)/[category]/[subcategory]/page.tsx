@@ -10,6 +10,7 @@ import { getPostsBySubcategory, countPostsBySubcategory } from "@/lib/content";
 import { absoluteUrl, SITE_URL } from "@/lib/utils";
 import { buildHubSchemas } from "@/lib/schema";
 import { getSubcategoryConceptSlugs } from "@/lib/category-concepts";
+import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
 import type { IconName } from "@/components/ui/Icon";
 
 interface Params {
@@ -33,22 +34,17 @@ export async function generateMetadata({
   const sub = getSubcategory(category, subcategory);
   if (!cat || !sub) return {};
   const url = absoluteUrl(`/${cat.slug}/${sub.slug}`);
+  const title = `${sub.label}, ${cat.label} — VastuCart Blog`;
   return {
-    title: `${sub.label}, ${cat.label} — VastuCart Blog`,
+    title,
     description: sub.description,
-    alternates: {
-      canonical: url,
-      languages: {
-        "en-IN": url,
-        "x-default": url,
-      },
-    },
-    openGraph: {
-      title: sub.label,
+    alternates: buildAlternates(url),
+    ...buildSocialMetadata({
+      title,
       description: sub.description,
       url,
       type: "website",
-    },
+    }),
   };
 }
 

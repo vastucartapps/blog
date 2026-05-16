@@ -9,6 +9,7 @@ import { CATEGORIES, getCategory } from "@/lib/categories";
 import { getPostsByCategory, countPostsBySubcategory } from "@/lib/content";
 import { absoluteUrl, SITE_URL } from "@/lib/utils";
 import { buildHubSchemas } from "@/lib/schema";
+import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
 import { getCategoryFAQs } from "@/lib/category-faqs";
 import { getCategoryConceptSlugs } from "@/lib/category-concepts";
 import type { IconName } from "@/components/ui/Icon";
@@ -34,19 +35,13 @@ export async function generateMetadata({
   return {
     title,
     description: cat.description,
-    alternates: {
-      canonical: url,
-      languages: {
-        "en-IN": url,
-        "x-default": url,
-      },
-    },
-    openGraph: {
-      title: cat.label,
+    alternates: buildAlternates(url),
+    ...buildSocialMetadata({
+      title,
       description: cat.description,
       url,
       type: "website",
-    },
+    }),
   };
 }
 

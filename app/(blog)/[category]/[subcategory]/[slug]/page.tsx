@@ -11,6 +11,7 @@ import { getPostBySlug, getPublishedPosts, countPostsBySubcategory } from "@/lib
 import { absoluteUrl } from "@/lib/utils";
 import { buildPostSchema } from "@/lib/schema-builder";
 import { LAGNA_LABELS, type LagnaSlug } from "@/lib/internal-links";
+import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
 
 interface Params {
   category: string;
@@ -40,34 +41,26 @@ export async function generateMetadata({
     description: post.meta.description,
     keywords: post.meta.keywords,
     alternates: {
-      canonical: url,
-      languages: {
-        "en-IN": url,
-        "x-default": url,
-      },
+      ...buildAlternates(url),
       types: {
         "application/rss+xml": `${absoluteUrl("/feed.xml")}`,
         "application/feed+json": `${absoluteUrl("/feed.json")}`,
       },
     },
-    openGraph: {
-      type: "article",
+    ...buildSocialMetadata({
       title: post.meta.og_title ?? post.meta.title,
       description: post.meta.og_description ?? post.meta.description,
       url,
-      images: [{ url: post.meta.og_image }],
-      publishedTime: post.published_at,
-      modifiedTime: post.updated_at,
-      authors: [absoluteUrl(`/authors/${post.author_id}`)],
-      section: post.category,
-      tags: post.tags,
-    },
-    twitter: {
-      card: "summary_large_image",
-      title: post.meta.og_title ?? post.meta.title,
-      description: post.meta.og_description ?? post.meta.description,
-      images: [post.meta.og_image],
-    },
+      type: "article",
+      imageUrl: post.meta.og_image,
+      article: {
+        publishedTime: post.published_at,
+        modifiedTime: post.updated_at,
+        authors: [absoluteUrl(`/authors/${post.author_id}`)],
+        section: post.category,
+        tags: post.tags,
+      },
+    }),
   };
 }
 

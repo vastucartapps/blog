@@ -14,6 +14,7 @@ import {
   buildPersonSchema,
   buildProfilePageSchema,
 } from "@/lib/schema";
+import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
 
 interface Params {
   slug: string;
@@ -32,16 +33,18 @@ export async function generateMetadata({
   const author = getAuthor(slug);
   if (!author) return {};
   const url = absoluteUrl(authorUrl(slug));
+  const title = `${author.name}, ${author.title}`;
   return {
-    title: `${author.name}, ${author.title}`,
+    title,
     description: author.bio,
-    alternates: { canonical: url },
-    openGraph: {
-      type: "profile",
-      title: author.name,
+    alternates: buildAlternates(url),
+    ...buildSocialMetadata({
+      title,
       description: author.bio,
       url,
-    },
+      type: "profile",
+      imageUrl: author.avatar_url,
+    }),
   };
 }
 

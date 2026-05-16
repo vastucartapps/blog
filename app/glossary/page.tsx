@@ -8,22 +8,25 @@ import {
   buildDefinedTermSchemas,
   buildHubSchemas,
 } from "@/lib/schema";
+import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
 
 const URL = `${SITE_URL}/glossary`;
 const PUBLISHED_AT = "2026-04-20T00:00:00.000Z";
 
+const PAGE_TITLE = "Glossary — VastuCart Blog";
+const PAGE_DESCRIPTION =
+  "Canonical glossary of Sanskrit terms used across the VastuCart Blog: lagna, graha, bhava, rashi, nakshatra, dasha, yoga, dosha, muhurta, panchanga, and more.";
+
 export const metadata: Metadata = {
-  title: "Glossary — VastuCart Blog",
-  description:
-    "Canonical glossary of Sanskrit terms used across the VastuCart Blog: lagna, graha, bhava, rashi, nakshatra, dasha, yoga, dosha, muhurta, panchanga, and more.",
-  alternates: { canonical: URL },
-  openGraph: {
-    type: "website",
-    title: "Glossary — VastuCart Blog",
-    description:
-      "Canonical glossary of Sanskrit terms used across Jyotish, Vastu, puja, and ritual articles on VastuCart Blog.",
+  title: PAGE_TITLE,
+  description: PAGE_DESCRIPTION,
+  alternates: buildAlternates(URL),
+  ...buildSocialMetadata({
+    title: PAGE_TITLE,
+    description: PAGE_DESCRIPTION,
     url: URL,
-  },
+    type: "website",
+  }),
 };
 
 export default function GlossaryPage() {

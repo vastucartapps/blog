@@ -9,22 +9,25 @@ import {
   CLASSICAL_BOOKS,
   buildHubSchemas,
 } from "@/lib/schema";
+import { buildAlternates, buildSocialMetadata } from "@/lib/seo/social-metadata";
 
 const URL = `${SITE_URL}/classical-sources`;
 const PUBLISHED_AT = "2026-04-20T00:00:00.000Z";
 
+const PAGE_TITLE = "Classical Sources — VastuCart Blog";
+const PAGE_DESCRIPTION =
+  "The classical texts and traditions that underpin every article on VastuCart Blog. Brihat Parashara Hora Shastra, Jaimini Sutras, Saravali, Manasara, Mayamatam, Rider Waite, and the numerology lineage.";
+
 export const metadata: Metadata = {
-  title: "Classical Sources — VastuCart Blog",
-  description:
-    "The classical texts and traditions that underpin every article on VastuCart Blog. Brihat Parashara Hora Shastra, Jaimini Sutras, Saravali, Manasara, Mayamatam, Rider Waite, and the numerology lineage.",
-  alternates: { canonical: URL },
-  openGraph: {
-    type: "article",
-    title: "Classical Sources — VastuCart Blog",
-    description:
-      "The Sanskrit and English source texts VastuCart Blog draws from across Jyotish, Vastu, numerology, tarot, and ritual practice.",
+  title: PAGE_TITLE,
+  description: PAGE_DESCRIPTION,
+  alternates: buildAlternates(URL),
+  ...buildSocialMetadata({
+    title: PAGE_TITLE,
+    description: PAGE_DESCRIPTION,
     url: URL,
-  },
+    type: "article",
+  }),
 };
 
 interface SourceEntry {
