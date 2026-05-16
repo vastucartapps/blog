@@ -31,7 +31,7 @@ export async function generateMetadata({
   const title = `${cat.label} Complete Guide — VastuCart Blog`;
   const description = `The complete ${cat.label.toLowerCase()} guide: every article in the VastuCart Blog ${cat.label.toLowerCase()} cluster, organised by topic.`;
   return {
-    title,
+    title: { absolute: title },
     description,
     alternates: buildAlternates(url),
     ...buildSocialMetadata({

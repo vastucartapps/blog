@@ -35,7 +35,7 @@ export async function generateMetadata({
   const url = absoluteUrl(authorUrl(slug));
   const title = `${author.name}, ${author.title}`;
   return {
-    title,
+    title: { absolute: title },
     description: author.bio,
     alternates: buildAlternates(url),
     ...buildSocialMetadata({

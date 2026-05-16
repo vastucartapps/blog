@@ -53,7 +53,7 @@ export async function generateMetadata({
   const title = `${info.label} — VastuCart Blog`;
   const description = `${info.count} long-form articles tagged "${info.label}" on the VastuCart Blog. Vedic astrology, numerology, tarot, vastu, gemstones, rudraksha and puja vidhi.`;
   return {
-    title,
+    title: { absolute: title },
     description,
     alternates: buildAlternates(url),
     ...buildSocialMetadata({

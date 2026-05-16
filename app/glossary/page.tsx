@@ -18,7 +18,7 @@ const PAGE_DESCRIPTION =
   "Canonical glossary of Sanskrit terms used across the VastuCart Blog: lagna, graha, bhava, rashi, nakshatra, dasha, yoga, dosha, muhurta, panchanga, and more.";
 
 export const metadata: Metadata = {
-  title: PAGE_TITLE,
+  title: { absolute: PAGE_TITLE },
   description: PAGE_DESCRIPTION,
   alternates: buildAlternates(URL),
   ...buildSocialMetadata({

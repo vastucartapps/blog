@@ -36,7 +36,7 @@ export async function generateMetadata({
   const url = absoluteUrl(`/${cat.slug}/${sub.slug}`);
   const title = `${sub.label}, ${cat.label} — VastuCart Blog`;
   return {
-    title,
+    title: { absolute: title },
     description: sub.description,
     alternates: buildAlternates(url),
     ...buildSocialMetadata({

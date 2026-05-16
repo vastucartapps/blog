@@ -33,7 +33,7 @@ export async function generateMetadata({
   const url = absoluteUrl(`/${cat.slug}`);
   const title = `${cat.label}, ${cat.label_hindi} — VastuCart Blog`;
   return {
-    title,
+    title: { absolute: title },
     description: cat.description,
     alternates: buildAlternates(url),
     ...buildSocialMetadata({

@@ -14,7 +14,7 @@ const PAGE_DESCRIPTION =
   "How articles on VastuCart Blog are researched, written, reviewed, sourced, corrected, and updated. Our practitioner-reviewed process for Vedic astrology, Vastu, numerology, tarot, puja, and gemstone content.";
 
 export const metadata: Metadata = {
-  title: PAGE_TITLE,
+  title: { absolute: PAGE_TITLE },
   description: PAGE_DESCRIPTION,
   alternates: buildAlternates(URL),
   ...buildSocialMetadata({

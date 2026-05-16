@@ -19,7 +19,7 @@ const PAGE_DESCRIPTION =
   "VastuCart Editorial is the in-house desk that researches, writes, and edits every article on VastuCart Blog. Jyotish content is additionally reviewed by the VastuCart Jyotish Review Panel.";
 
 export const metadata: Metadata = {
-  title: PAGE_TITLE,
+  title: { absolute: PAGE_TITLE },
   description: PAGE_DESCRIPTION,
   alternates: buildAlternates(URL),
   ...buildSocialMetadata({

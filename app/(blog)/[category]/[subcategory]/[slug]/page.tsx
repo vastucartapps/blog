@@ -37,7 +37,7 @@ export async function generateMetadata({
   if (!post) return {};
   const url = absoluteUrl(`/${post.category}/${post.subcategory}/${post.slug}`);
   return {
-    title: post.meta.title,
+    title: { absolute: post.meta.title },
     description: post.meta.description,
     keywords: post.meta.keywords,
     alternates: {

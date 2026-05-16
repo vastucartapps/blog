@@ -19,7 +19,7 @@ const PAGE_DESCRIPTION =
   "The classical texts and traditions that underpin every article on VastuCart Blog. Brihat Parashara Hora Shastra, Jaimini Sutras, Saravali, Manasara, Mayamatam, Rider Waite, and the numerology lineage.";
 
 export const metadata: Metadata = {
-  title: PAGE_TITLE,
+  title: { absolute: PAGE_TITLE },
   description: PAGE_DESCRIPTION,
   alternates: buildAlternates(URL),
   ...buildSocialMetadata({
