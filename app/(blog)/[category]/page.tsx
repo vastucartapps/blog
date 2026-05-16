@@ -143,7 +143,43 @@ export default async function CategoryPage({
               counts={subCounts}
             />
           </div>
-          <PostGrid posts={posts} categoryLabel={cat.label} />
+          {/*
+            Cap the category page to the 24 most recent posts. /jyotish
+            was previously rendering all 177 post cards which inflated
+            the HTML to 1.37 MB and made transfer stall past 10s on
+            production. Readers go deeper via SubcategoryChips above —
+            each subcategory hub has its own (paginated) post grid.
+            The complete-guide pillar (`/<cat>/complete-guide`) lists
+            every article in topic order if a visitor wants the full
+            index.
+          */}
+          <PostGrid posts={posts.slice(0, 24)} categoryLabel={cat.label} />
+          {posts.length > 24 ? (
+            <div
+              style={{
+                marginTop: 36,
+                padding: "1.25rem 1.5rem",
+                borderRadius: 12,
+                border: "1px dashed var(--border-mid)",
+                background: "var(--cream-2)",
+                color: "var(--on-light-3)",
+                fontSize: 14,
+                lineHeight: 1.65,
+                textAlign: "center",
+              }}
+            >
+              Showing the {Math.min(24, posts.length)} most recent {cat.label.toLowerCase()} articles.
+              For the complete topic map of all {posts.length} articles in this
+              category, see the{" "}
+              <a
+                href={`/${cat.slug}/complete-guide`}
+                style={{ color: "var(--teal)", fontWeight: 600 }}
+              >
+                {cat.label} complete guide
+              </a>
+              {" "}or browse a subcategory above.
+            </div>
+          ) : null}
 
           {faqs.length > 0 ? (
             <section

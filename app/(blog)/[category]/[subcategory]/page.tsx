@@ -5,6 +5,7 @@ import { Footer } from "@/components/layout/Footer";
 import { CategoryHero } from "@/components/listing/CategoryHero";
 import { SubcategoryChips } from "@/components/listing/SubcategoryChips";
 import { PostGrid } from "@/components/listing/PostGrid";
+import { HubIntro } from "@/components/listing/HubIntro";
 import { CATEGORIES, getCategory, getSubcategory } from "@/lib/categories";
 import { getPostsBySubcategory, countPostsBySubcategory } from "@/lib/content";
 import { absoluteUrl, SITE_URL } from "@/lib/utils";
@@ -120,6 +121,7 @@ export default async function SubcategoryPage({
               counts={subCounts}
             />
           </div>
+          <HubIntro category={cat} subcategory={sub} postCount={posts.length} />
           <PostGrid posts={posts} categoryLabel={cat.label} />
         </div>
       </main>
