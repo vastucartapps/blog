@@ -106,11 +106,23 @@ line is unticked, the post does not publish.
 - [ ] Gemstone block has primary + secondary + shop card (3 cards).
 - [ ] Gemstone block has the disclaimer (always rendered).
 
+## Phase 6b — GEO / AI-search (added 2026-05-29)
+
+- [ ] One `tldr` block near the top (40-75 word self-contained answer).
+- [ ] 2-4 `geo-answer` blocks; each answer 40-75 words, answer-first,
+      independently liftable.
+- [ ] FAQ has >=10 PAA-style questions; each answer opens <=40 words.
+- [ ] Any authority claim cites a real source (classical text or a
+      whitelisted domain). No fabricated stats/sources.
+- [ ] One honest "when you do NOT need a paid consultation" line
+      (DIY/threshold trust signal).
+- [ ] `dateModified` bumped ONLY on a real edit — never faked recency.
+
 ## Phase 7 — Schema (22 entities)
 
 - [ ] All 22 entities present (see `POST_STANDARD.md` Section 7).
 - [ ] Article schema has `wordCount`, `timeRequired`, `inLanguage`.
-- [ ] FAQPage has 5+ Question/Answer pairs.
+- [ ] FAQPage has **>=10** Question/Answer pairs (raised 2026-05-29).
 - [ ] BreadcrumbList has 4 levels.
 - [ ] Person schema has `knowsAbout` array.
 - [ ] Organization uses the canonical `@id` `https://vastucart.in/#org`.

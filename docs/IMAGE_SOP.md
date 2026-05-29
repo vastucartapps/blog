@@ -5,6 +5,13 @@ via `<ImageFigure>` placeholders. When the generative image API is
 configured, `scripts/generate-images.ts` walks every post and fills
 the placeholders without touching the post JSON.
 
+**Visual verification (2026-05-29):** before shipping, open every
+generated/sourced image and confirm it actually depicts what the
+`alt` and `caption` claim. Do not trust the filename — a "moisture
+meter" query returns a glucose meter, a zodiac search returns the
+wrong sign. Mismatched image + caption is a hard trust failure for
+both readers and AI extractors.
+
 ---
 
 ## 1. Image budget per post template

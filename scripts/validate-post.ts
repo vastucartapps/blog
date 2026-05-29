@@ -45,6 +45,22 @@ const BANNED_PHRASES = [
   "crucial",
   "ever-evolving landscape",
   "ever evolving landscape",
+  // GEO-era AI-tell additions (BLOG_ARTICLE_SOP 2026-05-29). Kept to
+  // phrases that do not collide with legitimate jyotish prose — e.g.
+  // "robust" / "elevate" are intentionally NOT banned ("robust
+  // constitution", "elevated planet" are real usages in this niche).
+  "in today's fast-paced world",
+  "when it comes to",
+  "whether you're",
+  "it's important to note",
+  "needless to say",
+  "a testament to",
+  "seamless",
+  "seamlessly",
+  "game-changer",
+  "game changer",
+  "look no further",
+  "rest assured",
 ];
 
 // Domains allowed in external links inside post HTML. Validator
@@ -86,10 +102,18 @@ const REQUIRED_SCHEMA_TYPES = [
   "Dataset",
 ];
 
-const WORD_TARGETS: Record<string, { prose: number; tolerance: number }> = {
-  "planet-in-house":   { prose: 1800, tolerance: 0.25 },
-  "lagna-profile":     { prose: 2200, tolerance: 0.25 },
-  "nakshatra":         { prose: 1500, tolerance: 0.25 },
+// `prose` is the coverage floor target; the lower bound is
+// prose*(1-tolerance). `ceiling`, when set, is an explicit upper
+// bound (GEO era: density over length, no tight upper cap — but a
+// generous ceiling still catches genuine runaway bloat). Without a
+// ceiling, the upper bound falls back to prose*(1+tolerance).
+const WORD_TARGETS: Record<
+  string,
+  { prose: number; tolerance: number; ceiling?: number }
+> = {
+  "planet-in-house":   { prose: 1800, tolerance: 0.25, ceiling: 3000 },
+  "lagna-profile":     { prose: 2200, tolerance: 0.25, ceiling: 3400 },
+  "nakshatra":         { prose: 1500, tolerance: 0.25, ceiling: 2600 },
   "tarot-card":        { prose: 1100, tolerance: 0.25 },
   "numerology-number": { prose: 1300, tolerance: 0.25 },
   "vastu":             { prose: 1300, tolerance: 0.25 },
@@ -314,7 +338,13 @@ function validate(post: PostJSON, file: string): ValidationReport {
   // ── Phase 5: prose word count + voice + bans (15)
   check("prose", 15, (issues) => {
     let s = 15;
-    let proseTotal = 0;
+    // coreTotal = narrative prose (prose/scannable/pull-quote). geoTotal =
+    // liftable answer surfaces (tldr/geo-answer). The CEILING guards core
+    // narrative against bloat; answer surfaces are extraction blocks and are
+    // exempt from it (more PAA-style answers is better for AI citation). Both
+    // count toward the FLOOR so GEO writing is still rewarded.
+    let coreTotal = 0;
+    let geoTotal = 0;
     const blocks = post.content ?? [];
     for (const block of blocks) {
       const b = block as {
@@ -322,32 +352,40 @@ function validate(post: PostJSON, file: string): ValidationReport {
         html?: string;
         text?: string;
         lead_html?: string;
+        answer_html?: string;
+        elaboration_html?: string;
         subsections?: { html: string }[];
       };
       if (b.type === "prose" && b.html) {
-        proseTotal += words(b.html);
+        coreTotal += words(b.html);
+      } else if (b.type === "tldr" && b.html) {
+        geoTotal += words(b.html);
+      } else if (b.type === "geo-answer") {
+        if (b.answer_html) geoTotal += words(b.answer_html);
+        if (b.elaboration_html) geoTotal += words(b.elaboration_html);
       } else if (b.type === "scannable-prose") {
-        if (b.lead_html) proseTotal += words(b.lead_html);
+        if (b.lead_html) coreTotal += words(b.lead_html);
         if (Array.isArray(b.subsections)) {
           for (const sub of b.subsections) {
-            if (sub.html) proseTotal += words(sub.html);
+            if (sub.html) coreTotal += words(sub.html);
           }
         }
       } else if (b.type === "pull-quote" && b.text) {
-        proseTotal += words(b.text);
+        coreTotal += words(b.text);
       }
     }
+    const proseTotal = coreTotal + geoTotal;
     const target = WORD_TARGETS[post.template];
     if (target) {
       const tol = target.tolerance;
       const lo = target.prose * (1 - tol);
-      const hi = target.prose * (1 + tol);
+      const hi = target.ceiling ?? target.prose * (1 + tol);
       if (proseTotal < lo) {
         issues.push(`prose ${proseTotal} below target ${target.prose} (-${Math.round((1 - proseTotal / target.prose) * 100)}%)`);
         hardFail("prose under target");
         s -= 10;
-      } else if (proseTotal > hi) {
-        issues.push(`prose ${proseTotal} above target ${target.prose} (+${Math.round((proseTotal / target.prose - 1) * 100)}%)`);
+      } else if (coreTotal > hi) {
+        issues.push(`core prose ${coreTotal} above ceiling ${hi} (excl. answer surfaces)`);
         hardFail("prose over target");
         s -= 5;
       }
@@ -416,7 +454,7 @@ function validate(post: PostJSON, file: string): ValidationReport {
     let s = 10;
     const blocks = post.content ?? [];
 
-    // FAQ: 5 (or 6 for lagna), no duplicate questions, each ≥40 chars
+    // FAQ: >=10 PAA-style, no duplicate questions, each answer >=40 words
     const faq = blocks.find(
       (b) => (b as { type: string }).type === "faq"
     ) as { items?: { q: string; a: string }[] } | undefined;
@@ -424,12 +462,16 @@ function validate(post: PostJSON, file: string): ValidationReport {
       issues.push("missing FAQ block");
       hardFail("missing FAQ");
       s -= 5;
-    } else if (!faq.items || (faq.items.length !== 5 && faq.items.length !== 6)) {
-      issues.push(`FAQ count ${faq.items?.length ?? 0}, want 5 (or 6 for lagna)`);
-      s -= 2;
     } else {
+      // GEO/AEO floor raised to >=10 PAA-style questions (BLOG_ARTICLE_SOP
+      // 2026-05-29) for AI-citation surface. Soft penalty so the published
+      // backlog (5-6 FAQ) is flagged for backfill, not build-broken.
+      if (!faq.items || faq.items.length < 10) {
+        issues.push(`FAQ count ${faq.items?.length ?? 0}, want >=10 (PAA-style)`);
+        s -= 2;
+      }
       const qSet = new Set<string>();
-      for (const item of faq.items) {
+      for (const item of faq.items ?? []) {
         const q = item.q.trim().toLowerCase();
         if (qSet.has(q)) {
           issues.push(`duplicate FAQ question: "${item.q}"`);

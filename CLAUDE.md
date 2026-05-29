@@ -250,6 +250,35 @@ combos — must pass:
 Both gates must pass before bulk publish. Rules in
 `docs/THIN_CONTENT_RULES.md`.
 
+## GEO / AI-SEARCH LAW (added 2026-05-29)
+
+Google now answers many queries with AI-synthesized summaries and
+LLMs cite sources directly. Posts must be **liftable and citable by a
+machine reader** while reading as a confident human expert. Concretely:
+
+- Every post carries a **`tldr`** block (self-contained 40-75 word
+  direct answer, class `.tldr`) near the top, and **3-5+ `geo-answer`**
+  blocks (question-style H2 + 40-75 word liftable answer, class
+  `.geo-answer`). Answer FIRST, then context. Defined in `lib/types.ts`;
+  rendered by `TldrBlock.tsx` / `GeoAnswer.tsx`. `tldr`/`geo-answer`
+  are exempt from the prose ceiling (liftable answer surfaces).
+- **FAQ floor is >=10** PAA-style questions (was 5/6); more is better
+  when each is distinct and earns its place. Each answer opens with a
+  <=40-word sentence. Reference build (4 Meena posts, 2026-05-29):
+  4 geo-answers + 13 FAQ each.
+- **SpeakableSpecification** targets `.tldr`, `.geo-answer`, `.faq-answer`.
+- **Outbound authority links** are allowed ONLY to the validator's
+  `EXTERNAL_LINK_WHITELIST` (Wikipedia, vedabase.io, wisdomlib.org,
+  archive.org). For this niche, "authority" = classical Sanskrit
+  sources. NEVER fabricate a statistic, study, or source.
+- `robots.txt` allows all AI **citation** bots, blocks all **training**
+  bots (`app/robots.ts`). Do not change without operator sign-off.
+- `/llms.txt` (`app/llms.txt/route.ts`) is generated from published
+  posts and must stay current.
+- Rationale + the full additive decision log: `memory/project_geo_sop_decisions.md`
+  and `templates/BLOG_ARTICLE_SOP.md`. The SOP is additive — never let
+  it override a locked rule (byline, schema law, no-em-dash, en-IN).
+
 ## SOP REFERENCE FILES
 
 - `docs/POST_STANDARD.md` — JSON shape, content order, voice, 22 schema

@@ -327,6 +327,24 @@ export type ContentBlock =
       heading?: string;
       html: string;
     }
+  // GEO: a TL;DR / direct-answer opener. The first paragraph of the
+  // article, self-contained so an AI engine can lift it verbatim.
+  // Rendered with class .tldr and targeted by SpeakableSpecification.
+  | {
+      type: "tldr";
+      label?: string;
+      html: string;
+    }
+  // GEO: a question-style H2 followed by a 40-75 word self-contained
+  // answer that makes sense lifted out of context, then optional
+  // elaboration. Rendered with class .geo-answer for extraction +
+  // speakable targeting. LLMs extract passages, not pages.
+  | {
+      type: "geo-answer";
+      question: string;
+      answer_html: string;
+      elaboration_html?: string;
+    }
   | {
       type: "scannable-prose";
       eyebrow?: string;

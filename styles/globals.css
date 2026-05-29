@@ -558,6 +558,13 @@ strong { font-weight: 600; }
 .prose-block p:last-child { margin-bottom: 0; }
 .prose-block em { font-style: italic; color: var(--on-light-1); }
 
+/* ── GEO / AEO answer surfaces — liftable, speakable-targeted.
+   Both sit on light backgrounds, so text uses --on-light-* only. */
+.tldr p { margin-bottom: 0.85rem; }
+.tldr p:last-child { margin-bottom: 0; }
+.geo-answer { margin-bottom: 0; }
+.geo-answer a { color: var(--saffron); text-decoration: underline; text-underline-offset: 2px; }
+
 /* ── LORA VERSE — for stotra, pull quotes */
 .verse { font-family: var(--font-verse); font-style: italic; }
 

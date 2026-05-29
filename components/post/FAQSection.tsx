@@ -136,6 +136,7 @@ export function FAQSection({ eyebrow, heading, items }: Props) {
                     style={{ overflow: "hidden" }}
                   >
                     <p
+                      className="faq-answer"
                       style={{
                         margin: 0,
                         padding: "1.25rem 1.5rem 1.4rem 1.5rem",

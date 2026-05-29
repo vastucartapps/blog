@@ -11,6 +11,16 @@ export function buildSpeakableSchema(baseUrl: string): SchemaEntity {
     "@context": "https://schema.org",
     "@type": "SpeakableSpecification",
     "@id": `${baseUrl}#speakable`,
-    cssSelector: ["#introduction", ".pull-quote", ".prose-block p:first-child"],
+    // GEO/AEO: target the liftable, self-contained passages — the
+    // TL;DR opener, every question-level direct answer, and FAQ
+    // answers — so voice assistants and AI engines quote clean blocks.
+    cssSelector: [
+      "#introduction",
+      ".tldr",
+      ".geo-answer",
+      ".faq-answer",
+      ".pull-quote",
+      ".prose-block p:first-child",
+    ],
   };
 }

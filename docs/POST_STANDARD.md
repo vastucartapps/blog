@@ -85,6 +85,8 @@ content/{category}/{subcategory}/{slug}.json
 4. Cut any section with less than 120 words of real content.
 5. Delete any paragraph that does not introduce a new fact.
 6. FAQ answers are one tight paragraph (~80 words), never two.
+   FAQ floor is **>=10 PAA-style questions** per post (2026-05-29).
+   Each answer opens with a <=40-word snippet-style sentence.
 7. **Em dashes are banned.** Use comma or full stop.
 8. Emoji are banned.
 9. Sanskrit terms are italicised on first use, with English gloss in
@@ -271,10 +273,39 @@ Every post must include:
 - Hero tags + meta items resolve via `resolveEntityLink()` for
   known entities
 
+## 8b. GEO / AEO answer blocks (added 2026-05-29, additive)
+
+Google now answers a growing share of queries with AI-synthesized
+summaries (AI Overviews / AI Mode) and LLMs (ChatGPT, Perplexity,
+Gemini, Claude) cite sources directly. We optimize to be the
+**liftable, citable passage**, not just a ranked link. Two block
+types serve this, both additive to the order below:
+
+- **`tldr`** — the article's direct-answer opener. A self-contained
+  40-75 word paragraph that makes sense quoted alone. Class `.tldr`,
+  targeted by SpeakableSpecification. One per post, near the top
+  (after the intro hero / first prose).
+- **`geo-answer`** — a question-style H2 phrased the way a real
+  person asks it, followed by a 40-75 word self-contained answer
+  (`.geo-answer`) that leads with the answer, then optional
+  elaboration. Use **3-5+ per post** on the highest-intent questions.
+  More is better when each one answers a genuinely distinct query;
+  `geo-answer` blocks are exempt from the prose ceiling (they are
+  liftable answer surfaces, like FAQ).
+
+Rules: answer FIRST then context; never bury the answer; cite a real
+classical source where a claim needs authority (never fabricate one);
+keep each answer independently liftable. **FAQ floor is >=10**
+PAA-style questions (was 5/6); more is better for citation surface,
+provided each question is distinct and each answer earns its place
+(no padding). Reference build: the 4 Meena 2026-05-29 posts ship
+**4 geo-answers + 13 FAQ** each.
+
 ## 9. ContentBlock order per template
 
 ### planet-in-house
-stat-strip → prose intro → pull-quote → image-figure (intro hero) →
+stat-strip → prose intro → **tldr** → pull-quote → image-figure (intro hero) →
+**geo-answer (top question)** →
 info-grid → divider:accent → prose personality → effects-grid →
 prose career → cta-inline → divider:accent → kundali-visual →
 divider:accent → prose health → dasha-table → image-figure (mid) →
@@ -285,7 +316,8 @@ internal-links → cta-band → divider:accent → faq →
 divider:accent → author → divider:accent → related-posts
 
 ### lagna-profile
-stat-strip → prose intro → pull-quote → image-figure (intro) →
+stat-strip → prose intro → **tldr** → pull-quote → image-figure (intro) →
+**geo-answer (top question)** →
 info-grid (lagna lord + element profile) → divider:accent →
 prose personality → effects-grid → prose career →
 divider:accent → kundali-visual → image-figure (mid) →

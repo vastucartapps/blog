@@ -9,6 +9,8 @@ import { autoLinkProseHtml } from "@/lib/auto-prose-linker";
 import type { RelatedPostCard } from "./RelatedPosts";
 import { NavStrip } from "./NavStrip";
 import { ProseBlock } from "./ProseBlock";
+import { TldrBlock } from "./TldrBlock";
+import { GeoAnswer } from "./GeoAnswer";
 import { ScannableProse } from "./ScannableProse";
 import { PullQuote } from "./PullQuote";
 import { StatStrip } from "./StatStrip";
@@ -117,6 +119,27 @@ export function BlockRenderer({
                 eyebrow={block.eyebrow}
                 heading={block.heading}
                 html={autoLinkProseHtml(block.html)}
+              />
+            );
+          case "tldr":
+            return (
+              <TldrBlock
+                key={i}
+                label={block.label}
+                html={autoLinkProseHtml(block.html)}
+              />
+            );
+          case "geo-answer":
+            return (
+              <GeoAnswer
+                key={i}
+                question={block.question}
+                answer_html={autoLinkProseHtml(block.answer_html)}
+                elaboration_html={
+                  block.elaboration_html
+                    ? autoLinkProseHtml(block.elaboration_html)
+                    : undefined
+                }
               />
             );
           case "scannable-prose":
