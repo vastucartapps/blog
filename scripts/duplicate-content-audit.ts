@@ -85,8 +85,10 @@ function walk(dir: string, out: string[]): void {
 function main() {
   const args = process.argv.slice(2);
   let threshold = DEFAULT_THRESHOLD;
+  let against: string | null = null;
   for (let i = 0; i < args.length; i++) {
     if (args[i] === "--threshold") threshold = parseFloat(args[i + 1]);
+    else if (args[i] === "--against") against = args[i + 1];
   }
 
   const files: string[] = [];
@@ -100,7 +102,7 @@ function main() {
       const text = extractProse(post);
       if (text.split(/\s+/).length < 100) continue;
       posts.push({
-        file: f,
+        file: path.resolve(f),
         slug: post.slug,
         template: post.template ?? "",
         ngrams: ngrams(text, NGRAM_SIZE),
@@ -110,15 +112,36 @@ function main() {
     }
   }
 
+  if (against) {
+    const target = path.resolve(against);
+    const me = posts.find((p) => p.file === target);
+    if (!me) {
+      console.error(`--against: ${against} not found among loaded posts (needs >=100 words of prose and a slug).`);
+      process.exit(2);
+    }
+    const violations: { a: string; b: string; overlap: number }[] = [];
+    for (const other of posts) {
+      if (other.file === me.file) continue;
+      const o = jaccard(me.ngrams, other.ngrams);
+      if (o >= threshold) violations.push({ a: me.slug, b: other.slug, overlap: o });
+    }
+    violations.sort((a, b) => b.overlap - a.overlap);
+    if (violations.length === 0) {
+      console.log(`\x1b[32m[PASS]\x1b[0m ${me.slug}: no peer above ${threshold}.`);
+      process.exit(0);
+    }
+    console.log(`\x1b[31m[FAIL]\x1b[0m ${me.slug} overlaps ${violations.length} peer(s) above ${threshold}:`);
+    for (const v of violations) console.log(`  ${(v.overlap * 100).toFixed(1)}%  ${v.a}  ↔  ${v.b}`);
+    process.exit(1);
+  }
+
   console.log(`Loaded ${posts.length} posts. Comparing ${(posts.length * (posts.length - 1)) / 2} pairs at threshold ${threshold}.\n`);
 
   const violations: { a: string; b: string; overlap: number }[] = [];
   for (let i = 0; i < posts.length; i++) {
     for (let j = i + 1; j < posts.length; j++) {
       const o = jaccard(posts[i].ngrams, posts[j].ngrams);
-      if (o >= threshold) {
-        violations.push({ a: posts[i].slug, b: posts[j].slug, overlap: o });
-      }
+      if (o >= threshold) violations.push({ a: posts[i].slug, b: posts[j].slug, overlap: o });
     }
   }
 
