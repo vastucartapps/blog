@@ -118,6 +118,7 @@ import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
 import { loadLedger, saveLedger, upsertEntry, pendingSlugs } from "../ledger";
+import type { Ledger } from "../types";
 
 function tmpDir(): string {
   return fs.mkdtempSync(path.join(os.tmpdir(), "forge-led-"));
@@ -142,7 +143,7 @@ test("saveLedger then loadLedger round-trips and is atomic", () => {
 });
 
 test("upsertEntry merges over previous entry", () => {
-  let l = { version: 1 as const, entries: {} };
+  let l: Ledger = { version: 1, entries: {} };
   l = upsertEntry(l, "s", { status: "pending", attempts: 1 }, "t1");
   l = upsertEntry(l, "s", { attempts: 2, last_failures: ["x"] }, "t2");
   assert.equal(l.entries["s"].status, "pending");
@@ -152,7 +153,7 @@ test("upsertEntry merges over previous entry", () => {
 });
 
 test("pendingSlugs excludes only passed", () => {
-  let l = { version: 1 as const, entries: {} };
+  let l: Ledger = { version: 1, entries: {} };
   l = upsertEntry(l, "done", { status: "passed" }, "t");
   l = upsertEntry(l, "todo", { status: "quarantined" }, "t");
   assert.deepEqual(pendingSlugs(l, ["done", "todo", "new"]), ["todo", "new"]);
@@ -733,13 +734,21 @@ In `package.json` `scripts`, add:
 
 ```json
     "test:forge": "tsx --test \"lib/forge/__tests__/*.test.ts\"",
+    "verify:forge": "tsc --noEmit && tsx --test \"lib/forge/__tests__/*.test.ts\"",
     "forge:check": "tsx scripts/forge-check.ts"
 ```
 
-- [ ] **Step 4: Run the full forge test suite**
+`verify:forge` is the canonical "is the forge healthy?" gate: it type-checks
+the WHOLE project (including the test files — which is what catches a test
+fixture that runs under tsx but fails `tsc`, the exact bug class that hit the
+ledger test) and then runs the suite. The Plan 2 orchestrator and any CI must
+call `verify:forge`, never the bare test runner.
 
-Run: `npm run test:forge`
-Expected: all tests across ledger, backlog, gates, image-qa PASS.
+- [ ] **Step 4: Run the canonical forge gate**
+
+Run: `npm run verify:forge`
+Expected: `tsc` exits 0 (no type errors anywhere, including `__tests__`), then
+all tests across ledger, backlog, gates, image-qa PASS.
 
 - [ ] **Step 5: Commit**
 
