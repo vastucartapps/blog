@@ -435,3 +435,13 @@ diverge, the matrix is stale — update it before the next batch.
 | `surya-7th-house-pisces-lagna` | planet-in-house | 2600 | gate+fact-verified | ✓ (Forge wave 4) | 2026-05-30 |
 | `guru-6th-house-pisces-lagna` | planet-in-house | 2600 | gate+fact-verified | ✓ (Forge wave 4) | 2026-05-30 |
 | `mangal-5th-house-pisces-lagna` | planet-in-house | 2600 | gate+fact-verified | ✓ (Forge wave 4) | 2026-05-30 |
+| `surya-10th-house-pisces-lagna` | planet-in-house | ~2500 | gate+fact-verified | ✓ (Forge repair) | 2026-05-30 |
+| `chandra-7th-house-pisces-lagna` | planet-in-house | ~2500 | gate+fact-verified | ✓ (Forge repair) | 2026-05-30 |
+| `guru-2nd-house-pisces-lagna` | planet-in-house | ~2500 | gate+fact-verified | ✓ (Forge repair) | 2026-05-30 |
+| `surya-4th-house-pisces-lagna` | planet-in-house | ~2500 | gate+fact-verified | ✓ (Forge repair) | 2026-05-30 |
+| `chandra-10th-house-pisces-lagna` | planet-in-house | ~2500 | gate+fact-verified | ✓ (Forge repair) | 2026-05-30 |
+| `guru-3rd-house-pisces-lagna` | planet-in-house | ~2500 | gate+fact-verified | ✓ (Forge repair) | 2026-05-30 |
+| `shukra-5th-house-pisces-lagna` | planet-in-house | ~2500 | gate+fact-verified | ✓ (Forge repair) | 2026-05-30 |
+| `shani-4th-house-pisces-lagna` | planet-in-house | ~2500 | gate+fact-verified | ✓ (Forge repair) | 2026-05-30 |
+| `chandra-2nd-house-pisces-lagna` | planet-in-house | ~2500 | gate+fact-verified | ✓ (Forge repair) | 2026-05-30 |
+| `shukra-2nd-house-pisces-lagna` | planet-in-house | ~2500 | gate+fact-verified | ✓ (Forge repair) | 2026-05-30 |
