@@ -445,3 +445,6 @@ diverge, the matrix is stale — update it before the next batch.
 | `shani-4th-house-pisces-lagna` | planet-in-house | ~2500 | gate+fact-verified | ✓ (Forge repair) | 2026-05-30 |
 | `chandra-2nd-house-pisces-lagna` | planet-in-house | ~2500 | gate+fact-verified | ✓ (Forge repair) | 2026-05-30 |
 | `shukra-2nd-house-pisces-lagna` | planet-in-house | ~2500 | gate+fact-verified | ✓ (Forge repair) | 2026-05-30 |
+| `budha-9th-house-pisces-lagna` | planet-in-house | ~2500 | gate+fact-verified | ✓ (Forge repair, maitri-correct) | 2026-05-30 |
+| `shani-7th-house-pisces-lagna` | planet-in-house | ~2500 | gate+fact-verified | ✓ (Forge repair, maitri-correct) | 2026-05-30 |
+| `budha-5th-house-pisces-lagna` | planet-in-house | ~2500 | gate+fact-verified | ✓ (Forge repair, maitri-correct) | 2026-05-30 |
