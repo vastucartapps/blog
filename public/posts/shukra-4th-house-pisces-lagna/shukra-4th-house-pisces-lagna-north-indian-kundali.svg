@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="kbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#02545E"/>
+      <stop offset="55%" stop-color="#013F47"/>
+      <stop offset="100%" stop-color="#012F36"/>
+    </linearGradient>
+    <radialGradient id="kglow" cx="78%" cy="14%" r="48%">
+      <stop offset="0%" stop-color="rgba(232,132,10,0.16)"/>
+      <stop offset="100%" stop-color="rgba(232,132,10,0)"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1024" height="1024" fill="url(#kbg)"/>
+  <rect width="1024" height="1024" fill="url(#kglow)"/>
+
+  <!-- faint diamond-pattern dots (brand dark-section motif) -->
+  <g fill="#E0BF7C" opacity="0.14">
+    <circle cx="96" cy="120" r="2"/>
+    <circle cx="928" cy="120" r="2"/>
+    <circle cx="120" cy="960" r="2"/>
+    <circle cx="904" cy="960" r="2"/>
+    <circle cx="512" cy="48" r="1.6"/>
+  </g>
+
+  <!-- title band -->
+  <g text-anchor="middle">
+    <text x="512" y="64" font-family="'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#E0BF7C" letter-spacing="4" font-weight="500">PLANETARY PLACEMENT</text>
+    <text x="512" y="116" font-family="Georgia, 'Times New Roman', serif" font-size="44" fill="#f5a623" font-weight="600" font-style="italic">Venus in the 4th house</text>
+    <text x="512" y="150" font-family="Georgia, serif" font-size="22" fill="#F2EAD3" font-style="italic" letter-spacing="0.5">Meena (Pisces) Lagna</text>
+  </g>
+
+  <polygon points="122.0,572.0 317.0,377.0 512.0,572.0 317.0,767.0" fill="#e8840a" fill-opacity="0.20" stroke="#e8840a" stroke-opacity="0.6" stroke-width="2.6"/>
+  <rect x="122.0" y="182.0" width="780.0" height="780.0" fill="rgba(255,255,255,0.02)" stroke="#e8840a" stroke-opacity="0.62" stroke-width="3" rx="6"/>
+  <line x1="122.0" y1="182.0" x2="902.0" y2="962.0" stroke="rgba(255,255,255,0.32)" stroke-width="2"/>
+  <line x1="902.0" y1="182.0" x2="122.0" y2="962.0" stroke="rgba(255,255,255,0.32)" stroke-width="2"/>
+  <line x1="512.0" y1="182.0" x2="902.0" y2="572.0" stroke="#e8840a" stroke-opacity="0.62" stroke-width="2.4"/>
+  <line x1="902.0" y1="572.0" x2="512.0" y2="962.0" stroke="#e8840a" stroke-opacity="0.62" stroke-width="2.4"/>
+  <line x1="512.0" y1="962.0" x2="122.0" y2="572.0" stroke="#e8840a" stroke-opacity="0.62" stroke-width="2.4"/>
+  <line x1="122.0" y1="572.0" x2="512.0" y2="182.0" stroke="#e8840a" stroke-opacity="0.62" stroke-width="2.4"/>
+  <g>
+    <text x="512.0" y="301.6" text-anchor="middle" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="500" fill="rgba(255,255,255,0.42)" letter-spacing="0.04em">1</text>
+    <text x="512.0" y="327.6" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="rgba(224,191,124,0.55)" font-style="italic">12</text>
+  </g>
+  <g>
+    <text x="293.6" y="234.0" text-anchor="middle" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="500" fill="rgba(255,255,255,0.42)" letter-spacing="0.04em">2</text>
+    <text x="293.6" y="260.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="rgba(224,191,124,0.55)" font-style="italic">1</text>
+  </g>
+  <g>
+    <text x="200.0" y="338.0" text-anchor="middle" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="500" fill="rgba(255,255,255,0.42)" letter-spacing="0.04em">3</text>
+    <text x="200.0" y="364.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="rgba(224,191,124,0.55)" font-style="italic">2</text>
+  </g>
+  <g>
+    <text x="293.6" y="572.0" text-anchor="middle" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#f5a623" letter-spacing="0.04em">4</text>
+    <text x="293.6" y="598.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#E0BF7C" font-style="italic">3</text>
+    <g transform="translate(330.0, 572.0)">
+      <circle r="40" fill="#e8840a" fill-opacity="0.22"/>
+      <circle r="30" fill="#012F36" stroke="#E0BF7C" stroke-width="2"/>
+      <g transform="scale(0.62)">
+    <circle cx="0" cy="-6" r="12" stroke="#F2C8D8" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <line x1="0" y1="6" x2="0" y2="24" stroke="#F2C8D8" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <line x1="-8" y1="14" x2="8" y2="14" stroke="#F2C8D8" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+    </g>
+    <text x="330.0" y="630.0" text-anchor="middle" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#F2EAD3" letter-spacing="0.03em">Venus</text>
+  </g>
+  <g>
+    <text x="200.0" y="795.6" text-anchor="middle" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="500" fill="rgba(255,255,255,0.42)" letter-spacing="0.04em">5</text>
+    <text x="200.0" y="821.6" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="rgba(224,191,124,0.55)" font-style="italic">4</text>
+  </g>
+  <g>
+    <text x="293.6" y="899.6" text-anchor="middle" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="500" fill="rgba(255,255,255,0.42)" letter-spacing="0.04em">6</text>
+    <text x="293.6" y="925.6" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="rgba(224,191,124,0.55)" font-style="italic">5</text>
+  </g>
+  <g>
+    <text x="512.0" y="821.6" text-anchor="middle" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="500" fill="rgba(255,255,255,0.42)" letter-spacing="0.04em">7</text>
+    <text x="512.0" y="847.6" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="rgba(224,191,124,0.55)" font-style="italic">6</text>
+  </g>
+  <g>
+    <text x="730.4" y="899.6" text-anchor="middle" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="500" fill="rgba(255,255,255,0.42)" letter-spacing="0.04em">8</text>
+    <text x="730.4" y="925.6" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="rgba(224,191,124,0.55)" font-style="italic">7</text>
+  </g>
+  <g>
+    <text x="824.0" y="795.6" text-anchor="middle" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="500" fill="rgba(255,255,255,0.42)" letter-spacing="0.04em">9</text>
+    <text x="824.0" y="821.6" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="rgba(224,191,124,0.55)" font-style="italic">8</text>
+  </g>
+  <g>
+    <text x="730.4" y="572.0" text-anchor="middle" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="500" fill="rgba(255,255,255,0.42)" letter-spacing="0.04em">10</text>
+    <text x="730.4" y="598.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="rgba(224,191,124,0.55)" font-style="italic">9</text>
+  </g>
+  <g>
+    <text x="824.0" y="338.0" text-anchor="middle" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="500" fill="rgba(255,255,255,0.42)" letter-spacing="0.04em">11</text>
+    <text x="824.0" y="364.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="rgba(224,191,124,0.55)" font-style="italic">10</text>
+  </g>
+  <g>
+    <text x="730.4" y="234.0" text-anchor="middle" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="500" fill="rgba(255,255,255,0.42)" letter-spacing="0.04em">12</text>
+    <text x="730.4" y="260.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="rgba(224,191,124,0.55)" font-style="italic">11</text>
+  </g>
+
+  <!-- chart caption -->
+  <text x="512" y="1024" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="rgba(224,191,124,0.85)" font-style="italic" letter-spacing="1.5">North Indian D-1 (Rashi) Chart</text>
+</svg>
