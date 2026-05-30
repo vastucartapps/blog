@@ -163,14 +163,18 @@ async function processPost(jsonPath: string) {
     };
   }
 
-  // Output filename: the image-figure that references this gem, i.e.
-  // `{slug}-{gem}.webp`. Prefer the declared filename; fall back to the
-  // canonical pattern if no figure block names it.
-  const expected = `${slug}-${gemSlug}.webp`;
+  // Output filename: the post's gemstone image-figure, identified by
+  // EXCLUSION (the figure that is not hero/kundali/infographic/stotra).
+  // This honours whatever name the post declares (e.g. a non-canonical
+  // "-coral" vs the canonical gem slug "-red-coral"), so the rendered
+  // file always matches the URL the post references and can never 404.
+  // The SOURCE photo still comes from the canonical gemSlug.
+  const NON_GEM_FIGURE =
+    /(?:-hero|-north-indian-kundali|-career-infographic|-remedies-infographic|-stotra-parchment)/;
   const figure = content.find(
-    (b) => b.type === "image-figure" && b.filename === expected,
+    (b) => b.type === "image-figure" && !!b.filename && !NON_GEM_FIGURE.test(b.filename),
   );
-  const outFilename = figure?.filename ?? expected;
+  const outFilename = figure?.filename ?? `${slug}-${gemSlug}.webp`;
 
   const planetId = post.planet_id ?? parsePlanetFromSlug(slug);
   const planetDisplay = planetId ? PLANET_DISPLAY[planetId.toLowerCase()] : undefined;
