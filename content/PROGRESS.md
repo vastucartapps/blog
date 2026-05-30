@@ -432,3 +432,6 @@ diverge, the matrix is stale — update it before the next batch.
 | `shukra-4th-house-pisces-lagna` | planet-in-house | 2500 | gate+fact-verified | ✓ (Forge wave 1, maitri-fixed) | 2026-05-30 |
 | `chandra-1st-house-pisces-lagna` | planet-in-house | 2881 | gate+fact-verified | ✓ (Forge wave 2) | 2026-05-30 |
 | `shani-1st-house-pisces-lagna` | planet-in-house | 2786 | gate+fact-verified | ✓ (Forge wave 2) | 2026-05-30 |
+| `surya-7th-house-pisces-lagna` | planet-in-house | 2600 | gate+fact-verified | ✓ (Forge wave 4) | 2026-05-30 |
+| `guru-6th-house-pisces-lagna` | planet-in-house | 2600 | gate+fact-verified | ✓ (Forge wave 4) | 2026-05-30 |
+| `mangal-5th-house-pisces-lagna` | planet-in-house | 2600 | gate+fact-verified | ✓ (Forge wave 4) | 2026-05-30 |
