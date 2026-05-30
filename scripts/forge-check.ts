@@ -9,11 +9,14 @@ import { checkImages } from "../lib/forge/image-qa";
 import { loadLedger, saveLedger, upsertEntry } from "../lib/forge/ledger";
 
 async function main() {
-  const postPath = process.argv[2];
-  if (!postPath) {
+  const arg = process.argv[2];
+  if (!arg) {
     console.error("usage: forge-check.ts <post.json>");
     process.exit(2);
   }
+  // Absolute path: the gates run with cwd = repo root, so a path relative
+  // to the caller's cwd would otherwise misresolve.
+  const postPath = path.resolve(arg);
   const post = JSON.parse(fs.readFileSync(postPath, "utf8"));
   const slug: string = post.slug ?? path.basename(postPath, ".json");
 
@@ -46,4 +49,9 @@ async function main() {
   process.exit(1);
 }
 
-main();
+main().catch((e) => {
+  // Never exit 0 on an unhandled error — a thrown forge-check must read as
+  // "not commit-worthy", not as a silent pass.
+  console.error(`[FORGE ERROR] ${(e as Error).message}`);
+  process.exit(1);
+});

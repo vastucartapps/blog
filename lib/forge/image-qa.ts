@@ -1,10 +1,18 @@
 // lib/forge/image-qa.ts
 import fs from "node:fs";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 import sharp from "sharp";
 import type { ImageQaIssue, ImageQaResult } from "./types";
 
 const MAX_BYTES = 200 * 1024;
+
+// public/ resolved against the repo root (this file is lib/forge/image-qa.ts),
+// NOT process.cwd() — so image checks are correct regardless of the directory
+// the orchestrator runs from. A cwd-relative public/ would report every image
+// as missing when invoked from elsewhere.
+const REPO_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..", "..");
+const DEFAULT_PUBLIC_DIR = path.join(REPO_ROOT, "public");
 
 interface ImageFigureLike {
   type: string;
@@ -19,7 +27,7 @@ interface PostLike {
 }
 
 export async function checkImages(post: PostLike, opts: { publicDir?: string } = {}): Promise<ImageQaResult> {
-  const publicDir = opts.publicDir ?? path.join(process.cwd(), "public");
+  const publicDir = opts.publicDir ?? DEFAULT_PUBLIC_DIR;
   const issues: ImageQaIssue[] = [];
   const blocks = post.content ?? [];
 
