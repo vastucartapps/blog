@@ -105,11 +105,24 @@ const baseStyle: React.CSSProperties = {
 function body(
   icon: IconName | undefined,
   iconTrailing: IconName | undefined,
-  children: React.ReactNode
+  children: React.ReactNode,
+  isStore = false
 ) {
   return (
     <>
-      {icon ? <Icon name={icon} size={15} aria-hidden /> : null}
+      {isStore ? (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img
+          src="/VastuCartLogo.png"
+          alt=""
+          aria-hidden
+          width={18}
+          height={18}
+          style={{ objectFit: "contain", marginRight: 2, flexShrink: 0 }}
+        />
+      ) : icon ? (
+        <Icon name={icon} size={15} aria-hidden />
+      ) : null}
       <span>{children}</span>
       {iconTrailing ? <Icon name={iconTrailing} size={15} aria-hidden /> : null}
     </>
@@ -136,6 +149,7 @@ export function Button(props: ButtonAsButton | ButtonAsLink) {
 
   if ("href" in props && props.href) {
     const external = /^https?:/.test(props.href);
+    const isStore = props.href.includes("store.vastucart.in");
     return (
       <Link
         href={props.href}
@@ -144,7 +158,7 @@ export function Button(props: ButtonAsButton | ButtonAsLink) {
         className={cls}
         style={style}
       >
-        {body(icon, iconTrailing, children)}
+        {body(icon, iconTrailing, children, isStore)}
       </Link>
     );
   }
