@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import Script from "next/script";
 import { GoogleAnalytics } from "@/components/analytics/google-analytics";
 import { RouteTracker } from "@/components/analytics/route-tracker";
 import { WebVitalsReporter } from "@/components/analytics/web-vitals-reporter";
@@ -126,8 +127,19 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en-IN" suppressHydrationWarning>
-      <head>{GA_ENABLED ? <GoogleAnalytics /> : null}</head>
-      <body>
+      <head>
+        {GA_ENABLED ? <GoogleAnalytics /> : null}
+        {/* AdSense initialization script */}
+        <Script
+          id="adsense-init"
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1411902986257886"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
+      </head>
+      {/* Added google-anno-skip to protect the UI layout from Auto Ads mutations */}
+      <body className="google-anno-skip">
         {children}
         {GA_ENABLED ? <RouteTracker /> : null}
         {GA_ENABLED ? <WebVitalsReporter /> : null}
