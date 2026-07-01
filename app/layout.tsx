@@ -130,16 +130,13 @@ export default function RootLayout({
       <head>
         {GA_ENABLED ? <GoogleAnalytics /> : null}
         {/* AdSense initialization script */}
-        <Script
-          id="adsense-init"
+        <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1411902986257886"
           crossOrigin="anonymous"
-          strategy="afterInteractive"
         />
       </head>
-      {/* Added google-anno-skip to protect the UI layout from Auto Ads mutations */}
-      <body className="google-anno-skip">
+      <body>
         {children}
         {GA_ENABLED ? <RouteTracker /> : null}
         {GA_ENABLED ? <WebVitalsReporter /> : null}
