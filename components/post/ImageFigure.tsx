@@ -50,7 +50,7 @@ export function ImageFigure({
             "linear-gradient(135deg, var(--cream-2) 0%, var(--cream-3) 100%)",
         }}
       >
-        {exists ? (
+        {hasImage ? (
           <Image
             src={src}
             alt={alt}
