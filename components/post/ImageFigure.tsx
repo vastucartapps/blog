@@ -1,5 +1,3 @@
-import fs from "node:fs";
-import path from "node:path";
 import Image from "next/image";
 
 export interface ImageFigureProps {
@@ -17,10 +15,7 @@ export interface ImageFigureProps {
 
 /**
  * Renders a figure with the real image when present, or a styled
- * placeholder of the exact same dimensions when not. Layout never
- * shifts when the real file lands.
- *
- * Server component — checks the file system at render time.
+ * placeholder of the exact same dimensions when not.
  */
 export function ImageFigure({
   slug,
@@ -32,8 +27,7 @@ export function ImageFigure({
   priority,
   credit = "VastuCart",
 }: ImageFigureProps) {
-  const publicPath = path.join(process.cwd(), "public", "posts", slug, filename);
-  const exists = fs.existsSync(publicPath);
+  const hasImage = Boolean(filename && filename.trim() !== "");
   const src = `/posts/${slug}/${filename}`;
 
   return (

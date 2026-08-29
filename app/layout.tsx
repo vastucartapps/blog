@@ -4,12 +4,19 @@ import { GoogleAnalytics } from "@/components/analytics/google-analytics";
 import { RouteTracker } from "@/components/analytics/route-tracker";
 import { WebVitalsReporter } from "@/components/analytics/web-vitals-reporter";
 import { GA_ENABLED } from "@/lib/analytics/config";
+import { SITE_URL } from "@/lib/utils";
 import "@/styles/globals.css";
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://blog.vastucart.in";
+function getValidMetadataBase(): URL {
+  try {
+    return new URL(SITE_URL);
+  } catch {
+    return new URL("https://blog.vastucart.in");
+  }
+}
 
 export const metadata: Metadata = {
-  metadataBase: new URL(SITE_URL),
+  metadataBase: getValidMetadataBase(),
   title: {
     default:
       "VastuCart Blog — Vedic Astrology, Jyotish, Vastu and Spiritual Wisdom",

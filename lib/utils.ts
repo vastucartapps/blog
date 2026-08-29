@@ -37,10 +37,14 @@ export function slugify(input: string): string {
     .replace(/(^-|-$)/g, "");
 }
 
+const rawSiteUrl = process.env.NEXT_PUBLIC_SITE_URL?.trim();
 export const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://blog.vastucart.in";
+  rawSiteUrl && rawSiteUrl.length > 0 && !rawSiteUrl.startsWith("undefined")
+    ? rawSiteUrl
+    : "https://blog.vastucart.in";
 
 export function absoluteUrl(path = ""): string {
   const p = path.startsWith("/") ? path : `/${path}`;
   return `${SITE_URL}${p}`;
 }
+
