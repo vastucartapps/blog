@@ -862,13 +862,6 @@
             "icon_variant": "saff"
           },
           {
-            "label": "Daily panchang",
-            "sub": "Track the tithi and Moon phase each day",
-            "url": "https://panchang.vastucart.in/",
-            "icon": "muhurta",
-            "icon_variant": "rose"
-          },
-          {
             "label": "Marriage muhurta",
             "sub": "Auspicious wedding dates",
             "url": "https://muhurta.vastucart.in/marriage-muhurta",

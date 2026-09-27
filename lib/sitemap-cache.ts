@@ -93,7 +93,6 @@ export const CACHED_HOSTS = new Set([
  * Posts linking to these should use the homepage URL only.
  */
 export const UNCACHED_HOSTS = new Set([
-  "panchang.vastucart.in",
   "horoscope.vastucart.in",
   "kundali.vastucart.in",
 ]);

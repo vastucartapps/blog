@@ -548,24 +548,6 @@ const STORE_TOOLS: SubdomainTool[] = [
   },
 ];
 
-// ─── panchang.vastucart.in — homepage only (sitemap blocked) ───
-// Subdomain returned 403 on fetch. Using homepage as the only
-// confirmed entry until per-tool URLs are verified manually.
-
-const PANCHANG_TOOLS: SubdomainTool[] = [
-  {
-    id: "panchang-home",
-    label: "Today's Panchang",
-    url: "https://panchang.vastucart.in/",
-    description:
-      "Tithi, nakshatra, yoga, karana, sunrise, sunset, rahu kalam, and choghadiya for today.",
-    category: "panchang",
-    relevant_to: {
-      category: ["jyotish", "puja", "festivals"],
-    },
-  },
-];
-
 // ─── wedding.vastucart.in — homepage only (sitemap blocked) ────
 
 const WEDDING_TOOLS: SubdomainTool[] = [

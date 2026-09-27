@@ -135,6 +135,9 @@ export default function RootLayout({
   return (
     <html lang="en-IN" suppressHydrationWarning>
       <head>
+        {/* Verifies site ownership for AdSense — Auto Ads will not serve
+            reliably until the publisher account is confirmed for the domain. */}
+        <meta name="google-adsense-account" content="ca-pub-1411902986257886" />
         {GA_ENABLED ? <GoogleAnalytics /> : null}
         {/* AdSense initialization script */}
         <script

@@ -71,7 +71,6 @@ export function GET(): Response {
   lines.push("");
   lines.push("- [Free Kundali generator](https://kundali.vastucart.in/)");
   lines.push("- [Rashi horoscopes](https://horoscope.vastucart.in/)");
-  lines.push("- [Daily panchang](https://panchang.vastucart.in/)");
   lines.push("- [Muhurta calculator](https://muhurta.vastucart.in/)");
   lines.push("- [Stotras and mantras](https://stotra.vastucart.in/)");
   lines.push("- [Gemstones and rudraksha store](https://store.vastucart.in/)");

@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { resolveFestival } from "@/lib/festival-resolver";
 import { getTheme } from "@/lib/category-themes";
 import { SectionHeader } from "./section-helpers";
@@ -213,14 +212,6 @@ export async function MuhurtaTimeline({
           <span>
             Source: {festival.source === "api" ? "Live panchang API" : "Approximate fallback"}
           </span>
-          <Link
-            href="https://panchang.vastucart.in"
-            target="_blank"
-            rel="noopener noreferrer"
-            style={{ color: theme.accentDeep, fontWeight: 600 }}
-          >
-            Powered by panchang.vastucart.in →
-          </Link>
         </div>
       </div>
     </section>

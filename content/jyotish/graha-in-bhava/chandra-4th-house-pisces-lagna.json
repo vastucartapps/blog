@@ -897,13 +897,6 @@
             "icon_variant": "saff"
           },
           {
-            "label": "Daily panchang",
-            "sub": "Monday muhurta for Moon worship",
-            "url": "https://panchang.vastucart.in/",
-            "icon": "muhurta",
-            "icon_variant": "saff"
-          },
-          {
             "label": "Pisces today",
             "sub": "Daily Meena rashi forecast",
             "url": "https://horoscope.vastucart.in/pisces/daily",

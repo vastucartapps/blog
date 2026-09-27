@@ -215,15 +215,6 @@ export const VASTUCART_NETWORK: Record<string, NetworkNode> = {
     cta_text: "Shop authentic items",
     relevant_for: ["gemstones", "rudraksha", "yantras"],
   },
-  "panchang.vastucart.in": {
-    label: "Panchang",
-    description: "Daily panchang with tithi, nakshatra, yoga, karana and muhurta.",
-    domain: "panchang.vastucart.in",
-    url: "https://panchang.vastucart.in",
-    icon: "panchang",
-    cta_text: "View today\u2019s panchang",
-    relevant_for: ["festivals", "major-festivals", "ekadashi", "amavasya", "purnima"],
-  },
   "stotra.vastucart.in": {
     label: "Stotra Library",
     description: "Authentic Sanskrit stotras with transliteration and meaning.",
@@ -278,7 +269,6 @@ export const ORGANIZATION_SAME_AS: string[] = [
   "https://kundali.vastucart.in",
   "https://blog.vastucart.in",
   "https://store.vastucart.in",
-  "https://panchang.vastucart.in",
   "https://stotra.vastucart.in",
   "https://horoscope.vastucart.in",
   "https://muhurta.vastucart.in",

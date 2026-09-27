@@ -856,13 +856,6 @@
             "icon_variant": "saff"
           },
           {
-            "label": "Daily panchang",
-            "sub": "Track the tithi and weekday each day",
-            "url": "https://panchang.vastucart.in/",
-            "icon": "muhurta",
-            "icon_variant": "rose"
-          },
-          {
             "label": "Griha pravesh muhurta",
             "sub": "Auspicious dates for entering a new home",
             "url": "https://muhurta.vastucart.in/griha-pravesh-muhurta",
