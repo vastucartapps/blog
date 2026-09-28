@@ -582,7 +582,6 @@ const TAROT_TOOLS: SubdomainTool[] = [
 export const SUBDOMAIN_TOOLS: SubdomainTool[] = [
   ...CALCULATOR_TOOLS,
   ...HOROSCOPE_TOOLS,
-  ...PANCHANG_TOOLS,
   ...MUHURTA_TOOLS,
   ...WEDDING_TOOLS,
   ...TAROT_TOOLS,
