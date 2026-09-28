@@ -1,0 +1,24 @@
+# Production compose for the self-hosted blog (moved off Vercel 2026-09-28).
+#
+# The blog is entirely file-backed — content/ and data/ are read at build
+# time and prerendered, and lib/prisma.ts is imported by nothing — so the
+# Postgres and Meilisearch services in docker-compose.yml are development
+# scaffolding for features that are not wired up yet. Production needs the
+# Next.js standalone container and nothing else.
+#
+# Deploy:
+#   docker compose -f docker-compose.prod.yml build
+#   docker compose -f docker-compose.prod.yml up -d --force-recreate
+#
+# nginx on the host proxies blog.vastucart.in to 127.0.0.1:3005 and serves
+# public/ads.txt straight off disk.
+services:
+  blog:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: vastucart-blog
+    restart: unless-stopped
+    env_file: .env
+    ports:
+      - "127.0.0.1:3005:3000"
