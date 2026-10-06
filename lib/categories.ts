@@ -188,15 +188,6 @@ export const VASTUCART_NETWORK: Record<string, NetworkNode> = {
     cta_text: "Explore 33 free tools",
     relevant_for: ["vastu", "remedies-vastu", "remedies", "directions", "rooms"],
   },
-  "panchang.vastucart.in": {
-    label: "Daily Panchang",
-    description: "Daily Vedic almanac, Tithi, Nakshatra, Rahu Kaal and Shubh Muhurat.",
-    domain: "panchang.vastucart.in",
-    url: "https://panchang.vastucart.in",
-    icon: "calendar",
-    cta_text: "Check today's panchang",
-    relevant_for: ["festivals", "major-festivals", "ekadashi", "amavasya", "purnima", "puja", "vrat"],
-  },
   "kundali.vastucart.in": {
     label: "Kundali Generator",
     description: "Free birth chart with planetary positions, house cusps and dasha.",
@@ -275,7 +266,6 @@ export const VASTUCART_NETWORK: Record<string, NetworkNode> = {
 // Source of truth: public/Presence links.txt
 export const ORGANIZATION_SAME_AS: string[] = [
   "https://vastucart.in",
-  "https://panchang.vastucart.in",
   "https://kundali.vastucart.in",
   "https://blog.vastucart.in",
   "https://store.vastucart.in",
