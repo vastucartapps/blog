@@ -188,6 +188,15 @@ export const VASTUCART_NETWORK: Record<string, NetworkNode> = {
     cta_text: "Explore 33 free tools",
     relevant_for: ["vastu", "remedies-vastu", "remedies", "directions", "rooms"],
   },
+  "panchang.vastucart.in": {
+    label: "Daily Panchang",
+    description: "Daily Vedic almanac, Tithi, Nakshatra, Rahu Kaal and Shubh Muhurat.",
+    domain: "panchang.vastucart.in",
+    url: "https://panchang.vastucart.in",
+    icon: "calendar",
+    cta_text: "Check today's panchang",
+    relevant_for: ["festivals", "major-festivals", "ekadashi", "amavasya", "purnima", "puja", "vrat"],
+  },
   "kundali.vastucart.in": {
     label: "Kundali Generator",
     description: "Free birth chart with planetary positions, house cusps and dasha.",
@@ -230,7 +239,7 @@ export const VASTUCART_NETWORK: Record<string, NetworkNode> = {
     domain: "horoscope.vastucart.in",
     url: "https://horoscope.vastucart.in",
     icon: "horoscope",
-    cta_text: "Read today\u2019s horoscope",
+    cta_text: "Read today’s horoscope",
     relevant_for: ["jyotish", "rashi-profiles", "tarot-by-zodiac"],
   },
   "muhurta.vastucart.in": {
@@ -259,15 +268,6 @@ export const VASTUCART_NETWORK: Record<string, NetworkNode> = {
     icon: "tarot",
     cta_text: "Draw a tarot card",
     relevant_for: ["tarot", "major-arcana", "minor-arcana", "love-tarot", "career-tarot"],
-  },
-  "panchang.vastucart.in": {
-    label: "Daily Panchang",
-    description: "Daily Vedic almanac, Tithi, Nakshatra, Rahu Kaal and Shubh Muhurat.",
-    domain: "panchang.vastucart.in",
-    url: "https://panchang.vastucart.in",
-    icon: "calendar",
-    cta_text: "Check today's panchang",
-    relevant_for: ["festivals", "major-festivals", "ekadashi", "amavasya", "purnima", "puja", "vrat"],
   },
 };
 

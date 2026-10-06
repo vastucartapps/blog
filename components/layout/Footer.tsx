@@ -84,13 +84,15 @@ export function Footer() {
           <div className="footer-col">
             <p style={headingStyle}>VastuCart Network</p>
             <ul className="footer-list">
-              {Object.values(VASTUCART_NETWORK).slice(0, 8).map((node) => (
-                <li key={node.domain}>
-                  <Link href={node.url} style={linkStyle} className="hover:text-white">
-                    {node.label}
-                  </Link>
-                </li>
-              ))}
+              {Object.values(VASTUCART_NETWORK)
+                .filter((node) => node.domain !== "blog.vastucart.in")
+                .map((node) => (
+                  <li key={node.domain}>
+                    <Link href={node.url} style={linkStyle} className="hover:text-white">
+                      {node.label}
+                    </Link>
+                  </li>
+                ))}
             </ul>
           </div>
 
