@@ -4,13 +4,15 @@ import { useEffect } from 'react';
 import { usePathname } from 'next/navigation';
 
 interface AdSenseProps {
-  slotId: string;
+  slotId?: string;
   adFormat?: 'auto' | 'rectangle' | 'vertical' | 'horizontal';
+  className?: string;
 }
 
 export default function AdSenseSlot({ 
   slotId, 
-  adFormat = 'auto' 
+  adFormat = 'auto',
+  className = "my-6 text-center overflow-hidden"
 }: AdSenseProps) {
   const pathname = usePathname();
 
@@ -22,32 +24,16 @@ export default function AdSenseSlot({
     }
   }, [pathname, slotId]);
 
-  // Don't render if slot ID is placeholder
-  if (slotId.startsWith('1234567')) {
-    return (
-      <div style={{ 
-        display: 'block', 
-        margin: '20px auto', 
-        textAlign: 'center', 
-        overflow: 'hidden',
-        background: '#f5f5f5',
-        padding: '20px',
-        borderRadius: '8px'
-      }}>
-        <p style={{ color: '#666', fontSize: '12px' }}>
-          Advertisement space (slot ID not configured)
-        </p>
-      </div>
-    );
-  }
+  const clientId = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID || "ca-pub-1411902986257886";
+  const isRealSlot = slotId && !slotId.startsWith('1234567');
 
   return (
-    <div style={{ display: 'block', margin: '20px auto', textAlign: 'center', overflow: 'hidden' }}>
+    <div className={className} style={{ display: 'block', minHeight: '90px' }}>
       <ins
         className="adsbygoogle"
         style={{ display: 'block' }}
-        data-ad-client={process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID}
-        data-ad-slot={slotId}
+        data-ad-client={clientId}
+        {...(isRealSlot ? { 'data-ad-slot': slotId } : {})}
         data-ad-format={adFormat}
         data-full-width-responsive="true"
       />

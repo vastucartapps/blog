@@ -260,12 +260,22 @@ export const VASTUCART_NETWORK: Record<string, NetworkNode> = {
     cta_text: "Draw a tarot card",
     relevant_for: ["tarot", "major-arcana", "minor-arcana", "love-tarot", "career-tarot"],
   },
+  "panchang.vastucart.in": {
+    label: "Daily Panchang",
+    description: "Daily Vedic almanac, Tithi, Nakshatra, Rahu Kaal and Shubh Muhurat.",
+    domain: "panchang.vastucart.in",
+    url: "https://panchang.vastucart.in",
+    icon: "calendar",
+    cta_text: "Check today's panchang",
+    relevant_for: ["festivals", "major-festivals", "ekadashi", "amavasya", "purnima", "puja", "vrat"],
+  },
 };
 
 // Organization sameAs for JSON-LD (all subdomains + social presence).
 // Source of truth: public/Presence links.txt
 export const ORGANIZATION_SAME_AS: string[] = [
   "https://vastucart.in",
+  "https://panchang.vastucart.in",
   "https://kundali.vastucart.in",
   "https://blog.vastucart.in",
   "https://store.vastucart.in",
