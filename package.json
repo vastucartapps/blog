@@ -9,7 +9,8 @@
     "lint": "eslint",
     "test:forge": "tsx --test \"lib/forge/__tests__/*.test.ts\"",
     "verify:forge": "tsc --noEmit && tsx --test \"lib/forge/__tests__/*.test.ts\"",
-    "forge:check": "tsx scripts/forge-check.ts"
+    "forge:check": "tsx scripts/forge-check.ts",
+    "test:schema": "tsx --test \"lib/schema/__tests__/*.test.ts\""
   },
   "dependencies": {
     "@prisma/client": "^6.19.3",

@@ -28,7 +28,6 @@ export {
 export { buildAboutPageSchema, type AboutPageInput } from "./aboutPage";
 export { buildDefinedTermSchemas, type DefinedTermEntry } from "./definedTerm";
 export { buildHowToSchemas } from "./howTo";
-export { buildProductSchemas } from "./product";
 export { buildRecipeSchema } from "./recipe";
 export { buildEventSchema } from "./event";
 export {

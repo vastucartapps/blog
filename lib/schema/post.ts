@@ -10,7 +10,6 @@ import { buildBlogPostingSchemas } from "./blogPosting";
 import { buildBreadcrumbListSchema } from "./breadcrumbList";
 import { buildFAQPageSchema } from "./faqPage";
 import { buildHowToSchemas } from "./howTo";
-import { buildProductSchemas } from "./product";
 import { buildDefinedTermSchemas, type DefinedTermEntry } from "./definedTerm";
 import { buildImageObjectSchemas, type ImageManifestEntry } from "./imageObject";
 import { buildSpeakableSchema } from "./speakableSpec";
@@ -22,7 +21,6 @@ import {
   CONSULTATION_SERVICE_REF,
 } from "./service";
 import { buildPersonSchema } from "./person";
-import { buildProfilePageSchema } from "./profilePage";
 import { buildReviewerOrgSchema } from "./reviewer";
 import { SITE_URL } from "../utils";
 
@@ -87,11 +85,10 @@ export function buildPostSchema(post: ArticlePost): SchemaEntity[] {
     if (faq) entities.push(faq);
   }
 
-  // Person + ProfilePage — emit only the author of this post, not both
+  // Person — the author of this post. The ProfilePage for that author lives
+  // on the author's own page, not on every article they wrote.
   const person = buildPersonSchema(post.author_id);
   if (person) entities.push(person);
-  const profile = buildProfilePageSchema(post.author_id);
-  if (profile) entities.push(profile);
 
   // Reviewer Organization — emit when post declares a reviewer_id
   if (post.reviewer_id) {
@@ -104,9 +101,6 @@ export function buildPostSchema(post: ArticlePost): SchemaEntity[] {
 
   // HowTo × N
   entities.push(...buildHowToSchemas(post.content, url));
-
-  // Products × N (gemstone, rudraksha, yantra)
-  entities.push(...buildProductSchemas(post.content, url, post.published_at));
 
   // Consultation service — emit full definition once per post (with
   // WebPage wrapper). The @id is stable so duplicate @id dedupe
