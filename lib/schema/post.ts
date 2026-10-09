@@ -142,29 +142,8 @@ export function buildPostSchema(post: ArticlePost): SchemaEntity[] {
     });
   }
 
-  // Dataset — dasha-table
-  const dashaBlock = post.content.find((b) => b.type === "dasha-table");
-  if (dashaBlock && dashaBlock.type === "dasha-table" && dashaBlock.rows.length > 0) {
-    entities.push({
-      "@context": "https://schema.org",
-      "@type": "Dataset",
-      "@id": `${url}#dasha-dataset`,
-      name: dashaBlock.heading ?? "Vimshottari Dasha activation",
-      description:
-        "Vimshottari mahadasha periods, durations, key themes, and intensity for this placement.",
-      creator: { "@id": personId(post.author_id) },
-      publisher: { "@id": "https://www.vastucart.in/#organization" },
-      license: "https://www.vastucart.in/license",
-      keywords: ["vimshottari", "mahadasha", "dasha", "jyotish"],
-      variableMeasured: ["mahadasha", "duration", "themes", "intensity"],
-      isPartOf: BLOG_ENTITY_REF,
-      distribution: {
-        "@type": "DataDownload",
-        encodingFormat: "text/html",
-        contentUrl: url,
-      },
-    });
-  }
+  // No Dataset: the dasha table is page content, not a downloadable data set.
+  // The previous node's DataDownload pointed at the article's own HTML page.
 
   // Recipe — puja-vidhi posts
   const recipe = buildRecipeSchema(
