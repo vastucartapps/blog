@@ -45,10 +45,11 @@ export function FeaturedHero({ src, alt, caption }: Props) {
           <Image
             src={src}
             alt={alt}
-            fill
+            width={1060}
+            height={1048}
             priority
             sizes="(max-width: 1100px) 100vw, 1060px"
-            style={{ objectFit: "cover" }}
+            style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover" }}
           />
         </div>
         {caption ? (

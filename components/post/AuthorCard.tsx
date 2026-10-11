@@ -64,9 +64,10 @@ export function AuthorCard({ author }: Props) {
           <Image
             src={profile.avatar_url}
             alt={`${profile.name}, ${profile.title}`}
-            fill
+            width={104}
+            height={104}
             sizes="104px"
-            style={{ objectFit: "cover" }}
+            style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover" }}
             priority={false}
           />
         ) : (
