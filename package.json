@@ -10,6 +10,7 @@
     "test:forge": "tsx --test \"lib/forge/__tests__/*.test.ts\"",
     "verify:forge": "tsc --noEmit && tsx --test \"lib/forge/__tests__/*.test.ts\"",
     "forge:check": "tsx scripts/forge-check.ts",
+    "test:post": "tsx --test \"lib/post/__tests__/*.test.ts\"",
     "test:schema": "tsx --test \"lib/schema/__tests__/*.test.ts\""
   },
   "dependencies": {

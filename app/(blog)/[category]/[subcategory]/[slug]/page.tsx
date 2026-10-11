@@ -5,6 +5,8 @@ import { Footer } from "@/components/layout/Footer";
 import { PostHero } from "@/components/post/PostHero";
 import { LagnaPillarHero } from "@/components/post/LagnaPillarHero";
 import { FeaturedHero } from "@/components/post/FeaturedHero";
+import { QuickTakeaway } from "@/components/post/QuickTakeaway";
+import { buildQuickTakeaway } from "@/lib/post/quick-takeaway";
 import { BlockRenderer } from "@/components/post/BlockRenderer";
 import { getCategory, getSubcategory } from "@/lib/categories";
 import { getPostBySlug, getPublishedPosts, countPostsBySubcategory } from "@/lib/content";
@@ -131,6 +133,8 @@ export default async function PostPage({
     ? `/posts/${post.slug}/${heroManifest.filename}`
     : null;
 
+  const quickTakeaway = buildQuickTakeaway(post.content);
+
   return (
     <>
       <Header />
@@ -167,6 +171,7 @@ export default async function PostPage({
           />
         ) : null}
         <main className="wrap-article" style={{ paddingBottom: "clamp(2.5rem, 6vw, 5rem)" }}>
+          {quickTakeaway ? <QuickTakeaway text={quickTakeaway} /> : null}
           <BlockRenderer
             blocks={renderableContent}
             category={post.category}

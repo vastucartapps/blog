@@ -84,7 +84,7 @@ export function CTAInline({ data }: Props) {
             <Icon name="kundali" size={28} />
           </span>
           <div style={{ minWidth: 0 }}>
-            <h4
+            <h3
               style={{
                 margin: 0,
                 fontFamily: "var(--font-display)",
@@ -96,7 +96,7 @@ export function CTAInline({ data }: Props) {
               }}
             >
               {data.title}
-            </h4>
+            </h3>
             <p
               style={{
                 margin: "5px 0 0",
