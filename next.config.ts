@@ -2,6 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   reactCompiler: true,
+  experimental: { cpus: 2, workerThreads: false },
   output: "standalone",
   poweredByHeader: false,
   compress: true,
