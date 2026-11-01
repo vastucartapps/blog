@@ -63,14 +63,36 @@ export function firstParagraph(html: string): string {
  * A first sentence longer than the budget is kept whole rather than broken.
  */
 export function quotablePassage(paragraph: string, budget = 420): string {
-  const sentences = paragraph.match(/[^.?!]+[.?!]+(?:\s|$)/g);
-  if (!sentences || sentences.length === 0) return paragraph;
+  const sentences = splitSentences(paragraph);
+  if (sentences.length === 0) return paragraph.trim();
   let out = "";
   for (const sentence of sentences) {
-    if (out && (out + sentence).trim().length > budget) break;
-    out += sentence;
+    const next = out ? `${out} ${sentence}` : sentence;
+    if (out && next.length > budget) break;
+    out = next;
   }
   return (out || sentences[0]).trim();
+}
+
+/**
+ * Sentences, split rather than matched.
+ *
+ * Matching sentences with a pattern that requires a space after the full stop fails silently on a citation
+ * like "Bhagavata Purana 10.40." The full stop inside the number has no space after it, so the match from
+ * the start of the paragraph fails, and the engine finds its first match in the middle of the text: the
+ * "first sentence" comes back as "40." Nothing errors, the quote is simply a fragment from the middle.
+ *
+ * Found on the stotra site, where twenty-seven texts cite a chapter and verse that way. No article here
+ * triggers it today, and these articles cite classical sources constantly, so it is a matter of time.
+ *
+ * Splitting cannot skip the beginning. A boundary is a terminator, then whitespace, then something that
+ * starts a sentence. A full stop between two digits is never followed by whitespace, so it is never one.
+ */
+export function splitSentences(text: string): string[] {
+  return text
+    .split(/(?<=[.?!])\s+(?=["'“‘(\[A-Z\u0900-\u097F])/)
+    .map((s) => s.trim())
+    .filter(Boolean);
 }
 
 export function htmlToText(html: string): string {

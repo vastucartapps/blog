@@ -3,7 +3,7 @@ import assert from "node:assert/strict";
 import { readdirSync, readFileSync, statSync } from "node:fs";
 import { join } from "node:path";
 import { buildPostSchema } from "../post";
-import { shortAnswerOf, speakableSelectorsFor } from "../../short-answer";
+import { shortAnswerOf, speakableSelectorsFor, quotablePassage } from "../../short-answer";
 import type { ArticlePost } from "../../types";
 
 /**
@@ -141,4 +141,22 @@ test("the block that carries it is addressable, and is not a tinted left bar", (
     3,
     "not every block type that can be the answer is being marked"
   );
+});
+
+test("a chapter-and-verse citation does not send the quote to the middle of the paragraph", () => {
+  const withCitation =
+    "Jupiter in the ninth house is the classical dharma placement, recorded in the Bhagavata Purana 10.40. " +
+    "Its effects depend on the sign and on the dasha running at the time. A third sentence follows here.";
+  const quote = quotablePassage(withCitation);
+  assert.ok(
+    quote.startsWith("Jupiter in the ninth house"),
+    `the quote began mid-paragraph: "${quote.slice(0, 60)}"`
+  );
+  // The number must stay whole: "10.40." is not two sentences.
+  assert.ok(quote.includes("Bhagavata Purana 10.40."), "the citation was broken apart");
+});
+
+test("one long sentence is kept whole rather than cut in half", () => {
+  assert.equal(quotablePassage("One sentence that runs on and on and on.", 10), "One sentence that runs on and on and on.");
+  assert.equal(quotablePassage("First one. Second one. Third one.", 25), "First one. Second one.");
 });
