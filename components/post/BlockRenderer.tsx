@@ -6,6 +6,7 @@ import {
   crossCategoryBridgeCandidates,
 } from "@/lib/internal-links";
 import { autoLinkProseHtml } from "@/lib/auto-prose-linker";
+import { shortAnswerIn } from "@/lib/short-answer";
 import type { RelatedPostCard } from "./RelatedPosts";
 import { NavStrip } from "./NavStrip";
 import { ProseBlock } from "./ProseBlock";
@@ -72,6 +73,11 @@ export function BlockRenderer({
   number,
   lagna_id,
 }: Props) {
+  // Which block is this article's short answer. The structured data quotes it and the speakable hint
+  // points at it, so the id has to land on the same block the schema read, not on whichever block
+  // happens to look like a summary at render time.
+  const answerIndex = shortAnswerIn(blocks)?.index ?? -1;
+
   // Resolve the auto-injected nav-strip data once. The strip is
   // emitted server-side immediately before the related-posts block
   // (or, if none, at the end of the article) so every post — every
@@ -116,6 +122,7 @@ export function BlockRenderer({
             return (
               <ProseBlock
                 key={i}
+                anchor={i === answerIndex}
                 eyebrow={block.eyebrow}
                 heading={block.heading}
                 html={autoLinkProseHtml(block.html)}
@@ -125,6 +132,7 @@ export function BlockRenderer({
             return (
               <TldrBlock
                 key={i}
+                anchor={i === answerIndex}
                 label={block.label}
                 html={autoLinkProseHtml(block.html)}
               />
@@ -146,6 +154,7 @@ export function BlockRenderer({
             return (
               <ScannableProse
                 key={i}
+                anchor={i === answerIndex}
                 eyebrow={block.eyebrow}
                 heading={block.heading}
                 lead_html={autoLinkProseHtml(block.lead_html)}

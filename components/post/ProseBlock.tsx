@@ -4,14 +4,18 @@ import { motion } from "framer-motion";
 import { fadeInUp, inViewConfig } from "@/lib/motion";
 
 interface Props {
+  /** True for the one block on the page that is the article's short answer. */
+  anchor?: boolean;
   eyebrow?: string;
   heading?: string;
   html: string;
 }
 
-export function ProseBlock({ eyebrow, heading, html }: Props) {
+export function ProseBlock({ eyebrow, heading, html, anchor }: Props) {
   return (
     <motion.section
+      id={anchor ? "tldr" : undefined}
+      className={anchor ? "tldr" : undefined}
       initial="hidden"
       whileInView="visible"
       viewport={inViewConfig}

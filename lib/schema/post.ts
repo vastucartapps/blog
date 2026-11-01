@@ -13,6 +13,7 @@ import { buildHowToSchemas } from "./howTo";
 import { buildDefinedTermSchemas, type DefinedTermEntry } from "./definedTerm";
 import { buildImageObjectSchemas, type ImageManifestEntry } from "./imageObject";
 import { buildSpeakableSchema } from "./speakableSpec";
+import { shortAnswerOf, speakableSelectorsFor } from "../short-answer";
 import { buildRecipeSchema } from "./recipe";
 import { buildEventSchema } from "./event";
 import { buildGemstoneCourseSchema } from "./course";
@@ -120,7 +121,25 @@ export function buildPostSchema(post: ArticlePost): SchemaEntity[] {
   if (webPageIdx >= 0) entities[webPageIdx] = webPageWithService;
 
   // SpeakableSpecification
-  entities.push(buildSpeakableSchema(url));
+  entities.push(buildSpeakableSchema(url, speakableSelectorsFor(post)));
+
+  // The short answer as a thing in the graph, not only as text on the page. `text` is exactly the opening
+  // sentences the reader sees and `cssSelector` points at the element holding them, so an extractor can
+  // check one against the other. The reader-facing heading is whatever the article wrote; the name here is
+  // the one machines index under.
+  const answer = shortAnswerOf(post);
+  if (answer) {
+    entities.push({
+      "@context": "https://schema.org",
+      "@type": "WebPageElement",
+      "@id": `${url}#tldr`,
+      name: "TL;DR",
+      alternateName: answer.label,
+      text: answer.text,
+      cssSelector: "#tldr",
+      isPartOf: { "@id": pageId },
+    } as SchemaEntity);
+  }
 
   // Images × N
   entities.push(...buildImageObjectSchemas(post.slug, extras.image_manifest));

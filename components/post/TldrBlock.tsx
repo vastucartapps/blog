@@ -6,24 +6,29 @@ import { fadeInUp, inViewConfig } from "@/lib/motion";
 interface Props {
   label?: string;
   html: string;
+  /** True for the one block on the page that is the article's short answer. */
+  anchor?: boolean;
 }
 
 // GEO/AEO TL;DR opener. Light card, accent rail, liftable first
 // paragraph. Targeted by SpeakableSpecification (.tldr) so voice
 // assistants and AI engines can quote it whole.
-export function TldrBlock({ label = "Quick answer", html }: Props) {
+export function TldrBlock({ label = "The short answer", html, anchor }: Props) {
   return (
     <motion.section
       initial="hidden"
       whileInView="visible"
       viewport={inViewConfig}
       variants={fadeInUp}
+      id={anchor ? "tldr" : undefined}
       className="tldr"
       style={{
         marginTop: "2.25rem",
         marginBottom: "1.75rem",
         padding: "1.25rem 1.5rem",
-        borderLeft: "3px solid var(--saffron)",
+        // A full hairline, not a bar down one side. A tinted edge is decoration standing in for
+        // hierarchy the layout has not established, and it reads as generated.
+        border: "1px solid var(--saffron)",
         borderRadius: 10,
         background: "var(--saffron-pale)",
       }}

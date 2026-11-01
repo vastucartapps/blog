@@ -9,15 +9,19 @@ interface Subsection {
 }
 
 interface Props {
+  /** True for the one block on the page that is the article's short answer. */
+  anchor?: boolean;
   eyebrow?: string;
   heading: string;
   lead_html: string;
   subsections: Subsection[];
 }
 
-export function ScannableProse({ eyebrow, heading, lead_html, subsections }: Props) {
+export function ScannableProse({ eyebrow, heading, lead_html, subsections, anchor }: Props) {
   return (
     <motion.section
+      id={anchor ? "tldr" : undefined}
+      className={anchor ? "tldr" : undefined}
       initial="hidden"
       whileInView="visible"
       viewport={inViewConfig}

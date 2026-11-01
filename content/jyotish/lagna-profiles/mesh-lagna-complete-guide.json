@@ -788,6 +788,11 @@
       ]
     },
     {
+      "type": "tldr",
+      "label": "The short answer",
+      "html": "<p>Mesh Lagna, the Aries ascendant, means Mesha (Aries) was rising on the eastern horizon at the moment of birth, which makes <em>Mangal</em> (Mars) the lord of the chart. Because the lagna lord sets the pace of the whole horoscope, everything in an Aries ascendant chart is read from where Mangal sits and how well he is placed. The ascendant changes roughly every two hours, so it is the one part of a chart an approximate birth time gets wrong.</p>"
+    },
+    {
       "type": "prose",
       "eyebrow": "Understanding the lagna",
       "heading": "When Mars draws the first breath of the chart",
